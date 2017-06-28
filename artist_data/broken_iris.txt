@@ -1,0 +1,15 @@
+./lyrics/brokeniris/onmyown.html
+./lyrics/brokeniris/theeyesoftomorrow.html
+./lyrics/brokeniris/thescar.html
+./lyrics/brokeniris/unfoldingtime.html
+./lyrics/brokeniris/beautifulgirl.html
+./lyrics/brokeniris/wherebutterfliesneverdie.html
+./lyrics/brokeniris/brokeninside.html
+./lyrics/brokeniris/theripple.html
+./lyrics/brokeniris/anewhope.html
+./lyrics/brokeniris/werenotalone.html
+./lyrics/brokeniris/colorfulmind.html
+./lyrics/brokeniris/onetrackmindedage.html
+./lyrics/brokeniris/sightforthesoreeyes.html
+./lyrics/brokeniris/forevermore.html
+./lyrics/brokeniris/laurenslullaby.html

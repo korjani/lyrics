@@ -1,0 +1,12 @@
+./lyrics/gracepotter/hottothetouch.html
+./lyrics/gracepotter/alivetonight.html
+./lyrics/gracepotter/yourgirl.html
+./lyrics/gracepotter/emptyheart.html
+./lyrics/gracepotter/theminer.html
+./lyrics/gracepotter/delirious.html
+./lyrics/gracepotter/lookwhatwevebecome.html
+./lyrics/gracepotter/instigators.html
+./lyrics/gracepotter/biggestfan.html
+./lyrics/gracepotter/low.html
+./lyrics/gracepotter/nobodysbornwithabrokenheart.html
+./lyrics/gracepotter/letyougo.html

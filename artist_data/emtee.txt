@@ -1,0 +1,5 @@
+./lyrics/emtee/aboutme.html
+./lyrics/emtee/dreams.html
+./lyrics/emtee/rollup.html
+./lyrics/emtee/pearlthusi.html
+./lyrics/emtee/nostress.html

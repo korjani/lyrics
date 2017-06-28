@@ -1,0 +1,6 @@
+./lyrics/bryanstars/shutupandkissme.html
+./lyrics/bryanstars/tonight.html
+./lyrics/bryanstars/smile.html
+./lyrics/bryanstars/followyourdreams.html
+./lyrics/bryanstars/momentlikethis.html
+./lyrics/bryanstars/pictureperfect.html

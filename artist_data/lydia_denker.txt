@@ -1,0 +1,2 @@
+./lyrics/lydiadenker/oneperfectday.html
+./lyrics/lydiadenker/realtome.html

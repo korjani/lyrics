@@ -1,0 +1,13 @@
+./lyrics/hillaryscott/beautifulmesses.html
+./lyrics/hillaryscott/still.html
+./lyrics/hillaryscott/shelteredinthearmsofgod.html
+./lyrics/hillaryscott/safehaven.html
+./lyrics/hillaryscott/thefaithfulloveofjesus.html
+./lyrics/hillaryscott/therivercomeondown.html
+./lyrics/hillaryscott/thywill.html
+./lyrics/hillaryscott/untitledhymncometojesus.html
+./lyrics/hillaryscott/loveremains.html
+./lyrics/hillaryscott/wemarchon.html
+./lyrics/hillaryscott/yourunfailinglove.html
+./lyrics/hillaryscott/comethoufount.html
+./lyrics/hillaryscott/aintnograve.html

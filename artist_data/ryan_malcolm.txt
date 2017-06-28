@@ -1,0 +1,15 @@
+./lyrics/ryanmalcolm/igottabeme.html
+./lyrics/ryanmalcolm/crashburn.html
+./lyrics/ryanmalcolm/memorylane.html
+./lyrics/ryanmalcolm/nothinglefttosay.html
+./lyrics/ryanmalcolm/octoberskies.html
+./lyrics/ryanmalcolm/absolutelyperfect.html
+./lyrics/ryanmalcolm/home.html
+./lyrics/ryanmalcolm/starofalltheplanets.html
+./lyrics/ryanmalcolm/goodgirls.html
+./lyrics/ryanmalcolm/youmadethisfoolbecomeaman.html
+./lyrics/ryanmalcolm/straightupthemiddle.html
+./lyrics/ryanmalcolm/ride.html
+./lyrics/ryanmalcolm/yourheartwillknow.html
+./lyrics/ryanmalcolm/dontdreamitsover.html
+./lyrics/ryanmalcolm/somethingmore.html

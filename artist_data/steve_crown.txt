@@ -1,0 +1,4 @@
+./lyrics/stevecrown/youaregreat.html
+./lyrics/stevecrown/wewaitonyou.html
+./lyrics/stevecrown/imela.html
+./lyrics/stevecrown/sunansa.html

@@ -1,0 +1,3 @@
+./lyrics/gabz/changethegame.html
+./lyrics/gabz/liethere.html
+./lyrics/gabz/lighterstheone.html

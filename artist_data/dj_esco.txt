@@ -1,0 +1,16 @@
+./lyrics/djesco/projectetintro.html
+./lyrics/djesco/checkonme.html
+./lyrics/djesco/rightnow.html
+./lyrics/djesco/100itracks.html
+./lyrics/djesco/juice.html
+./lyrics/djesco/myblower.html
+./lyrics/djesco/toomuchsauce.html
+./lyrics/djesco/who.html
+./lyrics/djesco/partypack.html
+./lyrics/djesco/marriedtothegame.html
+./lyrics/djesco/stupidlycrazy.html
+./lyrics/djesco/thothoe.html
+./lyrics/djesco/superdumb.html
+./lyrics/djesco/champagneshower.html
+./lyrics/djesco/dealwitit.html
+./lyrics/djesco/benjaminsburn.html

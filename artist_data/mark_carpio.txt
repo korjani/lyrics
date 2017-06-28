@@ -1,0 +1,6 @@
+./lyrics/markcarpio/hiling.html
+./lyrics/markcarpio/naghihintaysayo.html
+./lyrics/markcarpio/kaytagal.html
+./lyrics/markcarpio/tampuhan.html
+./lyrics/markcarpio/kahitgaanokalayo.html
+./lyrics/markcarpio/someday.html

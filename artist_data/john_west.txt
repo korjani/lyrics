@@ -1,0 +1,11 @@
+./lyrics/johnwest/gravity.html
+./lyrics/johnwest/lovedyoutonight.html
+./lyrics/johnwest/masquerade.html
+./lyrics/johnwest/butterflies.html
+./lyrics/johnwest/hopeitallworksout.html
+./lyrics/johnwest/thoughtiwas.html
+./lyrics/johnwest/alreadythere.html
+./lyrics/johnwest/idontthinkyouknow.html
+./lyrics/johnwest/lovely.html
+./lyrics/johnwest/nobody.html
+./lyrics/johnwest/rightnow.html

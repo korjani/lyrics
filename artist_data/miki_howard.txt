@@ -1,0 +1,17 @@
+./lyrics/mikihoward/aintnobodylikeyou.html
+./lyrics/mikihoward/atseventeen.html
+./lyrics/mikihoward/babybemine.html
+./lyrics/mikihoward/comesharemylove.html
+./lyrics/mikihoward/dothattomeonemoretime.html
+./lyrics/mikihoward/icantstandtherain.html
+./lyrics/mikihoward/iwanttobeyourmotherssoninlaw.html
+./lyrics/mikihoward/imagination.html
+./lyrics/mikihoward/loveundernewmanagement.html
+./lyrics/mikihoward/lovewillfindaway.html
+./lyrics/mikihoward/shiningthrough.html
+./lyrics/mikihoward/strangefruit.html
+./lyrics/mikihoward/summer.html
+./lyrics/mikihoward/thatswhatloveis.html
+./lyrics/mikihoward/threewishes.html
+./lyrics/mikihoward/untilyoucomebacktomethatswhatimgonnado.html
+./lyrics/mikihoward/youvechanged.html

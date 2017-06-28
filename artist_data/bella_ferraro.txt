@@ -1,0 +1,2 @@
+./lyrics/bellaferraro/forgotyou.html
+./lyrics/bellaferraro/setmeonfire.html

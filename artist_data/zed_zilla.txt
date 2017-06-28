@@ -1,0 +1,3 @@
+./lyrics/zedzilla/mamatoldme.html
+./lyrics/zedzilla/onmyown.html
+./lyrics/zedzilla/understanding.html

@@ -1,0 +1,10 @@
+./lyrics/goldford/rayofsunshine.html
+./lyrics/goldford/shedalittlelight.html
+./lyrics/goldford/citylights.html
+./lyrics/goldford/upsidedown.html
+./lyrics/goldford/shedontknow.html
+./lyrics/goldford/neversettle.html
+./lyrics/goldford/begforpardon.html
+./lyrics/goldford/feelslikehome.html
+./lyrics/goldford/salutations.html
+./lyrics/goldford/iwishtheseleaveswouldfall.html

@@ -1,0 +1,7 @@
+./lyrics/abigailbreslin/hurricane.html
+./lyrics/abigailbreslin/findlove.html
+./lyrics/abigailbreslin/fightforme.html
+./lyrics/abigailbreslin/justagame.html
+./lyrics/abigailbreslin/houseoftherisingsun.html
+./lyrics/abigailbreslin/christmasinnewyork.html
+./lyrics/abigailbreslin/yousuck.html

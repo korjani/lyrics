@@ -1,0 +1,3 @@
+./lyrics/zane/iou.html
+./lyrics/zane/todariver.html
+./lyrics/zane/tonightimyours.html

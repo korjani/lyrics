@@ -1,0 +1,3 @@
+./lyrics/luvbug/bestisyettocome.html
+./lyrics/luvbug/resonance.html
+./lyrics/luvbug/revivesaysomething.html

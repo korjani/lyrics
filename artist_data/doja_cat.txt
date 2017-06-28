@@ -1,0 +1,17 @@
+./lyrics/dojacat/beautiful.html
+./lyrics/dojacat/nunchucks.html
+./lyrics/dojacat/sohigh.html
+./lyrics/dojacat/nopolice.html
+./lyrics/dojacat/control.html
+./lyrics/dojacat/allnighter.html
+./lyrics/dojacat/candy.html
+./lyrics/dojacat/cnnibl.html
+./lyrics/dojacat/digginyou.html
+./lyrics/dojacat/dissect.html
+./lyrics/dojacat/dizzy.html
+./lyrics/dojacat/giveitup.html
+./lyrics/dojacat/grindonme.html
+./lyrics/dojacat/thrwdthrowedxspooxbeatz.html
+./lyrics/dojacat/trauma.html
+./lyrics/dojacat/try.html
+./lyrics/dojacat/yeeeah.html

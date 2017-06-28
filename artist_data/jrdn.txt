@@ -1,0 +1,13 @@
+./lyrics/jrdn/ucanhaveitall.html
+./lyrics/jrdn/4thaghetto.html
+./lyrics/jrdn/likemagic.html
+./lyrics/jrdn/idontcare.html
+./lyrics/jrdn/foreverandaday.html
+./lyrics/jrdn/topitall.html
+./lyrics/jrdn/loveaintenough.html
+./lyrics/jrdn/reset.html
+./lyrics/jrdn/cantchoose.html
+./lyrics/jrdn/ali.html
+./lyrics/jrdn/king.html
+./lyrics/jrdn/rebel.html
+./lyrics/jrdn/livemydream.html

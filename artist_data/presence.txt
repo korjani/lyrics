@@ -1,0 +1,12 @@
+./lyrics/presence/soundcheck.html
+./lyrics/presence/holdup.html
+./lyrics/presence/tonzoffun.html
+./lyrics/presence/vandownbytheriver.html
+./lyrics/presence/againandagain.html
+./lyrics/presence/remember.html
+./lyrics/presence/whosaysrockisdead.html
+./lyrics/presence/thenewone.html
+./lyrics/presence/onefinalbreath.html
+./lyrics/presence/boundtoascend.html
+./lyrics/presence/loseyourself.html
+./lyrics/presence/rise.html

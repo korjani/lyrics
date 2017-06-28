@@ -1,0 +1,14 @@
+./lyrics/mutyabuena/justalittlebit.html
+./lyrics/mutyabuena/realgirl.html
+./lyrics/mutyabuena/song4mutyaoutofcontrol.html
+./lyrics/mutyabuena/breakdownmotel.html
+./lyrics/mutyabuena/strungout.html
+./lyrics/mutyabuena/itsnoteasy.html
+./lyrics/mutyabuena/sufferforlove.html
+./lyrics/mutyabuena/notyourbaby.html
+./lyrics/mutyabuena/wonderful.html
+./lyrics/mutyabuena/bboybaby.html
+./lyrics/mutyabuena/thisisnotreallove.html
+./lyrics/mutyabuena/paperbag.html
+./lyrics/mutyabuena/mysong.html
+./lyrics/mutyabuena/fastcar.html

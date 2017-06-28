@@ -1,0 +1,10 @@
+./lyrics/moiradelatorre/lovemeinstead.html
+./lyrics/moiradelatorre/bemyfairytale.html
+./lyrics/moiradelatorre/happilyeverafter.html
+./lyrics/moiradelatorre/ifyoutellmeyouloveme.html
+./lyrics/moiradelatorre/afteryourheart.html
+./lyrics/moiradelatorre/walanangkulangpa.html
+./lyrics/moiradelatorre/home.html
+./lyrics/moiradelatorre/malaya.html
+./lyrics/moiradelatorre/mymiracle.html
+./lyrics/moiradelatorre/planes.html

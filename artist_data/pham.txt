@@ -1,0 +1,7 @@
+./lyrics/pham/movements.html
+./lyrics/pham/controls.html
+./lyrics/pham/wantsandneeds.html
+./lyrics/pham/holdingon.html
+./lyrics/pham/offthechair.html
+./lyrics/pham/myway.html
+./lyrics/pham/talktome.html

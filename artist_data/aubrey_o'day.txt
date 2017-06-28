@@ -1,0 +1,14 @@
+./lyrics/aubreyoday/djt.html
+./lyrics/aubreyoday/unchooseyou.html
+./lyrics/aubreyoday/lovemewhenyouleave.html
+./lyrics/aubreyoday/letmelay.html
+./lyrics/aubreyoday/hurtssogood.html
+./lyrics/aubreyoday/beforeidrown.html
+./lyrics/aubreyoday/secondcall.html
+./lyrics/aubreyoday/devilme.html
+./lyrics/aubreyoday/outro.html
+./lyrics/aubreyoday/automatic.html
+./lyrics/aubreyoday/neverfallin.html
+./lyrics/aubreyoday/partyallthetime.html
+./lyrics/aubreyoday/somebodythatiusedtoknowremix.html
+./lyrics/aubreyoday/wreckingball.html

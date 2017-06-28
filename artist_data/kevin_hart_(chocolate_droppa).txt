@@ -1,0 +1,17 @@
+./lyrics/kevinhart/chocolatedroppaintroskit.html
+./lyrics/kevinhart/balleralert.html
+./lyrics/kevinhart/lightitup.html
+./lyrics/kevinhart/chocolatedroppaskitact1.html
+./lyrics/kevinhart/allfallsdown.html
+./lyrics/kevinhart/pushitonme.html
+./lyrics/kevinhart/chocolatedroppaskitact2.html
+./lyrics/kevinhart/giveitback.html
+./lyrics/kevinhart/stretchmarks.html
+./lyrics/kevinhart/whathappenedto.html
+./lyrics/kevinhart/allday.html
+./lyrics/kevinhart/scream.html
+./lyrics/kevinhart/saturdaynight.html
+./lyrics/kevinhart/sundaymorning.html
+./lyrics/kevinhart/whatnow.html
+./lyrics/kevinhart/chocolatedroppaoutroskit.html
+./lyrics/kevinhart/frostwithoutyou.html

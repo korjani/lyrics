@@ -1,0 +1,3 @@
+./lyrics/bonnieanderson/blackout.html
+./lyrics/bonnieanderson/raisethebar.html
+./lyrics/bonnieanderson/unbroken.html

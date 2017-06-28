@@ -1,0 +1,13 @@
+./lyrics/jeremypassion/trace.html
+./lyrics/jeremypassion/32.html
+./lyrics/jeremypassion/survive.html
+./lyrics/jeremypassion/welldone.html
+./lyrics/jeremypassion/lemonadeukuleleversion.html
+./lyrics/jeremypassion/stephanie.html
+./lyrics/jeremypassion/pixelated.html
+./lyrics/jeremypassion/ohvienna.html
+./lyrics/jeremypassion/paperairplane.html
+./lyrics/jeremypassion/aslongasyouwaitforme.html
+./lyrics/jeremypassion/brokenhearted.html
+./lyrics/jeremypassion/nothing.html
+./lyrics/jeremypassion/suddenly.html

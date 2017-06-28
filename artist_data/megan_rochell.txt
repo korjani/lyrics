@@ -1,0 +1,3 @@
+./lyrics/meganrochell/floating.html
+./lyrics/meganrochell/letgo.html
+./lyrics/meganrochell/theoneyouneed.html

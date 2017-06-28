@@ -1,0 +1,13 @@
+./lyrics/ikon/dumbdumber.html
+./lyrics/ikon/whatswrong.html
+./lyrics/ikon/imissyousobad.html
+./lyrics/ikon/rhythmta.html
+./lyrics/ikon/anthemirioneora.html
+./lyrics/ikon/apologyjimotmi.html
+./lyrics/ikon/airplane.html
+./lyrics/ikon/mytypechwihyangjeogyeok.html
+./lyrics/ikon/todayoneulttara.html
+./lyrics/ikon/welcomeback.html
+./lyrics/ikon/justgo.html
+./lyrics/ikon/blingbling.html
+./lyrics/ikon/bday.html

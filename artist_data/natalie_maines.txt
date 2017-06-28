@@ -1,0 +1,9 @@
+./lyrics/nataliemaines/withoutyou.html
+./lyrics/nataliemaines/mother.html
+./lyrics/nataliemaines/freelife.html
+./lyrics/nataliemaines/silverbell.html
+./lyrics/nataliemaines/loveryoushouldvecomeover.html
+./lyrics/nataliemaines/veininvain.html
+./lyrics/nataliemaines/comecryintome.html
+./lyrics/nataliemaines/idrunaway.html
+./lyrics/nataliemaines/takeitonfaith.html

@@ -1,0 +1,4 @@
+./lyrics/lateeya/cheapdate.html
+./lyrics/lateeya/lullaby.html
+./lyrics/lateeya/tryingtoexplain.html
+./lyrics/lateeya/youdontdeservemenomore.html

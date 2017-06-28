@@ -1,0 +1,4 @@
+./lyrics/alexagoddard/marilyn.html
+./lyrics/alexagoddard/sothere.html
+./lyrics/alexagoddard/turnmyswagonremix.html
+./lyrics/alexagoddard/webrokethesky.html

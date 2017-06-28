@@ -1,0 +1,17 @@
+./lyrics/lsg/door1.html
+./lyrics/lsg/roundround.html
+./lyrics/lsg/yougotme.html
+./lyrics/lsg/wheredidigowroong.html
+./lyrics/lsg/mybody.html
+./lyrics/lsg/allthetimes.html
+./lyrics/lsg/mysideofthebed.html
+./lyrics/lsg/curious.html
+./lyrics/lsg/letaplayagethisfreakon.html
+./lyrics/lsg/lovehurts.html
+./lyrics/lsg/drovemetotears.html
+./lyrics/lsg/wherewouldwego.html
+./lyrics/lsg/justfriends.html
+./lyrics/lsg/shakedown.html
+./lyrics/lsg/fafree.html
+./lyrics/lsg/yesterday.html
+./lyrics/lsg/whataboutme.html

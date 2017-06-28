@@ -1,0 +1,14 @@
+./lyrics/angusstone/riverlove.html
+./lyrics/angusstone/brokenbrights.html
+./lyrics/angusstone/birdonthebuffalo.html
+./lyrics/angusstone/woodenchair.html
+./lyrics/angusstone/thebluedoor.html
+./lyrics/angusstone/apprenticeoftherocketman.html
+./lyrics/angusstone/onlyawoman.html
+./lyrics/angusstone/thewolfandthebutler.html
+./lyrics/angusstone/monsters.html
+./lyrics/angusstone/itwasblue.html
+./lyrics/angusstone/bewhatyoube.html
+./lyrics/angusstone/cloudsabove.html
+./lyrics/angusstone/endoftheworld.html
+./lyrics/angusstone/napoleonsdream.html

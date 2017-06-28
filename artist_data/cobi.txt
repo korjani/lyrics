@@ -1,0 +1,5 @@
+./lyrics/cobi/cosmopolitanman.html
+./lyrics/cobi/darkerthandawn.html
+./lyrics/cobi/dontyoucryforme.html
+./lyrics/cobi/nobodyopenedthedoor.html
+./lyrics/cobi/prophetstory.html

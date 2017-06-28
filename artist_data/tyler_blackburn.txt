@@ -1,0 +1,3 @@
+./lyrics/tylerblackburn/iwasntmeantforyou.html
+./lyrics/tylerblackburn/findaway.html
+./lyrics/tylerblackburn/hardtoforget.html

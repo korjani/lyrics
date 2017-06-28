@@ -1,0 +1,3 @@
+./lyrics/troop41/charliesheen.html
+./lyrics/troop41/dothejohnwall.html
+./lyrics/troop41/iamthefuture.html

@@ -1,0 +1,11 @@
+./lyrics/jessicaharp/awomanneeds.html
+./lyrics/jessicaharp/boylikeme.html
+./lyrics/jessicaharp/homemadelove.html
+./lyrics/jessicaharp/lettinggo.html
+./lyrics/jessicaharp/moretothisthanyou.html
+./lyrics/jessicaharp/breakupsong.html
+./lyrics/jessicaharp/loveletter.html
+./lyrics/jessicaharp/lonelyanywhere.html
+./lyrics/jessicaharp/followthattrain.html
+./lyrics/jessicaharp/someoneelseslife.html
+./lyrics/jessicaharp/goodenoughforme.html

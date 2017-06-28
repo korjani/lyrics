@@ -1,0 +1,11 @@
+./lyrics/mauricemoore/bedtime.html
+./lyrics/mauricemoore/cestlavie.html
+./lyrics/mauricemoore/christmaseve.html
+./lyrics/mauricemoore/lol.html
+./lyrics/mauricemoore/mygirl.html
+./lyrics/mauricemoore/play.html
+./lyrics/mauricemoore/pleaseyou.html
+./lyrics/mauricemoore/ready.html
+./lyrics/mauricemoore/stayup.html
+./lyrics/mauricemoore/theloudestsilence.html
+./lyrics/mauricemoore/typhoon.html

@@ -1,0 +1,11 @@
+./lyrics/silvertide/aintcominhome.html
+./lyrics/silvertide/devilsdaughter.html
+./lyrics/silvertide/sfc.html
+./lyrics/silvertide/californiarain.html
+./lyrics/silvertide/bluejeans.html
+./lyrics/silvertide/maryjayne.html
+./lyrics/silvertide/heartstrong.html
+./lyrics/silvertide/toseewhereihide.html
+./lyrics/silvertide/youwantitall.html
+./lyrics/silvertide/nothingstays.html
+./lyrics/silvertide/foxholejc.html

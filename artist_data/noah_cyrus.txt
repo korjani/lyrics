@@ -1,0 +1,4 @@
+./lyrics/noahcyrus/imstuck.html
+./lyrics/noahcyrus/makemecry.html
+./lyrics/noahcyrus/staytogether.html
+./lyrics/noahcyrus/almostfamous.html

@@ -1,0 +1,11 @@
+./lyrics/res/goldenboys.html
+./lyrics/res/theysayvision.html
+./lyrics/res/700milesituation.html
+./lyrics/res/iceking.html
+./lyrics/res/sittinback.html
+./lyrics/res/howido.html
+./lyrics/res/ifthereaintnuthin.html
+./lyrics/res/thehustler.html
+./lyrics/res/iveknownthegarden.html
+./lyrics/res/letlove.html
+./lyrics/res/tsunami.html

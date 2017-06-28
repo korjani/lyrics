@@ -1,0 +1,15 @@
+./lyrics/elvinbishop/letitflow.html
+./lyrics/elvinbishop/fishin.html
+./lyrics/elvinbishop/jukejointjump.html
+./lyrics/elvinbishop/surefeelsgood.html
+./lyrics/elvinbishop/struttinmystuff.html
+./lyrics/elvinbishop/fooledaroundandfellinlove.html
+./lyrics/elvinbishop/hollerandshout.html
+./lyrics/elvinbishop/travelinshoes.html
+./lyrics/elvinbishop/beerdrinkingwoman.html
+./lyrics/elvinbishop/justyourfool.html
+./lyrics/elvinbishop/midnighthourblues.html
+./lyrics/elvinbishop/murderinthefirstdegree.html
+./lyrics/elvinbishop/mygirl.html
+./lyrics/elvinbishop/rollyourmoneymaker.html
+./lyrics/elvinbishop/think.html

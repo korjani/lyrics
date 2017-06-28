@@ -1,0 +1,15 @@
+./lyrics/jeannieortega/crowded.html
+./lyrics/jeannieortega/payit.html
+./lyrics/jeannieortega/greeniz.html
+./lyrics/jeannieortega/canu.html
+./lyrics/jeannieortega/sodone.html
+./lyrics/jeannieortega/letitgo.html
+./lyrics/jeannieortega/whatineed.html
+./lyrics/jeannieortega/itsrtime.html
+./lyrics/jeannieortega/bling.html
+./lyrics/jeannieortega/hearme.html
+./lyrics/jeannieortega/dontstop.html
+./lyrics/jeannieortega/dreamz.html
+./lyrics/jeannieortega/futureisclear.html
+./lyrics/jeannieortega/gotwhatittakes.html
+./lyrics/jeannieortega/liveitup.html

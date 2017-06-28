@@ -1,0 +1,14 @@
+./lyrics/asiacruise/avoidingmirrors.html
+./lyrics/asiacruise/backfromalone.html
+./lyrics/asiacruise/boyfriend.html
+./lyrics/asiacruise/longdistancerelationship.html
+./lyrics/asiacruise/lovemyself.html
+./lyrics/asiacruise/nothankstoyou.html
+./lyrics/asiacruise/rewind.html
+./lyrics/asiacruise/rollercoaster.html
+./lyrics/asiacruise/selfish.html
+./lyrics/asiacruise/swagger.html
+./lyrics/asiacruise/tears.html
+./lyrics/asiacruise/walkmeout.html
+./lyrics/asiacruise/whatsyourname.html
+./lyrics/asiacruise/worryboutme.html

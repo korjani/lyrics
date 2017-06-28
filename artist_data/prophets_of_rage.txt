@@ -1,0 +1,6 @@
+./lyrics/prophetsofrage/prophetsofrage.html
+./lyrics/prophetsofrage/thepartysover.html
+./lyrics/prophetsofrage/killinginthenamelive.html
+./lyrics/prophetsofrage/shutemdownlive.html
+./lyrics/prophetsofrage/nosleeptilclevelandlive.html
+./lyrics/prophetsofrage/unfucktheworld.html

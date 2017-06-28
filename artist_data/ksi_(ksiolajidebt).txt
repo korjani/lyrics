@@ -1,0 +1,9 @@
+./lyrics/ksi/keepup.html
+./lyrics/ksi/smokenmirrors.html
+./lyrics/ksi/kilimanjaro.html
+./lyrics/ksi/lamborefuelled.html
+./lyrics/ksi/encore.html
+./lyrics/ksi/friendswithbenefits.html
+./lyrics/ksi/goesoff.html
+./lyrics/ksi/jumparound.html
+./lyrics/ksi/lamborghini.html

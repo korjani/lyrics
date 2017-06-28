@@ -1,0 +1,11 @@
+./lyrics/dirtieblonde/walkoverme.html
+./lyrics/dirtieblonde/outtamybed.html
+./lyrics/dirtieblonde/officiallyinlove.html
+./lyrics/dirtieblonde/changethewater.html
+./lyrics/dirtieblonde/bendover.html
+./lyrics/dirtieblonde/hardtimes.html
+./lyrics/dirtieblonde/karmaboy.html
+./lyrics/dirtieblonde/shutup.html
+./lyrics/dirtieblonde/mypride.html
+./lyrics/dirtieblonde/lonely.html
+./lyrics/dirtieblonde/stay.html

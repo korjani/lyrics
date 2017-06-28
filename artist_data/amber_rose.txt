@@ -1,0 +1,2 @@
+./lyrics/amberrose/fame.html
+./lyrics/amberrose/loaded.html

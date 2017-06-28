@@ -1,0 +1,12 @@
+./lyrics/probot/centuriesofsin.html
+./lyrics/probot/redwar.html
+./lyrics/probot/shakeyourblood.html
+./lyrics/probot/accessbabylon.html
+./lyrics/probot/silentspring.html
+./lyrics/probot/icecoldman.html
+./lyrics/probot/theemeraldlaw.html
+./lyrics/probot/bigsky.html
+./lyrics/probot/dictatorsaurus.html
+./lyrics/probot/mytorturedsoul.html
+./lyrics/probot/sweetdreams.html
+./lyrics/probot/bonustrack.html

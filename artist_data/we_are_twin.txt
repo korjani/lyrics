@@ -1,0 +1,10 @@
+./lyrics/wearetwin/thewaywetouch.html
+./lyrics/wearetwin/keeponlovinyou.html
+./lyrics/wearetwin/truelove.html
+./lyrics/wearetwin/coldstonelips.html
+./lyrics/wearetwin/donttellyourparents.html
+./lyrics/wearetwin/babyplease.html
+./lyrics/wearetwin/xtralove.html
+./lyrics/wearetwin/inthemoment.html
+./lyrics/wearetwin/lovewasblind.html
+./lyrics/wearetwin/runninginthesun.html

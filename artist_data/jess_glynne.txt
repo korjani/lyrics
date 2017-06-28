@@ -1,0 +1,17 @@
+./lyrics/jessglynne/strawberryfields.html
+./lyrics/jessglynne/gavemesomething.html
+./lyrics/jessglynne/holdmyhand.html
+./lyrics/jessglynne/reallove.html
+./lyrics/jessglynne/aintgotfartogo.html
+./lyrics/jessglynne/takemehome.html
+./lyrics/jessglynne/dontbesohardonyourself.html
+./lyrics/jessglynne/youcanfindme.html
+./lyrics/jessglynne/whyme.html
+./lyrics/jessglynne/loveme.html
+./lyrics/jessglynne/itaintright.html
+./lyrics/jessglynne/norightsnowrongs.html
+./lyrics/jessglynne/saddestvanilla.html
+./lyrics/jessglynne/righthere.html
+./lyrics/jessglynne/home.html
+./lyrics/jessglynne/badblood.html
+./lyrics/jessglynne/myloveacoustic.html

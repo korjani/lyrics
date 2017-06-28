@@ -1,0 +1,6 @@
+./lyrics/dadju/avabrler.html
+./lyrics/dadju/djtrouv.html
+./lyrics/dadju/jaiditnon.html
+./lyrics/dadju/larouetourne.html
+./lyrics/dadju/reine.html
+./lyrics/dadju/tucherches.html

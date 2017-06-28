@@ -1,0 +1,5 @@
+./lyrics/mondocozmo/automatic.html
+./lyrics/mondocozmo/higher.html
+./lyrics/mondocozmo/holdontome.html
+./lyrics/mondocozmo/shine.html
+./lyrics/mondocozmo/sixesandsevens.html

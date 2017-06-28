@@ -1,0 +1,4 @@
+./lyrics/inoj/loveyoudown.html
+./lyrics/inoj/ringmybell.html
+./lyrics/inoj/timeaftertime.html
+./lyrics/inoj/timeaftertimeremix.html

@@ -1,0 +1,2 @@
+./lyrics/productgb/cluckcluck.html
+./lyrics/productgb/dirtydancin.html

@@ -1,0 +1,15 @@
+./lyrics/aleesia/lifeoftheparty.html
+./lyrics/aleesia/kissitbyebye.html
+./lyrics/aleesia/heartbeat.html
+./lyrics/aleesia/timesup.html
+./lyrics/aleesia/lullaby.html
+./lyrics/aleesia/notthatgirl.html
+./lyrics/aleesia/strut.html
+./lyrics/aleesia/up.html
+./lyrics/aleesia/cinderella.html
+./lyrics/aleesia/makeup.html
+./lyrics/aleesia/girltalk.html
+./lyrics/aleesia/kissandtell.html
+./lyrics/aleesia/angel.html
+./lyrics/aleesia/bubblegum.html
+./lyrics/aleesia/dum.html

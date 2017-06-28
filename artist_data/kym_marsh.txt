@@ -1,0 +1,15 @@
+./lyrics/kymmarsh/cry.html
+./lyrics/kymmarsh/comeonover.html
+./lyrics/kymmarsh/sentimental.html
+./lyrics/kymmarsh/ithinkitsgonnaraintoday.html
+./lyrics/kymmarsh/aftergoodbye.html
+./lyrics/kymmarsh/thegirliusedtobe.html
+./lyrics/kymmarsh/standingtall.html
+./lyrics/kymmarsh/crosseveryriver.html
+./lyrics/kymmarsh/glow.html
+./lyrics/kymmarsh/liveforever.html
+./lyrics/kymmarsh/shineonme.html
+./lyrics/kymmarsh/becauseofyou.html
+./lyrics/kymmarsh/herecomesheaven.html
+./lyrics/kymmarsh/tempted.html
+./lyrics/kymmarsh/dontbreakmyheart.html

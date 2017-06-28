@@ -1,0 +1,7 @@
+./lyrics/djrupp/betterman.html
+./lyrics/djrupp/happynow.html
+./lyrics/djrupp/indiana.html
+./lyrics/djrupp/partyoftheyear.html
+./lyrics/djrupp/singforya.html
+./lyrics/djrupp/uberconfessions.html
+./lyrics/djrupp/whereartthou.html

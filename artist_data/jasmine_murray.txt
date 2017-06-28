@@ -1,0 +1,2 @@
+./lyrics/jasminemurray/fearless.html
+./lyrics/jasminemurray/restofmylife.html

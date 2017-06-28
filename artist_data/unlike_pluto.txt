@@ -1,0 +1,8 @@
+./lyrics/unlikepluto/everythingblack.html
+./lyrics/unlikepluto/foundyou.html
+./lyrics/unlikepluto/searchingforyou.html
+./lyrics/unlikepluto/showmelove.html
+./lyrics/unlikepluto/someonenew.html
+./lyrics/unlikepluto/sweet.html
+./lyrics/unlikepluto/waitingforyou.html
+./lyrics/unlikepluto/worstinme.html

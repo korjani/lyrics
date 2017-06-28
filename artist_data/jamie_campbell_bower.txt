@@ -1,0 +1,4 @@
+./lyrics/jamiecampbellbower/betterman.html
+./lyrics/jamiecampbellbower/getyourguns.html
+./lyrics/jamiecampbellbower/staywithme.html
+./lyrics/jamiecampbellbower/waiting.html

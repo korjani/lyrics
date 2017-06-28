@@ -1,0 +1,12 @@
+./lyrics/latency/canyouhearmecall.html
+./lyrics/latency/allyouwanted.html
+./lyrics/latency/tonightiloveyou.html
+./lyrics/latency/away.html
+./lyrics/latency/crymeout.html
+./lyrics/latency/dontgo.html
+./lyrics/latency/breathe.html
+./lyrics/latency/howsitfeel.html
+./lyrics/latency/forkintheroad.html
+./lyrics/latency/kids.html
+./lyrics/latency/hello.html
+./lyrics/latency/stillinlovewithyou.html

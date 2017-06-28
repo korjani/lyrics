@@ -1,0 +1,2 @@
+./lyrics/djwebstar/chickennoodlesoup.html
+./lyrics/djwebstar/dancinonme.html

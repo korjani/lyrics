@@ -1,0 +1,2 @@
+./lyrics/milano/dealwithafeeling.html
+./lyrics/milano/extasy.html

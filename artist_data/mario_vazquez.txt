@@ -1,0 +1,12 @@
+./lyrics/mariovazquez/gallery.html
+./lyrics/mariovazquez/ibet.html
+./lyrics/mariovazquez/cohiba.html
+./lyrics/mariovazquez/oneshot.html
+./lyrics/mariovazquez/wegonlast.html
+./lyrics/mariovazquez/shesgotme.html
+./lyrics/mariovazquez/justafriend.html
+./lyrics/mariovazquez/firedup.html
+./lyrics/mariovazquez/4the1.html
+./lyrics/mariovazquez/everytimei.html
+./lyrics/mariovazquez/howwedoit.html
+./lyrics/mariovazquez/likeitornot.html

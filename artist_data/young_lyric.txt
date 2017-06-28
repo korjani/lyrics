@@ -1,0 +1,8 @@
+./lyrics/younglyric/fanswatchin.html
+./lyrics/younglyric/noflockinfreestyle.html
+./lyrics/younglyric/onfleek.html
+./lyrics/younglyric/ooouuufreestyle.html
+./lyrics/younglyric/rapgod.html
+./lyrics/younglyric/sneakdissin.html
+./lyrics/younglyric/thatsallfolks.html
+./lyrics/younglyric/yahh.html

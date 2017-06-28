@@ -1,0 +1,13 @@
+./lyrics/ringside/struggle.html
+./lyrics/ringside/coldonme.html
+./lyrics/ringside/tiredofbeingsorryakaspanishfaster.html
+./lyrics/ringside/strangerman.html
+./lyrics/ringside/trixie.html
+./lyrics/ringside/missyou.html
+./lyrics/ringside/dreamboat730.html
+./lyrics/ringside/sleepwelljeff.html
+./lyrics/ringside/talktome.html
+./lyrics/ringside/rainingnextdoor.html
+./lyrics/ringside/criminal.html
+./lyrics/ringside/jackie.html
+./lyrics/ringside/loveintheasylum.html

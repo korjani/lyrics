@@ -1,0 +1,6 @@
+./lyrics/josemarichan/aperfectchristmas.html
+./lyrics/josemarichan/beautifulgirl.html
+./lyrics/josemarichan/canwejuststopandtalkawhile.html
+./lyrics/josemarichan/christmasinourhearts.html
+./lyrics/josemarichan/constantchange.html
+./lyrics/josemarichan/whenachildisborn.html

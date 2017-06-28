@@ -1,0 +1,15 @@
+./lyrics/cam/mymistake.html
+./lyrics/cam/burninghouse.html
+./lyrics/cam/halfbrokeheart.html
+./lyrics/cam/runawaytrain.html
+./lyrics/cam/untamed.html
+./lyrics/cam/hungoveronheartache.html
+./lyrics/cam/mayday.html
+./lyrics/cam/burninghouse.html
+./lyrics/cam/coldincalifornia.html
+./lyrics/cam/mymistake.html
+./lyrics/cam/runawaytrain.html
+./lyrics/cam/halfbrokeheart.html
+./lyrics/cam/wantitall.html
+./lyrics/cam/countryaintneverbeenpretty.html
+./lyrics/cam/village.html

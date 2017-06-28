@@ -1,0 +1,16 @@
+./lyrics/jonsi/godo.html
+./lyrics/jonsi/animalarithmetic.html
+./lyrics/jonsi/tornado.html
+./lyrics/jonsi/boylilikoi.html
+./lyrics/jonsi/sinkingfriendships.html
+./lyrics/jonsi/kolniur.html
+./lyrics/jonsi/aroundus.html
+./lyrics/jonsi/growtilltall.html
+./lyrics/jonsi/hengils.html
+./lyrics/jonsi/iciclesleeves.html
+./lyrics/jonsi/saintnaive.html
+./lyrics/jonsi/shootingstars.html
+./lyrics/jonsi/starsinstillwater.html
+./lyrics/jonsi/sticksandstones.html
+./lyrics/jonsi/timetopretend.html
+./lyrics/jonsi/wherenoonegoes.html

@@ -1,0 +1,10 @@
+./lyrics/chrisrene/forever.html
+./lyrics/chrisrene/werestillhere.html
+./lyrics/chrisrene/chains.html
+./lyrics/chrisrene/rockingwithyou.html
+./lyrics/chrisrene/backfromthedead.html
+./lyrics/chrisrene/trouble.html
+./lyrics/chrisrene/gonnabeok.html
+./lyrics/chrisrene/lovemelikeyou.html
+./lyrics/chrisrene/younghomie.html
+./lyrics/chrisrene/tidalwave.html

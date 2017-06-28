@@ -1,0 +1,16 @@
+./lyrics/blackstar/intro.html
+./lyrics/blackstar/astronomy8thlight.html
+./lyrics/blackstar/definition.html
+./lyrics/blackstar/redefinition.html
+./lyrics/blackstar/childrensstory.html
+./lyrics/blackstar/brownskinlady.html
+./lyrics/blackstar/bboyswillbboys.html
+./lyrics/blackstar/kosdetermination.html
+./lyrics/blackstar/haterplayers.html
+./lyrics/blackstar/yoyeahskit.html
+./lyrics/blackstar/respiration.html
+./lyrics/blackstar/thievesinthenight.html
+./lyrics/blackstar/twiceinnalifetime.html
+./lyrics/blackstar/fixup.html
+./lyrics/blackstar/littlebrother.html
+./lyrics/blackstar/respirationflyinghighmix.html

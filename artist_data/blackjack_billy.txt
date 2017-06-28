@@ -1,0 +1,12 @@
+./lyrics/blackjackbilly/gotafeeling.html
+./lyrics/blackjackbilly/workingonyou.html
+./lyrics/blackjackbilly/slowdancingunderthesheets.html
+./lyrics/blackjackbilly/onecanbealot.html
+./lyrics/blackjackbilly/getsome.html
+./lyrics/blackjackbilly/theboozecruise.html
+./lyrics/blackjackbilly/borntoride.html
+./lyrics/blackjackbilly/bloodsweatandbeer.html
+./lyrics/blackjackbilly/drinkalong.html
+./lyrics/blackjackbilly/nightlight.html
+./lyrics/blackjackbilly/run.html
+./lyrics/blackjackbilly/whygodmadesummertime.html

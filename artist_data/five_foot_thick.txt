@@ -1,0 +1,10 @@
+./lyrics/fivefootthick/unfounded.html
+./lyrics/fivefootthick/bored.html
+./lyrics/fivefootthick/duckedout.html
+./lyrics/fivefootthick/betrayed.html
+./lyrics/fivefootthick/listen.html
+./lyrics/fivefootthick/bloodpuddle.html
+./lyrics/fivefootthick/nothing.html
+./lyrics/fivefootthick/clarity.html
+./lyrics/fivefootthick/envyyou.html
+./lyrics/fivefootthick/prozac.html

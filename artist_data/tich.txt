@@ -1,0 +1,14 @@
+./lyrics/tich/breatheinbreatheout.html
+./lyrics/tich/dust.html
+./lyrics/tich/kingdom.html
+./lyrics/tich/littlebylittle.html
+./lyrics/tich/loveonchristmaseve.html
+./lyrics/tich/whenitwasbeautiful.html
+./lyrics/tich/princeindisguise.html
+./lyrics/tich/likestars.html
+./lyrics/tich/dumb.html
+./lyrics/tich/obsession.html
+./lyrics/tich/outofmymind.html
+./lyrics/tich/seeingred.html
+./lyrics/tich/storybook.html
+./lyrics/tich/whatimeanttosay.html

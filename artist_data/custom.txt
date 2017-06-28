@@ -1,0 +1,13 @@
+./lyrics/custom/beatme.html
+./lyrics/custom/heymister.html
+./lyrics/custom/streets.html
+./lyrics/custom/likeyou.html
+./lyrics/custom/mess.html
+./lyrics/custom/morningspank.html
+./lyrics/custom/skate.html
+./lyrics/custom/may26.html
+./lyrics/custom/give.html
+./lyrics/custom/daddy.html
+./lyrics/custom/oneday.html
+./lyrics/custom/crawl.html
+./lyrics/custom/120.html

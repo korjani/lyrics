@@ -1,0 +1,5 @@
+./lyrics/tonyterry/everlastinglove.html
+./lyrics/tonyterry/foreveryours.html
+./lyrics/tonyterry/herewithme.html
+./lyrics/tonyterry/shesfly.html
+./lyrics/tonyterry/withyou.html

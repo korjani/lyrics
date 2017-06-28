@@ -1,0 +1,13 @@
+./lyrics/lund/fallaway.html
+./lyrics/lund/gold.html
+./lyrics/lund/mj.html
+./lyrics/lund/onlyforyou.html
+./lyrics/lund/coldbones.html
+./lyrics/lund/nature.html
+./lyrics/lund/chemistry.html
+./lyrics/lund/savage.html
+./lyrics/lund/alone.html
+./lyrics/lund/addict.html
+./lyrics/lund/broken.html
+./lyrics/lund/rxluv.html
+./lyrics/lund/weep.html

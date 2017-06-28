@@ -1,0 +1,13 @@
+./lyrics/wearethefallen/burymealive.html
+./lyrics/wearethefallen/burn.html
+./lyrics/wearethefallen/paradigm.html
+./lyrics/wearethefallen/dontleavemebehind.html
+./lyrics/wearethefallen/sleepwellmyangel.html
+./lyrics/wearethefallen/throughhell.html
+./lyrics/wearethefallen/iwillstay.html
+./lyrics/wearethefallen/withoutyou.html
+./lyrics/wearethefallen/stjohn.html
+./lyrics/wearethefallen/iamonlyone.html
+./lyrics/wearethefallen/teartheworlddown.html
+./lyrics/wearethefallen/likeaprayer.html
+./lyrics/wearethefallen/samhain.html

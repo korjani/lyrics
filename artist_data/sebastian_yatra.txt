@@ -1,0 +1,9 @@
+./lyrics/sebastianyatra/alguienrobo.html
+./lyrics/sebastianyatra/cmomirarte.html
+./lyrics/sebastianyatra/elpsiclogo.html
+./lyrics/sebastianyatra/nomellames.html
+./lyrics/sebastianyatra/paraolvidar.html
+./lyrics/sebastianyatra/teregalo.html
+./lyrics/sebastianyatra/todoloquesiento.html
+./lyrics/sebastianyatra/traicionera.html
+./lyrics/sebastianyatra/traicioneraremix.html

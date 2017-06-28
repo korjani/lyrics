@@ -1,0 +1,2 @@
+./lyrics/chianosky/sicksick.html
+./lyrics/chianosky/walkingaway.html

@@ -1,0 +1,3 @@
+./lyrics/lanco/longlivetonight.html
+./lyrics/lanco/greatestlovestory.html
+./lyrics/lanco/troublemaker.html

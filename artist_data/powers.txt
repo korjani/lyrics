@@ -1,0 +1,12 @@
+./lyrics/powers/hot.html
+./lyrics/powers/legendary.html
+./lyrics/powers/beatofmydrum.html
+./lyrics/powers/lovedbyyou.html
+./lyrics/powers/closer.html
+./lyrics/powers/dance.html
+./lyrics/powers/gimmesome.html
+./lyrics/powers/heavy.html
+./lyrics/powers/manonthemoon.html
+./lyrics/powers/money.html
+./lyrics/powers/sunshine.html
+./lyrics/powers/touchtheworld.html

@@ -1,0 +1,11 @@
+./lyrics/sheiswe/boomerang.html
+./lyrics/sheiswe/monster.html
+./lyrics/sheiswe/betternow.html
+./lyrics/sheiswe/crazyheart.html
+./lyrics/sheiswe/flatlining.html
+./lyrics/sheiswe/blue.html
+./lyrics/sheiswe/war.html
+./lyrics/sheiswe/fightforme.html
+./lyrics/sheiswe/heartstrings.html
+./lyrics/sheiswe/runaways.html
+./lyrics/sheiswe/leadthefighton.html

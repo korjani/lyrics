@@ -1,0 +1,10 @@
+./lyrics/jellyroll/falling.html
+./lyrics/jellyroll/goodnightshirley.html
+./lyrics/jellyroll/imadog.html
+./lyrics/jellyroll/aboutme.html
+./lyrics/jellyroll/cigarette.html
+./lyrics/jellyroll/stillhateyou.html
+./lyrics/jellyroll/traintracks.html
+./lyrics/jellyroll/wheelsfalloff.html
+./lyrics/jellyroll/addictionkills.html
+./lyrics/jellyroll/popanotherpill.html

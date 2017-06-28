@@ -1,0 +1,5 @@
+./lyrics/sigrid/dontkillmyvibe.html
+./lyrics/sigrid/plottwist.html
+./lyrics/sigrid/fakefriends.html
+./lyrics/sigrid/dynamiteacoustic.html
+./lyrics/sigrid/dontkillmyvibeacoustic.html

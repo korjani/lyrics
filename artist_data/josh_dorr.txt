@@ -1,0 +1,6 @@
+./lyrics/joshdorr/allornothing.html
+./lyrics/joshdorr/beforethesummerdies.html
+./lyrics/joshdorr/minelookslikeyou.html
+./lyrics/joshdorr/saveyourbreath.html
+./lyrics/joshdorr/downgoesthecowboy.html
+./lyrics/joshdorr/rocket.html

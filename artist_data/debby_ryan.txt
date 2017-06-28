@@ -1,0 +1,13 @@
+./lyrics/debbyryan/awishcomestrueeveryday.html
+./lyrics/debbyryan/countrygirl.html
+./lyrics/debbyryan/deckthehalls.html
+./lyrics/debbyryan/facetoface.html
+./lyrics/debbyryan/favoritetimeofyear.html
+./lyrics/debbyryan/hakunamatata.html
+./lyrics/debbyryan/heyjessie.html
+./lyrics/debbyryan/madeofmatches.html
+./lyrics/debbyryan/openeyes.html
+./lyrics/debbyryan/texasguys.html
+./lyrics/debbyryan/thebestyearofmylife.html
+./lyrics/debbyryan/weendedright.html
+./lyrics/debbyryan/wegotthebeat.html

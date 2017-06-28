@@ -1,0 +1,2 @@
+./lyrics/reggienbollie/newgirl.html
+./lyrics/reggienbollie/thisisthelife.html

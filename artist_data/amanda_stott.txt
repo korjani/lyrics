@@ -1,0 +1,12 @@
+./lyrics/amandastott/gettingthere.html
+./lyrics/amandastott/paperrain.html
+./lyrics/amandastott/cry.html
+./lyrics/amandastott/shellgetoverit.html
+./lyrics/amandastott/homelessheart.html
+./lyrics/amandastott/waitingformystartofall.html
+./lyrics/amandastott/songontheradio.html
+./lyrics/amandastott/houseofcards.html
+./lyrics/amandastott/maybetomorrow.html
+./lyrics/amandastott/undeniablyreal.html
+./lyrics/amandastott/myreallife.html
+./lyrics/amandastott/liftyouup.html

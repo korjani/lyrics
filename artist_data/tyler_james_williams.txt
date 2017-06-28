@@ -1,0 +1,10 @@
+./lyrics/tylerjameswilliams/dontrunaway.html
+./lyrics/tylerjameswilliams/guardianangel.html
+./lyrics/tylerjameswilliams/meandyou.html
+./lyrics/tylerjameswilliams/youbelongtome.html
+./lyrics/tylerjameswilliams/tonightsthenight.html
+./lyrics/tylerjameswilliams/aroundtheblock.html
+./lyrics/tylerjameswilliams/momentoftruth.html
+./lyrics/tylerjameswilliams/joyfulnoise.html
+./lyrics/tylerjameswilliams/letitshine.html
+./lyrics/tylerjameswilliams/selfdefeat.html

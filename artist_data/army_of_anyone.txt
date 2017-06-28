@@ -1,0 +1,11 @@
+./lyrics/armyofanyone/itdoesntseemtomatter.html
+./lyrics/armyofanyone/goodbye.html
+./lyrics/armyofanyone/generation.html
+./lyrics/armyofanyone/abetterplace.html
+./lyrics/armyofanyone/nonstop.html
+./lyrics/armyofanyone/disappear.html
+./lyrics/armyofanyone/stoplookandlisten.html
+./lyrics/armyofanyone/aintenough.html
+./lyrics/armyofanyone/fatherfigure.html
+./lyrics/armyofanyone/leaveit.html
+./lyrics/armyofanyone/thiswasntsupposedtohappen.html

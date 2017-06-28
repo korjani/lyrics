@@ -1,0 +1,4 @@
+./lyrics/melanieamaro/longdistance.html
+./lyrics/melanieamaro/lovemenow.html
+./lyrics/melanieamaro/dontfailmenow.html
+./lyrics/melanieamaro/fuelmyfire.html

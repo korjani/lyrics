@@ -1,0 +1,17 @@
+./lyrics/schoolgyrls/somethinglikeaparty.html
+./lyrics/schoolgyrls/detention.html
+./lyrics/schoolgyrls/whatgoesaround.html
+./lyrics/schoolgyrls/justakiss.html
+./lyrics/schoolgyrls/somethingabouthim.html
+./lyrics/schoolgyrls/imnotjustagirl.html
+./lyrics/schoolgyrls/extraextra.html
+./lyrics/schoolgyrls/getlikeme.html
+./lyrics/schoolgyrls/uncool.html
+./lyrics/schoolgyrls/cheater.html
+./lyrics/schoolgyrls/operator.html
+./lyrics/schoolgyrls/goingtothemall.html
+./lyrics/schoolgyrls/wewishyouamerrychristmas.html
+./lyrics/schoolgyrls/ochristmastree.html
+./lyrics/schoolgyrls/12days.html
+./lyrics/schoolgyrls/partybag.html
+./lyrics/schoolgyrls/jinglebells.html

@@ -1,0 +1,4 @@
+./lyrics/bethanymota/bewhoyouwanttobe.html
+./lyrics/bethanymota/edsheeranmedley.html
+./lyrics/bethanymota/flashlight.html
+./lyrics/bethanymota/needyourightnow.html

@@ -1,0 +1,5 @@
+./lyrics/feder/backformore.html
+./lyrics/feder/blameme.html
+./lyrics/feder/blind.html
+./lyrics/feder/goodbye.html
+./lyrics/feder/lordly.html

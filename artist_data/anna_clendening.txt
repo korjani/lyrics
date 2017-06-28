@@ -1,0 +1,14 @@
+./lyrics/annaclendening/ifoundmyself.html
+./lyrics/annaclendening/tomyparents.html
+./lyrics/annaclendening/theweekend.html
+./lyrics/annaclendening/nogood.html
+./lyrics/annaclendening/worthless.html
+./lyrics/annaclendening/relapse.html
+./lyrics/annaclendening/boyslikeyou.html
+./lyrics/annaclendening/crazy4u.html
+./lyrics/annaclendening/goodbye.html
+./lyrics/annaclendening/idfc.html
+./lyrics/annaclendening/thatwasntmethatwaspatricia.html
+./lyrics/annaclendening/untold.html
+./lyrics/annaclendening/whoiam.html
+./lyrics/annaclendening/whoyouare.html

@@ -1,0 +1,13 @@
+./lyrics/arizona/annie.html
+./lyrics/arizona/iwaswrong.html
+./lyrics/arizona/feedthebeast.html
+./lyrics/arizona/whereiwannabe.html
+./lyrics/arizona/crossmymind.html
+./lyrics/arizona/electrictouch.html
+./lyrics/arizona/braveenough.html
+./lyrics/arizona/running.html
+./lyrics/arizona/areyou.html
+./lyrics/arizona/aintgonnaleave.html
+./lyrics/arizona/oceansaway.html
+./lyrics/arizona/letmetouchyourfire.html
+./lyrics/arizona/peoplecryingeverynight.html

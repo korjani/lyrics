@@ -1,0 +1,5 @@
+./lyrics/nikkiwilliams/couldhavebeenme.html
+./lyrics/nikkiwilliams/flyagain.html
+./lyrics/nikkiwilliams/glowing.html
+./lyrics/nikkiwilliams/killfuckmarry.html
+./lyrics/nikkiwilliams/thankgoditsfriday.html

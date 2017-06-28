@@ -1,0 +1,9 @@
+./lyrics/atomsforpeace/beforeyourveryeyes.html
+./lyrics/atomsforpeace/default.html
+./lyrics/atomsforpeace/ingenue.html
+./lyrics/atomsforpeace/dropped.html
+./lyrics/atomsforpeace/unless.html
+./lyrics/atomsforpeace/stucktogetherpieces.html
+./lyrics/atomsforpeace/judgejuryandexecutioner.html
+./lyrics/atomsforpeace/reverserunning.html
+./lyrics/atomsforpeace/amok.html

@@ -1,0 +1,11 @@
+./lyrics/greekfire/doesntmatteranyway.html
+./lyrics/greekfire/breakmedown.html
+./lyrics/greekfire/makemebelieve.html
+./lyrics/greekfire/putyourhandsonme.html
+./lyrics/greekfire/dreamingindjvu.html
+./lyrics/greekfire/underthestarsdeusexmachina.html
+./lyrics/greekfire/areallife.html
+./lyrics/greekfire/topoftheworld.html
+./lyrics/greekfire/comingalive.html
+./lyrics/greekfire/imafraidofamericans.html
+./lyrics/greekfire/comingoutoftherain.html

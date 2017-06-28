@@ -1,0 +1,12 @@
+./lyrics/kristianleontiou/storyofmylife.html
+./lyrics/kristianleontiou/shining.html
+./lyrics/kristianleontiou/theyearsmoveon.html
+./lyrics/kristianleontiou/loveisallineed.html
+./lyrics/kristianleontiou/itsok.html
+./lyrics/kristianleontiou/thecrying.html
+./lyrics/kristianleontiou/somesay.html
+./lyrics/kristianleontiou/caughtinthemoment.html
+./lyrics/kristianleontiou/hanging.html
+./lyrics/kristianleontiou/fallandiwillcatchyou.html
+./lyrics/kristianleontiou/sometimesiwonder.html
+./lyrics/kristianleontiou/fastcar.html

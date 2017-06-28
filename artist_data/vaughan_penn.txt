@@ -1,0 +1,14 @@
+./lyrics/vaughanpenn/noidont.html
+./lyrics/vaughanpenn/ifyoucouldsee.html
+./lyrics/vaughanpenn/itsagame.html
+./lyrics/vaughanpenn/imissyou.html
+./lyrics/vaughanpenn/icanthelpmyself.html
+./lyrics/vaughanpenn/thedeeperifall.html
+./lyrics/vaughanpenn/wordsinmymouth.html
+./lyrics/vaughanpenn/workinonit.html
+./lyrics/vaughanpenn/comeclean.html
+./lyrics/vaughanpenn/brokenhearted.html
+./lyrics/vaughanpenn/forgiveness.html
+./lyrics/vaughanpenn/imoverit.html
+./lyrics/vaughanpenn/heyyou.html
+./lyrics/vaughanpenn/morethanmeetstheeyes.html

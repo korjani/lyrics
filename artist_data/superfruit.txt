@@ -1,0 +1,10 @@
+./lyrics/superfruit/1989medley.html
+./lyrics/superfruit/antimedley.html
+./lyrics/superfruit/bad4us.html
+./lyrics/superfruit/defiyinggravity.html
+./lyrics/superfruit/empiremedley.html
+./lyrics/superfruit/evolutionofladygaga.html
+./lyrics/superfruit/frozenmedley.html
+./lyrics/superfruit/rise.html
+./lyrics/superfruit/sweetlife.html
+./lyrics/superfruit/twozeroonefour.html

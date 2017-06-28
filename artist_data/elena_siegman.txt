@@ -1,0 +1,10 @@
+./lyrics/elenasiegman/115.html
+./lyrics/elenasiegman/abracadavre.html
+./lyrics/elenasiegman/archangel.html
+./lyrics/elenasiegman/beautyofannihilation.html
+./lyrics/elenasiegman/cominghome.html
+./lyrics/elenasiegman/deadagain.html
+./lyrics/elenasiegman/lullabyforadeadman.html
+./lyrics/elenasiegman/pareidolia.html
+./lyrics/elenasiegman/thegift.html
+./lyrics/elenasiegman/theone.html

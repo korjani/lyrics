@@ -1,0 +1,17 @@
+./lyrics/sclubjuniors/onestepcloser.html
+./lyrics/sclubjuniors/automatichigh.html
+./lyrics/sclubjuniors/newdirection.html
+./lyrics/sclubjuniors/onefineday.html
+./lyrics/sclubjuniors/puppylove.html
+./lyrics/sclubjuniors/feelthebeat.html
+./lyrics/sclubjuniors/whereveryouare.html
+./lyrics/sclubjuniors/icomealive.html
+./lyrics/sclubjuniors/together.html
+./lyrics/sclubjuniors/onlyyou.html
+./lyrics/sclubjuniors/anytimeanywhere.html
+./lyrics/sclubjuniors/youaretheone.html
+./lyrics/sclubjuniors/foolnomore.html
+./lyrics/sclubjuniors/herewego.html
+./lyrics/sclubjuniors/reach.html
+./lyrics/sclubjuniors/thisishowweparty.html
+./lyrics/sclubjuniors/wegotyou.html

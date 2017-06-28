@@ -1,0 +1,17 @@
+./lyrics/sunsetsons/medicine.html
+./lyrics/sunsetsons/blondie.html
+./lyrics/sunsetsons/moviescene.html
+./lyrics/sunsetsons/lies.html
+./lyrics/sunsetsons/knowmyname.html
+./lyrics/sunsetsons/ticktock.html
+./lyrics/sunsetsons/remember.html
+./lyrics/sunsetsons/bringthebrightlights.html
+./lyrics/sunsetsons/shewants.html
+./lyrics/sunsetsons/septembersong.html
+./lyrics/sunsetsons/gold.html
+./lyrics/sunsetsons/somewheremaybe.html
+./lyrics/sunsetsons/loa.html
+./lyrics/sunsetsons/ontheroad.html
+./lyrics/sunsetsons/lostcompany.html
+./lyrics/sunsetsons/icantwait.html
+./lyrics/sunsetsons/vrol.html

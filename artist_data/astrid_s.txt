@@ -1,0 +1,13 @@
+./lyrics/astrids/paperthin.html
+./lyrics/astrids/hurtssogood.html
+./lyrics/astrids/jump.html
+./lyrics/astrids/atic.html
+./lyrics/astrids/idontwannaknow.html
+./lyrics/astrids/2am.html
+./lyrics/astrids/bloodstream.html
+./lyrics/astrids/breathe.html
+./lyrics/astrids/breathelauvremix.html
+./lyrics/astrids/hyde.html
+./lyrics/astrids/partysover.html
+./lyrics/astrids/runningout.html
+./lyrics/astrids/shattered.html

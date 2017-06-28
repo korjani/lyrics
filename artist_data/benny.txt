@@ -1,0 +1,3 @@
+./lyrics/benny/boyswillbeboys.html
+./lyrics/benny/littlegame.html
+./lyrics/benny/neverapart.html

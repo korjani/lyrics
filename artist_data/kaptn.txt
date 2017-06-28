@@ -1,0 +1,7 @@
+./lyrics/kaptn/superbitch.html
+./lyrics/kaptn/animalstyle.html
+./lyrics/kaptn/hoesinthehouse.html
+./lyrics/kaptn/juice.html
+./lyrics/kaptn/rickyricardo.html
+./lyrics/kaptn/blackinthebehind.html
+./lyrics/kaptn/thegame.html

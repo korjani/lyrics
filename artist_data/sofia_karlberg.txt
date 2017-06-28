@@ -1,0 +1,6 @@
+./lyrics/sofiakarlberg/abibleofmermaidpictures.html
+./lyrics/sofiakarlberg/crazyinlove.html
+./lyrics/sofiakarlberg/iwannabeyours.html
+./lyrics/sofiakarlberg/paris.html
+./lyrics/sofiakarlberg/parisacousticversion.html
+./lyrics/sofiakarlberg/takemetochurch.html

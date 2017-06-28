@@ -1,0 +1,10 @@
+./lyrics/athenacage/allineedisme.html
+./lyrics/athenacage/heyhey.html
+./lyrics/athenacage/untilyoucomeback.html
+./lyrics/athenacage/letmeknow.html
+./lyrics/athenacage/inthemood.html
+./lyrics/athenacage/respect.html
+./lyrics/athenacage/takeitoutonme.html
+./lyrics/athenacage/you.html
+./lyrics/athenacage/allornothing.html
+./lyrics/athenacage/nobody.html

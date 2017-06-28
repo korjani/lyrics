@@ -1,0 +1,10 @@
+./lyrics/sevenchannels/velcroparade.html
+./lyrics/sevenchannels/helium.html
+./lyrics/sevenchannels/superconnected.html
+./lyrics/sevenchannels/breathe.html
+./lyrics/sevenchannels/submarinedream.html
+./lyrics/sevenchannels/circle.html
+./lyrics/sevenchannels/chasingmonsters.html
+./lyrics/sevenchannels/electricvoices.html
+./lyrics/sevenchannels/rooftop.html
+./lyrics/sevenchannels/fluid.html

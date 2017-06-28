@@ -1,0 +1,4 @@
+./lyrics/markthomas/sidechick.html
+./lyrics/markthomas/downforawhile.html
+./lyrics/markthomas/turnup.html
+./lyrics/markthomas/selfie.html

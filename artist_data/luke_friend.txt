@@ -1,0 +1,11 @@
+./lyrics/lukefriend/basicallyolder.html
+./lyrics/lukefriend/commitments.html
+./lyrics/lukefriend/onedaylikethis.html
+./lyrics/lukefriend/goodtiming.html
+./lyrics/lukefriend/pineacousticcover.html
+./lyrics/lukefriend/sexacousticcover.html
+./lyrics/lukefriend/holdingyouback.html
+./lyrics/lukefriend/dontpanic.html
+./lyrics/lukefriend/fameoftheunfortunategirl.html
+./lyrics/lukefriend/holeinmyheart.html
+./lyrics/lukefriend/takeontheworld.html

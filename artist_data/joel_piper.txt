@@ -1,0 +1,5 @@
+./lyrics/joelpiper/mylittleearthquake.html
+./lyrics/joelpiper/gimmethatlovesong.html
+./lyrics/joelpiper/icouldfall.html
+./lyrics/joelpiper/theonlyone.html
+./lyrics/joelpiper/safetynet.html

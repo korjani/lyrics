@@ -1,0 +1,4 @@
+./lyrics/deanalexander/lifeaintfair.html
+./lyrics/deanalexander/livealittle.html
+./lyrics/deanalexander/lucy.html
+./lyrics/deanalexander/moments.html

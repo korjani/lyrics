@@ -1,0 +1,7 @@
+./lyrics/deepsidedeejays/beautifuldays.html
+./lyrics/deepsidedeejays/holdyou.html
+./lyrics/deepsidedeejays/inmyheart.html
+./lyrics/deepsidedeejays/lookintomyeyes.html
+./lyrics/deepsidedeejays/loveonu.html
+./lyrics/deepsidedeejays/neverbealone.html
+./lyrics/deepsidedeejays/staywithmetonight.html

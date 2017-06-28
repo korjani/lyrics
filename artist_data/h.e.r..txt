@@ -1,0 +1,12 @@
+./lyrics/her/losing.html
+./lyrics/her/waitforit.html
+./lyrics/her/facts.html
+./lyrics/her/u.html
+./lyrics/her/focus.html
+./lyrics/her/jungle.html
+./lyrics/her/pigment.html
+./lyrics/her/everykindofway.html
+./lyrics/her/sayitagain.html
+./lyrics/her/lightson.html
+./lyrics/her/yeahisaiditremix.html
+./lyrics/her/yourway.html

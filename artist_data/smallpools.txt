@@ -1,0 +1,16 @@
+./lyrics/smallpools/americanlove.html
+./lyrics/smallpools/killerwhales.html
+./lyrics/smallpools/dreaming.html
+./lyrics/smallpools/karaoke.html
+./lyrics/smallpools/brucelee.html
+./lyrics/smallpools/masonjar.html
+./lyrics/smallpools/overover.html
+./lyrics/smallpools/lovetap.html
+./lyrics/smallpools/whatsapictureof.html
+./lyrics/smallpools/dyintolive.html
+./lyrics/smallpools/admissiontoyourparty.html
+./lyrics/smallpools/9to5.html
+./lyrics/smallpools/nostorytime.html
+./lyrics/smallpools/submarine.html
+./lyrics/smallpools/arealhero.html
+./lyrics/smallpools/runwiththebulls.html

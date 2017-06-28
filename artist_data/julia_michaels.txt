@@ -1,0 +1,2 @@
+./lyrics/juliamichaels/issues.html
+./lyrics/juliamichaels/uhhuh.html

@@ -1,0 +1,10 @@
+./lyrics/vedo/dussorpatrn.html
+./lyrics/vedo/4walls.html
+./lyrics/vedo/inmyfeelings.html
+./lyrics/vedo/mad.html
+./lyrics/vedo/touchyoukissyou.html
+./lyrics/vedo/changed.html
+./lyrics/vedo/classic.html
+./lyrics/vedo/letsgetmarried.html
+./lyrics/vedo/myboo.html
+./lyrics/vedo/selfish.html

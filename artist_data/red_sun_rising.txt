@@ -1,0 +1,12 @@
+./lyrics/redsunrising/push.html
+./lyrics/redsunrising/amnesia.html
+./lyrics/redsunrising/theotherside.html
+./lyrics/redsunrising/mymuse.html
+./lyrics/redsunrising/emotionless.html
+./lyrics/redsunrising/blister.html
+./lyrics/redsunrising/worldsaway.html
+./lyrics/redsunrising/unnatural.html
+./lyrics/redsunrising/awake.html
+./lyrics/redsunrising/bliss.html
+./lyrics/redsunrising/imitation.html
+./lyrics/redsunrising/uninvited.html

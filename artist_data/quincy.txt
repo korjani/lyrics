@@ -1,0 +1,6 @@
+./lyrics/quincy/latenightflex.html
+./lyrics/quincy/bluedot.html
+./lyrics/quincy/friendsfirst.html
+./lyrics/quincy/recordstraight.html
+./lyrics/quincy/stayawhile.html
+./lyrics/quincy/thefirstthing.html

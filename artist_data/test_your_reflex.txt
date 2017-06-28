@@ -1,0 +1,11 @@
+./lyrics/testyourreflex/imnotsorry.html
+./lyrics/testyourreflex/piecesofthesun.html
+./lyrics/testyourreflex/thinkingofyou.html
+./lyrics/testyourreflex/newyear.html
+./lyrics/testyourreflex/iamalive.html
+./lyrics/testyourreflex/blackhearts.html
+./lyrics/testyourreflex/dowebelong.html
+./lyrics/testyourreflex/iwontfollow.html
+./lyrics/testyourreflex/thisyearifwefallinlove.html
+./lyrics/testyourreflex/iknowyourelonely.html
+./lyrics/testyourreflex/paintedred.html

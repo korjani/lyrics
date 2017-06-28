@@ -1,0 +1,4 @@
+./lyrics/babykaely/copycat.html
+./lyrics/babykaely/crazypeople.html
+./lyrics/babykaely/heaven.html
+./lyrics/babykaely/itsashame.html

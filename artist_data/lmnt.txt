@@ -1,0 +1,14 @@
+./lyrics/lmnt/getitall.html
+./lyrics/lmnt/forgottoforget.html
+./lyrics/lmnt/girlcrazy.html
+./lyrics/lmnt/thebest.html
+./lyrics/lmnt/juliet.html
+./lyrics/lmnt/shangrila.html
+./lyrics/lmnt/keepitcoming.html
+./lyrics/lmnt/holdmedown.html
+./lyrics/lmnt/runninghome.html
+./lyrics/lmnt/itsyourlove.html
+./lyrics/lmnt/greatestgift.html
+./lyrics/lmnt/awholenewworld.html
+./lyrics/lmnt/itsjustyou.html
+./lyrics/lmnt/openyoureyestolove.html

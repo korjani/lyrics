@@ -1,0 +1,9 @@
+./lyrics/nonono/jungle.html
+./lyrics/nonono/likethewind.html
+./lyrics/nonono/pumpinblood.html
+./lyrics/nonono/echo.html
+./lyrics/nonono/onewish.html
+./lyrics/nonono/hungryeyes.html
+./lyrics/nonono/downunder.html
+./lyrics/nonono/firewithoutaflame.html
+./lyrics/nonono/love.html

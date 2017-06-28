@@ -1,0 +1,13 @@
+./lyrics/mattwebb/badgirl.html
+./lyrics/mattwebb/takeyouhigher.html
+./lyrics/mattwebb/cinnamon.html
+./lyrics/mattwebb/goodbyeaddict.html
+./lyrics/mattwebb/runaway.html
+./lyrics/mattwebb/landslide.html
+./lyrics/mattwebb/stageiremember.html
+./lyrics/mattwebb/rightdirection.html
+./lyrics/mattwebb/123.html
+./lyrics/mattwebb/dontturnyourbackonme.html
+./lyrics/mattwebb/heartbreakers.html
+./lyrics/mattwebb/hangtight.html
+./lyrics/mattwebb/luckynumbers.html

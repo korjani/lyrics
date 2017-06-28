@@ -1,0 +1,10 @@
+./lyrics/bishopbriggs/river.html
+./lyrics/bishopbriggs/darkside.html
+./lyrics/bishopbriggs/thewayido.html
+./lyrics/bishopbriggs/wildhorses.html
+./lyrics/bishopbriggs/deadmansarms.html
+./lyrics/bishopbriggs/thefire.html
+./lyrics/bishopbriggs/beyourlove.html
+./lyrics/bishopbriggs/hilohollow.html
+./lyrics/bishopbriggs/mercy.html
+./lyrics/bishopbriggs/prayemptygun.html

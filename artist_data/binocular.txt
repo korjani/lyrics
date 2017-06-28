@@ -1,0 +1,12 @@
+./lyrics/binocular/you.html
+./lyrics/binocular/never.html
+./lyrics/binocular/everythingturns.html
+./lyrics/binocular/deep.html
+./lyrics/binocular/youweretheone.html
+./lyrics/binocular/goneaway.html
+./lyrics/binocular/dontsaygoodbyesaygoodnight.html
+./lyrics/binocular/fireburnsbright.html
+./lyrics/binocular/letmeflysolong.html
+./lyrics/binocular/waituntil.html
+./lyrics/binocular/astheendoftheworld.html
+./lyrics/binocular/paradiseclub.html

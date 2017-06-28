@@ -1,0 +1,2 @@
+./lyrics/anthonylewis/candyrain.html
+./lyrics/anthonylewis/itsnotmyfault.html

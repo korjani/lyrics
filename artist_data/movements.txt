@@ -1,0 +1,9 @@
+./lyrics/movements/kept.html
+./lyrics/movements/nineteen.html
+./lyrics/movements/worstwishes.html
+./lyrics/movements/hatchet.html
+./lyrics/movements/vacanthome.html
+./lyrics/movements/losingfight.html
+./lyrics/movements/buried.html
+./lyrics/movements/protection.html
+./lyrics/movements/scripted.html

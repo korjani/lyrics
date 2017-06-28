@@ -1,0 +1,12 @@
+./lyrics/runnerrunner/soobvious.html
+./lyrics/runnerrunner/unstoppable.html
+./lyrics/runnerrunner/papercuts.html
+./lyrics/runnerrunner/heartattack.html
+./lyrics/runnerrunner/heyalli.html
+./lyrics/runnerrunner/lifeafteryou.html
+./lyrics/runnerrunner/falling.html
+./lyrics/runnerrunner/shesmykindagirl.html
+./lyrics/runnerrunner/dedicate.html
+./lyrics/runnerrunner/icantwait.html
+./lyrics/runnerrunner/seeyouaround.html
+./lyrics/runnerrunner/runningaway.html

@@ -1,0 +1,13 @@
+./lyrics/romanlob/calloutthesun.html
+./lyrics/romanlob/dreamon.html
+./lyrics/romanlob/standingstill.html
+./lyrics/romanlob/alone.html
+./lyrics/romanlob/changes.html
+./lyrics/romanlob/flying.html
+./lyrics/romanlob/makeyousmile.html
+./lyrics/romanlob/daybyday.html
+./lyrics/romanlob/aftertonight.html
+./lyrics/romanlob/somethingstupid.html
+./lyrics/romanlob/firsttime.html
+./lyrics/romanlob/conflicted.html
+./lyrics/romanlob/revolution.html

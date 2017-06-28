@@ -1,0 +1,13 @@
+./lyrics/jrcastro/rockwitcha.html
+./lyrics/jrcastro/loveyoudown.html
+./lyrics/jrcastro/cupid.html
+./lyrics/jrcastro/oohthisloveisso.html
+./lyrics/jrcastro/theydontknow.html
+./lyrics/jrcastro/diffrentstrokes.html
+./lyrics/jrcastro/fmn.html
+./lyrics/jrcastro/gethomegetright.html
+./lyrics/jrcastro/holdudown.html
+./lyrics/jrcastro/mob.html
+./lyrics/jrcastro/neverbethesame.html
+./lyrics/jrcastro/rightaway.html
+./lyrics/jrcastro/thatshitgoupdown.html

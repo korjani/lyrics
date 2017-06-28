@@ -1,0 +1,7 @@
+./lyrics/ducksauce/chariotsofthegods.html
+./lyrics/ducksauce/itsyou.html
+./lyrics/ducksauce/goodytwoshoes.html
+./lyrics/ducksauce/anyway.html
+./lyrics/ducksauce/nrg.html
+./lyrics/ducksauce/barbrastreisand.html
+./lyrics/ducksauce/bigbadwolf.html

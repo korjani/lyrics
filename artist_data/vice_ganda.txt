@@ -1,0 +1,8 @@
+./lyrics/viceganda/angkulit.html
+./lyrics/viceganda/ayokonasayo.html
+./lyrics/viceganda/dahilmahalnamahalkita.html
+./lyrics/viceganda/hindisiyakundiako.html
+./lyrics/viceganda/karakaraka.html
+./lyrics/viceganda/manhidka.html
+./lyrics/viceganda/palongpalo.html
+./lyrics/viceganda/wagkangpabebe.html

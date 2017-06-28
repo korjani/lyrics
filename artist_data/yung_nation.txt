@@ -1,0 +1,4 @@
+./lyrics/yungnation/clubrock.html
+./lyrics/yungnation/pimp.html
+./lyrics/yungnation/shawtywassup.html
+./lyrics/yungnation/verycruical.html

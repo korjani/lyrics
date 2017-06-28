@@ -1,0 +1,6 @@
+./lyrics/alexturner/stuckonthepuzzleintro.html
+./lyrics/alexturner/hidingtonight.html
+./lyrics/alexturner/glassinthepark.html
+./lyrics/alexturner/itshardtogetaroundthewind.html
+./lyrics/alexturner/stuckonthepuzzle.html
+./lyrics/alexturner/piledriverwaltz.html

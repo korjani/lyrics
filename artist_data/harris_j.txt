@@ -1,0 +1,13 @@
+./lyrics/harrisj/salamalaikum.html
+./lyrics/harrisj/goodlife.html
+./lyrics/harrisj/rasoolallah.html
+./lyrics/harrisj/ipromise.html
+./lyrics/harrisj/theone.html
+./lyrics/harrisj/worthit.html
+./lyrics/harrisj/lovewhoyouare.html
+./lyrics/harrisj/eidmubarak.html
+./lyrics/harrisj/letmebreathe.html
+./lyrics/harrisj/paradise.html
+./lyrics/harrisj/myhero.html
+./lyrics/harrisj/youaremylife.html
+./lyrics/harrisj/savemefrommyself.html

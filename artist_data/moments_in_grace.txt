@@ -1,0 +1,16 @@
+./lyrics/momentsingrace/stratus.html
+./lyrics/momentsingrace/thepatient.html
+./lyrics/momentsingrace/brokenpromises.html
+./lyrics/momentsingrace/mydyingday.html
+./lyrics/momentsingrace/wefeelthesongs.html
+./lyrics/momentsingrace/mystunningbride.html
+./lyrics/momentsingrace/monologue.html
+./lyrics/momentsingrace/distantandlonginglight.html
+./lyrics/momentsingrace/theblurringlinesofloss.html
+./lyrics/momentsingrace/noangles.html
+./lyrics/momentsingrace/dontleave.html
+./lyrics/momentsingrace/thepast.html
+./lyrics/momentsingrace/stratus.html
+./lyrics/momentsingrace/brokenpromises.html
+./lyrics/momentsingrace/curtaincall.html
+./lyrics/momentsingrace/thesilencingtruth.html

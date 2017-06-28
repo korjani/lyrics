@@ -1,0 +1,5 @@
+./lyrics/frankie/newobsession.html
+./lyrics/frankie/problemsproblems.html
+./lyrics/frankie/blackout.html
+./lyrics/frankie/gold.html
+./lyrics/frankie/chaos.html

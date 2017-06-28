@@ -1,0 +1,12 @@
+./lyrics/caughtaghost/nosugarinmycoffee.html
+./lyrics/caughtaghost/sleepingatnight.html
+./lyrics/caughtaghost/humannature.html
+./lyrics/caughtaghost/timego.html
+./lyrics/caughtaghost/uuu.html
+./lyrics/caughtaghost/cantletgo.html
+./lyrics/caughtaghost/holdout.html
+./lyrics/caughtaghost/connected.html
+./lyrics/caughtaghost/somehow.html
+./lyrics/caughtaghost/nothingforyouhere.html
+./lyrics/caughtaghost/getyourlife.html
+./lyrics/caughtaghost/likenoone.html

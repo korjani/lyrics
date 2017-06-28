@@ -1,0 +1,8 @@
+./lyrics/upchurch/cheathamcounty.html
+./lyrics/upchurch/kickitup.html
+./lyrics/upchurch/comeandgetit.html
+./lyrics/upchurch/tennesseetilt.html
+./lyrics/upchurch/bulletproof.html
+./lyrics/upchurch/deepinsidethestix.html
+./lyrics/upchurch/sheisalittlecountry.html
+./lyrics/upchurch/rollingstoned.html

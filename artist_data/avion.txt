@@ -1,0 +1,13 @@
+./lyrics/avion/wouldyounotice.html
+./lyrics/avion/beautiful.html
+./lyrics/avion/sevendayswithoutyou.html
+./lyrics/avion/loved.html
+./lyrics/avion/perfectfromnowon.html
+./lyrics/avion/whereareyounow.html
+./lyrics/avion/startingover.html
+./lyrics/avion/bulletproofglow.html
+./lyrics/avion/itallfallsbackonme.html
+./lyrics/avion/trinidadandadc10.html
+./lyrics/avion/whenibreathe.html
+./lyrics/avion/loveishereagain.html
+./lyrics/avion/thebestisyettocome.html

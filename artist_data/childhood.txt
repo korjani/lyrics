@@ -1,0 +1,10 @@
+./lyrics/childhood/bluevelvet.html
+./lyrics/childhood/youcouldbedifferent.html
+./lyrics/childhood/asiam.html
+./lyrics/childhood/rightbeneathme.html
+./lyrics/childhood/fallsaway.html
+./lyrics/childhood/solemnskies.html
+./lyrics/childhood/chiliad.html
+./lyrics/childhood/whenyourise.html
+./lyrics/childhood/pinballs.html
+./lyrics/childhood/haltija.html

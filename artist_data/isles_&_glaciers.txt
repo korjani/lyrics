@@ -1,0 +1,5 @@
+./lyrics/islesglaciers/hillslikewhiteelephants.html
+./lyrics/islesglaciers/clush.html
+./lyrics/islesglaciers/emptysighsandwine.html
+./lyrics/islesglaciers/violalion.html
+./lyrics/islesglaciers/cemeteryweather.html

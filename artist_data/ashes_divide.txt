@@ -1,0 +1,11 @@
+./lyrics/ashesdivide/strippedaway.html
+./lyrics/ashesdivide/denialwaits.html
+./lyrics/ashesdivide/toolate.html
+./lyrics/ashesdivide/forevercanbe.html
+./lyrics/ashesdivide/defamed.html
+./lyrics/ashesdivide/enemies.html
+./lyrics/ashesdivide/awish.html
+./lyrics/ashesdivide/ritual.html
+./lyrics/ashesdivide/thestone.html
+./lyrics/ashesdivide/theprey.html
+./lyrics/ashesdivide/sword.html

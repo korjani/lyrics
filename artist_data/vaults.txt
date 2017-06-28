@@ -1,0 +1,17 @@
+./lyrics/vaults/vultures.html
+./lyrics/vaults/poison.html
+./lyrics/vaults/mendthislove.html
+./lyrics/vaults/crynomore.html
+./lyrics/vaults/premonitions.html
+./lyrics/vaults/midnightriver.html
+./lyrics/vaults/onelastnight.html
+./lyrics/vaults/poison.html
+./lyrics/vaults/paradise.html
+./lyrics/vaults/bodies.html
+./lyrics/vaults/hurricane.html
+./lyrics/vaults/overcome.html
+./lyrics/vaults/lifespan.html
+./lyrics/vaults/orphan.html
+./lyrics/vaults/bloodflow.html
+./lyrics/vaults/onedayillflyaway.html
+./lyrics/vaults/losinggame.html

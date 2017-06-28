@@ -1,0 +1,9 @@
+./lyrics/charleskelley/yourlove.html
+./lyrics/charleskelley/thedriver.html
+./lyrics/charleskelley/dancingaroundit.html
+./lyrics/charleskelley/southernaccents.html
+./lyrics/charleskelley/lonelygirl.html
+./lyrics/charleskelley/theonlyonewhogetsme.html
+./lyrics/charleskelley/roundincircles.html
+./lyrics/charleskelley/iwishyouwerehere.html
+./lyrics/charleskelley/leavingnashville.html

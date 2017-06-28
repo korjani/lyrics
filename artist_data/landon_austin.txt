@@ -1,0 +1,8 @@
+./lyrics/landonaustin/readyforanything.html
+./lyrics/landonaustin/onceinalifetime.html
+./lyrics/landonaustin/stoptime.html
+./lyrics/landonaustin/whereweusedtorun.html
+./lyrics/landonaustin/armor.html
+./lyrics/landonaustin/smile.html
+./lyrics/landonaustin/stealmygirl.html
+./lyrics/landonaustin/sundress.html

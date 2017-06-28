@@ -1,0 +1,5 @@
+./lyrics/astonmerrygold/thefavourite.html
+./lyrics/astonmerrygold/getstupid.html
+./lyrics/astonmerrygold/iaintmissingyou.html
+./lyrics/astonmerrygold/onenightinparis.html
+./lyrics/astonmerrygold/toolate.html

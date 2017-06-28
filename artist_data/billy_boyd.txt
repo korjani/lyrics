@@ -1,0 +1,2 @@
+./lyrics/billyboyd/thelastgoodbye.html
+./lyrics/billyboyd/thestewardofgondor.html

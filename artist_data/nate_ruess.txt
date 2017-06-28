@@ -1,0 +1,12 @@
+./lyrics/nateruess/grandromanticintro.html
+./lyrics/nateruess/ahha.html
+./lyrics/nateruess/nothingwithoutlove.html
+./lyrics/nateruess/takeitback.html
+./lyrics/nateruess/youlightmyfire.html
+./lyrics/nateruess/whatthisworldiscomingto.html
+./lyrics/nateruess/greatbigstorm.html
+./lyrics/nateruess/moment.html
+./lyrics/nateruess/itonlygetsmuchworse.html
+./lyrics/nateruess/grandromantic.html
+./lyrics/nateruess/harshlight.html
+./lyrics/nateruess/brightside.html

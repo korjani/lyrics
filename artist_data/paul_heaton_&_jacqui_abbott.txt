@@ -1,0 +1,4 @@
+./lyrics/paulheatonjacquiabbott/mouldingofafool.html
+./lyrics/paulheatonjacquiabbott/diy.html
+./lyrics/paulheatonjacquiabbott/somedancingtodo.html
+./lyrics/paulheatonjacquiabbott/whenitwasours.html

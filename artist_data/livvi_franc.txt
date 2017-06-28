@@ -1,0 +1,3 @@
+./lyrics/livvifranc/automatik.html
+./lyrics/livvifranc/bemine.html
+./lyrics/livvifranc/nowimthatbitch.html

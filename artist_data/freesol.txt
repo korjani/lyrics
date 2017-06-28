@@ -1,0 +1,4 @@
+./lyrics/freesol/dontgiveitaway.html
+./lyrics/freesol/fascinated.html
+./lyrics/freesol/fastcars.html
+./lyrics/freesol/rolemodel.html

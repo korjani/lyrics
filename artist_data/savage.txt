@@ -1,0 +1,5 @@
+./lyrics/savage/hotlikefire.html
+./lyrics/savage/moonshine.html
+./lyrics/savage/swing.html
+./lyrics/savage/theydontknow.html
+./lyrics/savage/wildoutchooohooo.html

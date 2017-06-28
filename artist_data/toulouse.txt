@@ -1,0 +1,4 @@
+./lyrics/toulouse/iwillfollowyou.html
+./lyrics/toulouse/itiswell.html
+./lyrics/toulouse/norunningfromme.html
+./lyrics/toulouse/soiknowyoucare.html

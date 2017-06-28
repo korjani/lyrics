@@ -1,0 +1,3 @@
+./lyrics/bandojonez/feelme.html
+./lyrics/bandojonez/sexyou.html
+./lyrics/bandojonez/sexyouremix.html

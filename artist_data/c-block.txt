@@ -1,0 +1,12 @@
+./lyrics/cblock/lookingtothesky.html
+./lyrics/cblock/timeistickinaway.html
+./lyrics/cblock/roundnround.html
+./lyrics/cblock/everythingsgood.html
+./lyrics/cblock/summertime.html
+./lyrics/cblock/sostrungout.html
+./lyrics/cblock/beingraised.html
+./lyrics/cblock/brokenwings.html
+./lyrics/cblock/eternalgrace.html
+./lyrics/cblock/keepmovin.html
+./lyrics/cblock/thefutureissobright.html
+./lyrics/cblock/youwinagain.html

@@ -1,0 +1,2 @@
+./lyrics/ayyan/earthquake.html
+./lyrics/ayyan/youandi.html

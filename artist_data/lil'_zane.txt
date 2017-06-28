@@ -1,0 +1,14 @@
+./lyrics/lilzane/topdown.html
+./lyrics/lilzane/money.html
+./lyrics/lilzane/callinme.html
+./lyrics/lilzane/whatmustido.html
+./lyrics/lilzane/diefamous.html
+./lyrics/lilzane/partnerscomealongtoo.html
+./lyrics/lilzane/nonetonight.html
+./lyrics/lilzane/rideonem.html
+./lyrics/lilzane/thewaysoftheworld.html
+./lyrics/lilzane/whatsup.html
+./lyrics/lilzane/youmustreallyloveme.html
+./lyrics/lilzane/toohottostop.html
+./lyrics/lilzane/beautifulfeelin.html
+./lyrics/lilzane/hardball.html

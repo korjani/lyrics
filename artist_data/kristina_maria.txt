@@ -1,0 +1,16 @@
+./lyrics/kristinamaria/letsplay.html
+./lyrics/kristinamaria/karma.html
+./lyrics/kristinamaria/webelongtogether.html
+./lyrics/kristinamaria/oursongcomeson.html
+./lyrics/kristinamaria/copilot.html
+./lyrics/kristinamaria/iwannatelltheworld.html
+./lyrics/kristinamaria/animal.html
+./lyrics/kristinamaria/understatement.html
+./lyrics/kristinamaria/run.html
+./lyrics/kristinamaria/fmlx2.html
+./lyrics/kristinamaria/itsyou.html
+./lyrics/kristinamaria/banguup.html
+./lyrics/kristinamaria/fmlfuckupmylife.html
+./lyrics/kristinamaria/movelikeasoldier.html
+./lyrics/kristinamaria/wherethesundontshine.html
+./lyrics/kristinamaria/youdonthavetherighttocry.html

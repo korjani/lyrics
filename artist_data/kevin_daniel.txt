@@ -1,0 +1,3 @@
+./lyrics/kevindaniel/betterthangold.html
+./lyrics/kevindaniel/guarded.html
+./lyrics/kevindaniel/stay.html

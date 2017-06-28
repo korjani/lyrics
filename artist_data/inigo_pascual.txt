@@ -1,0 +1,8 @@
+./lyrics/inigopascual/dahilsayo.html
+./lyrics/inigopascual/binibini.html
+./lyrics/inigopascual/dito.html
+./lyrics/inigopascual/fallen.html
+./lyrics/inigopascual/ikawatako.html
+./lyrics/inigopascual/livelifebrighter.html
+./lyrics/inigopascual/ditoacousticversion.html
+./lyrics/inigopascual/lullabyebye.html

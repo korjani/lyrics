@@ -1,0 +1,15 @@
+./lyrics/diamondrings/playbyheart.html
+./lyrics/diamondrings/waitsee.html
+./lyrics/diamondrings/youme.html
+./lyrics/diamondrings/giveitup.html
+./lyrics/diamondrings/somethingelse.html
+./lyrics/diamondrings/itsnotmyparty.html
+./lyrics/diamondrings/allyrsongs.html
+./lyrics/diamondrings/everythingspeaks.html
+./lyrics/diamondrings/allthetime.html
+./lyrics/diamondrings/runawaylove.html
+./lyrics/diamondrings/putmeon.html
+./lyrics/diamondrings/imjustme.html
+./lyrics/diamondrings/atoz.html
+./lyrics/diamondrings/standmyground.html
+./lyrics/diamondrings/daynight.html

@@ -1,0 +1,3 @@
+./lyrics/annamargaret/letitsnow.html
+./lyrics/annamargaret/newboyfriend.html
+./lyrics/annamargaret/somethingaboutthesunshine.html

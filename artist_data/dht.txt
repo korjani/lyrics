@@ -1,0 +1,11 @@
+./lyrics/dht/listentoyourheart.html
+./lyrics/dht/igocrazy.html
+./lyrics/dht/atseventeen.html
+./lyrics/dht/imissyou.html
+./lyrics/dht/someone.html
+./lyrics/dht/driversseat.html
+./lyrics/dht/icantbeyourfriend.html
+./lyrics/dht/mydream.html
+./lyrics/dht/sun.html
+./lyrics/dht/why.html
+./lyrics/dht/depressed.html

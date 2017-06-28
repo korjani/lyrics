@@ -1,0 +1,2 @@
+./lyrics/georgeshelley/360.html
+./lyrics/georgeshelley/scars.html

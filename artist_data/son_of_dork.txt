@@ -1,0 +1,11 @@
+./lyrics/sonofdork/ticketouttaloserville.html
+./lyrics/sonofdork/eddiessong.html
+./lyrics/sonofdork/littlethings.html
+./lyrics/sonofdork/partysover.html
+./lyrics/sonofdork/boyband.html
+./lyrics/sonofdork/sick.html
+./lyrics/sonofdork/slacker.html
+./lyrics/sonofdork/hollyimtheone.html
+./lyrics/sonofdork/wearmedown.html
+./lyrics/sonofdork/murderedinthemosh.html
+./lyrics/sonofdork/werenotalone.html

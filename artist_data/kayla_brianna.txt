@@ -1,0 +1,4 @@
+./lyrics/kayla-brianna/doyouremember.html
+./lyrics/kayla-brianna/igotthat.html
+./lyrics/kayla-brianna/luck.html
+./lyrics/kayla-brianna/workforit.html

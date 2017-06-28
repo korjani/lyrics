@@ -1,0 +1,17 @@
+./lyrics/kiesza/hideaway.html
+./lyrics/kiesza/noenemiesz.html
+./lyrics/kiesza/losinmymind.html
+./lyrics/kiesza/sodeep.html
+./lyrics/kiesza/vietnam.html
+./lyrics/kiesza/badthing.html
+./lyrics/kiesza/whatislove.html
+./lyrics/kiesza/soundofawoman.html
+./lyrics/kiesza/thelove.html
+./lyrics/kiesza/piano.html
+./lyrics/kiesza/giantinmyheart.html
+./lyrics/kiesza/overmyself.html
+./lyrics/kiesza/cutmeloose.html
+./lyrics/kiesza/cannonball.html
+./lyrics/kiesza/dearlybeloved.html
+./lyrics/kiesza/giveittothemoment.html
+./lyrics/kiesza/stronger.html

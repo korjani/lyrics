@@ -1,0 +1,11 @@
+./lyrics/gemmafox/girlfriendsstory.html
+./lyrics/gemmafox/rolesreverse.html
+./lyrics/gemmafox/crazy.html
+./lyrics/gemmafox/gone.html
+./lyrics/gemmafox/goodman.html
+./lyrics/gemmafox/loveme.html
+./lyrics/gemmafox/backintheday.html
+./lyrics/gemmafox/daddyskit.html
+./lyrics/gemmafox/superstar.html
+./lyrics/gemmafox/bestfriendsman.html
+./lyrics/gemmafox/hurtingme.html

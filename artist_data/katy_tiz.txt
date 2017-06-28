@@ -1,0 +1,6 @@
+./lyrics/katytiz/famous.html
+./lyrics/katytiz/heart.html
+./lyrics/katytiz/idontgivea.html
+./lyrics/katytiz/redcup.html
+./lyrics/katytiz/thebigbang.html
+./lyrics/katytiz/whistlewhileyouworkit.html

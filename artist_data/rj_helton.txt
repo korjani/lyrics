@@ -1,0 +1,12 @@
+./lyrics/rjhelton/evenif.html
+./lyrics/rjhelton/mydevotion.html
+./lyrics/rjhelton/lovesong.html
+./lyrics/rjhelton/allweneedtoknow.html
+./lyrics/rjhelton/freedom.html
+./lyrics/rjhelton/tellme.html
+./lyrics/rjhelton/whydontwepray.html
+./lyrics/rjhelton/delicatechild.html
+./lyrics/rjhelton/forgive.html
+./lyrics/rjhelton/crazy.html
+./lyrics/rjhelton/missingme.html
+./lyrics/rjhelton/cantodeamor.html

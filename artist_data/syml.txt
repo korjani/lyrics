@@ -1,0 +1,8 @@
+./lyrics/syml/hurtforme.html
+./lyrics/syml/wheresmylove.html
+./lyrics/syml/better.html
+./lyrics/syml/leavelikethat.html
+./lyrics/syml/risingupsidedown.html
+./lyrics/syml/fearofthewater.html
+./lyrics/syml/mrsandman.html
+./lyrics/syml/thewar.html

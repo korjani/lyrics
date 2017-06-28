@@ -1,0 +1,10 @@
+./lyrics/jeffreyjames/imwideawake.html
+./lyrics/jeffreyjames/carryyou.html
+./lyrics/jeffreyjames/badwoman.html
+./lyrics/jeffreyjames/harddayswork.html
+./lyrics/jeffreyjames/allineedisyou.html
+./lyrics/jeffreyjames/bothways.html
+./lyrics/jeffreyjames/runningaway.html
+./lyrics/jeffreyjames/handgrenade.html
+./lyrics/jeffreyjames/bothwaysliveacoustic.html
+./lyrics/jeffreyjames/runningawayliveacoustic.html

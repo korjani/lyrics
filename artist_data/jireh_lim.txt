@@ -1,0 +1,12 @@
+./lyrics/jirehlim/buko.html
+./lyrics/jirehlim/buwelo.html
+./lyrics/jirehlim/dahan.html
+./lyrics/jirehlim/distance.html
+./lyrics/jirehlim/magkabilangmundo.html
+./lyrics/jirehlim/onceuponatime.html
+./lyrics/jirehlim/pagsuko.html
+./lyrics/jirehlim/pananagutan.html
+./lyrics/jirehlim/pisngi.html
+./lyrics/jirehlim/shareyourworld.html
+./lyrics/jirehlim/singsing.html
+./lyrics/jirehlim/sinongnagbago.html

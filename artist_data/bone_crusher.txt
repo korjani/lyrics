@@ -1,0 +1,11 @@
+./lyrics/bonecrusher/lockload.html
+./lyrics/bonecrusher/neverscared.html
+./lyrics/bonecrusher/grippinthegrain.html
+./lyrics/bonecrusher/itsmelanetolane.html
+./lyrics/bonecrusher/forthestreets.html
+./lyrics/bonecrusher/hateourselves.html
+./lyrics/bonecrusher/thewall.html
+./lyrics/bonecrusher/neverscaredremix.html
+./lyrics/bonecrusher/danger.html
+./lyrics/bonecrusher/southerngorillaz.html
+./lyrics/bonecrusher/takeyaclothesoff.html

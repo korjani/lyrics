@@ -1,0 +1,15 @@
+./lyrics/valora/iwaitedforyou.html
+./lyrics/valora/extreme.html
+./lyrics/valora/live.html
+./lyrics/valora/forgotten.html
+./lyrics/valora/youmakeitok.html
+./lyrics/valora/ilikewhatyouredoing.html
+./lyrics/valora/betterwhenyoudontknowbetter.html
+./lyrics/valora/irreversible.html
+./lyrics/valora/lifehungover.html
+./lyrics/valora/nomatterwhat.html
+./lyrics/valora/summerstay.html
+./lyrics/valora/canyousavemenow.html
+./lyrics/valora/electricangel.html
+./lyrics/valora/letsbebad.html
+./lyrics/valora/react.html

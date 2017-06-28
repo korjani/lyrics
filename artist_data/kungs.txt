@@ -1,0 +1,11 @@
+./lyrics/kungs/melody.html
+./lyrics/kungs/thisgirl.html
+./lyrics/kungs/dontyouknow.html
+./lyrics/kungs/youremain.html
+./lyrics/kungs/freedom.html
+./lyrics/kungs/whenyouregone.html
+./lyrics/kungs/bangalorestreets.html
+./lyrics/kungs/trippingoff.html
+./lyrics/kungs/ifeelsobad.html
+./lyrics/kungs/crazyenough.html
+./lyrics/kungs/trust.html

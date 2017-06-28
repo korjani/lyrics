@@ -1,0 +1,12 @@
+./lyrics/manniefresh/conversation.html
+./lyrics/manniefresh/chubbyboy.html
+./lyrics/manniefresh/waynestakeover.html
+./lyrics/manniefresh/pussypower.html
+./lyrics/manniefresh/wefresh.html
+./lyrics/manniefresh/gowithme.html
+./lyrics/manniefresh/waynestakeover2.html
+./lyrics/manniefresh/howweride.html
+./lyrics/manniefresh/realbig.html
+./lyrics/manniefresh/tellitlikeitis.html
+./lyrics/manniefresh/dayinthelifecadillacdoors.html
+./lyrics/manniefresh/hate.html

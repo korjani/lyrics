@@ -1,0 +1,2 @@
+./lyrics/coocoocal/dedication.html
+./lyrics/coocoocal/myprojects.html

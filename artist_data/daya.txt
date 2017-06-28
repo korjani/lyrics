@@ -1,0 +1,14 @@
+./lyrics/daya/dare.html
+./lyrics/daya/legendary.html
+./lyrics/daya/icymi.html
+./lyrics/daya/thirsty.html
+./lyrics/daya/loveofmylife.html
+./lyrics/daya/hideaway.html
+./lyrics/daya/cool.html
+./lyrics/daya/sitstilllookpretty.html
+./lyrics/daya/talk.html
+./lyrics/daya/u12.html
+./lyrics/daya/words.html
+./lyrics/daya/backtome.html
+./lyrics/daya/gotthefeeling.html
+./lyrics/daya/weare.html

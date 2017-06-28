@@ -1,0 +1,15 @@
+./lyrics/arkarna/houseonfire.html
+./lyrics/arkarna/eatme.html
+./lyrics/arkarna/thefuturesoverrated.html
+./lyrics/arkarna/solittletime.html
+./lyrics/arkarna/blockcapital.html
+./lyrics/arkarna/bornyesterdaypart1.html
+./lyrics/arkarna/bornyesterdaypart2.html
+./lyrics/arkarna/peaceofmind.html
+./lyrics/arkarna/directdubit.html
+./lyrics/arkarna/rehab.html
+./lyrics/arkarna/lifeisfree.html
+./lyrics/arkarna/stoned.html
+./lyrics/arkarna/partnersincrime.html
+./lyrics/arkarna/yourpyscho.html
+./lyrics/arkarna/somebodyelsessong.html

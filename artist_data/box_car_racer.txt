@@ -1,0 +1,12 @@
+./lyrics/boxcarracer/ifeelso.html
+./lyrics/boxcarracer/allsystemsgo.html
+./lyrics/boxcarracer/watchtheworld.html
+./lyrics/boxcarracer/tinyvoices.html
+./lyrics/boxcarracer/catlikethief.html
+./lyrics/boxcarracer/andi.html
+./lyrics/boxcarracer/letterstogod.html
+./lyrics/boxcarracer/myfirstpunksong.html
+./lyrics/boxcarracer/sorrow.html
+./lyrics/boxcarracer/thereis.html
+./lyrics/boxcarracer/theendwithyou.html
+./lyrics/boxcarracer/elevator.html

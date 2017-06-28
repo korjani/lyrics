@@ -1,0 +1,9 @@
+./lyrics/dbanj/donttellmenonsense.html
+./lyrics/dbanj/emergency.html
+./lyrics/dbanj/fallinlove.html
+./lyrics/dbanj/feelingtheniggaremix.html
+./lyrics/dbanj/finally.html
+./lyrics/dbanj/igwe.html
+./lyrics/dbanj/olivertwist.html
+./lyrics/dbanj/olorunmaje.html
+./lyrics/dbanj/whyme.html

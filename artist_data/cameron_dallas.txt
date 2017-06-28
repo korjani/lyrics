@@ -1,0 +1,2 @@
+./lyrics/camerondallas/shebad.html
+./lyrics/camerondallas/takeyou.html

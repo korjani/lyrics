@@ -1,0 +1,9 @@
+./lyrics/kevinfederline/theworldismine.html
+./lyrics/kevinfederline/americasmosthated.html
+./lyrics/kevinfederline/snap.html
+./lyrics/kevinfederline/losecontrol.html
+./lyrics/kevinfederline/privilege.html
+./lyrics/kevinfederline/crazy.html
+./lyrics/kevinfederline/leagueofmyown.html
+./lyrics/kevinfederline/caughtup.html
+./lyrics/kevinfederline/popozo.html

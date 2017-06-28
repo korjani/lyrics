@@ -1,0 +1,5 @@
+./lyrics/shannontaylor/pushingdaisies.html
+./lyrics/shannontaylor/emergencyalert.html
+./lyrics/shannontaylor/twofaced.html
+./lyrics/shannontaylor/allatonce.html
+./lyrics/shannontaylor/skinandbones.html

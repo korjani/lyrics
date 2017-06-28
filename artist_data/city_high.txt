@@ -1,0 +1,15 @@
+./lyrics/cityhigh/didntya.html
+./lyrics/cityhigh/3way.html
+./lyrics/cityhigh/why.html
+./lyrics/cityhigh/songforyou.html
+./lyrics/cityhigh/15willgetyou20.html
+./lyrics/cityhigh/catsanddogs.html
+./lyrics/cityhigh/caramel.html
+./lyrics/cityhigh/bestfriend.html
+./lyrics/cityhigh/sista.html
+./lyrics/cityhigh/whatwouldyoudo.html
+./lyrics/cityhigh/somanythings.html
+./lyrics/cityhigh/theonlyoneitrust.html
+./lyrics/cityhigh/cityhighanthem.html
+./lyrics/cityhigh/youdontknowme.html
+./lyrics/cityhigh/caramelremix.html

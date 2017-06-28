@@ -1,0 +1,10 @@
+./lyrics/cherrymonroe/bandages.html
+./lyrics/cherrymonroe/atthestars.html
+./lyrics/cherrymonroe/satellites.html
+./lyrics/cherrymonroe/cantexplain.html
+./lyrics/cherrymonroe/anything.html
+./lyrics/cherrymonroe/ifyougo.html
+./lyrics/cherrymonroe/painkillers.html
+./lyrics/cherrymonroe/gone.html
+./lyrics/cherrymonroe/down.html
+./lyrics/cherrymonroe/crazylove.html

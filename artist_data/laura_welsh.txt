@@ -1,0 +1,15 @@
+./lyrics/laurawelsh/softcontrol.html
+./lyrics/laurawelsh/ghosts.html
+./lyrics/laurawelsh/breakthefall.html
+./lyrics/laurawelsh/unravel.html
+./lyrics/laurawelsh/godkeeps.html
+./lyrics/laurawelsh/coldfront.html
+./lyrics/laurawelsh/hardestpart.html
+./lyrics/laurawelsh/stilllife.html
+./lyrics/laurawelsh/breathemein.html
+./lyrics/laurawelsh/calltoarms.html
+./lyrics/laurawelsh/hollowdrum.html
+./lyrics/laurawelsh/betrayal.html
+./lyrics/laurawelsh/fallingforyou.html
+./lyrics/laurawelsh/hereforyou.html
+./lyrics/laurawelsh/undiscovered.html

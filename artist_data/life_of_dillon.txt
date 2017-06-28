@@ -1,0 +1,8 @@
+./lyrics/lifeofdillon/overload.html
+./lyrics/lifeofdillon/dreams.html
+./lyrics/lifeofdillon/toys.html
+./lyrics/lifeofdillon/bluebirds.html
+./lyrics/lifeofdillon/littlebitosoul.html
+./lyrics/lifeofdillon/focus.html
+./lyrics/lifeofdillon/rocks.html
+./lyrics/lifeofdillon/sexforbreakfast.html

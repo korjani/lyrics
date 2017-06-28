@@ -1,0 +1,16 @@
+./lyrics/louane/jour1.html
+./lyrics/louane/avenir.html
+./lyrics/louane/maman.html
+./lyrics/louane/jeune.html
+./lyrics/louane/tourne.html
+./lyrics/louane/chambre12.html
+./lyrics/louane/tranquille.html
+./lyrics/louane/alien.html
+./lyrics/louane/nous.html
+./lyrics/louane/ducourage.html
+./lyrics/louane/lafuite.html
+./lyrics/louane/jevole.html
+./lyrics/louane/lamretiti.html
+./lyrics/louane/incontrlable.html
+./lyrics/louane/resterseule.html
+./lyrics/louane/jevaistaimer.html

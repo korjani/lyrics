@@ -1,0 +1,4 @@
+./lyrics/natalielarose/aroundtheworld.html
+./lyrics/natalielarose/rollercoaster.html
+./lyrics/natalielarose/somebody.html
+./lyrics/natalielarose/somebodyremix.html

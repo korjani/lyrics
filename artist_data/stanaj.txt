@@ -1,0 +1,9 @@
+./lyrics/stanaj/romantic.html
+./lyrics/stanaj/sleepalone.html
+./lyrics/stanaj/aintlovestrange.html
+./lyrics/stanaj/goddess.html
+./lyrics/stanaj/changed.html
+./lyrics/stanaj/meanttobe.html
+./lyrics/stanaj/badwoman.html
+./lyrics/stanaj/findme.html
+./lyrics/stanaj/romanticnotdremix.html

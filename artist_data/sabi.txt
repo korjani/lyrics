@@ -1,0 +1,7 @@
+./lyrics/sabi/calilove.html
+./lyrics/sabi/lovesounds.html
+./lyrics/sabi/bothofus.html
+./lyrics/sabi/champagne.html
+./lyrics/sabi/goodnight.html
+./lyrics/sabi/wheretheydothatat.html
+./lyrics/sabi/wildheart.html

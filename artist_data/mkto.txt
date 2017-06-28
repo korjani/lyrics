@@ -1,0 +1,17 @@
+./lyrics/mkto/thankyou.html
+./lyrics/mkto/classic.html
+./lyrics/mkto/godonlyknows.html
+./lyrics/mkto/americandream.html
+./lyrics/mkto/couldbeme.html
+./lyrics/mkto/foreveruntiltomorrow.html
+./lyrics/mkto/wasted.html
+./lyrics/mkto/heartbreakholiday.html
+./lyrics/mkto/nowhere.html
+./lyrics/mkto/nomoresecondchances.html
+./lyrics/mkto/goodbyesong.html
+./lyrics/mkto/badgirls.html
+./lyrics/mkto/afraidofthedark.html
+./lyrics/mkto/monaco.html
+./lyrics/mkto/justimagineit.html
+./lyrics/mkto/handsoffmyheartplacesyougo.html
+./lyrics/mkto/superstitious.html

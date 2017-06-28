@@ -1,0 +1,7 @@
+./lyrics/somekindawonderful/police.html
+./lyrics/somekindawonderful/hardfordays.html
+./lyrics/somekindawonderful/honeymoon.html
+./lyrics/somekindawonderful/reverse.html
+./lyrics/somekindawonderful/inchains.html
+./lyrics/somekindawonderful/burn.html
+./lyrics/somekindawonderful/californialove.html

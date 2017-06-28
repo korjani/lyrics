@@ -1,0 +1,12 @@
+./lyrics/xov/lucifer.html
+./lyrics/xov/bloodhoney.html
+./lyrics/xov/animal.html
+./lyrics/xov/boysdontcry.html
+./lyrics/xov/wild.html
+./lyrics/xov/money.html
+./lyrics/xov/blackocean.html
+./lyrics/xov/paradise.html
+./lyrics/xov/cocainekarma.html
+./lyrics/xov/chaos.html
+./lyrics/xov/gunsammunition.html
+./lyrics/xov/lucifernakededition.html

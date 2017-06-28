@@ -1,0 +1,16 @@
+./lyrics/teambs/intro.html
+./lyrics/teambs/casedpart.html
+./lyrics/teambs/teambs.html
+./lyrics/teambs/mamusique.html
+./lyrics/teambs/griot.html
+./lyrics/teambs/fiert.html
+./lyrics/teambs/mavrit.html
+./lyrics/teambs/interlude.html
+./lyrics/teambs/jerappe.html
+./lyrics/teambs/jamaisassez.html
+./lyrics/teambs/123.html
+./lyrics/teambs/mondestin.html
+./lyrics/teambs/pasdechance.html
+./lyrics/teambs/souffledespoir.html
+./lyrics/teambs/mescouleurs.html
+./lyrics/teambs/outro.html

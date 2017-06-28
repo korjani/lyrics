@@ -1,0 +1,6 @@
+./lyrics/blackcoast/enough.html
+./lyrics/blackcoast/feelsomething.html
+./lyrics/blackcoast/nofilter.html
+./lyrics/blackcoast/ride.html
+./lyrics/blackcoast/sleepalone.html
+./lyrics/blackcoast/trndsttrlucianremix.html

@@ -1,0 +1,5 @@
+./lyrics/lennycooper/bigtires.html
+./lyrics/lennycooper/duramax.html
+./lyrics/lennycooper/muddigger.html
+./lyrics/lennycooper/redneckcountrysong.html
+./lyrics/lennycooper/rodeo.html

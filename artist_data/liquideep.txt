@@ -1,0 +1,6 @@
+./lyrics/liquideep/alone.html
+./lyrics/liquideep/angel.html
+./lyrics/liquideep/bbm.html
+./lyrics/liquideep/fairytale.html
+./lyrics/liquideep/riseagain.html
+./lyrics/liquideep/still.html

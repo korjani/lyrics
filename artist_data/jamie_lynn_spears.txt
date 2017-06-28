@@ -1,0 +1,13 @@
+./lyrics/jamielynnspears/shotgunwedding.html
+./lyrics/jamielynnspears/run.html
+./lyrics/jamielynnspears/howcouldiwantmore.html
+./lyrics/jamielynnspears/mandolinsummersun.html
+./lyrics/jamielynnspears/bigbadworld.html
+./lyrics/jamielynnspears/followme.html
+./lyrics/jamielynnspears/ilookuptoyou.html
+./lyrics/jamielynnspears/ifyoufindmyheart.html
+./lyrics/jamielynnspears/louisianabound.html
+./lyrics/jamielynnspears/missmississippi.html
+./lyrics/jamielynnspears/roots.html
+./lyrics/jamielynnspears/sleepover.html
+./lyrics/jamielynnspears/whenthelightsgoout.html

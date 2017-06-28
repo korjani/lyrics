@@ -1,0 +1,4 @@
+./lyrics/sashapieterse/icantfixyou.html
+./lyrics/sashapieterse/no.html
+./lyrics/sashapieterse/rpm.html
+./lyrics/sashapieterse/thiscountryisbadass.html

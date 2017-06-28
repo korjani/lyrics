@@ -1,0 +1,5 @@
+./lyrics/foundations/babynowthativefoundyou.html
+./lyrics/foundations/buildmeupbuttercup.html
+./lyrics/foundations/crippled.html
+./lyrics/foundations/enough.html
+./lyrics/foundations/turnitup.html

@@ -1,0 +1,14 @@
+./lyrics/rosefalcon/fun.html
+./lyrics/rosefalcon/breathe.html
+./lyrics/rosefalcon/upupup.html
+./lyrics/rosefalcon/looksareeverything.html
+./lyrics/rosefalcon/innocent.html
+./lyrics/rosefalcon/whydyousaythat.html
+./lyrics/rosefalcon/bestfriend.html
+./lyrics/rosefalcon/breakable.html
+./lyrics/rosefalcon/meltaway.html
+./lyrics/rosefalcon/fingerprints.html
+./lyrics/rosefalcon/howbadareyou.html
+./lyrics/rosefalcon/iflovehadaheart.html
+./lyrics/rosefalcon/likecrazy.html
+./lyrics/rosefalcon/youdonthavetoloveme.html

@@ -1,0 +1,14 @@
+./lyrics/mollykatekestner/bemine.html
+./lyrics/mollykatekestner/damage.html
+./lyrics/mollykatekestner/fallingapart.html
+./lyrics/mollykatekestner/gooddieyoung.html
+./lyrics/mollykatekestner/hardertobreathe.html
+./lyrics/mollykatekestner/hisdaughter.html
+./lyrics/mollykatekestner/idontknow.html
+./lyrics/mollykatekestner/itsyou.html
+./lyrics/mollykatekestner/justbreathe.html
+./lyrics/mollykatekestner/momssong.html
+./lyrics/mollykatekestner/nooneevertoldyou.html
+./lyrics/mollykatekestner/promqueen.html
+./lyrics/mollykatekestner/seeme.html
+./lyrics/mollykatekestner/winterblues.html

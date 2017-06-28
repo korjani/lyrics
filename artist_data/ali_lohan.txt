@@ -1,0 +1,14 @@
+./lyrics/alilohan/christmasday.html
+./lyrics/alilohan/ilikechristmas.html
+./lyrics/alilohan/winterwonderland.html
+./lyrics/alilohan/christmasmagic.html
+./lyrics/alilohan/jinglebells.html
+./lyrics/alilohan/grooveofchristmas.html
+./lyrics/alilohan/lohanholiday.html
+./lyrics/alilohan/deckthehalls.html
+./lyrics/alilohan/silentnight.html
+./lyrics/alilohan/santasreindeerride.html
+./lyrics/alilohan/wewishyouamerrychristmas.html
+./lyrics/alilohan/rockinaroundthechristmastree.html
+./lyrics/alilohan/mygrownupchristmaslist.html
+./lyrics/alilohan/allthewayaround.html

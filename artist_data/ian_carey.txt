@@ -1,0 +1,5 @@
+./lyrics/iancarey/amnesia.html
+./lyrics/iancarey/getshaky.html
+./lyrics/iancarey/keeponrising.html
+./lyrics/iancarey/lastnight.html
+./lyrics/iancarey/redlight.html

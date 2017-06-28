@@ -1,0 +1,2 @@
+./lyrics/krishane/drunkandincapable.html
+./lyrics/krishane/inconsiderate.html

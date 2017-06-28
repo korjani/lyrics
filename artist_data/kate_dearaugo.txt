@@ -1,0 +1,10 @@
+./lyrics/katedearaugo/faded.html
+./lyrics/katedearaugo/maybetonight.html
+./lyrics/katedearaugo/heaven.html
+./lyrics/katedearaugo/worldstandsstill.html
+./lyrics/katedearaugo/famousforleaving.html
+./lyrics/katedearaugo/ifthisislove.html
+./lyrics/katedearaugo/victim.html
+./lyrics/katedearaugo/itsobvious.html
+./lyrics/katedearaugo/youbroughtthesunshine.html
+./lyrics/katedearaugo/mostbeautifulplace.html

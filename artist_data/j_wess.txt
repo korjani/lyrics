@@ -1,0 +1,3 @@
+./lyrics/jwess/bangthis.html
+./lyrics/jwess/luvya.html
+./lyrics/jwess/whatchuwant.html

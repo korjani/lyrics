@@ -1,0 +1,6 @@
+./lyrics/lutherbarnes/godsgrace.html
+./lyrics/lutherbarnes/imstillholdingon.html
+./lyrics/lutherbarnes/itsyourtime.html
+./lyrics/lutherbarnes/sogoodtobehere.html
+./lyrics/lutherbarnes/spiritfalldown.html
+./lyrics/lutherbarnes/standbyme.html

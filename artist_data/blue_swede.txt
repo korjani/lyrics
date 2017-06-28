@@ -1,0 +1,15 @@
+./lyrics/blueswede/hookedonafeeling.html
+./lyrics/blueswede/pinewoodrally.html
+./lyrics/blueswede/sillymilly.html
+./lyrics/blueswede/lonelysundayafternoon.html
+./lyrics/blueswede/gottahaveyourlove.html
+./lyrics/blueswede/destiny.html
+./lyrics/blueswede/somethingsburning.html
+./lyrics/blueswede/workinginthecoalmine.html
+./lyrics/blueswede/nevermylove.html
+./lyrics/blueswede/theresalwayssomethingtheretoremindme.html
+./lyrics/blueswede/hushimalive.html
+./lyrics/blueswede/babyineedyourloving.html
+./lyrics/blueswede/rocknroll.html
+./lyrics/blueswede/outoftheblue.html
+./lyrics/blueswede/halfbreed.html

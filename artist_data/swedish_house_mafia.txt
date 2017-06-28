@@ -1,0 +1,6 @@
+./lyrics/swedishhousemafia/antidote.html
+./lyrics/swedishhousemafia/dontyouworrychild.html
+./lyrics/swedishhousemafia/leavetheworldbehind.html
+./lyrics/swedishhousemafia/miami2ibiza.html
+./lyrics/swedishhousemafia/oneyourname.html
+./lyrics/swedishhousemafia/savetheworld.html

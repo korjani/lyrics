@@ -1,0 +1,13 @@
+./lyrics/marshmello/knowme.html
+./lyrics/marshmello/findme.html
+./lyrics/marshmello/bounce.html
+./lyrics/marshmello/blocks.html
+./lyrics/marshmello/wantu2.html
+./lyrics/marshmello/home.html
+./lyrics/marshmello/keepitmello.html
+./lyrics/marshmello/alone.html
+./lyrics/marshmello/chasingcolors.html
+./lyrics/marshmello/magic.html
+./lyrics/marshmello/movingon.html
+./lyrics/marshmello/pr0.html
+./lyrics/marshmello/ritual.html

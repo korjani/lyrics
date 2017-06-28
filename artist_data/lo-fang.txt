@@ -1,0 +1,11 @@
+./lyrics/lofang/lookaway.html
+./lyrics/lofang/boris.html
+./lyrics/lofang/whenwerefire.html
+./lyrics/lofang/lightyear.html
+./lyrics/lofang/bluefilm.html
+./lyrics/lofang/88.html
+./lyrics/lofang/animalurges.html
+./lyrics/lofang/confusinghappiness.html
+./lyrics/lofang/youretheonethatiwant.html
+./lyrics/lofang/permutations.html
+./lyrics/lofang/silver.html

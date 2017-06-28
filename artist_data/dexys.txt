@@ -1,0 +1,11 @@
+./lyrics/dexys/now.html
+./lyrics/dexys/lost.html
+./lyrics/dexys/me.html
+./lyrics/dexys/shegotawiggle.html
+./lyrics/dexys/you.html
+./lyrics/dexys/imthinkingofyou.html
+./lyrics/dexys/imalwaysgoingtoloveyou.html
+./lyrics/dexys/incapableoflove.html
+./lyrics/dexys/nowhereishome.html
+./lyrics/dexys/free.html
+./lyrics/dexys/itsokjohnjoe.html

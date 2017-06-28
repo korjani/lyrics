@@ -1,0 +1,2 @@
+./lyrics/blackbuddafly/badgirl.html
+./lyrics/blackbuddafly/rockabye.html

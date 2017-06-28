@@ -1,0 +1,14 @@
+./lyrics/boyinaband/brothersisterbattlerap.html
+./lyrics/boyinaband/deadfastrap.html
+./lyrics/boyinaband/dontstayinschool.html
+./lyrics/boyinaband/goodfastrap.html
+./lyrics/boyinaband/hellomonsta.html
+./lyrics/boyinaband/iammildlyannoyed.html
+./lyrics/boyinaband/imnotdead.html
+./lyrics/boyinaband/limelight.html
+./lyrics/boyinaband/murder.html
+./lyrics/boyinaband/pointlessfastrap.html
+./lyrics/boyinaband/spectrum.html
+./lyrics/boyinaband/toomuchfun.html
+./lyrics/boyinaband/townofsalem.html
+./lyrics/boyinaband/youlooklikeagirl.html

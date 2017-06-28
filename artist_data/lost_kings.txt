@@ -1,0 +1,7 @@
+./lyrics/lost-kings/bad.html
+./lyrics/lost-kings/loveless.html
+./lyrics/lost-kings/you.html
+./lyrics/lost-kings/marathon.html
+./lyrics/lost-kings/somethinggood.html
+./lyrics/lost-kings/phonedown.html
+./lyrics/lost-kings/quityou.html

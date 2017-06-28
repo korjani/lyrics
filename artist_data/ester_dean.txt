@@ -1,0 +1,17 @@
+./lyrics/esterdean/allinthepast.html
+./lyrics/esterdean/babymakinglove.html
+./lyrics/esterdean/bigthings.html
+./lyrics/esterdean/crazyyoungsters.html
+./lyrics/esterdean/dropitlow.html
+./lyrics/esterdean/dropitlowremix.html
+./lyrics/esterdean/fuckit.html
+./lyrics/esterdean/gimmemoney.html
+./lyrics/esterdean/invincible.html
+./lyrics/esterdean/letitgrowcelebratetheworld.html
+./lyrics/esterdean/lovewhatdidido.html
+./lyrics/esterdean/riorio.html
+./lyrics/esterdean/sinceubeengone.html
+./lyrics/esterdean/stayinmylife.html
+./lyrics/esterdean/stronger.html
+./lyrics/esterdean/takeyoutorio.html
+./lyrics/esterdean/yeahright.html

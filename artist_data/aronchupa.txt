@@ -1,0 +1,4 @@
+./lyrics/aronchupa/badwater.html
+./lyrics/aronchupa/imanalbatraoz.html
+./lyrics/aronchupa/littleswing.html
+./lyrics/aronchupa/llamainmylivingroom.html

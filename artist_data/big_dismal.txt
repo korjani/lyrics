@@ -1,0 +1,12 @@
+./lyrics/bigdismal/rememberiou.html
+./lyrics/bigdismal/justthesame.html
+./lyrics/bigdismal/reality.html
+./lyrics/bigdismal/hangingon.html
+./lyrics/bigdismal/runaway.html
+./lyrics/bigdismal/missingyou.html
+./lyrics/bigdismal/toopretty.html
+./lyrics/bigdismal/gaveitallaway.html
+./lyrics/bigdismal/runningthroughmymind.html
+./lyrics/bigdismal/losingyou.html
+./lyrics/bigdismal/rainyday.html
+./lyrics/bigdismal/reasonilive.html

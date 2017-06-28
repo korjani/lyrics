@@ -1,0 +1,15 @@
+./lyrics/d4l/bankhead.html
+./lyrics/d4l/laffytaffy.html
+./lyrics/d4l/whatcanudo.html
+./lyrics/d4l/stuntman.html
+./lyrics/d4l/doitlikemebaby.html
+./lyrics/d4l/frontstreet.html
+./lyrics/d4l/scotty.html
+./lyrics/d4l/betchacantdoitlikeme.html
+./lyrics/d4l/imdaman.html
+./lyrics/d4l/digginme.html
+./lyrics/d4l/getreallow.html
+./lyrics/d4l/shittinme.html
+./lyrics/d4l/gameoweme.html
+./lyrics/d4l/bobblehead.html
+./lyrics/d4l/laffytaffyremix.html

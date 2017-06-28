@@ -1,0 +1,14 @@
+./lyrics/joshrecord/bones.html
+./lyrics/joshrecord/picturesinthedark.html
+./lyrics/joshrecord/alaska.html
+./lyrics/joshrecord/bedofthorns.html
+./lyrics/joshrecord/foryourlove.html
+./lyrics/joshrecord/findherwaytome.html
+./lyrics/joshrecord/wideawake.html
+./lyrics/joshrecord/summerhastocome.html
+./lyrics/joshrecord/wonder.html
+./lyrics/joshrecord/thewar.html
+./lyrics/joshrecord/finally.html
+./lyrics/joshrecord/wintercomes.html
+./lyrics/joshrecord/belief.html
+./lyrics/joshrecord/deadtree.html

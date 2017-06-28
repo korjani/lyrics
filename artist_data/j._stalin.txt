@@ -1,0 +1,12 @@
+./lyrics/jstalin/bricks.html
+./lyrics/jstalin/noway.html
+./lyrics/jstalin/100boxes.html
+./lyrics/jstalin/cornersto.html
+./lyrics/jstalin/dboyblues2010.html
+./lyrics/jstalin/dreamin.html
+./lyrics/jstalin/everydaymybirthday.html
+./lyrics/jstalin/istaystrapped.html
+./lyrics/jstalin/ififalldown.html
+./lyrics/jstalin/lastnight.html
+./lyrics/jstalin/shethetype.html
+./lyrics/jstalin/tryagaintomorrow.html

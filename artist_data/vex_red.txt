@@ -1,0 +1,10 @@
+./lyrics/vexred/theclosest.html
+./lyrics/vexred/dermo.html
+./lyrics/vexred/cantsmile.html
+./lyrics/vexred/untitled.html
+./lyrics/vexred/itch.html
+./lyrics/vexred/bullyme.html
+./lyrics/vexred/startwithastrongandpersistentdesire.html
+./lyrics/vexred/clonejesus.html
+./lyrics/vexred/sleepdoesnothingforyou.html
+./lyrics/vexred/vert.html

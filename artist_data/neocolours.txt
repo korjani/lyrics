@@ -1,0 +1,10 @@
+./lyrics/neocolours/bahalana.html
+./lyrics/neocolours/cantdeny.html
+./lyrics/neocolours/hereiamagain.html
+./lyrics/neocolours/holdon.html
+./lyrics/neocolours/kasalanankoba.html
+./lyrics/neocolours/makingit.html
+./lyrics/neocolours/maybe.html
+./lyrics/neocolours/sandalilang.html
+./lyrics/neocolours/sayyoullnevergo.html
+./lyrics/neocolours/tuloyparin.html

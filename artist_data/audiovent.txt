@@ -1,0 +1,12 @@
+./lyrics/audiovent/theenergy.html
+./lyrics/audiovent/lookingdown.html
+./lyrics/audiovent/icantbreathe.html
+./lyrics/audiovent/whentherain.html
+./lyrics/audiovent/onesmallchoice.html
+./lyrics/audiovent/sweetfrustration.html
+./lyrics/audiovent/stalker.html
+./lyrics/audiovent/gravity.html
+./lyrics/audiovent/underwatersilence.html
+./lyrics/audiovent/backandforth.html
+./lyrics/audiovent/beautifuladdiction.html
+./lyrics/audiovent/whenidrown.html

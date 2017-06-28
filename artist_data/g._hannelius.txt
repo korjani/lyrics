@@ -1,0 +1,8 @@
+./lyrics/ghannelius/445.html
+./lyrics/ghannelius/friendsdo.html
+./lyrics/ghannelius/justwatchme.html
+./lyrics/ghannelius/moonlight.html
+./lyrics/ghannelius/papercut.html
+./lyrics/ghannelius/stayaway.html
+./lyrics/ghannelius/suninmyhand.html
+./lyrics/ghannelius/twoinabillion.html

@@ -1,0 +1,8 @@
+./lyrics/guerillablack/heartsoffire.html
+./lyrics/guerillablack/compton.html
+./lyrics/guerillablack/youretheone.html
+./lyrics/guerillablack/sunrise.html
+./lyrics/guerillablack/saywhat.html
+./lyrics/guerillablack/itsallright.html
+./lyrics/guerillablack/girlfriend.html
+./lyrics/guerillablack/myfirst.html

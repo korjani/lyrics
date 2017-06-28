@@ -1,0 +1,6 @@
+./lyrics/leahmcfall/happyhuman.html
+./lyrics/leahmcfall/bottleit.html
+./lyrics/leahmcfall/coloursatafuneral.html
+./lyrics/leahmcfall/wolfden.html
+./lyrics/leahmcfall/home.html
+./lyrics/leahmcfall/noordinarylove.html

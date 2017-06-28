@@ -1,0 +1,14 @@
+./lyrics/jordyntaylor/accessory.html
+./lyrics/jordyntaylor/again.html
+./lyrics/jordyntaylor/boomerang.html
+./lyrics/jordyntaylor/everythingthatmatters.html
+./lyrics/jordyntaylor/femaleintuition.html
+./lyrics/jordyntaylor/lookingforlove.html
+./lyrics/jordyntaylor/overyou.html
+./lyrics/jordyntaylor/rumorcontrol.html
+./lyrics/jordyntaylor/shakeit.html
+./lyrics/jordyntaylor/strong.html
+./lyrics/jordyntaylor/undertheinfluence.html
+./lyrics/jordyntaylor/whatif.html
+./lyrics/jordyntaylor/whatsgood.html
+./lyrics/jordyntaylor/yagurl.html

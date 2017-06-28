@@ -1,0 +1,13 @@
+./lyrics/soulforreal/candyrain.html
+./lyrics/soulforreal/everylittlethingido.html
+./lyrics/soulforreal/allinmymind.html
+./lyrics/soulforreal/ifyouwantit.html
+./lyrics/soulforreal/aintnosunshine.html
+./lyrics/soulforreal/spendthenight.html
+./lyrics/soulforreal/idontknow.html
+./lyrics/soulforreal/ifonlyyouknew.html
+./lyrics/soulforreal/thinkingofyou.html
+./lyrics/soulforreal/letsstaytogether.html
+./lyrics/soulforreal/leavin.html
+./lyrics/soulforreal/cantyoutellacapella.html
+./lyrics/soulforreal/oneman.html

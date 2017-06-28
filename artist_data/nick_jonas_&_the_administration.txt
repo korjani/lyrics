@@ -1,0 +1,13 @@
+./lyrics/nickjonastheadministration/rosegarden.html
+./lyrics/nickjonastheadministration/whoiam.html
+./lyrics/nickjonastheadministration/oliveanarrow.html
+./lyrics/nickjonastheadministration/conspiracytheory.html
+./lyrics/nickjonastheadministration/intheend.html
+./lyrics/nickjonastheadministration/lasttimearound.html
+./lyrics/nickjonastheadministration/tonight.html
+./lyrics/nickjonastheadministration/stateofemergency.html
+./lyrics/nickjonastheadministration/vespersgoodbye.html
+./lyrics/nickjonastheadministration/strongerbackontheground.html
+./lyrics/nickjonastheadministration/londonfoolishly.html
+./lyrics/nickjonastheadministration/stay.html
+./lyrics/nickjonastheadministration/whiletheworldisspinning.html

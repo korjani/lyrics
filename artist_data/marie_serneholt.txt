@@ -1,0 +1,11 @@
+./lyrics/marieserneholt/enjoytheride.html
+./lyrics/marieserneholt/wastedlove.html
+./lyrics/marieserneholt/thatsthewaymyheartgoes.html
+./lyrics/marieserneholt/ineedahouse.html
+./lyrics/marieserneholt/beyondtonight.html
+./lyrics/marieserneholt/ilovemakingloveinthemorning.html
+./lyrics/marieserneholt/theboyiusedtoknow.html
+./lyrics/marieserneholt/callingallthedetectives.html
+./lyrics/marieserneholt/cantbeloved.html
+./lyrics/marieserneholt/oxygen.html
+./lyrics/marieserneholt/disconnectme.html

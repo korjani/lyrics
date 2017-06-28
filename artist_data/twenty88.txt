@@ -1,0 +1,8 @@
+./lyrics/twenty88/djvu.html
+./lyrics/twenty88/selfish.html
+./lyrics/twenty88/ontheway.html
+./lyrics/twenty88/pushit.html
+./lyrics/twenty88/2minutewarning.html
+./lyrics/twenty88/talkshow.html
+./lyrics/twenty88/memoriesfaded.html
+./lyrics/twenty88/londonbridge.html

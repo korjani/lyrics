@@ -1,0 +1,5 @@
+./lyrics/newhollow/boyfriend.html
+./lyrics/newhollow/popstar.html
+./lyrics/newhollow/sheaintyou.html
+./lyrics/newhollow/sick.html
+./lyrics/newhollow/whydontyouloveme.html

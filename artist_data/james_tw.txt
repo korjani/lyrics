@@ -1,0 +1,11 @@
+./lyrics/jamestw/naked.html
+./lyrics/jamestw/sanctuary.html
+./lyrics/jamestw/whenyoulovesomeone.html
+./lyrics/jamestw/different.html
+./lyrics/jamestw/10khours.html
+./lyrics/jamestw/torn.html
+./lyrics/jamestw/blackblue.html
+./lyrics/jamestw/crazy.html
+./lyrics/jamestw/ex.html
+./lyrics/jamestw/pleasekeeplovingme.html
+./lyrics/jamestw/thislondonlove.html

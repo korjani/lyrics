@@ -1,0 +1,3 @@
+./lyrics/jimmybondoc/hanggangditonalang.html
+./lyrics/jimmybondoc/letmebetheone.html
+./lyrics/jimmybondoc/yaya.html

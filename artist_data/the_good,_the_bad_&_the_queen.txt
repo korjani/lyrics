@@ -1,0 +1,12 @@
+./lyrics/goodthebadthequeen/historysong.html
+./lyrics/goodthebadthequeen/80slife.html
+./lyrics/goodthebadthequeen/northernwhale.html
+./lyrics/goodthebadthequeen/kingdomofdoom.html
+./lyrics/goodthebadthequeen/herculean.html
+./lyrics/goodthebadthequeen/behindthesun.html
+./lyrics/goodthebadthequeen/thebuntingsong.html
+./lyrics/goodthebadthequeen/naturesprings.html
+./lyrics/goodthebadthequeen/asoldierstale.html
+./lyrics/goodthebadthequeen/threechanges.html
+./lyrics/goodthebadthequeen/greenfields.html
+./lyrics/goodthebadthequeen/thegoodthebadthequeen.html

@@ -1,0 +1,3 @@
+./lyrics/sashalopez/allmypeople.html
+./lyrics/sashalopez/beautifullife.html
+./lyrics/sashalopez/weekend.html

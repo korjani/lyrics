@@ -1,0 +1,2 @@
+./lyrics/shaliek/thepast.html
+./lyrics/shaliek/aintsupposedtocry.html

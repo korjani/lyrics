@@ -1,0 +1,6 @@
+./lyrics/dukedumont/igotu.html
+./lyrics/dukedumont/needu100.html
+./lyrics/dukedumont/oceandrive.html
+./lyrics/dukedumont/reallife.html
+./lyrics/dukedumont/thegiverreprise.html
+./lyrics/dukedumont/wontlookback.html

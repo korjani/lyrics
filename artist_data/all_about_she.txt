@@ -1,0 +1,4 @@
+./lyrics/allaboutshe/remedy.html
+./lyrics/allaboutshe/icantwait.html
+./lyrics/allaboutshe/happiness.html
+./lyrics/allaboutshe/higherfree.html

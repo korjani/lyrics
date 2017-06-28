@@ -1,0 +1,7 @@
+./lyrics/mashonda/blackout.html
+./lyrics/mashonda/usedto.html
+./lyrics/mashonda/backofdaclub.html
+./lyrics/mashonda/itsok.html
+./lyrics/mashonda/holdme.html
+./lyrics/mashonda/leavetheblockalone.html
+./lyrics/mashonda/catastrophe.html

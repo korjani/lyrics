@@ -1,0 +1,3 @@
+./lyrics/neiked/callme.html
+./lyrics/neiked/sandlead.html
+./lyrics/neiked/sexual.html

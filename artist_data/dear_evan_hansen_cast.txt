@@ -1,0 +1,14 @@
+./lyrics/dearevanhansencast/anybodyhaveamap.html
+./lyrics/dearevanhansencast/wavingthroughawindow.html
+./lyrics/dearevanhansencast/forforever.html
+./lyrics/dearevanhansencast/sincerelyme.html
+./lyrics/dearevanhansencast/requiem.html
+./lyrics/dearevanhansencast/ificouldtellher.html
+./lyrics/dearevanhansencast/disappear.html
+./lyrics/dearevanhansencast/youwillbefound.html
+./lyrics/dearevanhansencast/tobreakinaglove.html
+./lyrics/dearevanhansencast/onlyus.html
+./lyrics/dearevanhansencast/goodforyou.html
+./lyrics/dearevanhansencast/wordsfail.html
+./lyrics/dearevanhansencast/sobigsosmall.html
+./lyrics/dearevanhansencast/finale.html

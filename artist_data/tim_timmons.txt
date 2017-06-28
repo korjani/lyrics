@@ -1,0 +1,13 @@
+./lyrics/timtimmons/itsyourrevolution.html
+./lyrics/timtimmons/startswithme.html
+./lyrics/timtimmons/castmycares.html
+./lyrics/timtimmons/youremain.html
+./lyrics/timtimmons/christinme.html
+./lyrics/timtimmons/letsbebeautiful.html
+./lyrics/timtimmons/foryourglory.html
+./lyrics/timtimmons/iwillfollowlove.html
+./lyrics/timtimmons/greatreward.html
+./lyrics/timtimmons/holyunafraid.html
+./lyrics/timtimmons/onlyonestanding.html
+./lyrics/timtimmons/everywhereigo.html
+./lyrics/timtimmons/goodnightmylove.html

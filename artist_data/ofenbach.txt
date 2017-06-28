@@ -1,0 +1,4 @@
+./lyrics/ofenbach/aroundthefire.html
+./lyrics/ofenbach/bemine.html
+./lyrics/ofenbach/whatiwant.html
+./lyrics/ofenbach/youdontknowme.html

@@ -1,0 +1,16 @@
+./lyrics/alexhepburn/missmisery.html
+./lyrics/alexhepburn/badgirl.html
+./lyrics/alexhepburn/brokenrecord.html
+./lyrics/alexhepburn/painis.html
+./lyrics/alexhepburn/getheavy.html
+./lyrics/alexhepburn/lovetoloveyou.html
+./lyrics/alexhepburn/reckless.html
+./lyrics/alexhepburn/angelina.html
+./lyrics/alexhepburn/under.html
+./lyrics/alexhepburn/holdme.html
+./lyrics/alexhepburn/twopointfour.html
+./lyrics/alexhepburn/lookwhatyouvedone.html
+./lyrics/alexhepburn/jenny.html
+./lyrics/alexhepburn/fallapart.html
+./lyrics/alexhepburn/crownofthorns.html
+./lyrics/alexhepburn/tooyoungtodie.html

@@ -1,0 +1,14 @@
+./lyrics/isyss/hollaatme.html
+./lyrics/isyss/dayandnight.html
+./lyrics/isyss/ohnoshedidnt.html
+./lyrics/isyss/singlefortherestofmylife.html
+./lyrics/isyss/stoodup.html
+./lyrics/isyss/hater.html
+./lyrics/isyss/uhuhuhuh.html
+./lyrics/isyss/nonana.html
+./lyrics/isyss/thewaywedoparti.html
+./lyrics/isyss/unladylike.html
+./lyrics/isyss/thewaywedopartii.html
+./lyrics/isyss/beautifulyou.html
+./lyrics/isyss/notlettinghimgo.html
+./lyrics/isyss/message2u.html

@@ -1,0 +1,5 @@
+./lyrics/bingoplayers/bewithyou.html
+./lyrics/bingoplayers/cryjustalittle.html
+./lyrics/bingoplayers/dontblamethepartymode.html
+./lyrics/bingoplayers/getuprattle.html
+./lyrics/bingoplayers/knockyouout.html

@@ -1,0 +1,4 @@
+./lyrics/dropcityyachtclub/crickets.html
+./lyrics/dropcityyachtclub/misterdean.html
+./lyrics/dropcityyachtclub/thefonz.html
+./lyrics/dropcityyachtclub/surfsup.html

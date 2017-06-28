@@ -1,0 +1,10 @@
+./lyrics/mickeyguyton/foreverlove.html
+./lyrics/mickeyguyton/prettylittlemustang.html
+./lyrics/mickeyguyton/safe.html
+./lyrics/mickeyguyton/unbreakable.html
+./lyrics/mickeyguyton/whybabywhy.html
+./lyrics/mickeyguyton/somebodyelsewill.html
+./lyrics/mickeyguyton/prettylittlemustang.html
+./lyrics/mickeyguyton/betterthanyouleftme.html
+./lyrics/mickeyguyton/heartbreaksong.html
+./lyrics/mickeyguyton/itsnomistake.html

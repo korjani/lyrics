@@ -1,0 +1,13 @@
+./lyrics/corey/hushlillady.html
+./lyrics/corey/ghettosuperstar.html
+./lyrics/corey/mvp.html
+./lyrics/corey/ifiwasolder.html
+./lyrics/corey/2canplaythatgame.html
+./lyrics/corey/what.html
+./lyrics/corey/firsttime.html
+./lyrics/corey/handsup.html
+./lyrics/corey/isawyou.html
+./lyrics/corey/soldier.html
+./lyrics/corey/stoptalkinaboutme.html
+./lyrics/corey/cutestgirl.html
+./lyrics/corey/allido.html

@@ -1,0 +1,5 @@
+./lyrics/antonia/dordetine.html
+./lyrics/antonia/hurricane.html
+./lyrics/antonia/marabou.html
+./lyrics/antonia/marionette.html
+./lyrics/antonia/wildhorses.html

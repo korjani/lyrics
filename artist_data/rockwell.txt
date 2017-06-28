@@ -1,0 +1,6 @@
+./lyrics/rockwell/somebodyswatchingme.html
+./lyrics/rockwell/obscenephonecaller.html
+./lyrics/rockwell/taxman.html
+./lyrics/rockwell/changeyourways.html
+./lyrics/rockwell/knife.html
+./lyrics/rockwell/peepingtom.html

@@ -1,0 +1,3 @@
+./lyrics/kileydean/makemeasong.html
+./lyrics/kileydean/whoiam.html
+./lyrics/kileydean/whowillirunto.html

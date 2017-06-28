@@ -1,0 +1,12 @@
+./lyrics/rynweaver/runaway.html
+./lyrics/rynweaver/octahate.html
+./lyrics/rynweaver/pierre.html
+./lyrics/rynweaver/staylow.html
+./lyrics/rynweaver/sailon.html
+./lyrics/rynweaver/thefool.html
+./lyrics/rynweaver/promises.html
+./lyrics/rynweaver/free.html
+./lyrics/rynweaver/travelingsong.html
+./lyrics/rynweaver/hereishome.html
+./lyrics/rynweaver/newconstellations.html
+./lyrics/rynweaver/heartbreaker.html

@@ -1,0 +1,2 @@
+./lyrics/parakit/saveme.html
+./lyrics/parakit/wheniholdyou.html

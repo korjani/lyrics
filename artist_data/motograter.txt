@@ -1,0 +1,13 @@
+./lyrics/motograter/suffocate.html
+./lyrics/motograter/down.html
+./lyrics/motograter/propheciesalmostover.html
+./lyrics/motograter/wrong.html
+./lyrics/motograter/noname.html
+./lyrics/motograter/collapse.html
+./lyrics/motograter/newdesignstartover.html
+./lyrics/motograter/red.html
+./lyrics/motograter/mutiny.html
+./lyrics/motograter/getback.html
+./lyrics/motograter/fight.html
+./lyrics/motograter/parasite.html
+./lyrics/motograter/portraitofdecay.html

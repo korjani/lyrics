@@ -1,0 +1,13 @@
+./lyrics/lifer/myroom.html
+./lyrics/lifer/ugly.html
+./lyrics/lifer/boring.html
+./lyrics/lifer/swallow.html
+./lyrics/lifer/noneed.html
+./lyrics/lifer/parade.html
+./lyrics/lifer/new.html
+./lyrics/lifer/disbelief.html
+./lyrics/lifer/blurred.html
+./lyrics/lifer/heave.html
+./lyrics/lifer/notlikeyou.html
+./lyrics/lifer/breathless.html
+./lyrics/lifer/perfect.html

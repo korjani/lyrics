@@ -1,0 +1,8 @@
+./lyrics/jawanharris/headlines.html
+./lyrics/jawanharris/marvinsroom.html
+./lyrics/jawanharris/girlfriend.html
+./lyrics/jawanharris/keisha.html
+./lyrics/jawanharris/anotherplanet.html
+./lyrics/jawanharris/bigbeautiful.html
+./lyrics/jawanharris/bythetree.html
+./lyrics/jawanharris/nobody.html

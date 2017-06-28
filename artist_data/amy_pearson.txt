@@ -1,0 +1,16 @@
+./lyrics/amypearson/dontmissyou.html
+./lyrics/amypearson/fool.html
+./lyrics/amypearson/notme.html
+./lyrics/amypearson/doesanybody.html
+./lyrics/amypearson/readytofly.html
+./lyrics/amypearson/stranded.html
+./lyrics/amypearson/dontyagiveup.html
+./lyrics/amypearson/nowandforalways.html
+./lyrics/amypearson/loveisoutofreach.html
+./lyrics/amypearson/wishiwasher.html
+./lyrics/amypearson/tellme.html
+./lyrics/amypearson/remembertobreathe.html
+./lyrics/amypearson/lostwithoutyourlove.html
+./lyrics/amypearson/aftershock.html
+./lyrics/amypearson/butterfingers.html
+./lyrics/amypearson/lovelikethis.html

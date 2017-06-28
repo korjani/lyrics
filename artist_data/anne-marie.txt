@@ -1,0 +1,14 @@
+./lyrics/annemarie/karate.html
+./lyrics/annemarie/gemini.html
+./lyrics/annemarie/stole.html
+./lyrics/annemarie/alarm.html
+./lyrics/annemarie/alarmnaughtyboyremix.html
+./lyrics/annemarie/boy.html
+./lyrics/annemarie/ciaoadios.html
+./lyrics/annemarie/ciaoadiosjillionaireremix.html
+./lyrics/annemarie/doitright.html
+./lyrics/annemarie/gentleman.html
+./lyrics/annemarie/notalovesong.html
+./lyrics/annemarie/peakstripped.html
+./lyrics/annemarie/then.html
+./lyrics/annemarie/usedtoloveyou.html

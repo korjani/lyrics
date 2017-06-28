@@ -1,0 +1,6 @@
+./lyrics/wheninrome/thepromise.html
+./lyrics/wheninrome/heavenknows.html
+./lyrics/wheninrome/somethinggoingon.html
+./lyrics/wheninrome/ifonly.html
+./lyrics/wheninrome/sightofyourtears.html
+./lyrics/wheninrome/everything.html

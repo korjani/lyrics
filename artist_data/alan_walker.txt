@@ -1,0 +1,5 @@
+./lyrics/alanwalker/alone.html
+./lyrics/alanwalker/faded.html
+./lyrics/alanwalker/singmetosleep.html
+./lyrics/alanwalker/thespectre.html
+./lyrics/alanwalker/tired.html

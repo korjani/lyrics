@@ -1,0 +1,7 @@
+./lyrics/xenia/singyouhome.html
+./lyrics/xenia/summerdress.html
+./lyrics/xenia/snapshot.html
+./lyrics/xenia/breakeven.html
+./lyrics/xenia/notafool.html
+./lyrics/xenia/pricetag.html
+./lyrics/xenia/themanwhocantbemoved.html

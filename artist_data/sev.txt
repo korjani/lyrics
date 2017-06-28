@@ -1,0 +1,12 @@
+./lyrics/sev/allthesedreams.html
+./lyrics/sev/sameoldsong.html
+./lyrics/sev/menace.html
+./lyrics/sev/when.html
+./lyrics/sev/allrightbyme.html
+./lyrics/sev/standstraight.html
+./lyrics/sev/247365.html
+./lyrics/sev/frontoftheline.html
+./lyrics/sev/whatyougotforme.html
+./lyrics/sev/lust.html
+./lyrics/sev/player.html
+./lyrics/sev/twisted.html

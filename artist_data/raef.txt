@@ -1,0 +1,16 @@
+./lyrics/raef/peaceblessings.html
+./lyrics/raef/thebrightmoontalaalbadru.html
+./lyrics/raef/soreal.html
+./lyrics/raef/youaretheone.html
+./lyrics/raef/home.html
+./lyrics/raef/nooneknowsbutme.html
+./lyrics/raef/thepath.html
+./lyrics/raef/mawlaya.html
+./lyrics/raef/callonhim.html
+./lyrics/raef/freedomaintfree.html
+./lyrics/raef/dream.html
+./lyrics/raef/yourethere.html
+./lyrics/raef/rabbeeimyours.html
+./lyrics/raef/itsjumuahfriday.html
+./lyrics/raef/youaretheonebahasaversion.html
+./lyrics/raef/yourmercy.html

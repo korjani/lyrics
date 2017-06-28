@@ -1,0 +1,15 @@
+./lyrics/snowghosts/andthemoon.html
+./lyrics/snowghosts/lostatsea.html
+./lyrics/snowghosts/thrice.html
+./lyrics/snowghosts/thehunted.html
+./lyrics/snowghosts/murdercries.html
+./lyrics/snowghosts/secretgarden.html
+./lyrics/snowghosts/gallowsstrung.html
+./lyrics/snowghosts/timelistens.html
+./lyrics/snowghosts/untangleme.html
+./lyrics/snowghosts/andtheworldwasgone.html
+./lyrics/snowghosts/circlesoutofsalt.html
+./lyrics/snowghosts/bowline.html
+./lyrics/snowghosts/drought.html
+./lyrics/snowghosts/angryseas.html
+./lyrics/snowghosts/breathingmyskin.html

@@ -1,0 +1,14 @@
+./lyrics/magicman/texas.html
+./lyrics/magicman/apollo.html
+./lyrics/magicman/paris.html
+./lyrics/magicman/catherine.html
+./lyrics/magicman/chicagoland.html
+./lyrics/magicman/honey.html
+./lyrics/magicman/tonight.html
+./lyrics/magicman/everyday.html
+./lyrics/magicman/outofmind.html
+./lyrics/magicman/waves.html
+./lyrics/magicman/toomuch.html
+./lyrics/magicman/itallstartshere.html
+./lyrics/magicman/darlingreprise.html
+./lyrics/magicman/novascotia.html

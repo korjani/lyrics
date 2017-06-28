@@ -1,0 +1,11 @@
+./lyrics/pressure45/thesehands.html
+./lyrics/pressure45/beattheworld.html
+./lyrics/pressure45/meltmedown.html
+./lyrics/pressure45/enough.html
+./lyrics/pressure45/dehydration.html
+./lyrics/pressure45/stares.html
+./lyrics/pressure45/pieces.html
+./lyrics/pressure45/newwave.html
+./lyrics/pressure45/evenworse.html
+./lyrics/pressure45/proven.html
+./lyrics/pressure45/intoyesterday.html

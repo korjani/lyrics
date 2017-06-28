@@ -1,0 +1,15 @@
+./lyrics/biancaryan/therose.html
+./lyrics/biancaryan/awake.html
+./lyrics/biancaryan/ibelieveicanfly.html
+./lyrics/biancaryan/prayforabetterday.html
+./lyrics/biancaryan/dreamincolor.html
+./lyrics/biancaryan/iwishthat.html
+./lyrics/biancaryan/andiamtellingyouimnotgoing.html
+./lyrics/biancaryan/superstar.html
+./lyrics/biancaryan/iwill.html
+./lyrics/biancaryan/pureandsimple.html
+./lyrics/biancaryan/youlightupmylife.html
+./lyrics/biancaryan/whycouldntitbechristmaseveryday.html
+./lyrics/biancaryan/alice.html
+./lyrics/biancaryan/inmyhead.html
+./lyrics/biancaryan/thatsnotme.html

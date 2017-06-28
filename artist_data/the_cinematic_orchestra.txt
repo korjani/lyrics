@@ -1,0 +1,14 @@
+./lyrics/cinematicorchestra/allthatyougive.html
+./lyrics/cinematicorchestra/burnout.html
+./lyrics/cinematicorchestra/evolution.html
+./lyrics/cinematicorchestra/allthingstoallmen.html
+./lyrics/cinematicorchestra/horizon.html
+./lyrics/cinematicorchestra/tobuildahome.html
+./lyrics/cinematicorchestra/familiarground.html
+./lyrics/cinematicorchestra/musicbox.html
+./lyrics/cinematicorchestra/intoyou.html
+./lyrics/cinematicorchestra/breathe.html
+./lyrics/cinematicorchestra/thathome.html
+./lyrics/cinematicorchestra/timeandspace.html
+./lyrics/cinematicorchestra/lilacwine.html
+./lyrics/cinematicorchestra/tobelieve.html

@@ -1,0 +1,12 @@
+./lyrics/abra/abrakadabra.html
+./lyrics/abra/bolangkristal.html
+./lyrics/abra/cerberus.html
+./lyrics/abra/crybaby.html
+./lyrics/abra/dedma.html
+./lyrics/abra/diwata.html
+./lyrics/abra/gayuma.html
+./lyrics/abra/haliksahangin.html
+./lyrics/abra/heretoownit2.html
+./lyrics/abra/ilusyon.html
+./lyrics/abra/midas.html
+./lyrics/abra/psychopathsontheloose.html

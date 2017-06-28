@@ -1,0 +1,11 @@
+./lyrics/neurosonic/somanypeople.html
+./lyrics/neurosonic/aresolar.html
+./lyrics/neurosonic/iwillalwaysbeyourfool.html
+./lyrics/neurosonic/memyselfandi.html
+./lyrics/neurosonic/crazysheila.html
+./lyrics/neurosonic/untilidie.html
+./lyrics/neurosonic/fearless.html
+./lyrics/neurosonic/boneheads.html
+./lyrics/neurosonic/frankenstien.html
+./lyrics/neurosonic/sonowyouknow.html
+./lyrics/neurosonic/fortheboy.html

@@ -1,0 +1,13 @@
+./lyrics/annmarie/different.html
+./lyrics/annmarie/feelme.html
+./lyrics/annmarie/givemelife.html
+./lyrics/annmarie/iknowyourtype.html
+./lyrics/annmarie/imleaving.html
+./lyrics/annmarie/inmyfeelings.html
+./lyrics/annmarie/missit.html
+./lyrics/annmarie/nobody.html
+./lyrics/annmarie/tellmelies.html
+./lyrics/annmarie/makelove.html
+./lyrics/annmarie/onmymind.html
+./lyrics/annmarie/loveme.html
+./lyrics/annmarie/onyou.html

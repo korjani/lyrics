@@ -1,0 +1,8 @@
+./lyrics/ericprydz/moodymondays.html
+./lyrics/ericprydz/breathe.html
+./lyrics/ericprydz/generate.html
+./lyrics/ericprydz/everyday.html
+./lyrics/ericprydz/liberate.html
+./lyrics/ericprydz/callonme.html
+./lyrics/ericprydz/nitonthereason.html
+./lyrics/ericprydz/propereducation.html

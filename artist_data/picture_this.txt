@@ -1,0 +1,7 @@
+./lyrics/picturethis/takemyhand.html
+./lyrics/picturethis/foryou.html
+./lyrics/picturethis/letsbeyoung.html
+./lyrics/picturethis/idontknowwhy.html
+./lyrics/picturethis/youi.html
+./lyrics/picturethis/neverchange.html
+./lyrics/picturethis/thischristmas.html

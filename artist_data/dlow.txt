@@ -1,0 +1,6 @@
+./lyrics/dlow/doitlikeme.html
+./lyrics/dlow/betyoucantdoitlikeme.html
+./lyrics/dlow/dlowshuffle.html
+./lyrics/dlow/dlowshufflepart2.html
+./lyrics/dlow/imastar.html
+./lyrics/dlow/nochoice.html

@@ -1,0 +1,12 @@
+./lyrics/sydneyrenae/sleepingwiththeenemyintro.html
+./lyrics/sydneyrenae/beautiful.html
+./lyrics/sydneyrenae/tellher.html
+./lyrics/sydneyrenae/didyoumeanit.html
+./lyrics/sydneyrenae/dontturnbackoutro.html
+./lyrics/sydneyrenae/dontremix.html
+./lyrics/sydneyrenae/dontleave.html
+./lyrics/sydneyrenae/howyougonnaremix.html
+./lyrics/sydneyrenae/intoyouremix.html
+./lyrics/sydneyrenae/loveisblindremix.html
+./lyrics/sydneyrenae/stupidintro.html
+./lyrics/sydneyrenae/thankyou.html

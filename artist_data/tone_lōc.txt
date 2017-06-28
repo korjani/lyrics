@@ -1,0 +1,13 @@
+./lyrics/tone-loc/onfireremix.html
+./lyrics/tone-loc/wildthing.html
+./lyrics/tone-loc/lcedafterdark.html
+./lyrics/tone-loc/cuttingrhythms.html
+./lyrics/tone-loc/funkycoldmedina.html
+./lyrics/tone-loc/cheebacheeba.html
+./lyrics/tone-loc/dontgetclose.html
+./lyrics/tone-loc/thehomies.html
+./lyrics/tone-loc/funkywestside.html
+./lyrics/tone-loc/pimpwithoutacaddy.html
+./lyrics/tone-loc/freakybehavior.html
+./lyrics/tone-loc/aceisinthehouse.html
+./lyrics/tone-loc/hitthecoast.html

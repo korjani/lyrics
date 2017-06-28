@@ -1,0 +1,13 @@
+./lyrics/snakehips/foreverptii.html
+./lyrics/snakehips/gone.html
+./lyrics/snakehips/overtime.html
+./lyrics/snakehips/poison.html
+./lyrics/snakehips/allmyfriends.html
+./lyrics/snakehips/burnbreakcrash.html
+./lyrics/snakehips/cruel.html
+./lyrics/snakehips/dayswithyou.html
+./lyrics/snakehips/dontleave.html
+./lyrics/snakehips/dontleavegryffinremix.html
+./lyrics/snakehips/falling.html
+./lyrics/snakehips/moneyonme.html
+./lyrics/snakehips/rightnow.html

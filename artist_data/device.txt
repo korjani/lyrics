@@ -1,0 +1,13 @@
+./lyrics/device/youthinkyouknow.html
+./lyrics/device/penance.html
+./lyrics/device/vilify.html
+./lyrics/device/closemyeyesforever.html
+./lyrics/device/outofline.html
+./lyrics/device/hunted.html
+./lyrics/device/opinion.html
+./lyrics/device/waroflies.html
+./lyrics/device/haze.html
+./lyrics/device/throughitall.html
+./lyrics/device/wish.html
+./lyrics/device/apartofme.html
+./lyrics/device/recover.html

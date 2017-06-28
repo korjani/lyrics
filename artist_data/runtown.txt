@@ -1,0 +1,4 @@
+./lyrics/runtown/benddownpause.html
+./lyrics/runtown/forlife.html
+./lyrics/runtown/gallardo.html
+./lyrics/runtown/madoveryou.html

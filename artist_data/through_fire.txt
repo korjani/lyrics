@@ -1,0 +1,9 @@
+./lyrics/throughfire/breakout.html
+./lyrics/throughfire/stronger.html
+./lyrics/throughfire/whereyoulie.html
+./lyrics/throughfire/breathe.html
+./lyrics/throughfire/takeitallaway.html
+./lyrics/throughfire/deadinside.html
+./lyrics/throughfire/lights.html
+./lyrics/throughfire/bloodonmyhands.html
+./lyrics/throughfire/damage.html

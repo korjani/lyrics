@@ -1,0 +1,6 @@
+./lyrics/natasha/blue.html
+./lyrics/natasha/heyheyhey.html
+./lyrics/natasha/punkboy.html
+./lyrics/natasha/shouldnever.html
+./lyrics/natasha/sidekick.html
+./lyrics/natasha/sosick.html

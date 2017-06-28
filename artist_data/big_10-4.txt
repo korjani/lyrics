@@ -1,0 +1,12 @@
+./lyrics/big104/walkingdisaster.html
+./lyrics/big104/longnightsleepless.html
+./lyrics/big104/ironyisthick.html
+./lyrics/big104/deadman.html
+./lyrics/big104/tangled.html
+./lyrics/big104/superpowers.html
+./lyrics/big104/crazy.html
+./lyrics/big104/holdthatthought.html
+./lyrics/big104/undertow.html
+./lyrics/big104/longdistance.html
+./lyrics/big104/thesmelloffamiliar.html
+./lyrics/big104/oxygen.html

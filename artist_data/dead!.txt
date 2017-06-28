@@ -1,0 +1,6 @@
+./lyrics/dead/alaska.html
+./lyrics/dead/enoughenoughenough.html
+./lyrics/dead/skin.html
+./lyrics/dead/somethingmoreoriginal.html
+./lyrics/dead/verona.html
+./lyrics/dead/youresocheap.html

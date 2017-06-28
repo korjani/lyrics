@@ -1,0 +1,3 @@
+./lyrics/coreytaylor/bother.html
+./lyrics/coreytaylor/fromcantocant.html
+./lyrics/coreytaylor/xm.html

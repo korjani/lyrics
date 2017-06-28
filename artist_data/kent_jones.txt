@@ -1,0 +1,8 @@
+./lyrics/kentjones/columbiana.html
+./lyrics/kentjones/sitdown.html
+./lyrics/kentjones/bars.html
+./lyrics/kentjones/four4four.html
+./lyrics/kentjones/alright.html
+./lyrics/kentjones/dontmind.html
+./lyrics/kentjones/dontmindremix.html
+./lyrics/kentjones/premaducers.html

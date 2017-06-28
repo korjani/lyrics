@@ -1,0 +1,12 @@
+./lyrics/greenwheel/shelter.html
+./lyrics/greenwheel/sustainyou.html
+./lyrics/greenwheel/breathe.html
+./lyrics/greenwheel/louderthanwords.html
+./lyrics/greenwheel/strong.html
+./lyrics/greenwheel/drowningman.html
+./lyrics/greenwheel/faces.html
+./lyrics/greenwheel/identity.html
+./lyrics/greenwheel/disappear.html
+./lyrics/greenwheel/dimhalo.html
+./lyrics/greenwheel/radiance.html
+./lyrics/greenwheel/theend.html

@@ -1,0 +1,17 @@
+./lyrics/sclub/alive.html
+./lyrics/sclub/wholelottanothin.html
+./lyrics/sclub/loveaintgonnawaitforyou.html
+./lyrics/sclub/bittersweet.html
+./lyrics/sclub/straightfromtheheart.html
+./lyrics/sclub/gangstalove.html
+./lyrics/sclub/whodoyouthinkyouare.html
+./lyrics/sclub/doittillwedrop.html
+./lyrics/sclub/heykittykitty.html
+./lyrics/sclub/dance.html
+./lyrics/sclub/secretlove.html
+./lyrics/sclub/thegreatest.html
+./lyrics/sclub/intoodeep.html
+./lyrics/sclub/letmesleep.html
+./lyrics/sclub/everykindapeople.html
+./lyrics/sclub/canyoufeelthelovetonight.html
+./lyrics/sclub/saygoodbye.html

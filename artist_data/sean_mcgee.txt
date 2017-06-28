@@ -1,0 +1,4 @@
+./lyrics/seanmcgee/inspiration.html
+./lyrics/seanmcgee/likeyou.html
+./lyrics/seanmcgee/mystory.html
+./lyrics/seanmcgee/mystoryremix.html

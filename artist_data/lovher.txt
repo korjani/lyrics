@@ -1,0 +1,12 @@
+./lyrics/lovher/commitment.html
+./lyrics/lovher/doyouknowme.html
+./lyrics/lovher/dontleave.html
+./lyrics/lovher/girfriend.html
+./lyrics/lovher/girlsgonnado.html
+./lyrics/lovher/howitsgonnabe.html
+./lyrics/lovher/idontwantyourman.html
+./lyrics/lovher/love.html
+./lyrics/lovher/tellme.html
+./lyrics/lovher/whatcouldvebeen.html
+./lyrics/lovher/youdontknowme.html
+./lyrics/lovher/yourman.html

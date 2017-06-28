@@ -1,0 +1,3 @@
+./lyrics/stylog/callmiayardie.html
+./lyrics/stylog/mynumber1.html
+./lyrics/stylog/soundbwoy.html

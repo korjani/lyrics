@@ -1,0 +1,6 @@
+./lyrics/mikeperry/bodytobody.html
+./lyrics/mikeperry/hands.html
+./lyrics/mikeperry/insidethelines.html
+./lyrics/mikeperry/talkaboutit.html
+./lyrics/mikeperry/theocean.html
+./lyrics/mikeperry/touchingyouagain.html

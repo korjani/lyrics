@@ -1,0 +1,10 @@
+./lyrics/zahara/destiny.html
+./lyrics/zahara/umthwalo.html
+./lyrics/zahara/loliwe.html
+./lyrics/zahara/ndize.html
+./lyrics/zahara/lengoma.html
+./lyrics/zahara/myguitar.html
+./lyrics/zahara/phendula.html
+./lyrics/zahara/indlelayam.html
+./lyrics/zahara/bomiendibaziyo.html
+./lyrics/zahara/amapleya.html

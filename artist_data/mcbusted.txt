@@ -1,0 +1,15 @@
+./lyrics/mcbusted/airguitar.html
+./lyrics/mcbusted/hateyourguts.html
+./lyrics/mcbusted/whathappenedtoyourband.html
+./lyrics/mcbusted/getoverit.html
+./lyrics/mcbusted/ridingonmybike.html
+./lyrics/mcbusted/gone.html
+./lyrics/mcbusted/sensitiveguy.html
+./lyrics/mcbusted/beautifulgirlsaretheloneliest.html
+./lyrics/mcbusted/beforeyouknewme.html
+./lyrics/mcbusted/backintime.html
+./lyrics/mcbusted/howsmyhair.html
+./lyrics/mcbusted/gettingitout.html
+./lyrics/mcbusted/2359.html
+./lyrics/mcbusted/indaclub.html
+./lyrics/mcbusted/iseered.html

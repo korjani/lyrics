@@ -1,0 +1,11 @@
+./lyrics/dropbox/wishbone.html
+./lyrics/dropbox/ifeelfine.html
+./lyrics/dropbox/nowhereman.html
+./lyrics/dropbox/endofdays.html
+./lyrics/dropbox/forgottensong.html
+./lyrics/dropbox/takeawaythesun.html
+./lyrics/dropbox/run.html
+./lyrics/dropbox/unfold.html
+./lyrics/dropbox/fallaway.html
+./lyrics/dropbox/itoldyou.html
+./lyrics/dropbox/nobodycares.html

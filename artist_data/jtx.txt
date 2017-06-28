@@ -1,0 +1,2 @@
+./lyrics/jtx/imgonnapartylikearockstar.html
+./lyrics/jtx/loveinamerica.html

@@ -1,0 +1,13 @@
+./lyrics/kadebostany/walkingwithaghost.html
+./lyrics/kadebostany/invisibleman.html
+./lyrics/kadebostany/castleinthesnow.html
+./lyrics/kadebostany/jolan.html
+./lyrics/kadebostany/bugsflowers.html
+./lyrics/kadebostany/hey.html
+./lyrics/kadebostany/teddybear.html
+./lyrics/kadebostany/kairline.html
+./lyrics/kadebostany/theeagle.html
+./lyrics/kadebostany/goodbye.html
+./lyrics/kadebostany/frozentodeath.html
+./lyrics/kadebostany/crazyinlove.html
+./lyrics/kadebostany/palabras.html

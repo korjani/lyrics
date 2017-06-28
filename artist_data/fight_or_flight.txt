@@ -1,0 +1,14 @@
+./lyrics/fightorflight/firstofthelast.html
+./lyrics/fightorflight/emphatic.html
+./lyrics/fightorflight/itsover.html
+./lyrics/fightorflight/eraser.html
+./lyrics/fightorflight/leaving.html
+./lyrics/fightorflight/ifithurts.html
+./lyrics/fightorflight/yourefuse.html
+./lyrics/fightorflight/theaverage.html
+./lyrics/fightorflight/takeashot.html
+./lyrics/fightorflight/avoid.html
+./lyrics/fightorflight/shine.html
+./lyrics/fightorflight/tragedy.html
+./lyrics/fightorflight/sacrifice.html
+./lyrics/fightorflight/someheadsaregonnaroll.html

@@ -1,0 +1,13 @@
+./lyrics/candiceglover/cried.html
+./lyrics/candiceglover/diewithoutyou.html
+./lyrics/candiceglover/samekindaman.html
+./lyrics/candiceglover/damn.html
+./lyrics/candiceglover/passenger.html
+./lyrics/candiceglover/foreverthatman.html
+./lyrics/candiceglover/kissme.html
+./lyrics/candiceglover/inthemiddle.html
+./lyrics/candiceglover/couldabeenme.html
+./lyrics/candiceglover/thankyou.html
+./lyrics/candiceglover/lovesong.html
+./lyrics/candiceglover/iambeautiful.html
+./lyrics/candiceglover/youvechanged.html

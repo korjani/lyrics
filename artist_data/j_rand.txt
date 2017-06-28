@@ -1,0 +1,6 @@
+./lyrics/jrand/cantsleep.html
+./lyrics/jrand/gold.html
+./lyrics/jrand/ride.html
+./lyrics/jrand/santagimmie.html
+./lyrics/jrand/spiritoftheradio.html
+./lyrics/jrand/upagainstthewall.html

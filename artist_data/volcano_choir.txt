@@ -1,0 +1,10 @@
+./lyrics/volcanochoir/islandis.html
+./lyrics/volcanochoir/still.html
+./lyrics/volcanochoir/tiderays.html
+./lyrics/volcanochoir/acetate.html
+./lyrics/volcanochoir/comrade.html
+./lyrics/volcanochoir/byegone.html
+./lyrics/volcanochoir/alaskans.html
+./lyrics/volcanochoir/dancepack.html
+./lyrics/volcanochoir/keel.html
+./lyrics/volcanochoir/almanac.html

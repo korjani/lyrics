@@ -1,0 +1,2 @@
+./lyrics/fridayhill/babygoodbye.html
+./lyrics/fridayhill/onemorenightalone.html

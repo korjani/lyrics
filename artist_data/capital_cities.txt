@@ -1,0 +1,15 @@
+./lyrics/capitalcities/safeandsound.html
+./lyrics/capitalcities/patiencegetsusnowherefast.html
+./lyrics/capitalcities/kangaroocourt.html
+./lyrics/capitalcities/isoldmybedbutnotmystereo.html
+./lyrics/capitalcities/centerstage.html
+./lyrics/capitalcities/farrahfawcetthair.html
+./lyrics/capitalcities/chartreuse.html
+./lyrics/capitalcities/origami.html
+./lyrics/capitalcities/lazylies.html
+./lyrics/capitalcities/tellmehowtolive.html
+./lyrics/capitalcities/chasingyou.html
+./lyrics/capitalcities/loveaway.html
+./lyrics/capitalcities/oneminutemore.html
+./lyrics/capitalcities/nothingcompares2u.html
+./lyrics/capitalcities/vowels.html

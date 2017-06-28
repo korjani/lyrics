@@ -1,0 +1,12 @@
+./lyrics/soluna/bringittome.html
+./lyrics/soluna/heyheyyouyou.html
+./lyrics/soluna/nothinglooksgood.html
+./lyrics/soluna/foralltime.html
+./lyrics/soluna/dontwanttolivemylifewithoutyou.html
+./lyrics/soluna/illbewaiting.html
+./lyrics/soluna/soinlove.html
+./lyrics/soluna/spanishlullaby.html
+./lyrics/soluna/alloutoflove.html
+./lyrics/soluna/heshouldbeyou.html
+./lyrics/soluna/mondaymiamor.html
+./lyrics/soluna/lunamia.html

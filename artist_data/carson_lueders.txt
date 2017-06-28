@@ -1,0 +1,10 @@
+./lyrics/carsonlueders/pop.html
+./lyrics/carsonlueders/moviestar.html
+./lyrics/carsonlueders/crush.html
+./lyrics/carsonlueders/baeback.html
+./lyrics/carsonlueders/wishshewasmygirlfriend.html
+./lyrics/carsonlueders/allday.html
+./lyrics/carsonlueders/beautiful.html
+./lyrics/carsonlueders/feelsgood.html
+./lyrics/carsonlueders/gettoknowyougirl.html
+./lyrics/carsonlueders/takeover.html

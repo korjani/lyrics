@@ -1,0 +1,2 @@
+./lyrics/blackbyrd/allforme.html
+./lyrics/blackbyrd/fromthebottomofmyheart.html

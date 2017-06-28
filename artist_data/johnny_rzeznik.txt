@@ -1,0 +1,3 @@
+./lyrics/johnnyrzeznik/alliwantisyou.html
+./lyrics/johnnyrzeznik/alwaysknowwhereyouare.html
+./lyrics/johnnyrzeznik/imstillhere.html

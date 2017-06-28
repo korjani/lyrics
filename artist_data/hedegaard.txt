@@ -1,0 +1,4 @@
+./lyrics/hedegaard/goinghome.html
+./lyrics/hedegaard/happyhome.html
+./lyrics/hedegaard/keepdreaming.html
+./lyrics/hedegaard/thatsme.html

@@ -1,0 +1,6 @@
+./lyrics/blueyrobinson/comingback.html
+./lyrics/blueyrobinson/fuckyou.html
+./lyrics/blueyrobinson/iknow.html
+./lyrics/blueyrobinson/ineedadollarremix.html
+./lyrics/blueyrobinson/showgirl.html
+./lyrics/blueyrobinson/thinkofme.html

@@ -1,0 +1,12 @@
+./lyrics/chaoschaos/winner.html
+./lyrics/chaoschaos/myhands.html
+./lyrics/chaoschaos/antibiotics.html
+./lyrics/chaoschaos/followme.html
+./lyrics/chaoschaos/acrossthemap.html
+./lyrics/chaoschaos/love.html
+./lyrics/chaoschaos/breaker.html
+./lyrics/chaoschaos/doyoufeelit.html
+./lyrics/chaoschaos/westside.html
+./lyrics/chaoschaos/monsters.html
+./lyrics/chaoschaos/geniusoflove.html
+./lyrics/chaoschaos/inthisplace.html

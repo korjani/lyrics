@@ -1,0 +1,13 @@
+./lyrics/azyet/lastnight.html
+./lyrics/azyet/savedforsomeoneelse.html
+./lyrics/azyet/careforme.html
+./lyrics/azyet/everylittlebitofmyheart.html
+./lyrics/azyet/hardtosayimsorry.html
+./lyrics/azyet/thatsalliwant.html
+./lyrics/azyet/secrets.html
+./lyrics/azyet/throughmyheartthearrow.html
+./lyrics/azyet/idontwanttobelonely.html
+./lyrics/azyet/sadderthanblue.html
+./lyrics/azyet/inseparablelovers.html
+./lyrics/azyet/timetoendthestory.html
+./lyrics/azyet/sharelife.html

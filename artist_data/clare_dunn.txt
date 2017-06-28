@@ -1,0 +1,5 @@
+./lyrics/claredunn/ferrari.html
+./lyrics/claredunn/moveon.html
+./lyrics/claredunn/tuxedo.html
+./lyrics/claredunn/oldhat.html
+./lyrics/claredunn/cowboysideofyou.html

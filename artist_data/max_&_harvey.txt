@@ -1,0 +1,2 @@
+./lyrics/maxharvey/letmeloveyou.html
+./lyrics/maxharvey/onemoredayinlove.html

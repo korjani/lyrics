@@ -1,0 +1,9 @@
+./lyrics/snootiewild/hereigo.html
+./lyrics/snootiewild/mademe.html
+./lyrics/snootiewild/mademeremix.html
+./lyrics/snootiewild/nokissing.html
+./lyrics/snootiewild/richornot.html
+./lyrics/snootiewild/shesakeeper.html
+./lyrics/snootiewild/yayo.html
+./lyrics/snootiewild/yayoremix.html
+./lyrics/snootiewild/yayoyogottitiremix.html

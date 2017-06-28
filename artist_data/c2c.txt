@@ -1,0 +1,3 @@
+./lyrics/c2c/downtheroad.html
+./lyrics/c2c/happy.html
+./lyrics/c2c/thebeat.html

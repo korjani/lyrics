@@ -1,0 +1,7 @@
+./lyrics/labelle/ladymarmalade.html
+./lyrics/labelle/rollout.html
+./lyrics/labelle/superlover.html
+./lyrics/labelle/withoutyouinmylife.html
+./lyrics/labelle/tearsfortheworld.html
+./lyrics/labelle/dearrosa.html
+./lyrics/labelle/missotisregrets.html

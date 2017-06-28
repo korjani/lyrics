@@ -1,0 +1,29 @@
+Solid
+Liquid
+Gas
+
+Solid
+Liquid
+Gas
+
+Ice is a solid
+Water is a liquid
+Steam is a gas
+
+Rock is a solid (rock is a solid)
+Milk is a liquid (milk is a liquid)
+And air is a gas
+
+When water's warm enough
+It's a liquid
+When it's cold enough
+It's a solid
+And when it's hot enough
+It's a gas
+So could you make the air so cold it would be solid?
+Could you make rock so warm it would be liquid?
+Could you make milk so hot it would be a gas?
+
+Solid
+Liquid
+Gas

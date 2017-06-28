@@ -1,0 +1,12 @@
+./lyrics/kaytranada/gotitgood.html
+./lyrics/kaytranada/together.html
+./lyrics/kaytranada/drivemecrazy.html
+./lyrics/kaytranada/onetoomany.html
+./lyrics/kaytranada/despitetheweather.html
+./lyrics/kaytranada/glowedup.html
+./lyrics/kaytranada/youretheone.html
+./lyrics/kaytranada/vividdreams.html
+./lyrics/kaytranada/litespots.html
+./lyrics/kaytranada/leavemealone.html
+./lyrics/kaytranada/bullets.html
+./lyrics/kaytranada/flippingonyou.html

@@ -1,0 +1,2 @@
+./lyrics/osmanigarcia/eltaxi.html
+./lyrics/osmanigarcia/sacdetelaarena.html

@@ -1,0 +1,4 @@
+./lyrics/junesdiary/allofus.html
+./lyrics/junesdiary/hotlinebling.html
+./lyrics/junesdiary/itsalright.html
+./lyrics/junesdiary/lance.html

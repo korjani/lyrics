@@ -1,0 +1,12 @@
+./lyrics/steveangello/rebelnation.html
+./lyrics/steveangello/childrenofthewild.html
+./lyrics/steveangello/lastdance.html
+./lyrics/steveangello/wastedlove.html
+./lyrics/steveangello/stockholmskies.html
+./lyrics/steveangello/revolution.html
+./lyrics/steveangello/prisoner.html
+./lyrics/steveangello/theocean.html
+./lyrics/steveangello/someoneelse.html
+./lyrics/steveangello/remember.html
+./lyrics/steveangello/stay.html
+./lyrics/steveangello/465142.html

@@ -1,0 +1,14 @@
+./lyrics/jasonlancaster/change.html
+./lyrics/jasonlancaster/growingup.html
+./lyrics/jasonlancaster/saveme.html
+./lyrics/jasonlancaster/comeback.html
+./lyrics/jasonlancaster/younme.html
+./lyrics/jasonlancaster/climbuptomywindow.html
+./lyrics/jasonlancaster/adam.html
+./lyrics/jasonlancaster/doi.html
+./lyrics/jasonlancaster/justintime.html
+./lyrics/jasonlancaster/shine.html
+./lyrics/jasonlancaster/thecause.html
+./lyrics/jasonlancaster/heyjude.html
+./lyrics/jasonlancaster/allicangiveyou.html
+./lyrics/jasonlancaster/gottabestrong.html

@@ -1,0 +1,8 @@
+./lyrics/sterlingknight/starstruck.html
+./lyrics/sterlingknight/shades.html
+./lyrics/sterlingknight/hero.html
+./lyrics/sterlingknight/somethingaboutthesunshine.html
+./lyrics/sterlingknight/whatyoumeantome.html
+./lyrics/sterlingknight/gottobelieve.html
+./lyrics/sterlingknight/hanging.html
+./lyrics/sterlingknight/howwedothis.html

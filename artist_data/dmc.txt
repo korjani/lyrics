@@ -1,0 +1,12 @@
+./lyrics/dmc/watchtower.html
+./lyrics/dmc/freakychick.html
+./lyrics/dmc/justlikeme.html
+./lyrics/dmc/loveydover.html
+./lyrics/dmc/findmyway.html
+./lyrics/dmc/cold.html
+./lyrics/dmc/whatswrong.html
+./lyrics/dmc/cadillaccars.html
+./lyrics/dmc/onlygodknows.html
+./lyrics/dmc/come2gether.html
+./lyrics/dmc/suckasucka.html
+./lyrics/dmc/goodbye.html

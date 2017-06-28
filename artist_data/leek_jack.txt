@@ -1,0 +1,3 @@
+./lyrics/leekjack/campusgirltentoesdown.html
+./lyrics/leekjack/mystyle.html
+./lyrics/leekjack/vibewithme.html

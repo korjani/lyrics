@@ -1,0 +1,11 @@
+./lyrics/alivelikeme/betteroff.html
+./lyrics/alivelikeme/slipaway.html
+./lyrics/alivelikeme/whatdidyouexpect.html
+./lyrics/alivelikeme/ourtimedownhere.html
+./lyrics/alivelikeme/startagain.html
+./lyrics/alivelikeme/onlyforever.html
+./lyrics/alivelikeme/wreckage.html
+./lyrics/alivelikeme/searchingforendings.html
+./lyrics/alivelikeme/lostwithoutyou.html
+./lyrics/alivelikeme/meantforthis.html
+./lyrics/alivelikeme/neverlookingback.html

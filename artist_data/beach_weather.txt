@@ -1,0 +1,11 @@
+./lyrics/beachweather/wolf.html
+./lyrics/beachweather/newskin.html
+./lyrics/beachweather/badseed.html
+./lyrics/beachweather/swoon.html
+./lyrics/beachweather/rebelsun.html
+./lyrics/beachweather/chitchat.html
+./lyrics/beachweather/homemovies.html
+./lyrics/beachweather/someonesdisaster.html
+./lyrics/beachweather/goddess.html
+./lyrics/beachweather/tremors.html
+./lyrics/beachweather/sexdrugsetc.html

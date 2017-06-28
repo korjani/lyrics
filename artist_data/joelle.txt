@@ -1,0 +1,5 @@
+./lyrics/joelle/hesaid.html
+./lyrics/joelle/imdone.html
+./lyrics/joelle/lovemelike.html
+./lyrics/joelle/saveme.html
+./lyrics/joelle/wishinever.html

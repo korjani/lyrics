@@ -1,0 +1,5 @@
+./lyrics/adamlevine/loststars.html
+./lyrics/adamlevine/nooneelselikeyou.html
+./lyrics/adamlevine/ahigherplace.html
+./lyrics/adamlevine/loststarsintothenightmix.html
+./lyrics/adamlevine/gonow.html

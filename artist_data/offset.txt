@@ -1,0 +1,12 @@
+./lyrics/offset/100bricks.html
+./lyrics/offset/asksomebody.html
+./lyrics/offset/firstdayout.html
+./lyrics/offset/growth.html
+./lyrics/offset/inherthroat.html
+./lyrics/offset/monday.html
+./lyrics/offset/oneshottwoshot.html
+./lyrics/offset/oprahwinfrey.html
+./lyrics/offset/powermoves.html
+./lyrics/offset/sleepwalking.html
+./lyrics/offset/truckloads.html
+./lyrics/offset/uonwantnoproblems.html

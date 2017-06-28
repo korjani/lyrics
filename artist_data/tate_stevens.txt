@@ -1,0 +1,13 @@
+./lyrics/tatestevens/igotthis.html
+./lyrics/tatestevens/cantgetnothindone.html
+./lyrics/tatestevens/rideitout.html
+./lyrics/tatestevens/powerofalovesong.html
+./lyrics/tatestevens/sweet.html
+./lyrics/tatestevens/thatswherewelive.html
+./lyrics/tatestevens/elcamino.html
+./lyrics/tatestevens/thatshowyougetthegirl.html
+./lyrics/tatestevens/ordinaryangels.html
+./lyrics/tatestevens/thelastthingido.html
+./lyrics/tatestevens/hollerifyourewithme.html
+./lyrics/tatestevens/betteratnight.html
+./lyrics/tatestevens/itsurelooksgoodonyou.html

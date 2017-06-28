@@ -1,0 +1,15 @@
+./lyrics/annablue/soalone.html
+./lyrics/annablue/night.html
+./lyrics/annablue/silentscream.html
+./lyrics/annablue/angel.html
+./lyrics/annablue/wheredoigo.html
+./lyrics/annablue/everytimetheraincomesdown.html
+./lyrics/annablue/everybodycriessometimes.html
+./lyrics/annablue/inhisarms.html
+./lyrics/annablue/saysomething.html
+./lyrics/annablue/engel.html
+./lyrics/annablue/immerwennderregenfllt.html
+./lyrics/annablue/nacht.html
+./lyrics/annablue/soallein.html
+./lyrics/annablue/stummerschrei.html
+./lyrics/annablue/wiewirdesweitergehen.html

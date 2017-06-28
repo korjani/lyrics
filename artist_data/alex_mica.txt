@@ -1,0 +1,4 @@
+./lyrics/alexmica/breathe.html
+./lyrics/alexmica/dalinda.html
+./lyrics/alexmica/doradora.html
+./lyrics/alexmica/heya.html

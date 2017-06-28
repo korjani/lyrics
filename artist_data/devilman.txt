@@ -1,0 +1,10 @@
+./lyrics/devilman/dirtyblackman.html
+./lyrics/devilman/drumandbassfather.html
+./lyrics/devilman/alienz.html
+./lyrics/devilman/chipmunkreply.html
+./lyrics/devilman/prostitute.html
+./lyrics/devilman/pushitindeep.html
+./lyrics/devilman/sendoff.html
+./lyrics/devilman/showerdownpart2.html
+./lyrics/devilman/skeptadiss.html
+./lyrics/devilman/spitfire.html

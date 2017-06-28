@@ -1,0 +1,3 @@
+./lyrics/benhazlewood/parachute.html
+./lyrics/benhazlewood/noises.html
+./lyrics/benhazlewood/paintmeblack.html

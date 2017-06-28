@@ -1,0 +1,3 @@
+./lyrics/kendallk/outloud.html
+./lyrics/kendallk/wearemout.html
+./lyrics/kendallk/wherewouldibewithoutyou.html

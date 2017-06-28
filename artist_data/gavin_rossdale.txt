@@ -1,0 +1,15 @@
+./lyrics/gavinrossdale/cantstoptheworld.html
+./lyrics/gavinrossdale/frontline.html
+./lyrics/gavinrossdale/forevermayyourun.html
+./lyrics/gavinrossdale/theskinimin.html
+./lyrics/gavinrossdale/drive.html
+./lyrics/gavinrossdale/futureworld.html
+./lyrics/gavinrossdale/loveremainsthesame.html
+./lyrics/gavinrossdale/ifyourenotwithusyouareagainstus.html
+./lyrics/gavinrossdale/thisishappiness.html
+./lyrics/gavinrossdale/anothernightinthehills.html
+./lyrics/gavinrossdale/thetroubleimin.html
+./lyrics/gavinrossdale/beautyinthebeast.html
+./lyrics/gavinrossdale/thisplaceisonfire.html
+./lyrics/gavinrossdale/youcantrunfromwhatyouforget.html
+./lyrics/gavinrossdale/adrenaline.html

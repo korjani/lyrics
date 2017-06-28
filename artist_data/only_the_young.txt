@@ -1,0 +1,3 @@
+./lyrics/onlytheyoung/broken.html
+./lyrics/onlytheyoung/ido.html
+./lyrics/onlytheyoung/nothingpersonal.html

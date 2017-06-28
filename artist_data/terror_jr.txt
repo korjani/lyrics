@@ -1,0 +1,13 @@
+./lyrics/terrorjr/littlewhitebars.html
+./lyrics/terrorjr/pray.html
+./lyrics/terrorjr/sugar.html
+./lyrics/terrorjr/comefirst.html
+./lyrics/terrorjr/sayso.html
+./lyrics/terrorjr/superpowers.html
+./lyrics/terrorjr/3strikes.html
+./lyrics/terrorjr/truth.html
+./lyrics/terrorjr/caramel.html
+./lyrics/terrorjr/deathwish.html
+./lyrics/terrorjr/appreciation.html
+./lyrics/terrorjr/heartbreaks.html
+./lyrics/terrorjr/trippin.html

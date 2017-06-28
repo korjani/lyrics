@@ -1,0 +1,14 @@
+./lyrics/ebonyday/brushyouoffmyheart.html
+./lyrics/ebonyday/crazyoveryou.html
+./lyrics/ebonyday/rulesweremadetobebroken.html
+./lyrics/ebonyday/goodthinggonewrong.html
+./lyrics/ebonyday/collide.html
+./lyrics/ebonyday/falling.html
+./lyrics/ebonyday/home.html
+./lyrics/ebonyday/iloveit.html
+./lyrics/ebonyday/lovingyou.html
+./lyrics/ebonyday/problem.html
+./lyrics/ebonyday/ratherbe.html
+./lyrics/ebonyday/samelove.html
+./lyrics/ebonyday/somebodyelsegirlperspective.html
+./lyrics/ebonyday/style.html

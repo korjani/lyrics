@@ -1,0 +1,5 @@
+./lyrics/frankiecocozza/catastrophiccasanova.html
+./lyrics/frankiecocozza/shesgotamotorcycle.html
+./lyrics/frankiecocozza/littlemissnoname.html
+./lyrics/frankiecocozza/youblewit.html
+./lyrics/frankiecocozza/embrace.html

@@ -1,0 +1,12 @@
+./lyrics/brownboy/livinshady.html
+./lyrics/brownboy/imyours.html
+./lyrics/brownboy/superman.html
+./lyrics/brownboy/special.html
+./lyrics/brownboy/letsride.html
+./lyrics/brownboy/pleasedontgo.html
+./lyrics/brownboy/youretheone.html
+./lyrics/brownboy/allieverwanted.html
+./lyrics/brownboy/comebacktome.html
+./lyrics/brownboy/imyoursradioversion.html
+./lyrics/brownboy/rideordie.html
+./lyrics/brownboy/whenicry.html

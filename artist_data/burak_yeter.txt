@@ -1,0 +1,2 @@
+./lyrics/burakyeter/happy.html
+./lyrics/burakyeter/tuesday.html

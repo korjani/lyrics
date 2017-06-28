@@ -1,0 +1,3 @@
+./lyrics/sonnarele/backtolove.html
+./lyrics/sonnarele/brandnewday.html
+./lyrics/sonnarele/strong.html

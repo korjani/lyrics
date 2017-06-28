@@ -1,0 +1,6 @@
+./lyrics/ravaughn/anybodyelse.html
+./lyrics/ravaughn/bestfriend.html
+./lyrics/ravaughn/betterbegood.html
+./lyrics/ravaughn/itsover.html
+./lyrics/ravaughn/justanotherholiday.html
+./lyrics/ravaughn/loveumore.html

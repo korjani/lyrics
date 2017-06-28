@@ -1,0 +1,3 @@
+./lyrics/nevada/themack.html
+./lyrics/nevada/themackcrazycousinzremix.html
+./lyrics/nevada/themackdavidzowieremix.html

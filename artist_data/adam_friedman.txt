@@ -1,0 +1,8 @@
+./lyrics/adamfriedman/signals.html
+./lyrics/adamfriedman/sad.html
+./lyrics/adamfriedman/whatif.html
+./lyrics/adamfriedman/waitingonawomanacoustic.html
+./lyrics/adamfriedman/lemonade.html
+./lyrics/adamfriedman/glorious.html
+./lyrics/adamfriedman/gravity.html
+./lyrics/adamfriedman/prettythings.html

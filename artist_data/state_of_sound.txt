@@ -1,0 +1,4 @@
+./lyrics/stateofsound/drytherain.html
+./lyrics/stateofsound/higherlove.html
+./lyrics/stateofsound/lovemelikethat.html
+./lyrics/stateofsound/wakeupwhereyouare.html

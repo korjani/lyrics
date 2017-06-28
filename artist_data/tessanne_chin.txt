@@ -1,0 +1,17 @@
+./lyrics/tessannechin/blackbooks.html
+./lyrics/tessannechin/hideaway.html
+./lyrics/tessannechin/lovingyou.html
+./lyrics/tessannechin/messenger.html
+./lyrics/tessannechin/youandme.html
+./lyrics/tessannechin/tumblingdown.html
+./lyrics/tessannechin/everythingremindsmeofyou.html
+./lyrics/tessannechin/countonmylove.html
+./lyrics/tessannechin/alwaystomorrow.html
+./lyrics/tessannechin/lifeline.html
+./lyrics/tessannechin/iheartu.html
+./lyrics/tessannechin/loudestsilence.html
+./lyrics/tessannechin/heavenknows.html
+./lyrics/tessannechin/peoplechange.html
+./lyrics/tessannechin/onestepcloser.html
+./lyrics/tessannechin/fire.html
+./lyrics/tessannechin/lovesuicide.html

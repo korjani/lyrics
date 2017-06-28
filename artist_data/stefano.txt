@@ -1,0 +1,2 @@
+./lyrics/stefano/imonaroll.html
+./lyrics/stefano/yestolove.html

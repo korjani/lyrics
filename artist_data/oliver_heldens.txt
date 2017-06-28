@@ -1,0 +1,6 @@
+./lyrics/oliverheldens/geckooverdrive.html
+./lyrics/oliverheldens/goodlife.html
+./lyrics/oliverheldens/idontwannagohome.html
+./lyrics/oliverheldens/lastallnightkoala.html
+./lyrics/oliverheldens/shadesofgrey.html
+./lyrics/oliverheldens/therightsong.html

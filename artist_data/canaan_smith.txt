@@ -1,0 +1,14 @@
+./lyrics/canaansmith/goodkindabad.html
+./lyrics/canaansmith/stompingrounds.html
+./lyrics/canaansmith/loveyoulikethat.html
+./lyrics/canaansmith/holeinabottle.html
+./lyrics/canaansmith/stuck.html
+./lyrics/canaansmith/oneofthose.html
+./lyrics/canaansmith/madlove.html
+./lyrics/canaansmith/loveatfirst.html
+./lyrics/canaansmith/americanmuscle.html
+./lyrics/canaansmith/twolaneroad.html
+./lyrics/canaansmith/bronco.html
+./lyrics/canaansmith/likeyouthatway.html
+./lyrics/canaansmith/prettiestgirlintown.html
+./lyrics/canaansmith/wegotus.html

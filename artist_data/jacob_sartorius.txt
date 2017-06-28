@@ -1,0 +1,9 @@
+./lyrics/jacobsartorius/lasttext.html
+./lyrics/jacobsartorius/byyourside.html
+./lyrics/jacobsartorius/bingo.html
+./lyrics/jacobsartorius/lovemeback.html
+./lyrics/jacobsartorius/jordans.html
+./lyrics/jacobsartorius/allmyfriends.html
+./lyrics/jacobsartorius/hitormiss.html
+./lyrics/jacobsartorius/sweatshirtremix.html
+./lyrics/jacobsartorius/sweatshirt.html

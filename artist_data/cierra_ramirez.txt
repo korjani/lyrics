@@ -1,0 +1,7 @@
+./lyrics/cierraramirez/faded.html
+./lyrics/cierraramirez/allday.html
+./lyrics/cierraramirez/aintnobody.html
+./lyrics/cierraramirez/gmthgetmoney.html
+./lyrics/cierraramirez/vanity.html
+./lyrics/cierraramirez/discreet.html
+./lyrics/cierraramirez/youdontknow.html

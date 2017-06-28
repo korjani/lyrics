@@ -1,0 +1,13 @@
+./lyrics/harrystyles/meetmeinthehallway.html
+./lyrics/harrystyles/signofthetimes.html
+./lyrics/harrystyles/carolina.html
+./lyrics/harrystyles/twoghosts.html
+./lyrics/harrystyles/sweetcreature.html
+./lyrics/harrystyles/onlyangel.html
+./lyrics/harrystyles/kiwi.html
+./lyrics/harrystyles/eversincenewyork.html
+./lyrics/harrystyles/woman.html
+./lyrics/harrystyles/fromthediningtable.html
+./lyrics/harrystyles/dontletmego.html
+./lyrics/harrystyles/illbeready.html
+./lyrics/harrystyles/isntshelovely.html

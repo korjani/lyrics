@@ -1,0 +1,17 @@
+./lyrics/charlotteoc/blackout.html
+./lyrics/charlotteoc/darkesthour.html
+./lyrics/charlotteoc/medicineman.html
+./lyrics/charlotteoc/river.html
+./lyrics/charlotteoc/shell.html
+./lyrics/charlotteoc/choice.html
+./lyrics/charlotteoc/runningbacktoyou.html
+./lyrics/charlotteoc/higher.html
+./lyrics/charlotteoc/iwantyourlove.html
+./lyrics/charlotteoc/whereitstays.html
+./lyrics/charlotteoc/inparis.html
+./lyrics/charlotteoc/colourmyheart.html
+./lyrics/charlotteoc/cuttherope.html
+./lyrics/charlotteoc/ifmyhousewasburning.html
+./lyrics/charlotteoc/onon.html
+./lyrics/charlotteoc/stolencar.html
+./lyrics/charlotteoc/strange.html

@@ -1,0 +1,10 @@
+./lyrics/rio/afterthelove.html
+./lyrics/rio/headlong.html
+./lyrics/rio/hotgirl.html
+./lyrics/rio/likeiloveyou.html
+./lyrics/rio/livinginstereo.html
+./lyrics/rio/partyshaker.html
+./lyrics/rio/shineon.html
+./lyrics/rio/summerjam.html
+./lyrics/rio/turnthisclubaround.html
+./lyrics/rio/whenthesuncomesdown.html

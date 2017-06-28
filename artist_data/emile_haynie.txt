@@ -1,0 +1,11 @@
+./lyrics/emilehaynie/fallingapart.html
+./lyrics/emilehaynie/littleballerina.html
+./lyrics/emilehaynie/waitforlife.html
+./lyrics/emilehaynie/dirtyworld.html
+./lyrics/emilehaynie/akissgoodbye.html
+./lyrics/emilehaynie/foolmetoo.html
+./lyrics/emilehaynie/nobodybelievesyou.html
+./lyrics/emilehaynie/comefindme.html
+./lyrics/emilehaynie/whotoblame.html
+./lyrics/emilehaynie/ballerinasreprise.html
+./lyrics/emilehaynie/theotherside.html

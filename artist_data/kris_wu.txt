@@ -1,0 +1,7 @@
+./lyrics/kriswu/badgirl.html
+./lyrics/kriswu/fromnowon.html
+./lyrics/kriswu/greenhousegirl.html
+./lyrics/kriswu/juice.html
+./lyrics/kriswu/july.html
+./lyrics/kriswu/thereisaplace.html
+./lyrics/kriswu/timeboilstherain.html

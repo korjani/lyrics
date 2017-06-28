@@ -1,0 +1,16 @@
+./lyrics/bobmoses/winterssong.html
+./lyrics/bobmoses/stealingfire.html
+./lyrics/bobmoses/handstohold.html
+./lyrics/bobmoses/toocloseforcomfort.html
+./lyrics/bobmoses/iaintgonnabethefirsttocry.html
+./lyrics/bobmoses/grace.html
+./lyrics/bobmoses/likeitornot.html
+./lyrics/bobmoses/talk.html
+./lyrics/bobmoses/beforeifall.html
+./lyrics/bobmoses/toomuchisneverenough.html
+./lyrics/bobmoses/tearingmeup.html
+./lyrics/bobmoses/keepingmealive.html
+./lyrics/bobmoses/nothingatall.html
+./lyrics/bobmoses/daysgoneby.html
+./lyrics/bobmoses/writingonthewall.html
+./lyrics/bobmoses/touchandgo.html

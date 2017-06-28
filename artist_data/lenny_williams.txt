@@ -1,0 +1,2 @@
+./lyrics/lennywilliams/causeiloveyou.html
+./lyrics/lennywilliams/midnightgirl.html

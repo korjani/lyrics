@@ -1,0 +1,12 @@
+./lyrics/meganmccauley/migraine.html
+./lyrics/meganmccauley/fragile.html
+./lyrics/meganmccauley/wrongwayout.html
+./lyrics/meganmccauley/reverie.html
+./lyrics/meganmccauley/tapthat.html
+./lyrics/meganmccauley/wonder.html
+./lyrics/meganmccauley/irealize.html
+./lyrics/meganmccauley/seethrough.html
+./lyrics/meganmccauley/cometome.html
+./lyrics/meganmccauley/porcelaindoll.html
+./lyrics/meganmccauley/illpayyoutoshoothim.html
+./lyrics/meganmccauley/dieforyou.html

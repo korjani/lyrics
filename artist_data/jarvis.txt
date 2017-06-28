@@ -1,0 +1,6 @@
+./lyrics/jarvis/datthurr.html
+./lyrics/jarvis/makealittleroom.html
+./lyrics/jarvis/makeupsex.html
+./lyrics/jarvis/prettygirl.html
+./lyrics/jarvis/radio.html
+./lyrics/jarvis/trustme.html

@@ -1,0 +1,5 @@
+./lyrics/sanni/dancewithme.html
+./lyrics/sanni/thinkinboutyou.html
+./lyrics/sanni/thisfeeling.html
+./lyrics/sanni/thistown.html
+./lyrics/sanni/yourlove.html

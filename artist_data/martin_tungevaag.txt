@@ -1,0 +1,4 @@
+./lyrics/martintungevaag/nissemorogmeg.html
+./lyrics/martintungevaag/samsara.html
+./lyrics/martintungevaag/vidorra.html
+./lyrics/martintungevaag/wickedwonderland.html

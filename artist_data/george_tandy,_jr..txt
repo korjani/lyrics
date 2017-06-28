@@ -1,0 +1,6 @@
+./lyrics/georgetandyjr/gravity.html
+./lyrics/georgetandyjr/march.html
+./lyrics/georgetandyjr/jaded.html
+./lyrics/georgetandyjr/apologize.html
+./lyrics/georgetandyjr/higher.html
+./lyrics/georgetandyjr/imyours.html

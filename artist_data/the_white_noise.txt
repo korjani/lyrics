@@ -1,0 +1,9 @@
+./lyrics/whitenoise/thedoctorwillseeyounow.html
+./lyrics/whitenoise/bloom.html
+./lyrics/whitenoise/pictureday.html
+./lyrics/whitenoise/redeyelids.html
+./lyrics/whitenoise/brainwashed.html
+./lyrics/whitenoise/cosmopolitician.html
+./lyrics/whitenoise/bitemarks.html
+./lyrics/whitenoise/pictureday.html
+./lyrics/whitenoise/thebestsongsaredead.html

@@ -1,0 +1,10 @@
+./lyrics/the-record-company/offtheground.html
+./lyrics/the-record-company/dontletmegetlonely.html
+./lyrics/the-record-company/ritamaeyoung.html
+./lyrics/the-record-company/onthemove.html
+./lyrics/the-record-company/harddaycomingdown.html
+./lyrics/the-record-company/feelssogood.html
+./lyrics/the-record-company/turnmeloose.html
+./lyrics/the-record-company/giveitbacktoyou.html
+./lyrics/the-record-company/thiscrookedcity.html
+./lyrics/the-record-company/inthemoodforyou.html

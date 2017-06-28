@@ -1,0 +1,12 @@
+./lyrics/angeltaylor/chaitealatte.html
+./lyrics/angeltaylor/likeyoudo.html
+./lyrics/angeltaylor/makemebelieve.html
+./lyrics/angeltaylor/mapletree.html
+./lyrics/angeltaylor/toogoodforwords.html
+./lyrics/angeltaylor/spinningwheels.html
+./lyrics/angeltaylor/dontforgetmeintime.html
+./lyrics/angeltaylor/lightningstrikes.html
+./lyrics/angeltaylor/epiphany.html
+./lyrics/angeltaylor/feedyourego.html
+./lyrics/angeltaylor/notevenhuman.html
+./lyrics/angeltaylor/bestfatheraround.html

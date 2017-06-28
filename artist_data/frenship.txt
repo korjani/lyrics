@@ -1,0 +1,7 @@
+./lyrics/frenship/carpet.html
+./lyrics/frenship/capsize.html
+./lyrics/frenship/runwild.html
+./lyrics/frenship/1000nights.html
+./lyrics/frenship/kidsacoustic.html
+./lyrics/frenship/morrison.html
+./lyrics/frenship/nowhere.html

@@ -1,0 +1,3 @@
+./lyrics/amberriley/colorblind.html
+./lyrics/amberriley/lionsandtigersandbears.html
+./lyrics/amberriley/seeyourface.html

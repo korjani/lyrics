@@ -1,0 +1,2 @@
+./lyrics/babycris/myqueen.html
+./lyrics/babycris/pinkypromise.html

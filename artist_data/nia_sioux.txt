@@ -1,0 +1,6 @@
+./lyrics/niasioux/dancejustrock.html
+./lyrics/niasioux/djfav.html
+./lyrics/niasioux/hereforyou.html
+./lyrics/niasioux/slay.html
+./lyrics/niasioux/starinyourownlife.html
+./lyrics/niasioux/starinyourownliferemix.html

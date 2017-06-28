@@ -1,0 +1,14 @@
+./lyrics/stephen/startafire.html
+./lyrics/stephen/yourlife.html
+./lyrics/stephen/rememberingmyself.html
+./lyrics/stephen/lineitup.html
+./lyrics/stephen/flydown.html
+./lyrics/stephen/solidasastone.html
+./lyrics/stephen/outro.html
+./lyrics/stephen/mrman.html
+./lyrics/stephen/crossfire.html
+./lyrics/stephen/sincerely.html
+./lyrics/stephen/crossfirepartiii.html
+./lyrics/stephen/crossfireptii.html
+./lyrics/stephen/hello.html
+./lyrics/stephen/remeberingmyself.html

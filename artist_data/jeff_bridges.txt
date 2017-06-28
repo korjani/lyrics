@@ -1,0 +1,11 @@
+./lyrics/jeffbridges/2whiteroses.html
+./lyrics/jeffbridges/whatalittlebitoflovecando.html
+./lyrics/jeffbridges/fallingshort.html
+./lyrics/jeffbridges/everythingbutlove.html
+./lyrics/jeffbridges/tumblingvine.html
+./lyrics/jeffbridges/nothingyet.html
+./lyrics/jeffbridges/bluecar.html
+./lyrics/jeffbridges/maybeimissedthepoint.html
+./lyrics/jeffbridges/slowboat.html
+./lyrics/jeffbridges/eitherway.html
+./lyrics/jeffbridges/thequest.html

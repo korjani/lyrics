@@ -1,0 +1,11 @@
+./lyrics/dylanholland/tonight.html
+./lyrics/dylanholland/hopeless.html
+./lyrics/dylanholland/nashville.html
+./lyrics/dylanholland/cry.html
+./lyrics/dylanholland/justkissme.html
+./lyrics/dylanholland/icallyoulove.html
+./lyrics/dylanholland/loveyoulikeido.html
+./lyrics/dylanholland/bemybaby.html
+./lyrics/dylanholland/comehometome.html
+./lyrics/dylanholland/loveonthemoon.html
+./lyrics/dylanholland/whatidreamof.html

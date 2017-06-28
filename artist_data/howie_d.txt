@@ -1,0 +1,14 @@
+./lyrics/howied/100.html
+./lyrics/howied/backtome.html
+./lyrics/howied/goinggoinggone.html
+./lyrics/howied/lietome.html
+./lyrics/howied/pure.html
+./lyrics/howied/sleepwalking.html
+./lyrics/howied/stay.html
+./lyrics/howied/thisisjustwhatineeded.html
+./lyrics/howied/dominoes.html
+./lyrics/howied/overmyhead.html
+./lyrics/howied/shatterproof.html
+./lyrics/howied/waytoyourheart.html
+./lyrics/howied/unica.html
+./lyrics/howied/illbethere.html

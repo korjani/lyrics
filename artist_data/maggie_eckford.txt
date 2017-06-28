@@ -1,0 +1,6 @@
+./lyrics/maggieeckford/everythingislost.html
+./lyrics/maggieeckford/forwhatitsworth.html
+./lyrics/maggieeckford/ghost.html
+./lyrics/maggieeckford/letthelightbackin.html
+./lyrics/maggieeckford/showandtell.html
+./lyrics/maggieeckford/tellmehowtofeel.html

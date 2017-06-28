@@ -1,0 +1,16 @@
+./lyrics/superjunior/bonamana.html
+./lyrics/superjunior/devil.html
+./lyrics/superjunior/dontdon.html
+./lyrics/superjunior/evanesce.html
+./lyrics/superjunior/magic.html
+./lyrics/superjunior/mamacita.html
+./lyrics/superjunior/marryu.html
+./lyrics/superjunior/mrsimple.html
+./lyrics/superjunior/myallisinyou.html
+./lyrics/superjunior/noother.html
+./lyrics/superjunior/sexyfreesingle.html
+./lyrics/superjunior/snowwhite.html
+./lyrics/superjunior/sorrysorry.html
+./lyrics/superjunior/spy.html
+./lyrics/superjunior/superman.html
+./lyrics/superjunior/thisislove.html

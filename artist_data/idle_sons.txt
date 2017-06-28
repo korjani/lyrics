@@ -1,0 +1,12 @@
+./lyrics/idlesons/littlebitless.html
+./lyrics/idlesons/tellme.html
+./lyrics/idlesons/maggot.html
+./lyrics/idlesons/nowforever.html
+./lyrics/idlesons/waitingaround.html
+./lyrics/idlesons/getaway.html
+./lyrics/idlesons/thisevening.html
+./lyrics/idlesons/bleeding.html
+./lyrics/idlesons/beforethefall.html
+./lyrics/idlesons/betterdays.html
+./lyrics/idlesons/thegoodlife.html
+./lyrics/idlesons/longwayhome.html

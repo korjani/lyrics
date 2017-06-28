@@ -1,0 +1,11 @@
+./lyrics/hamiltonpark/frontrowinterlude.html
+./lyrics/hamiltonpark/hardinthepaint.html
+./lyrics/hamiltonpark/thingcalledus.html
+./lyrics/hamiltonpark/pieceofmylove.html
+./lyrics/hamiltonpark/saluteu.html
+./lyrics/hamiltonpark/clockstops.html
+./lyrics/hamiltonpark/thingcalledusremix.html
+./lyrics/hamiltonpark/appetiteforlove.html
+./lyrics/hamiltonpark/grindin.html
+./lyrics/hamiltonpark/inmybed.html
+./lyrics/hamiltonpark/thingcalleduscleanversion.html

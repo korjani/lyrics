@@ -1,0 +1,9 @@
+./lyrics/sebastianmikael/lastnight.html
+./lyrics/sebastianmikael/4u.html
+./lyrics/sebastianmikael/forever.html
+./lyrics/sebastianmikael/madeforme.html
+./lyrics/sebastianmikael/speechless.html
+./lyrics/sebastianmikael/loseit.html
+./lyrics/sebastianmikael/crash.html
+./lyrics/sebastianmikael/beautifullife.html
+./lyrics/sebastianmikael/takemehigher.html

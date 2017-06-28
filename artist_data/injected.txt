@@ -1,0 +1,12 @@
+./lyrics/injected/whenshecomes.html
+./lyrics/injected/burnitback.html
+./lyrics/injected/bullet.html
+./lyrics/injected/faithless.html
+./lyrics/injected/onlyhurtsawhile.html
+./lyrics/injected/iivv.html
+./lyrics/injected/sherman.html
+./lyrics/injected/usedup.html
+./lyrics/injected/misfortune.html
+./lyrics/injected/bloodstainedglass.html
+./lyrics/injected/lightsarelow.html
+./lyrics/injected/dawn.html

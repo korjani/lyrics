@@ -1,0 +1,4 @@
+./lyrics/vbozeman/go.html
+./lyrics/vbozeman/racejones.html
+./lyrics/vbozeman/whatislove.html
+./lyrics/vbozeman/youcantbreakme.html

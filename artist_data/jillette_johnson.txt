@@ -1,0 +1,12 @@
+./lyrics/jillettejohnson/torpedo.html
+./lyrics/jillettejohnson/cameron.html
+./lyrics/jillettejohnson/floodtheocean.html
+./lyrics/jillettejohnson/whentheshipgoesdown.html
+./lyrics/jillettejohnson/lastbusout.html
+./lyrics/jillettejohnson/pauvrecoeur.html
+./lyrics/jillettejohnson/peterpan.html
+./lyrics/jillettejohnson/bassethound.html
+./lyrics/jillettejohnson/heathen.html
+./lyrics/jillettejohnson/truenorth.html
+./lyrics/jillettejohnson/17.html
+./lyrics/jillettejohnson/boxofcrayons.html

@@ -1,0 +1,4 @@
+./lyrics/troyboi/afterhours.html
+./lyrics/troyboi/ili.html
+./lyrics/troyboi/onmyown.html
+./lyrics/troyboi/whatwedo.html

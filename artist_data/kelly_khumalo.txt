@@ -1,0 +1,4 @@
+./lyrics/kellykhumalo/asine.html
+./lyrics/kellykhumalo/iliveforlove.html
+./lyrics/kellykhumalo/ngiyabuza.html
+./lyrics/kellykhumalo/sobabili.html

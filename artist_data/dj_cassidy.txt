@@ -1,0 +1,5 @@
+./lyrics/djcassidy/callingallhearts.html
+./lyrics/djcassidy/futureismine.html
+./lyrics/djcassidy/honor.html
+./lyrics/djcassidy/killthelights.html
+./lyrics/djcassidy/maketheworldgoround.html

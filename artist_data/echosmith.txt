@@ -1,0 +1,16 @@
+./lyrics/echosmith/cometogether.html
+./lyrics/echosmith/letslove.html
+./lyrics/echosmith/coolkids.html
+./lyrics/echosmith/marchintothesun.html
+./lyrics/echosmith/comewithme.html
+./lyrics/echosmith/bright.html
+./lyrics/echosmith/talkingdreams.html
+./lyrics/echosmith/tellheryouloveher.html
+./lyrics/echosmith/ranoffinthenight.html
+./lyrics/echosmith/nothingswrong.html
+./lyrics/echosmith/safestplace.html
+./lyrics/echosmith/surroundyou.html
+./lyrics/echosmith/uptoyou.html
+./lyrics/echosmith/werenotalone.html
+./lyrics/echosmith/iheardthebellsonchristmasday.html
+./lyrics/echosmith/terminal.html

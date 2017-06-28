@@ -1,0 +1,13 @@
+./lyrics/laceysturm/impossible.html
+./lyrics/laceysturm/thesoldier.html
+./lyrics/laceysturm/imnotlaughing.html
+./lyrics/laceysturm/vanity.html
+./lyrics/laceysturm/rot.html
+./lyrics/laceysturm/yourenotalone.html
+./lyrics/laceysturm/feelslikeforever.html
+./lyrics/laceysturm/lifescreams.html
+./lyrics/laceysturm/faith.html
+./lyrics/laceysturm/roxannelive.html
+./lyrics/laceysturm/runtoyou.html
+./lyrics/laceysturm/mercytree.html
+./lyrics/laceysturm/thereason.html

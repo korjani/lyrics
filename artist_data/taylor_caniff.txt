@@ -1,0 +1,3 @@
+./lyrics/taylorcaniff/foreign.html
+./lyrics/taylorcaniff/onme.html
+./lyrics/taylorcaniff/privatepartyswingmyway.html

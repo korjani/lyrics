@@ -1,0 +1,11 @@
+./lyrics/roseroyce/bestlove.html
+./lyrics/roseroyce/carwash.html
+./lyrics/roseroyce/doyourdance.html
+./lyrics/roseroyce/firstcomefirstserve.html
+./lyrics/roseroyce/iwannagetnexttoyou.html
+./lyrics/roseroyce/imgoingdown.html
+./lyrics/roseroyce/iminloveandilovethefeeling.html
+./lyrics/roseroyce/isitloveyoureafter.html
+./lyrics/roseroyce/lovedontlivehereanymore.html
+./lyrics/roseroyce/popyourfingers.html
+./lyrics/roseroyce/wishingonastar.html

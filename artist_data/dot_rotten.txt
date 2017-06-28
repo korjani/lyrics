@@ -1,0 +1,3 @@
+./lyrics/dotrotten/areyounotentertained.html
+./lyrics/dotrotten/keepitonalow.html
+./lyrics/dotrotten/overload.html

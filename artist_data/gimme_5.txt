@@ -1,0 +1,11 @@
+./lyrics/gimme5/pagkasamaka.html
+./lyrics/gimme5/hatidsundo.html
+./lyrics/gimme5/akingprinsesa.html
+./lyrics/gimme5/heygirl.html
+./lyrics/gimme5/growingup.html
+./lyrics/gimme5/ikawnana.html
+./lyrics/gimme5/firstlove.html
+./lyrics/gimme5/hanggangtinginnalang.html
+./lyrics/gimme5/hindikoalam.html
+./lyrics/gimme5/walangdahilan.html
+./lyrics/gimme5/napapangiti.html

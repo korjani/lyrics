@@ -1,0 +1,11 @@
+./lyrics/tonibasil/mickey.html
+./lyrics/tonibasil/rockon.html
+./lyrics/tonibasil/shoppingfromatoz.html
+./lyrics/tonibasil/yougottaproblem.html
+./lyrics/tonibasil/bestiff.html
+./lyrics/tonibasil/nobody.html
+./lyrics/tonibasil/littleredbook.html
+./lyrics/tonibasil/spacegirls.html
+./lyrics/tonibasil/overmyhead.html
+./lyrics/tonibasil/streetbeat.html
+./lyrics/tonibasil/suspense.html

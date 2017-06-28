@@ -1,0 +1,11 @@
+./lyrics/nathaniel/animals.html
+./lyrics/nathaniel/flava.html
+./lyrics/nathaniel/livelouder.html
+./lyrics/nathaniel/extinct.html
+./lyrics/nathaniel/you.html
+./lyrics/nathaniel/alwaysbeyours.html
+./lyrics/nathaniel/addicted.html
+./lyrics/nathaniel/yourebeautiful.html
+./lyrics/nathaniel/bedroom.html
+./lyrics/nathaniel/dontletagoodthinggo.html
+./lyrics/nathaniel/vapours.html

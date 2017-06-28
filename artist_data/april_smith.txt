@@ -1,0 +1,10 @@
+./lyrics/aprilsmith/something.html
+./lyrics/aprilsmith/brightwhitejackets.html
+./lyrics/aprilsmith/thebells.html
+./lyrics/aprilsmith/california.html
+./lyrics/aprilsmith/theonethatgotaway.html
+./lyrics/aprilsmith/totellyou.html
+./lyrics/aprilsmith/highschoolmemory.html
+./lyrics/aprilsmith/sufferingso.html
+./lyrics/aprilsmith/jwexperiment.html
+./lyrics/aprilsmith/ps.html

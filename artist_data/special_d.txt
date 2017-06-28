@@ -1,0 +1,10 @@
+./lyrics/speciald/nothingiwontdo.html
+./lyrics/speciald/reckless.html
+./lyrics/speciald/comewithme.html
+./lyrics/speciald/you.html
+./lyrics/speciald/homealone.html
+./lyrics/speciald/fullmetaljackass.html
+./lyrics/speciald/dusttodust.html
+./lyrics/speciald/likearider.html
+./lyrics/speciald/keepthefaith.html
+./lyrics/speciald/hereiam.html

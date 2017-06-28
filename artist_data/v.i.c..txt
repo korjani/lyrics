@@ -1,0 +1,12 @@
+./lyrics/vic/beast.html
+./lyrics/vic/bopbopbop.html
+./lyrics/vic/weridinbatman.html
+./lyrics/vic/getsilly.html
+./lyrics/vic/wobble.html
+./lyrics/vic/blowmymind.html
+./lyrics/vic/byfaith.html
+./lyrics/vic/wifeytype.html
+./lyrics/vic/getsillymrcolliparkremix.html
+./lyrics/vic/getsillyremix.html
+./lyrics/vic/saybow.html
+./lyrics/vic/twerkit.html

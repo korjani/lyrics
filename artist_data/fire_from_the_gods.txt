@@ -1,0 +1,12 @@
+./lyrics/firefromthegods/publicenemy.html
+./lyrics/firefromthegods/endtransmission.html
+./lyrics/firefromthegods/excuseme.html
+./lyrics/firefromthegods/composition.html
+./lyrics/firefromthegods/evolve.html
+./lyrics/firefromthegods/pretenders.html
+./lyrics/firefromthegods/diversion.html
+./lyrics/firefromthegods/inspiteofdoubt.html
+./lyrics/firefromthegods/lifeline.html
+./lyrics/firefromthegods/intotheblue.html
+./lyrics/firefromthegods/thevoiceless.html
+./lyrics/firefromthegods/thetaste.html

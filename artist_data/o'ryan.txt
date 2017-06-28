@@ -1,0 +1,12 @@
+./lyrics/oryan/introducing.html
+./lyrics/oryan/jusanothashorty.html
+./lyrics/oryan/takeitslow.html
+./lyrics/oryan/inabadway.html
+./lyrics/oryan/badsituation.html
+./lyrics/oryan/anything.html
+./lyrics/oryan/goingoutyourway.html
+./lyrics/oryan/imcoming.html
+./lyrics/oryan/45minutes.html
+./lyrics/oryan/shelovestheclub.html
+./lyrics/oryan/shorty.html
+./lyrics/oryan/smellzlikeaparty.html

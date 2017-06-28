@@ -1,0 +1,11 @@
+./lyrics/sevenandthesun/jumpthevelvetrope.html
+./lyrics/sevenandthesun/wheredoyougofromhere.html
+./lyrics/sevenandthesun/walkwithme.html
+./lyrics/sevenandthesun/blackblue.html
+./lyrics/sevenandthesun/ipray.html
+./lyrics/sevenandthesun/backtotheinnocence.html
+./lyrics/sevenandthesun/sayitsso.html
+./lyrics/sevenandthesun/dontaskmewhy.html
+./lyrics/sevenandthesun/tellme.html
+./lyrics/sevenandthesun/iwontlookback.html
+./lyrics/sevenandthesun/happyinyourmisery.html

@@ -1,0 +1,15 @@
+./lyrics/projectwyze/roomtobreathe.html
+./lyrics/projectwyze/nothingswhatitseems.html
+./lyrics/projectwyze/denial.html
+./lyrics/projectwyze/erica.html
+./lyrics/projectwyze/hush.html
+./lyrics/projectwyze/eyeswideshut.html
+./lyrics/projectwyze/runningaway.html
+./lyrics/projectwyze/behindcloseddoors.html
+./lyrics/projectwyze/onlytimewilltell.html
+./lyrics/projectwyze/strangersamongus.html
+./lyrics/projectwyze/jakobzladder.html
+./lyrics/projectwyze/deadlove.html
+./lyrics/projectwyze/idontwanttheworldtoseeme.html
+./lyrics/projectwyze/onlyifiknew.html
+./lyrics/projectwyze/telltheworldmyname.html

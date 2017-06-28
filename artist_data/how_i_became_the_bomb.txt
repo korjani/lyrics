@@ -1,0 +1,7 @@
+./lyrics/howibecamethebomb/aformaloccasion.html
+./lyrics/howibecamethebomb/killingmachine.html
+./lyrics/howibecamethebomb/secretidentity.html
+./lyrics/howibecamethebomb/tomorrowsdate.html
+./lyrics/howibecamethebomb/salvagemission.html
+./lyrics/howibecamethebomb/aformaloccasion.html
+./lyrics/howibecamethebomb/ulayoh.html

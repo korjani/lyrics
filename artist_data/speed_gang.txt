@@ -1,0 +1,15 @@
+./lyrics/speedgang/assonfire.html
+./lyrics/speedgang/1900.html
+./lyrics/speedgang/bitethabullet.html
+./lyrics/speedgang/runthatshit.html
+./lyrics/speedgang/dome.html
+./lyrics/speedgang/cheesepizza.html
+./lyrics/speedgang/clickclackboom.html
+./lyrics/speedgang/fakeid.html
+./lyrics/speedgang/hitthagas.html
+./lyrics/speedgang/howyoudoit.html
+./lyrics/speedgang/londonbridge.html
+./lyrics/speedgang/quitplayinggames.html
+./lyrics/speedgang/samestory.html
+./lyrics/speedgang/shady.html
+./lyrics/speedgang/xoxo.html

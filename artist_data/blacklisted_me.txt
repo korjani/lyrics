@@ -1,0 +1,7 @@
+./lyrics/blacklistedme/badreputation.html
+./lyrics/blacklistedme/blacklistedme.html
+./lyrics/blacklistedme/breathe.html
+./lyrics/blacklistedme/emeraldeyes.html
+./lyrics/blacklistedme/freaklikeme.html
+./lyrics/blacklistedme/reprobateromance.html
+./lyrics/blacklistedme/savemefrommyself.html

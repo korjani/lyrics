@@ -1,0 +1,3 @@
+./lyrics/littlenikki/littlenikkisays.html
+./lyrics/littlenikki/whereimcomingfrom.html
+./lyrics/littlenikki/yoyo.html

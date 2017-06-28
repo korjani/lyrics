@@ -1,0 +1,2 @@
+./lyrics/magician/sunlight.html
+./lyrics/magician/tiedup.html

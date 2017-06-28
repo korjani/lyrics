@@ -1,0 +1,12 @@
+./lyrics/sarai/iknow.html
+./lyrics/sarai/mindyabusiness.html
+./lyrics/sarai/ladies.html
+./lyrics/sarai/whatmamatoldme.html
+./lyrics/sarai/itsnotafairytale.html
+./lyrics/sarai/packyabags.html
+./lyrics/sarai/swear.html
+./lyrics/sarai/youcouldnever.html
+./lyrics/sarai/life.html
+./lyrics/sarai/itsofficial.html
+./lyrics/sarai/maryanne.html
+./lyrics/sarai/blackwhite.html

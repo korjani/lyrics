@@ -1,0 +1,2 @@
+./lyrics/leahlabelle/lolita.html
+./lyrics/leahlabelle/sexify.html

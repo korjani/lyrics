@@ -1,0 +1,10 @@
+./lyrics/mnek/everylittleword.html
+./lyrics/mnek/morethanamiracle.html
+./lyrics/mnek/wroteasongaboutyou.html
+./lyrics/mnek/therhythm.html
+./lyrics/mnek/inyourclouds.html
+./lyrics/mnek/suddenly.html
+./lyrics/mnek/atnightithinkaboutyou.html
+./lyrics/mnek/dontcallthislove.html
+./lyrics/mnek/dontstopmenow.html
+./lyrics/mnek/neverforgetyou.html

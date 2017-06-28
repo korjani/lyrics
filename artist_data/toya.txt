@@ -1,0 +1,15 @@
+./lyrics/toya/nomattawhatpartyallnight.html
+./lyrics/toya/howcanibedown.html
+./lyrics/toya/ido.html
+./lyrics/toya/thetruth.html
+./lyrics/toya/think.html
+./lyrics/toya/dontmakeme.html
+./lyrics/toya/movingon.html
+./lyrics/toya/whatelsecanido.html
+./lyrics/toya/untouchables.html
+./lyrics/toya/bookoflove.html
+./lyrics/toya/whatsagirltodo.html
+./lyrics/toya/imessedup.html
+./lyrics/toya/bounce.html
+./lyrics/toya/fiasco.html
+./lyrics/toya/idopt2.html

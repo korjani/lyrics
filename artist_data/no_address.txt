@@ -1,0 +1,13 @@
+./lyrics/noaddress/perfect.html
+./lyrics/noaddress/loveatyourmomentum.html
+./lyrics/noaddress/whenimgonesadie.html
+./lyrics/noaddress/lastingwords.html
+./lyrics/noaddress/itsalright.html
+./lyrics/noaddress/howcouldi.html
+./lyrics/noaddress/mothersunday.html
+./lyrics/noaddress/nevercomingback.html
+./lyrics/noaddress/tooproud.html
+./lyrics/noaddress/astepaway.html
+./lyrics/noaddress/time.html
+./lyrics/noaddress/prettygirl.html
+./lyrics/noaddress/walkaway.html

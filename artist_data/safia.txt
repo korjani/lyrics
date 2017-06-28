@@ -1,0 +1,14 @@
+./lyrics/safia/embracingme.html
+./lyrics/safia/togetherlockedsafely.html
+./lyrics/safia/fakeittilthesunrise.html
+./lyrics/safia/overyou.html
+./lyrics/safia/byebye.html
+./lyrics/safia/closetoyou.html
+./lyrics/safia/myloveisgone.html
+./lyrics/safia/makethemwheelsroll.html
+./lyrics/safia/home.html
+./lyrics/safia/external.html
+./lyrics/safia/countingsheep.html
+./lyrics/safia/listentosoullistentoblues.html
+./lyrics/safia/paranoiaghostsothersounds.html
+./lyrics/safia/youaretheone.html

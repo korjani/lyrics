@@ -1,0 +1,11 @@
+./lyrics/redlight/36.html
+./lyrics/redlight/9ts.html
+./lyrics/redlight/getmoney.html
+./lyrics/redlight/getoutmyhead.html
+./lyrics/redlight/goldteeth.html
+./lyrics/redlight/lionjungle.html
+./lyrics/redlight/lostinyourlove.html
+./lyrics/redlight/meyou.html
+./lyrics/redlight/stupid.html
+./lyrics/redlight/threshold.html
+./lyrics/redlight/thunder.html

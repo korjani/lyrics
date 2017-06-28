@@ -1,0 +1,13 @@
+./lyrics/indila/derniredanse.html
+./lyrics/indila/tournerdanslevide.html
+./lyrics/indila/lovestory.html
+./lyrics/indila/sos.html
+./lyrics/indila/commeunbateau.html
+./lyrics/indila/runrun.html
+./lyrics/indila/ego.html
+./lyrics/indila/boiteenargent.html
+./lyrics/indila/tunementendspas.html
+./lyrics/indila/miniworld.html
+./lyrics/indila/ainsibaslavida.html
+./lyrics/indila/byebyesony.html
+./lyrics/indila/feuilledautomne.html

@@ -1,0 +1,3 @@
+./lyrics/mme/holdon.html
+./lyrics/mme/aloha.html
+./lyrics/mme/alive.html

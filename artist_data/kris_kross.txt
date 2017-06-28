@@ -1,0 +1,14 @@
+./lyrics/kriskross/jump.html
+./lyrics/kriskross/warmitup.html
+./lyrics/kriskross/party.html
+./lyrics/kriskross/itsashame.html
+./lyrics/kriskross/imissedthebus.html
+./lyrics/kriskross/dabomb.html
+./lyrics/kriskross/alright.html
+./lyrics/kriskross/tonitesthanight.html
+./lyrics/kriskross/youngrichanddangerous.html
+./lyrics/kriskross/liveanddieforhiphop.html
+./lyrics/kriskross/moneypowerandfame.html
+./lyrics/kriskross/mackinainteasy.html
+./lyrics/kriskross/dastreetsaintright.html
+./lyrics/kriskross/tonightsthenightremix.html

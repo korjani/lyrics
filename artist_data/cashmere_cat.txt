@@ -1,0 +1,12 @@
+./lyrics/cashmerecat/nightnight.html
+./lyrics/cashmerecat/europapools.html
+./lyrics/cashmerecat/9aftercoachella.html
+./lyrics/cashmerecat/wildlove.html
+./lyrics/cashmerecat/quit.html
+./lyrics/cashmerecat/infinitestripes.html
+./lyrics/cashmerecat/victoriasveil.html
+./lyrics/cashmerecat/trustnobody.html
+./lyrics/cashmerecat/loveincredible.html
+./lyrics/cashmerecat/plzdontgo.html
+./lyrics/cashmerecat/adore.html
+./lyrics/cashmerecat/throwmyselfaparty.html

@@ -1,0 +1,17 @@
+./lyrics/alvarosoler/elmismosol.html
+./lyrics/alvarosoler/tengounsentimiento.html
+./lyrics/alvarosoler/agosto.html
+./lyrics/alvarosoler/micorazn.html
+./lyrics/alvarosoler/volar.html
+./lyrics/alvarosoler/estanoche.html
+./lyrics/alvarosoler/esperndote.html
+./lyrics/alvarosoler/luca.html
+./lyrics/alvarosoler/lavidaseguir.html
+./lyrics/alvarosoler/sinotetengoati.html
+./lyrics/alvarosoler/quepasa.html
+./lyrics/alvarosoler/cuandovolvers.html
+./lyrics/alvarosoler/elcamino.html
+./lyrics/alvarosoler/sofia.html
+./lyrics/alvarosoler/animal.html
+./lyrics/alvarosoler/libre.html
+./lyrics/alvarosoler/elmismosolremix.html

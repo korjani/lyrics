@@ -1,0 +1,12 @@
+./lyrics/choppa/immabehere.html
+./lyrics/choppa/representyoblock.html
+./lyrics/choppa/choppastyle.html
+./lyrics/choppa/dirtydirty.html
+./lyrics/choppa/hollaatme.html
+./lyrics/choppa/brickjungle.html
+./lyrics/choppa/lookingood.html
+./lyrics/choppa/hatin.html
+./lyrics/choppa/shakeitlikethat.html
+./lyrics/choppa/gettinmoney.html
+./lyrics/choppa/bonustrack1.html
+./lyrics/choppa/bonustrack2.html

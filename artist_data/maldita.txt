@@ -1,0 +1,12 @@
+./lyrics/maldita/tuliro.html
+./lyrics/maldita/selosa.html
+./lyrics/maldita/gayuma.html
+./lyrics/maldita/sayo.html
+./lyrics/maldita/iyoyalangera.html
+./lyrics/maldita/bahalana.html
+./lyrics/maldita/dehado.html
+./lyrics/maldita/sana.html
+./lyrics/maldita/bakit.html
+./lyrics/maldita/ayokonasayo.html
+./lyrics/maldita/crossroads.html
+./lyrics/maldita/porquetagalogversion.html

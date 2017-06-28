@@ -1,0 +1,16 @@
+./lyrics/gapband/earlyinthemorning.html
+./lyrics/gapband/shake.html
+./lyrics/gapband/outstanding.html
+./lyrics/gapband/burnrubberonmewhyyouwannahurtme.html
+./lyrics/gapband/yearningforyourlove.html
+./lyrics/gapband/youdroppedabombonme.html
+./lyrics/gapband/youcancountonme.html
+./lyrics/gapband/idontbelieveyouwanttogetupanddanceoops.html
+./lyrics/gapband/steppinout.html
+./lyrics/gapband/theboysarebackintown.html
+./lyrics/gapband/partytrain.html
+./lyrics/gapband/bigfun.html
+./lyrics/gapband/lovetrain.html
+./lyrics/gapband/nocolourlines.html
+./lyrics/gapband/oopsupsideyourhead.html
+./lyrics/gapband/sweetcaroline.html

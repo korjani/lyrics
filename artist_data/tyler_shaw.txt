@@ -1,0 +1,13 @@
+./lyrics/tylershaw/wicked.html
+./lyrics/tylershaw/ithappensallthetime.html
+./lyrics/tylershaw/dizzy.html
+./lyrics/tylershaw/lifewithoutyou.html
+./lyrics/tylershaw/houseofcards.html
+./lyrics/tylershaw/onewish.html
+./lyrics/tylershaw/yesterday.html
+./lyrics/tylershaw/bymyside.html
+./lyrics/tylershaw/showtime.html
+./lyrics/tylershaw/dontbe.html
+./lyrics/tylershaw/kissgoodnight.html
+./lyrics/tylershaw/criminal.html
+./lyrics/tylershaw/letsjustpretend.html

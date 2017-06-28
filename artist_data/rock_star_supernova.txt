@@ -1,0 +1,11 @@
+./lyrics/rockstarsupernova/itson.html
+./lyrics/rockstarsupernova/leavethelightson.html
+./lyrics/rockstarsupernova/beyourselfand5othercliches.html
+./lyrics/rockstarsupernova/itsalllove.html
+./lyrics/rockstarsupernova/cantbringmyselftolightthisfuse.html
+./lyrics/rockstarsupernova/underdog.html
+./lyrics/rockstarsupernova/makenomistakethisisthetake.html
+./lyrics/rockstarsupernova/headspin.html
+./lyrics/rockstarsupernova/valentine.html
+./lyrics/rockstarsupernova/socialdisgrace.html
+./lyrics/rockstarsupernova/thedeadparade.html

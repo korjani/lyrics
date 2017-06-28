@@ -1,0 +1,15 @@
+./lyrics/moderat/rustynails.html
+./lyrics/moderat/outofsight.html
+./lyrics/moderat/badkingdom.html
+./lyrics/moderat/letinthelight.html
+./lyrics/moderat/gita.html
+./lyrics/moderat/ilona.html
+./lyrics/moderat/damagedone.html
+./lyrics/moderat/lasttime.html
+./lyrics/moderat/eatinghooks.html
+./lyrics/moderat/running.html
+./lyrics/moderat/ghostmother.html
+./lyrics/moderat/reminder.html
+./lyrics/moderat/thefool.html
+./lyrics/moderat/intruder.html
+./lyrics/moderat/ethereal.html

@@ -1,0 +1,7 @@
+./lyrics/banners/startariot.html
+./lyrics/banners/shinealight.html
+./lyrics/banners/golddust.html
+./lyrics/banners/ghosts.html
+./lyrics/banners/backwhenwehadnothing.html
+./lyrics/banners/halflight.html
+./lyrics/banners/intothestorm.html

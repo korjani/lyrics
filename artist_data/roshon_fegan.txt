@@ -1,0 +1,3 @@
+./lyrics/roshonfegan/afterparty.html
+./lyrics/roshonfegan/anythingispossible.html
+./lyrics/roshonfegan/iam.html

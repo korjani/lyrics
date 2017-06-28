@@ -1,0 +1,13 @@
+./lyrics/kovacs/50shadesofblack.html
+./lyrics/kovacs/mylove.html
+./lyrics/kovacs/thedevilyouknow.html
+./lyrics/kovacs/nightofthenights.html
+./lyrics/kovacs/wolfincheapclothes.html
+./lyrics/kovacs/shirleysoundoftheunderground.html
+./lyrics/kovacs/hetalksthatshit.html
+./lyrics/kovacs/diggin.html
+./lyrics/kovacs/foollikeyou.html
+./lyrics/kovacs/whentheladyshurt.html
+./lyrics/kovacs/whiskeyandfun.html
+./lyrics/kovacs/iveseenthatfacebeforelibertango.html
+./lyrics/kovacs/songforjoel.html

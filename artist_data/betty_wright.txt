@@ -1,0 +1,13 @@
+./lyrics/bettywright/oldsongs.html
+./lyrics/bettywright/realwoman.html
+./lyrics/bettywright/inthemiddleofthegamedontchangetheplay.html
+./lyrics/bettywright/surrender.html
+./lyrics/bettywright/grapesonavine.html
+./lyrics/bettywright/lookaroundbeaman.html
+./lyrics/bettywright/tonightagain.html
+./lyrics/bettywright/afterthepain.html
+./lyrics/bettywright/cleanupwoman.html
+./lyrics/bettywright/letmebeyourlovemaker.html
+./lyrics/bettywright/nopainnogain.html
+./lyrics/bettywright/secretary.html
+./lyrics/bettywright/tonightisthenight.html

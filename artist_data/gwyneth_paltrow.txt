@@ -1,0 +1,7 @@
+./lyrics/gwynethpaltrow/countrystrong.html
+./lyrics/gwynethpaltrow/shakethatthing.html
+./lyrics/gwynethpaltrow/cominghome.html
+./lyrics/gwynethpaltrow/meandtennessee.html
+./lyrics/gwynethpaltrow/afighter.html
+./lyrics/gwynethpaltrow/bettedaviseyes.html
+./lyrics/gwynethpaltrow/cruisin.html

@@ -1,0 +1,9 @@
+./lyrics/lauv/theother.html
+./lyrics/lauv/comfortable.html
+./lyrics/lauv/adrenaline.html
+./lyrics/lauv/reforget.html
+./lyrics/lauv/comebackhome.html
+./lyrics/lauv/breathe.html
+./lyrics/lauv/ilikemebetter.html
+./lyrics/lauv/question.html
+./lyrics/lauv/thestoryneverends.html

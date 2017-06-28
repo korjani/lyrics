@@ -1,0 +1,2 @@
+./lyrics/sud/safer.html
+./lyrics/sud/sila.html

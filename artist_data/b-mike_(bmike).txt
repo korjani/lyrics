@@ -1,0 +1,16 @@
+./lyrics/bmike/2faces.html
+./lyrics/bmike/allissaidanddone.html
+./lyrics/bmike/away.html
+./lyrics/bmike/babydontcut.html
+./lyrics/bmike/canttakeit.html
+./lyrics/bmike/deardad.html
+./lyrics/bmike/deardadpart2.html
+./lyrics/bmike/demonsinmyhead.html
+./lyrics/bmike/escape.html
+./lyrics/bmike/hazeleyes.html
+./lyrics/bmike/imsorry.html
+./lyrics/bmike/karma.html
+./lyrics/bmike/lettertomybrother.html
+./lyrics/bmike/lifeinmystomach.html
+./lyrics/bmike/nevergivingup.html
+./lyrics/bmike/therapy.html

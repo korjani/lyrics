@@ -1,0 +1,7 @@
+./lyrics/tomdelonge/newworld.html
+./lyrics/tomdelonge/anendlesssummer.html
+./lyrics/tomdelonge/suburbankings.html
+./lyrics/tomdelonge/theinvisibleparade.html
+./lyrics/tomdelonge/circlejerkpit.html
+./lyrics/tomdelonge/animals.html
+./lyrics/tomdelonge/goldenshowersinthegoldenstate.html

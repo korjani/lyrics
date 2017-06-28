@@ -1,0 +1,10 @@
+./lyrics/jjamz/getwhatyouwant.html
+./lyrics/jjamz/suicidepact.html
+./lyrics/jjamz/heartbeat.html
+./lyrics/jjamz/squareone.html
+./lyrics/jjamz/neverenough.html
+./lyrics/jjamz/lax.html
+./lyrics/jjamz/cleverlydisguised.html
+./lyrics/jjamz/poolside.html
+./lyrics/jjamz/youweremyhome.html
+./lyrics/jjamz/changemymind.html

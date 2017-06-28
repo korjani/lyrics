@@ -1,0 +1,8 @@
+./lyrics/amyshark/driveyoumad.html
+./lyrics/amyshark/adore.html
+./lyrics/amyshark/weekends.html
+./lyrics/amyshark/worstgirl.html
+./lyrics/amyshark/bloodbrothers.html
+./lyrics/amyshark/deleted.html
+./lyrics/amyshark/goldenfleece.html
+./lyrics/amyshark/spitsongirls.html

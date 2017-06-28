@@ -1,0 +1,5 @@
+./lyrics/wizzard/angelfingersateenballad.html
+./lyrics/wizzard/areyoureadytorock.html
+./lyrics/wizzard/ballparkincident.html
+./lyrics/wizzard/iwishitcouldbechristmaseveryday.html
+./lyrics/wizzard/seemybabyjive.html

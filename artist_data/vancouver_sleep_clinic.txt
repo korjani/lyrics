@@ -1,0 +1,16 @@
+./lyrics/vancouversleepclinic/collapse.html
+./lyrics/vancouversleepclinic/flaws.html
+./lyrics/vancouversleepclinic/stakes.html
+./lyrics/vancouversleepclinic/aftermath.html
+./lyrics/vancouversleepclinic/vapour.html
+./lyrics/vancouversleepclinic/rebirth.html
+./lyrics/vancouversleepclinic/whispers.html
+./lyrics/vancouversleepclinic/killingmetoloveyou.html
+./lyrics/vancouversleepclinic/livingwater.html
+./lyrics/vancouversleepclinic/empire.html
+./lyrics/vancouversleepclinic/someonetostay.html
+./lyrics/vancouversleepclinic/lung.html
+./lyrics/vancouversleepclinic/lettinggo.html
+./lyrics/vancouversleepclinic/sleepingworld.html
+./lyrics/vancouversleepclinic/wildfire.html
+./lyrics/vancouversleepclinic/unworthy.html

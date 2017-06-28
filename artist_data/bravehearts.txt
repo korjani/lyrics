@@ -1,0 +1,12 @@
+./lyrics/bravehearts/btrain.html
+./lyrics/bravehearts/quicktobackdown.html
+./lyrics/bravehearts/twilight.html
+./lyrics/bravehearts/bravehearted.html
+./lyrics/bravehearts/bussmygun.html
+./lyrics/bravehearts/cashflow.html
+./lyrics/bravehearts/situations.html
+./lyrics/bravehearts/iwanna.html
+./lyrics/bravehearts/sensations.html
+./lyrics/bravehearts/realize.html
+./lyrics/bravehearts/iwill.html
+./lyrics/bravehearts/oochiewally.html

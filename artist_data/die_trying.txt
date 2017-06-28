@@ -1,0 +1,12 @@
+./lyrics/dietrying/onedayatatime.html
+./lyrics/dietrying/runaway.html
+./lyrics/dietrying/oxygensgone.html
+./lyrics/dietrying/turnuptheradio.html
+./lyrics/dietrying/loveandguns.html
+./lyrics/dietrying/fuckyou.html
+./lyrics/dietrying/dirtydirty.html
+./lyrics/dietrying/conquertheworld.html
+./lyrics/dietrying/nevergoodenough.html
+./lyrics/dietrying/wordsthatkill.html
+./lyrics/dietrying/dietrying.html
+./lyrics/dietrying/solong.html

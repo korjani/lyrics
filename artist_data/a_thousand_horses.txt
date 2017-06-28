@@ -1,0 +1,16 @@
+./lyrics/thousandhorses/suicideeyes.html
+./lyrics/thousandhorses/travelinman.html
+./lyrics/thousandhorses/firsttime.html
+./lyrics/thousandhorses/heavenisclose.html
+./lyrics/thousandhorses/smoke.html
+./lyrics/thousandhorses/travelinman.html
+./lyrics/thousandhorses/tennesseewhiskey.html
+./lyrics/thousandhorses/sundaymorning.html
+./lyrics/thousandhorses/southernality.html
+./lyrics/thousandhorses/thisaintnodrunkdial.html
+./lyrics/thousandhorses/landslide.html
+./lyrics/thousandhorses/backtome.html
+./lyrics/thousandhorses/trailertrashed.html
+./lyrics/thousandhorses/hellonmyheart.html
+./lyrics/thousandhorses/whereimgoing.html
+./lyrics/thousandhorses/preachintothechoir.html

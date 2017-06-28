@@ -1,0 +1,4 @@
+./lyrics/anderslystell/fastercar.html
+./lyrics/anderslystell/iloveu.html
+./lyrics/anderslystell/sowhat.html
+./lyrics/anderslystell/werejustfriends.html

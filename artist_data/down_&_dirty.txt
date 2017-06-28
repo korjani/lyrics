@@ -1,0 +1,3 @@
+./lyrics/downdirty/heavensent.html
+./lyrics/downdirty/iwillneverlosemyway.html
+./lyrics/downdirty/moveit.html

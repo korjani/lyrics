@@ -1,0 +1,3 @@
+./lyrics/bencocks/socold.html
+./lyrics/bencocks/thedanceisover.html
+./lyrics/bencocks/yourfirefly.html

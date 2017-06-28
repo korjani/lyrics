@@ -1,0 +1,13 @@
+./lyrics/superheavy/superheavy.html
+./lyrics/superheavy/unbelievable.html
+./lyrics/superheavy/miracleworker.html
+./lyrics/superheavy/energy.html
+./lyrics/superheavy/satyamevajayathe.html
+./lyrics/superheavy/onedayonenight.html
+./lyrics/superheavy/nevergonnachange.html
+./lyrics/superheavy/beautifulpeople.html
+./lyrics/superheavy/rockmegently.html
+./lyrics/superheavy/icanttakeitnomore.html
+./lyrics/superheavy/idontmind.html
+./lyrics/superheavy/worldkeepsturning.html
+./lyrics/superheavy/commonground.html

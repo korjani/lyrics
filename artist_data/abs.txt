@@ -1,0 +1,17 @@
+./lyrics/abs/stopsign.html
+./lyrics/abs/missperfect.html
+./lyrics/abs/whatyougot.html
+./lyrics/abs/7ways.html
+./lyrics/abs/backtothelimbo.html
+./lyrics/abs/rain.html
+./lyrics/abs/turnmeup.html
+./lyrics/abs/loversrock.html
+./lyrics/abs/rollwithme.html
+./lyrics/abs/emotional.html
+./lyrics/abs/shame.html
+./lyrics/abs/angel.html
+./lyrics/abs/stopthatbitchin.html
+./lyrics/abs/comewithalittlebitmore.html
+./lyrics/abs/lostforwords.html
+./lyrics/abs/musicforcars.html
+./lyrics/abs/thedoginme.html

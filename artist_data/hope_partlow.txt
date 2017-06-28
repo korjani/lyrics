@@ -1,0 +1,13 @@
+./lyrics/hopepartlow/whoweare.html
+./lyrics/hopepartlow/dontgo.html
+./lyrics/hopepartlow/crazysummernights.html
+./lyrics/hopepartlow/sickinside.html
+./lyrics/hopepartlow/girlfriend.html
+./lyrics/hopepartlow/likeyoudo.html
+./lyrics/hopepartlow/ibelieveinyou.html
+./lyrics/hopepartlow/itstoolate.html
+./lyrics/hopepartlow/cold.html
+./lyrics/hopepartlow/throughitall.html
+./lyrics/hopepartlow/everywherebuthere.html
+./lyrics/hopepartlow/letmetry.html
+./lyrics/hopepartlow/whowearesaturdaynightmix.html

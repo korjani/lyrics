@@ -1,0 +1,11 @@
+./lyrics/youngrisingsons/high.html
+./lyrics/youngrisingsons/kingoftheworld.html
+./lyrics/youngrisingsons/turnin.html
+./lyrics/youngrisingsons/redgold.html
+./lyrics/youngrisingsons/cominghome.html
+./lyrics/youngrisingsons/fuckedup.html
+./lyrics/youngrisingsons/fleshandbone.html
+./lyrics/youngrisingsons/ghostofme.html
+./lyrics/youngrisingsons/somebody.html
+./lyrics/youngrisingsons/carryon.html
+./lyrics/youngrisingsons/undefeatable.html

@@ -1,0 +1,9 @@
+./lyrics/medicdroid/keepingupwiththejoneses.html
+./lyrics/medicdroid/saddleup.html
+./lyrics/medicdroid/fscene8.html
+./lyrics/medicdroid/intothegroove.html
+./lyrics/medicdroid/itsaboutlove.html
+./lyrics/medicdroid/tease.html
+./lyrics/medicdroid/fersure.html
+./lyrics/medicdroid/thekilleranna.html
+./lyrics/medicdroid/shofer.html

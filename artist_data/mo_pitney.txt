@@ -1,0 +1,11 @@
+./lyrics/mopitney/country.html
+./lyrics/mopitney/cleanuponaislefive.html
+./lyrics/mopitney/comedoalittlelife.html
+./lyrics/mopitney/itsjustadog.html
+./lyrics/mopitney/everywhere.html
+./lyrics/mopitney/boyagirlthing.html
+./lyrics/mopitney/imetmerlehaggardtoday.html
+./lyrics/mopitney/takethechance.html
+./lyrics/mopitney/loveherlikeilosther.html
+./lyrics/mopitney/givemejesus.html
+./lyrics/mopitney/justadog.html

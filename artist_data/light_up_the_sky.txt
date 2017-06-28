@@ -1,0 +1,11 @@
+./lyrics/lightupthesky/nightlife.html
+./lyrics/lightupthesky/iwillnever.html
+./lyrics/lightupthesky/memories.html
+./lyrics/lightupthesky/breather.html
+./lyrics/lightupthesky/stopme.html
+./lyrics/lightupthesky/letyoudown.html
+./lyrics/lightupthesky/bringiton.html
+./lyrics/lightupthesky/thehauntedhunt.html
+./lyrics/lightupthesky/bodyright.html
+./lyrics/lightupthesky/lettinggo.html
+./lyrics/lightupthesky/anewme.html

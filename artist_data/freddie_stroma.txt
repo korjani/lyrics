@@ -1,0 +1,2 @@
+./lyrics/freddiestroma/knockin.html
+./lyrics/freddiestroma/possibilities.html

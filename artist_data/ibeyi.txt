@@ -1,0 +1,15 @@
+./lyrics/ibeyi/elegguaintro.html
+./lyrics/ibeyi/oya.html
+./lyrics/ibeyi/ghosts.html
+./lyrics/ibeyi/river.html
+./lyrics/ibeyi/thinkofyou.html
+./lyrics/ibeyi/behindthecurtain.html
+./lyrics/ibeyi/strangerlover.html
+./lyrics/ibeyi/mamasays.html
+./lyrics/ibeyi/weatherman.html
+./lyrics/ibeyi/faithful.html
+./lyrics/ibeyi/yanira.html
+./lyrics/ibeyi/singles.html
+./lyrics/ibeyi/ibeyioutro.html
+./lyrics/ibeyi/exhibitdiaz.html
+./lyrics/ibeyi/lostinmymind.html

@@ -1,0 +1,10 @@
+./lyrics/rhye/open.html
+./lyrics/rhye/thefall.html
+./lyrics/rhye/lastdance.html
+./lyrics/rhye/verse.html
+./lyrics/rhye/shedsomeblood.html
+./lyrics/rhye/3days.html
+./lyrics/rhye/oneofthosesummerdays.html
+./lyrics/rhye/majorminorlove.html
+./lyrics/rhye/hunger.html
+./lyrics/rhye/woman.html

@@ -1,0 +1,5 @@
+./lyrics/rockmafia/flyordie.html
+./lyrics/rockmafia/iam.html
+./lyrics/rockmafia/morningsun.html
+./lyrics/rockmafia/pimpsandhos.html
+./lyrics/rockmafia/thebigbang.html

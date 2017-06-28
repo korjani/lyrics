@@ -1,0 +1,12 @@
+./lyrics/scarthemartyr/darkages.html
+./lyrics/scarthemartyr/myretribution.html
+./lyrics/scarthemartyr/souldisintegration.html
+./lyrics/scarthemartyr/cruelocean.html
+./lyrics/scarthemartyr/bloodhost.html
+./lyrics/scarthemartyr/anatomyoferinyes.html
+./lyrics/scarthemartyr/prayerforprey.html
+./lyrics/scarthemartyr/whitenightsinadayroom.html
+./lyrics/scarthemartyr/effigyunborn.html
+./lyrics/scarthemartyr/neverforgiveneverforget.html
+./lyrics/scarthemartyr/mindseye.html
+./lyrics/scarthemartyr/lastnightonearth.html

@@ -1,0 +1,12 @@
+./lyrics/institute/bulletproofskin.html
+./lyrics/institute/whenanimalsattack.html
+./lyrics/institute/comeonover.html
+./lyrics/institute/informationage.html
+./lyrics/institute/wasteland.html
+./lyrics/institute/boombox.html
+./lyrics/institute/seventhwave.html
+./lyrics/institute/theheatofyourlove.html
+./lyrics/institute/ambulances.html
+./lyrics/institute/secretsandlies.html
+./lyrics/institute/mountains.html
+./lyrics/institute/savetherobots.html

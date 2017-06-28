@@ -1,0 +1,13 @@
+./lyrics/showtek/90sbynature.html
+./lyrics/showtek/booyah.html
+./lyrics/showtek/cannonballearthquake.html
+./lyrics/showtek/earlysounds.html
+./lyrics/showtek/freak.html
+./lyrics/showtek/fts.html
+./lyrics/showtek/mellow.html
+./lyrics/showtek/n2u.html
+./lyrics/showtek/onourown.html
+./lyrics/showtek/putamadre.html
+./lyrics/showtek/satisfied.html
+./lyrics/showtek/swipe.html
+./lyrics/showtek/thecolouroftheharderstyles.html

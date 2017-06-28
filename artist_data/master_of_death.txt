@@ -1,0 +1,11 @@
+./lyrics/masterofdeath/goodasdead.html
+./lyrics/masterofdeath/beyondthewasteland.html
+./lyrics/masterofdeath/exorcisemydemons.html
+./lyrics/masterofdeath/thelabrynth.html
+./lyrics/masterofdeath/allhallowseve.html
+./lyrics/masterofdeath/ultima.html
+./lyrics/masterofdeath/thesuffering.html
+./lyrics/masterofdeath/deathofvanity.html
+./lyrics/masterofdeath/theoccult.html
+./lyrics/masterofdeath/thereckoning.html
+./lyrics/masterofdeath/immortalized.html

@@ -1,0 +1,4 @@
+./lyrics/twaimz/thecrushsong.html
+./lyrics/twaimz/thellamasong.html
+./lyrics/twaimz/thellamasongpart2.html
+./lyrics/twaimz/therollcallsong.html

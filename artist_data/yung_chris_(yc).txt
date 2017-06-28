@@ -1,0 +1,4 @@
+./lyrics/yungchris/iknow.html
+./lyrics/yungchris/racks.html
+./lyrics/yungchris/racksremix.html
+./lyrics/yungchris/racksremix220336.html

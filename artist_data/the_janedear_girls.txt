@@ -1,0 +1,12 @@
+./lyrics/janedeargirls/wildflower.html
+./lyrics/janedeargirls/shotgungirl.html
+./lyrics/janedeargirls/merrygoround.html
+./lyrics/janedeargirls/sugar.html
+./lyrics/janedeargirls/saturdaysinseptember.html
+./lyrics/janedeargirls/singalong.html
+./lyrics/janedeargirls/luckyyou.html
+./lyrics/janedeargirls/pretender.html
+./lyrics/janedeargirls/nevergonnaletyougo.html
+./lyrics/janedeargirls/freeride.html
+./lyrics/janedeargirls/everydaysaholiday.html
+./lyrics/janedeargirls/goodgirlsgonebad.html

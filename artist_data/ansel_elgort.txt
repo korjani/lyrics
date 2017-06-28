@@ -1,0 +1,3 @@
+./lyrics/anselelgort/homealone.html
+./lyrics/anselelgort/thief.html
+./lyrics/anselelgort/youcancountonme.html

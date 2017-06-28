@@ -1,0 +1,2 @@
+./lyrics/nikigabi/first.html
+./lyrics/nikigabi/it.html

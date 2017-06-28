@@ -1,0 +1,7 @@
+./lyrics/ashleyallday/1234.html
+./lyrics/ashleyallday/allday.html
+./lyrics/ashleyallday/bouncebounceho.html
+./lyrics/ashleyallday/dontplay.html
+./lyrics/ashleyallday/igotwhatchawant.html
+./lyrics/ashleyallday/lean.html
+./lyrics/ashleyallday/yadadamean.html

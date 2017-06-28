@@ -1,0 +1,4 @@
+./lyrics/klingande/jubel.html
+./lyrics/klingande/losingu.html
+./lyrics/klingande/rivarestartthegame.html
+./lyrics/klingande/somewherenew.html

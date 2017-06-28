@@ -1,0 +1,12 @@
+./lyrics/fullscale/emptytexas.html
+./lyrics/fullscale/feelit.html
+./lyrics/fullscale/smiles.html
+./lyrics/fullscale/sixteentoday.html
+./lyrics/fullscale/partypolitical.html
+./lyrics/fullscale/rapture.html
+./lyrics/fullscale/theheimlichmanoeuvre.html
+./lyrics/fullscale/sickness.html
+./lyrics/fullscale/manifesto.html
+./lyrics/fullscale/herecomestheweekend.html
+./lyrics/fullscale/downloadthedestruction.html
+./lyrics/fullscale/fivesix.html

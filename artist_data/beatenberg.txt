@@ -1,0 +1,14 @@
+./lyrics/beatenberg/rafael.html
+./lyrics/beatenberg/beautylikeatightenedbow.html
+./lyrics/beatenberg/chelseablakemore.html
+./lyrics/beatenberg/pluto.html
+./lyrics/beatenberg/southernsuburbs.html
+./lyrics/beatenberg/scorpionfish.html
+./lyrics/beatenberg/ithaca.html
+./lyrics/beatenberg/cavendishsquare.html
+./lyrics/beatenberg/facebookapologia.html
+./lyrics/beatenberg/echoes.html
+./lyrics/beatenberg/allaboutme.html
+./lyrics/beatenberg/capetorio.html
+./lyrics/beatenberg/theprinceofthehanginggardens.html
+./lyrics/beatenberg/achievement.html

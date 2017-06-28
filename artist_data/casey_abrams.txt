@@ -1,0 +1,14 @@
+./lyrics/caseyabrams/simplelife.html
+./lyrics/caseyabrams/ghosts.html
+./lyrics/caseyabrams/getout.html
+./lyrics/caseyabrams/greatbrightmorning.html
+./lyrics/caseyabrams/blameitonme.html
+./lyrics/caseyabrams/woreoutmysoul.html
+./lyrics/caseyabrams/stuckinlondon.html
+./lyrics/caseyabrams/midnightgirl.html
+./lyrics/caseyabrams/aboycandream.html
+./lyrics/caseyabrams/dryspell.html
+./lyrics/caseyabrams/hittheroadjack.html
+./lyrics/caseyabrams/neverknewwhatlovecando.html
+./lyrics/caseyabrams/hideho.html
+./lyrics/caseyabrams/ifeeltheearthmove.html

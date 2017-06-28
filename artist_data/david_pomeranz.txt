@@ -1,0 +1,3 @@
+./lyrics/davidpomeranz/bornforyou.html
+./lyrics/davidpomeranz/onthisday.html
+./lyrics/davidpomeranz/theoldsongs.html

@@ -1,0 +1,6 @@
+./lyrics/kyndall/allmine.html
+./lyrics/kyndall/bullet.html
+./lyrics/kyndall/callaway.html
+./lyrics/kyndall/closetome.html
+./lyrics/kyndall/playinggames.html
+./lyrics/kyndall/stilldown.html

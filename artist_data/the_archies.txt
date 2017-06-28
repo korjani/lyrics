@@ -1,0 +1,2 @@
+./lyrics/archies/jinglejangle.html
+./lyrics/archies/sugarsugar.html

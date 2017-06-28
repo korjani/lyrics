@@ -1,0 +1,12 @@
+./lyrics/mattwillis/heykid.html
+./lyrics/mattwillis/luxury.html
+./lyrics/mattwillis/dontletitgotowaste.html
+./lyrics/mattwillis/upallnight.html
+./lyrics/mattwillis/exgirlfriend.html
+./lyrics/mattwillis/frommyselfbaby.html
+./lyrics/mattwillis/fadeout.html
+./lyrics/mattwillis/whoyougonnarunto.html
+./lyrics/mattwillis/soundofamerica.html
+./lyrics/mattwillis/getbored.html
+./lyrics/mattwillis/fallingintoyou.html
+./lyrics/mattwillis/crash.html

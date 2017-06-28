@@ -1,0 +1,11 @@
+./lyrics/que/howwecomin.html
+./lyrics/que/iswear.html
+./lyrics/que/weedbank.html
+./lyrics/que/splashbrothers.html
+./lyrics/que/prayerhands.html
+./lyrics/que/guccisaidremix.html
+./lyrics/que/ogbobbyjohnson.html
+./lyrics/que/ogbobbyjohnsonremix.html
+./lyrics/que/time.html
+./lyrics/que/toomuch.html
+./lyrics/que/youngnigga.html

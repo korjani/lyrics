@@ -1,0 +1,4 @@
+./lyrics/mackenziebourg/everyonesgotastory.html
+./lyrics/mackenziebourg/heartbeat.html
+./lyrics/mackenziebourg/littlemoon.html
+./lyrics/mackenziebourg/roses.html

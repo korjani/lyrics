@@ -1,0 +1,9 @@
+./lyrics/angiemiller/universeelectric.html
+./lyrics/angiemiller/miles.html
+./lyrics/angiemiller/simple.html
+./lyrics/angiemiller/lostinthesound.html
+./lyrics/angiemiller/thisisthelife.html
+./lyrics/angiemiller/weathered.html
+./lyrics/angiemiller/oholynight.html
+./lyrics/angiemiller/thischristmassong.html
+./lyrics/angiemiller/yousetmefree.html

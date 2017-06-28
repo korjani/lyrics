@@ -1,0 +1,16 @@
+./lyrics/adamgontier/abeastinmeoverandoveritturnsonme.html
+./lyrics/adamgontier/anotherlonelyday.html
+./lyrics/adamgontier/guilttripsandconversations.html
+./lyrics/adamgontier/iwillstay.html
+./lyrics/adamgontier/itsallinyourhands.html
+./lyrics/adamgontier/jarofhearts.html
+./lyrics/adamgontier/lostyourshot.html
+./lyrics/adamgontier/noregrets.html
+./lyrics/adamgontier/shesavesme.html
+./lyrics/adamgontier/takemewithyou.html
+./lyrics/adamgontier/toodrunktodrive.html
+./lyrics/adamgontier/trytocatchupwiththeworld.html
+./lyrics/adamgontier/untiltheend.html
+./lyrics/adamgontier/wewillneverforget.html
+./lyrics/adamgontier/wickedgame.html
+./lyrics/adamgontier/withyou.html

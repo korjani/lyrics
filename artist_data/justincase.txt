@@ -1,0 +1,11 @@
+./lyrics/justincase/whatiwouldntdo.html
+./lyrics/justincase/dontcryforus.html
+./lyrics/justincase/imthere.html
+./lyrics/justincase/tellmewhatimeantoyou.html
+./lyrics/justincase/letter.html
+./lyrics/justincase/withoutyou.html
+./lyrics/justincase/insideyourmind.html
+./lyrics/justincase/itwassomething.html
+./lyrics/justincase/constellation.html
+./lyrics/justincase/914.html
+./lyrics/justincase/thebesticoulddo.html

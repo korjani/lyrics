@@ -1,0 +1,7 @@
+./lyrics/pekingduk/fakemagic.html
+./lyrics/pekingduk/feelslike.html
+./lyrics/pekingduk/high.html
+./lyrics/pekingduk/saymyname.html
+./lyrics/pekingduk/stranger.html
+./lyrics/pekingduk/takemeover.html
+./lyrics/pekingduk/youarelikenobodyelse.html

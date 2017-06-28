@@ -1,0 +1,9 @@
+./lyrics/zonnique/patience.html
+./lyrics/zonnique/greedy.html
+./lyrics/zonnique/shouldvebeen.html
+./lyrics/zonnique/ghost.html
+./lyrics/zonnique/imgreat.html
+./lyrics/zonnique/coolkids.html
+./lyrics/zonnique/heartbreakkid.html
+./lyrics/zonnique/nunforfree.html
+./lyrics/zonnique/toogood.html

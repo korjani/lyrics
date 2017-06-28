@@ -1,0 +1,13 @@
+./lyrics/veridia/wearethebrave.html
+./lyrics/veridia/disconnected.html
+./lyrics/veridia/furiouslove.html
+./lyrics/veridia/mechanicalplanet.html
+./lyrics/veridia/mysteryoftheinvisible.html
+./lyrics/veridia/crazyinagoodway.html
+./lyrics/veridia/prettylies.html
+./lyrics/veridia/attheendoftheworld.html
+./lyrics/veridia/sayaprayer.html
+./lyrics/veridia/dirtysecrets.html
+./lyrics/veridia/dontbeafraidofthedark.html
+./lyrics/veridia/stillbreathing.html
+./lyrics/veridia/tightrope.html

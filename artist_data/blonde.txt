@@ -1,0 +1,5 @@
+./lyrics/blonde/allcriedout.html
+./lyrics/blonde/feelgooditsalright.html
+./lyrics/blonde/foolish.html
+./lyrics/blonde/higherground.html
+./lyrics/blonde/ilovedyou.html

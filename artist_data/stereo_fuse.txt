@@ -1,0 +1,12 @@
+./lyrics/stereofuse/everything.html
+./lyrics/stereofuse/seed.html
+./lyrics/stereofuse/superhero.html
+./lyrics/stereofuse/breathe.html
+./lyrics/stereofuse/livelikeagod.html
+./lyrics/stereofuse/heaveninsideyou.html
+./lyrics/stereofuse/ballandchain.html
+./lyrics/stereofuse/heyyou.html
+./lyrics/stereofuse/triptomars.html
+./lyrics/stereofuse/fleshandblood.html
+./lyrics/stereofuse/allison.html
+./lyrics/stereofuse/likeido.html

@@ -1,0 +1,5 @@
+./lyrics/summerella/11something.html
+./lyrics/summerella/hideandseek.html
+./lyrics/summerella/icecream.html
+./lyrics/summerella/pullup.html
+./lyrics/summerella/rumors.html

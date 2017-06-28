@@ -1,0 +1,14 @@
+./lyrics/groovetheory/10minutehigh.html
+./lyrics/groovetheory/timeflies.html
+./lyrics/groovetheory/ride.html
+./lyrics/groovetheory/comehome.html
+./lyrics/groovetheory/babyluv.html
+./lyrics/groovetheory/tellme.html
+./lyrics/groovetheory/heyu.html
+./lyrics/groovetheory/helloitsme.html
+./lyrics/groovetheory/good2me.html
+./lyrics/groovetheory/angel.html
+./lyrics/groovetheory/keeptryin.html
+./lyrics/groovetheory/yourenotthe1.html
+./lyrics/groovetheory/didjaknow.html
+./lyrics/groovetheory/boyatthewindow.html

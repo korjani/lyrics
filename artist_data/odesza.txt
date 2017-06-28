@@ -1,0 +1,13 @@
+./lyrics/odesza/intro.html
+./lyrics/odesza/howdidigethere.html
+./lyrics/odesza/withoutyou.html
+./lyrics/odesza/saymyname.html
+./lyrics/odesza/allweneed.html
+./lyrics/odesza/whitelies.html
+./lyrics/odesza/echoes.html
+./lyrics/odesza/itsonly.html
+./lyrics/odesza/memoriesthatyoucall.html
+./lyrics/odesza/sunmodels.html
+./lyrics/odesza/forus.html
+./lyrics/odesza/light.html
+./lyrics/odesza/lineofsight.html

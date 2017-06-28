@@ -1,0 +1,13 @@
+./lyrics/nicolaroberts/beatofmydrum.html
+./lyrics/nicolaroberts/luckyday.html
+./lyrics/nicolaroberts/yoyo.html
+./lyrics/nicolaroberts/cinderellaseyes.html
+./lyrics/nicolaroberts/porcelainheart.html
+./lyrics/nicolaroberts/i.html
+./lyrics/nicolaroberts/everybodysgottolearnsometime.html
+./lyrics/nicolaroberts/sayitoutloud.html
+./lyrics/nicolaroberts/gladiator.html
+./lyrics/nicolaroberts/fishoutofwater.html
+./lyrics/nicolaroberts/takeabite.html
+./lyrics/nicolaroberts/sticksstones.html
+./lyrics/nicolaroberts/dating.html

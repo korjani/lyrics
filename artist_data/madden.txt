@@ -1,0 +1,3 @@
+./lyrics/madden/alive.html
+./lyrics/madden/echo.html
+./lyrics/madden/goldenlight.html

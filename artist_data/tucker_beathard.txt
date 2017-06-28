@@ -1,0 +1,7 @@
+./lyrics/tuckerbeathard/rockon.html
+./lyrics/tuckerbeathard/2010tennessee.html
+./lyrics/tuckerbeathard/mommaandjesus.html
+./lyrics/tuckerbeathard/fightlikehell.html
+./lyrics/tuckerbeathard/faithful.html
+./lyrics/tuckerbeathard/godandmyguitar.html
+./lyrics/tuckerbeathard/rideon.html

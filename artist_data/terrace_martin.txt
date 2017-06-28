@@ -1,0 +1,12 @@
+./lyrics/terracemartin/absoulsintro.html
+./lyrics/terracemartin/triangleship.html
+./lyrics/terracemartin/getaway.html
+./lyrics/terracemartin/somethingelse.html
+./lyrics/terracemartin/overtime.html
+./lyrics/terracemartin/nowrongnoright.html
+./lyrics/terracemartin/youretheone.html
+./lyrics/terracemartin/doitagain.html
+./lyrics/terracemartin/exercise.html
+./lyrics/terracemartin/expectations.html
+./lyrics/terracemartin/stopcalling.html
+./lyrics/terracemartin/thirsty.html

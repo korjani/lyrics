@@ -1,0 +1,5 @@
+./lyrics/chrisjamison/guilty.html
+./lyrics/chrisjamison/betterman.html
+./lyrics/chrisjamison/truth.html
+./lyrics/chrisjamison/heartbeataway.html
+./lyrics/chrisjamison/velvet.html

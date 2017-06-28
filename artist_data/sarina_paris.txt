@@ -1,0 +1,15 @@
+./lyrics/sarinaparis/lookatus.html
+./lyrics/sarinaparis/you.html
+./lyrics/sarinaparis/soiwait.html
+./lyrics/sarinaparis/justaboutenough.html
+./lyrics/sarinaparis/loveinreturn.html
+./lyrics/sarinaparis/truecolors.html
+./lyrics/sarinaparis/angel.html
+./lyrics/sarinaparis/dreaminofyou.html
+./lyrics/sarinaparis/thesinglelife.html
+./lyrics/sarinaparis/truelove.html
+./lyrics/sarinaparis/romeosdead.html
+./lyrics/sarinaparis/allintheway.html
+./lyrics/sarinaparis/iloveyou.html
+./lyrics/sarinaparis/thisismylife.html
+./lyrics/sarinaparis/youaremyvalentine.html

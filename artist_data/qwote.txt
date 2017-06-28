@@ -1,0 +1,11 @@
+./lyrics/qwote/808.html
+./lyrics/qwote/callme.html
+./lyrics/qwote/dontwannafight.html
+./lyrics/qwote/downonyou.html
+./lyrics/qwote/fallingforyou.html
+./lyrics/qwote/iwantyou.html
+./lyrics/qwote/roses.html
+./lyrics/qwote/sameshit.html
+./lyrics/qwote/saymyname.html
+./lyrics/qwote/shawtyitsyourbooty.html
+./lyrics/qwote/throwyourhandsupdancarkuduro.html

@@ -1,0 +1,7 @@
+./lyrics/jameswesley/didnti.html
+./lyrics/jameswesley/imalonesomefugitive.html
+./lyrics/jameswesley/jacksonhole.html
+./lyrics/jameswesley/real.html
+./lyrics/jameswesley/thankafarmer.html
+./lyrics/jameswesley/thefightinsideofme.html
+./lyrics/jameswesley/walkingcontradiction.html

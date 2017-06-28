@@ -1,0 +1,13 @@
+./lyrics/jackiethomas/itsworthit.html
+./lyrics/jackiethomas/skinnylove.html
+./lyrics/jackiethomas/nexttome.html
+./lyrics/jackiethomas/videogames.html
+./lyrics/jackiethomas/angel.html
+./lyrics/jackiethomas/maybetomorrow.html
+./lyrics/jackiethomas/sonofapreacherman.html
+./lyrics/jackiethomas/toxic.html
+./lyrics/jackiethomas/dreams.html
+./lyrics/jackiethomas/stay.html
+./lyrics/jackiethomas/blackvelvet.html
+./lyrics/jackiethomas/wonderwall.html
+./lyrics/jackiethomas/untilthelastgoodbye.html

@@ -1,0 +1,9 @@
+./lyrics/danielskye/alliwant.html
+./lyrics/danielskye/goodasitgets.html
+./lyrics/danielskye/lastcall.html
+./lyrics/danielskye/lovesickday.html
+./lyrics/danielskye/maybe.html
+./lyrics/danielskye/noparty.html
+./lyrics/danielskye/on.html
+./lyrics/danielskye/smile.html
+./lyrics/danielskye/wegotus.html

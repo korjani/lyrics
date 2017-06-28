@@ -1,0 +1,6 @@
+./lyrics/jthodges/shesalive.html
+./lyrics/jthodges/alreadyhigh.html
+./lyrics/jthodges/goodbyesmadeyoumine.html
+./lyrics/jthodges/huntyoudown.html
+./lyrics/jthodges/layitdown.html
+./lyrics/jthodges/sleepylittletown.html

@@ -1,0 +1,2 @@
+./lyrics/taronegerton/imstillstanding.html
+./lyrics/taronegerton/thewayifeelinside.html

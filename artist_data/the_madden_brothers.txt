@@ -1,0 +1,14 @@
+./lyrics/maddenbrothers/dearjane.html
+./lyrics/maddenbrothers/brixton.html
+./lyrics/maddenbrothers/outofmymind.html
+./lyrics/maddenbrothers/wearedone.html
+./lyrics/maddenbrothers/ur.html
+./lyrics/maddenbrothers/jealousyallyourfriendsinsilverlake.html
+./lyrics/maddenbrothers/lovepretenders.html
+./lyrics/maddenbrothers/californiarain.html
+./lyrics/maddenbrothers/brother.html
+./lyrics/maddenbrothers/bad.html
+./lyrics/maddenbrothers/goodgraciousabbey.html
+./lyrics/maddenbrothers/suddenly.html
+./lyrics/maddenbrothers/emptyspirits.html
+./lyrics/maddenbrothers/lettheworldbestill.html

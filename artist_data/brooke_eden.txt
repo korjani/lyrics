@@ -1,0 +1,5 @@
+./lyrics/brookeeden/diamonds.html
+./lyrics/brookeeden/actlikeyoudont.html
+./lyrics/brookeeden/silencespeaks.html
+./lyrics/brookeeden/americandreamin.html
+./lyrics/brookeeden/daddysmoney.html

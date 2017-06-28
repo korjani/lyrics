@@ -1,0 +1,5 @@
+./lyrics/codylongo/atmosphere.html
+./lyrics/codylongo/electric.html
+./lyrics/codylongo/iftherewasnomusic.html
+./lyrics/codylongo/onedayatatime.html
+./lyrics/codylongo/somethingintheair.html

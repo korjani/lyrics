@@ -1,0 +1,2 @@
+./lyrics/silento/allaboutyou.html
+./lyrics/silento/watchmewhipnaenae.html

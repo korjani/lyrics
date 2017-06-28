@@ -1,0 +1,7 @@
+./lyrics/dallonweekes/christmasdrag.html
+./lyrics/dallonweekes/iggypop.html
+./lyrics/dallonweekes/meanolmoon.html
+./lyrics/dallonweekes/pleasedontjumpitschristmas.html
+./lyrics/dallonweekes/sicklysweetholidays.html
+./lyrics/dallonweekes/teenagefbi.html
+./lyrics/dallonweekes/valentine.html

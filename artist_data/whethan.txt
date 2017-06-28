@@ -1,0 +1,5 @@
+./lyrics/whethan/allyouevertalkabout.html
+./lyrics/whethan/canthide.html
+./lyrics/whethan/lovegang.html
+./lyrics/whethan/savage.html
+./lyrics/whethan/whenimdown.html

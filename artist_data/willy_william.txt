@@ -1,0 +1,17 @@
+./lyrics/willywilliam/tequiero.html
+./lyrics/willywilliam/ego.html
+./lyrics/willywilliam/uneseulevie.html
+./lyrics/willywilliam/suismoi.html
+./lyrics/willywilliam/letourdumonde.html
+./lyrics/willywilliam/dangereuse.html
+./lyrics/willywilliam/quitues.html
+./lyrics/willywilliam/tentation.html
+./lyrics/willywilliam/les6tdor.html
+./lyrics/willywilliam/tesmots.html
+./lyrics/willywilliam/onsendort.html
+./lyrics/willywilliam/love.html
+./lyrics/willywilliam/personnenestparfait.html
+./lyrics/willywilliam/lessourisdansent.html
+./lyrics/willywilliam/dernierjour.html
+./lyrics/willywilliam/sijtaislemme.html
+./lyrics/willywilliam/voodoosong.html

@@ -1,0 +1,5 @@
+./lyrics/jonasblue/byyourside.html
+./lyrics/jonasblue/fastcar.html
+./lyrics/jonasblue/heartbeat.html
+./lyrics/jonasblue/mama.html
+./lyrics/jonasblue/perfectstrangers.html

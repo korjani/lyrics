@@ -1,0 +1,45 @@
+2, 4, 6, 8
+
+Even numbers, even numbers
+Every other number is an even number
+
+2, 4, 6, 8
+Who do we appreciate?
+10, 12, 14, 16
+Skip all the numbers in between
+
+Skip all the numbers that are not even
+Leave out the odd ones
+Leave out the odd; you're left with the even
+Skip all the odd ones
+
+Skip the first number and the second one's even
+Skip the third and the next one's even as well
+Skip the next, take the next, skip the next
+Take, skip, take
+
+You like French fries
+But you don't like French fries
+You've got socks on
+But you don't have socks on
+You're a girl, but you're a boy
+Girl, boy, girl
+
+16, 14, 12, 10
+Skip our way back down again
+8, 6, 4, 2
+You, but not you, but you
+
+Yes, no, yes, no, yes, no, yes, no, red, green
+Red, green, red, green, red
+She loves me, she loves me not, she loves me
+She loves me not, she
+
+(1) 2
+(3) 4
+(5) 6
+(7) 8
+(9) 10
+(11) 12
+(13) 14
+(15) 16

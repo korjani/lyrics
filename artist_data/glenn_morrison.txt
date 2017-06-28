@@ -1,0 +1,3 @@
+./lyrics/glennmorrison/allforyou.html
+./lyrics/glennmorrison/goodbye.html
+./lyrics/glennmorrison/imtheking.html

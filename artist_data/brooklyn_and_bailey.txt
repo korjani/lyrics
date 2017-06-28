@@ -1,0 +1,2 @@
+./lyrics/brooklynandbailey/dancelikeme.html
+./lyrics/brooklynandbailey/simplethings.html

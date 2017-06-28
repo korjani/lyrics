@@ -1,0 +1,12 @@
+./lyrics/annahmac/celia.html
+./lyrics/annahmac/girlinstilettos.html
+./lyrics/annahmac/samecartoons.html
+./lyrics/annahmac/hereistand.html
+./lyrics/annahmac/focus.html
+./lyrics/annahmac/babydontchange.html
+./lyrics/annahmac/makemeyours.html
+./lyrics/annahmac/citylights.html
+./lyrics/annahmac/missyou.html
+./lyrics/annahmac/kissme.html
+./lyrics/annahmac/silverfriend.html
+./lyrics/annahmac/home.html

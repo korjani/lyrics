@@ -1,0 +1,3 @@
+./lyrics/alexanderjean/thief.html
+./lyrics/alexanderjean/rosesandviolets.html
+./lyrics/alexanderjean/headhigh.html

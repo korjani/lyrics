@@ -1,0 +1,15 @@
+./lyrics/vicetone/brightside.html
+./lyrics/vicetone/dontyourun.html
+./lyrics/vicetone/siren.html
+./lyrics/vicetone/theotherside.html
+./lyrics/vicetone/angels.html
+./lyrics/vicetone/anywhereigo.html
+./lyrics/vicetone/followme.html
+./lyrics/vicetone/heartbeat.html
+./lyrics/vicetone/kaleidoscope.html
+./lyrics/vicetone/landslide.html
+./lyrics/vicetone/nevada.html
+./lyrics/vicetone/nowayout.html
+./lyrics/vicetone/nothingstoppingmenow.html
+./lyrics/vicetone/stars.html
+./lyrics/vicetone/whativewaitedfor.html

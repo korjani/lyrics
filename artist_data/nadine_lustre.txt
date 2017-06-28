@@ -1,0 +1,10 @@
+./lyrics/nadinelustre/paraparaan.html
+./lyrics/nadinelustre/bahalana.html
+./lyrics/nadinelustre/mrantipatiko.html
+./lyrics/nadinelustre/ababakithindi.html
+./lyrics/nadinelustre/meyou.html
+./lyrics/nadinelustre/noerase.html
+./lyrics/nadinelustre/paligoyligoy.html
+./lyrics/nadinelustre/saibangmundo.html
+./lyrics/nadinelustre/thankyouforthelove.html
+./lyrics/nadinelustre/thistime.html

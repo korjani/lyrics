@@ -1,0 +1,10 @@
+./lyrics/tide/clickmyfingers.html
+./lyrics/tide/whatyougive.html
+./lyrics/tide/holdingontoyou.html
+./lyrics/tide/theoneyouwant.html
+./lyrics/tide/clickmyfingers.html
+./lyrics/tide/fallinginlovetonight.html
+./lyrics/tide/nothingtolose.html
+./lyrics/tide/putthecuffsonme.html
+./lyrics/tide/wontletgo.html
+./lyrics/tide/younglove.html

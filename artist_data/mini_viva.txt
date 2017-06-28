@@ -1,0 +1,3 @@
+./lyrics/miniviva/iwish.html
+./lyrics/miniviva/leftmyheartintokyo.html
+./lyrics/miniviva/onetouch.html

@@ -1,0 +1,3 @@
+./lyrics/skipmarley/calmdown.html
+./lyrics/skipmarley/crytome.html
+./lyrics/skipmarley/lions.html

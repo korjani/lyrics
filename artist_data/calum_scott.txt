@@ -1,0 +1,9 @@
+./lyrics/calumscott/comebackhome.html
+./lyrics/calumscott/dancingonmyown.html
+./lyrics/calumscott/dancingonmyowntistoremix.html
+./lyrics/calumscott/givemesomething.html
+./lyrics/calumscott/openup.html
+./lyrics/calumscott/rhythminside.html
+./lyrics/calumscott/skyfullofcolour.html
+./lyrics/calumscott/soreeyes.html
+./lyrics/calumscott/youarethereason.html

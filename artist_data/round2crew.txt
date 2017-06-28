@@ -1,0 +1,6 @@
+./lyrics/round2crew/bootyhadmelike.html
+./lyrics/round2crew/beloved.html
+./lyrics/round2crew/yourgirlfriend.html
+./lyrics/round2crew/waitforit.html
+./lyrics/round2crew/thingswedo.html
+./lyrics/round2crew/whatarethose.html

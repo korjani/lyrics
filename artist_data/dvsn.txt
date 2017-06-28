@@ -1,0 +1,13 @@
+./lyrics/dvsn/withme.html
+./lyrics/dvsn/toodeep.html
+./lyrics/dvsn/tryeffortless.html
+./lyrics/dvsn/doitwell.html
+./lyrics/dvsn/inout.html
+./lyrics/dvsn/sept5th.html
+./lyrics/dvsn/hallucinations.html
+./lyrics/dvsn/anotherone.html
+./lyrics/dvsn/angela.html
+./lyrics/dvsn/theline.html
+./lyrics/dvsn/dearsummersixteen.html
+./lyrics/dvsn/keepthefaithfaithfulextendedremix.html
+./lyrics/dvsn/thinkaboutme.html

@@ -1,0 +1,16 @@
+./lyrics/dawin/dessert.html
+./lyrics/dawin/dessertremix.html
+./lyrics/dawin/justgirlythings.html
+./lyrics/dawin/justgirlythingsremix.html
+./lyrics/dawin/lifeoftheparty.html
+./lyrics/dawin/bikinibody.html
+./lyrics/dawin/jumpshot.html
+./lyrics/dawin/lightofday.html
+./lyrics/dawin/sidekick.html
+./lyrics/dawin/shenanigans.html
+./lyrics/dawin/pepperspray.html
+./lyrics/dawin/errors.html
+./lyrics/dawin/cutemoff.html
+./lyrics/dawin/dessertacoustic.html
+./lyrics/dawin/throwback.html
+./lyrics/dawin/triptoparadise.html

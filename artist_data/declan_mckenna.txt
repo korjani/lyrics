@@ -1,0 +1,9 @@
+./lyrics/declanmckenna/brazil.html
+./lyrics/declanmckenna/bethlehem.html
+./lyrics/declanmckenna/paracetamol.html
+./lyrics/declanmckenna/howl.html
+./lyrics/declanmckenna/basic.html
+./lyrics/declanmckenna/brew.html
+./lyrics/declanmckenna/isombard.html
+./lyrics/declanmckenna/littlepieces.html
+./lyrics/declanmckenna/thekidsdontwannacomehome.html

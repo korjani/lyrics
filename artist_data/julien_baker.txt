@@ -1,0 +1,12 @@
+./lyrics/julienbaker/blacktop.html
+./lyrics/julienbaker/sprainedankle.html
+./lyrics/julienbaker/brittleboned.html
+./lyrics/julienbaker/everybodydoes.html
+./lyrics/julienbaker/goodnews.html
+./lyrics/julienbaker/something.html
+./lyrics/julienbaker/rejoice.html
+./lyrics/julienbaker/vessels.html
+./lyrics/julienbaker/gohome.html
+./lyrics/julienbaker/decoratedlawns.html
+./lyrics/julienbaker/distantsolarsystems.html
+./lyrics/julienbaker/funeralpyre.html

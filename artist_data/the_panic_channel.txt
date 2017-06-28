@@ -1,0 +1,12 @@
+./lyrics/panicchannel/teahouseofthespirits.html
+./lyrics/panicchannel/lefttolose.html
+./lyrics/panicchannel/bloodymary.html
+./lyrics/panicchannel/whycry.html
+./lyrics/panicchannel/awake.html
+./lyrics/panicchannel/shewontlast.html
+./lyrics/panicchannel/saidyoudbe.html
+./lyrics/panicchannel/outsider.html
+./lyrics/panicchannel/bluebruises.html
+./lyrics/panicchannel/nightonefromplanchette.html
+./lyrics/panicchannel/listen.html
+./lyrics/panicchannel/lienexttome.html

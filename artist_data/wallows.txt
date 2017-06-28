@@ -1,0 +1,2 @@
+./lyrics/wallows/pleaser.html
+./lyrics/wallows/suntan.html

@@ -1,0 +1,8 @@
+./lyrics/jesselabelle/perfectaccident.html
+./lyrics/jesselabelle/dontleavenow.html
+./lyrics/jesselabelle/australia.html
+./lyrics/jesselabelle/easier.html
+./lyrics/jesselabelle/heartbreakcoverup.html
+./lyrics/jesselabelle/lost.html
+./lyrics/jesselabelle/magicwords.html
+./lyrics/jesselabelle/onelastnight.html

@@ -1,0 +1,5 @@
+./lyrics/alma/dyemyhair.html
+./lyrics/alma/karma.html
+./lyrics/alma/knock.html
+./lyrics/alma/dyemyhairacousticversion.html
+./lyrics/alma/chasinghighs.html

@@ -1,0 +1,11 @@
+./lyrics/chloehowl/baddream.html
+./lyrics/chloehowl/disappointed.html
+./lyrics/chloehowl/dropintheocean.html
+./lyrics/chloehowl/girlsandboys.html
+./lyrics/chloehowl/howproud.html
+./lyrics/chloehowl/iwishicouldtellyou.html
+./lyrics/chloehowl/nostrings.html
+./lyrics/chloehowl/paperheart.html
+./lyrics/chloehowl/rumour.html
+./lyrics/chloehowl/thissongsnotaboutyou.html
+./lyrics/chloehowl/tomyface.html

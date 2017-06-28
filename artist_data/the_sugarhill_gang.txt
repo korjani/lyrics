@@ -1,0 +1,4 @@
+./lyrics/sugarhillgang/8thwonder.html
+./lyrics/sugarhillgang/apache.html
+./lyrics/sugarhillgang/rappersdelight.html
+./lyrics/sugarhillgang/theloverinyou.html

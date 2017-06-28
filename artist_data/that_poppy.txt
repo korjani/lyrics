@@ -1,0 +1,10 @@
+./lyrics/thatpoppy/lowlife.html
+./lyrics/thatpoppy/money.html
+./lyrics/thatpoppy/altar.html
+./lyrics/thatpoppy/americankids.html
+./lyrics/thatpoppy/adored.html
+./lyrics/thatpoppy/chewinggum.html
+./lyrics/thatpoppy/computerboy.html
+./lyrics/thatpoppy/everybodywantstobepoppy.html
+./lyrics/thatpoppy/impoppy.html
+./lyrics/thatpoppy/lowliferemix.html

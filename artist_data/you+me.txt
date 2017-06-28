@@ -1,0 +1,10 @@
+./lyrics/youme/capsized.html
+./lyrics/youme/fromaclosetinnorwayosloblues.html
+./lyrics/youme/gently.html
+./lyrics/youme/lovegonewrong.html
+./lyrics/youme/youandme.html
+./lyrics/youme/unbeliever.html
+./lyrics/youme/secondguess.html
+./lyrics/youme/breakthecycle.html
+./lyrics/youme/opendoor.html
+./lyrics/youme/noordinarylove.html

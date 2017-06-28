@@ -1,0 +1,3 @@
+./lyrics/lylas/comeback.html
+./lyrics/lylas/headedhome.html
+./lyrics/lylas/voicesinmyhead.html

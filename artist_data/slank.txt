@@ -1,0 +1,6 @@
+./lyrics/slank/balikin.html
+./lyrics/slank/imissubutihateu.html
+./lyrics/slank/kamuharuspulang.html
+./lyrics/slank/kutakbisa.html
+./lyrics/slank/terlalumanis.html
+./lyrics/slank/virus.html

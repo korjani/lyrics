@@ -1,0 +1,11 @@
+./lyrics/sleepybrown/imsoul.html
+./lyrics/sleepybrown/margarita.html
+./lyrics/sleepybrown/dressup.html
+./lyrics/sleepybrown/oneofdemnights.html
+./lyrics/sleepybrown/dancewithme.html
+./lyrics/sleepybrown/underwaterlove.html
+./lyrics/sleepybrown/tillyourlegsstartshaking.html
+./lyrics/sleepybrown/sundaymorning.html
+./lyrics/sleepybrown/ohhohum.html
+./lyrics/sleepybrown/icantwait.html
+./lyrics/sleepybrown/lifeofahustler.html

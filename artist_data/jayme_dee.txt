@@ -1,0 +1,9 @@
+./lyrics/jaymedee/tiptoes.html
+./lyrics/jaymedee/brokenrecord.html
+./lyrics/jaymedee/lovewhiplash.html
+./lyrics/jaymedee/heartbreaker.html
+./lyrics/jaymedee/redlights.html
+./lyrics/jaymedee/tillifallasleep.html
+./lyrics/jaymedee/honey.html
+./lyrics/jaymedee/misfit.html
+./lyrics/jaymedee/rules.html

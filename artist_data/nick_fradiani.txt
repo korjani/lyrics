@@ -1,0 +1,12 @@
+./lyrics/nickfradiani/everyday.html
+./lyrics/nickfradiani/nothingtolose.html
+./lyrics/nickfradiani/inthelongrun.html
+./lyrics/nickfradiani/forget2forgetu.html
+./lyrics/nickfradiani/getyouhome.html
+./lyrics/nickfradiani/howlatthemoon.html
+./lyrics/nickfradiani/nobody.html
+./lyrics/nickfradiani/loveisblind.html
+./lyrics/nickfradiani/allonyou.html
+./lyrics/nickfradiani/hurricane.html
+./lyrics/nickfradiani/ifididntknowyou.html
+./lyrics/nickfradiani/beautifullife.html

@@ -1,0 +1,6 @@
+./lyrics/evasimons/bludfire.html
+./lyrics/evasimons/chemistry.html
+./lyrics/evasimons/idontlikeyou.html
+./lyrics/evasimons/policeman.html
+./lyrics/evasimons/renegade.html
+./lyrics/evasimons/sillyboy.html

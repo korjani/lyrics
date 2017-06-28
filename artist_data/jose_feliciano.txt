@@ -1,0 +1,3 @@
+./lyrics/josefeliciano/feliznavidad.html
+./lyrics/josefeliciano/lightmyfire.html
+./lyrics/josefeliciano/rain.html

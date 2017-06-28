@@ -1,0 +1,8 @@
+./lyrics/rozes/everything.html
+./lyrics/rozes/desirable.html
+./lyrics/rozes/rumine.html
+./lyrics/rozes/burnwild.html
+./lyrics/rozes/inout.html
+./lyrics/rozes/fragile.html
+./lyrics/rozes/forever.html
+./lyrics/rozes/hanginon.html

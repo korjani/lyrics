@@ -1,0 +1,11 @@
+./lyrics/omc/ontherun.html
+./lyrics/omc/howbizarre.html
+./lyrics/omc/nevercomingback.html
+./lyrics/omc/breakingmyheart.html
+./lyrics/omc/angelindisguise.html
+./lyrics/omc/lingowiththegringo.html
+./lyrics/omc/landofplenty.html
+./lyrics/omc/righton.html
+./lyrics/omc/poursoutyoureyes.html
+./lyrics/omc/shelovesitalian.html
+./lyrics/omc/ilovela.html

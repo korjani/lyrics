@@ -1,0 +1,2 @@
+./lyrics/tinocoury/diary.html
+./lyrics/tinocoury/upagainstthewall.html

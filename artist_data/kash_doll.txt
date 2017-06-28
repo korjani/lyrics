@@ -1,0 +1,11 @@
+./lyrics/kashdoll/imkashdoll.html
+./lyrics/kashdoll/cheapshit.html
+./lyrics/kashdoll/socrazy.html
+./lyrics/kashdoll/chiraq.html
+./lyrics/kashdoll/foreverybody.html
+./lyrics/kashdoll/hishers.html
+./lyrics/kashdoll/oldfreak.html
+./lyrics/kashdoll/poppinremix.html
+./lyrics/kashdoll/runmemymoney.html
+./lyrics/kashdoll/upgradeuremix.html
+./lyrics/kashdoll/workremix.html

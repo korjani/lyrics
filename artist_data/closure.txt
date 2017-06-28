@@ -1,0 +1,11 @@
+./lyrics/closure/lookoutbelow.html
+./lyrics/closure/afterglow.html
+./lyrics/closure/oxygen.html
+./lyrics/closure/whatitsallabout.html
+./lyrics/closure/whatevermadeyou.html
+./lyrics/closure/crushed.html
+./lyrics/closure/lietome.html
+./lyrics/closure/liveagain.html
+./lyrics/closure/idontmindtherain.html
+./lyrics/closure/fragile.html
+./lyrics/closure/youaremyhatred.html

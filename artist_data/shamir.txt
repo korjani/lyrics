@@ -1,0 +1,16 @@
+./lyrics/shamir/ifitwasnttrue.html
+./lyrics/shamir/iknowitsagoodthing.html
+./lyrics/shamir/sometimesaman.html
+./lyrics/shamir/illneverbeabletolove.html
+./lyrics/shamir/livedanddiedalone.html
+./lyrics/shamir/vegas.html
+./lyrics/shamir/makeascene.html
+./lyrics/shamir/ontheregular.html
+./lyrics/shamir/callitoff.html
+./lyrics/shamir/hotmess.html
+./lyrics/shamir/demon.html
+./lyrics/shamir/inforthekill.html
+./lyrics/shamir/youth.html
+./lyrics/shamir/darker.html
+./lyrics/shamir/headintheclouds.html
+./lyrics/shamir/kc.html

@@ -1,0 +1,12 @@
+./lyrics/boyandhiskite/ways.html
+./lyrics/boyandhiskite/youwantityougotit.html
+./lyrics/boyandhiskite/goodmen.html
+./lyrics/boyandhiskite/tilltheendoftime.html
+./lyrics/boyandhiskite/theheist.html
+./lyrics/boyandhiskite/heartacheisacoldplace.html
+./lyrics/boyandhiskite/itsracing.html
+./lyrics/boyandhiskite/carryalltheweight.html
+./lyrics/boyandhiskite/halfastall.html
+./lyrics/boyandhiskite/washmeclean.html
+./lyrics/boyandhiskite/letitdown.html
+./lyrics/boyandhiskite/coveryourtracks.html

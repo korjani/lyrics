@@ -1,0 +1,4 @@
+./lyrics/cl/doctorpepper.html
+./lyrics/cl/hellobitches.html
+./lyrics/cl/lifted.html
+./lyrics/cl/thebaddestfemale.html

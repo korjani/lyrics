@@ -1,0 +1,14 @@
+./lyrics/blanca/differentdrum.html
+./lyrics/blanca/whoiam.html
+./lyrics/blanca/ifyousaygo.html
+./lyrics/blanca/getup.html
+./lyrics/blanca/surrender.html
+./lyrics/blanca/echo.html
+./lyrics/blanca/catchingfire.html
+./lyrics/blanca/sunshine.html
+./lyrics/blanca/notbackingdown.html
+./lyrics/blanca/foreverlove.html
+./lyrics/blanca/worry.html
+./lyrics/blanca/greaterishe.html
+./lyrics/blanca/today.html
+./lyrics/blanca/chosenones.html

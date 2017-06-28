@@ -1,0 +1,7 @@
+./lyrics/biggrams/runforyourlife.html
+./lyrics/biggrams/lightson.html
+./lyrics/biggrams/fellinthesun.html
+./lyrics/biggrams/putitonher.html
+./lyrics/biggrams/goldminejunkie.html
+./lyrics/biggrams/borntoshine.html
+./lyrics/biggrams/drummachine.html

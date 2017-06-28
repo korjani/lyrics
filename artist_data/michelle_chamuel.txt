@@ -1,0 +1,11 @@
+./lyrics/michellechamuel/facethefire.html
+./lyrics/michellechamuel/thefall.html
+./lyrics/michellechamuel/golden.html
+./lyrics/michellechamuel/madeforme.html
+./lyrics/michellechamuel/lottery.html
+./lyrics/michellechamuel/weightoftheworld.html
+./lyrics/michellechamuel/rockit.html
+./lyrics/michellechamuel/wakeup.html
+./lyrics/michellechamuel/money.html
+./lyrics/michellechamuel/giveyou.html
+./lyrics/michellechamuel/godownsinging.html

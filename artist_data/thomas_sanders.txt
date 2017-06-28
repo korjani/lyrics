@@ -1,0 +1,3 @@
+./lyrics/thomassanders/birds.html
+./lyrics/thomassanders/lies.html
+./lyrics/thomassanders/warriorgirl.html

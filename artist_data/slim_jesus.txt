@@ -1,0 +1,17 @@
+./lyrics/slimjesus/buckbuck.html
+./lyrics/slimjesus/channel12.html
+./lyrics/slimjesus/clout.html
+./lyrics/slimjesus/drilltime.html
+./lyrics/slimjesus/drilltimeremix.html
+./lyrics/slimjesus/facts.html
+./lyrics/slimjesus/finesse.html
+./lyrics/slimjesus/freesmoke.html
+./lyrics/slimjesus/idgaf.html
+./lyrics/slimjesus/jumpman.html
+./lyrics/slimjesus/minutemaidlemonade.html
+./lyrics/slimjesus/ontheblock.html
+./lyrics/slimjesus/shejustwanna.html
+./lyrics/slimjesus/sorrymama.html
+./lyrics/slimjesus/speedboat.html
+./lyrics/slimjesus/straightofftheiphonefreestyle.html
+./lyrics/slimjesus/turntup.html

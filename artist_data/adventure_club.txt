@@ -1,0 +1,15 @@
+./lyrics/adventureclub/gold.html
+./lyrics/adventureclub/wonder.html
+./lyrics/adventureclub/crash.html
+./lyrics/adventureclub/dreams.html
+./lyrics/adventureclub/firestorm.html
+./lyrics/adventureclub/forever.html
+./lyrics/adventureclub/limitless.html
+./lyrics/adventureclub/breathe.html
+./lyrics/adventureclub/ghosts.html
+./lyrics/adventureclub/reaction.html
+./lyrics/adventureclub/crash20adventureclubvsdallask.html
+./lyrics/adventureclub/saveme.html
+./lyrics/adventureclub/fade.html
+./lyrics/adventureclub/needyourheart.html
+./lyrics/adventureclub/risefallremix.html

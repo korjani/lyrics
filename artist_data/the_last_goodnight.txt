@@ -1,0 +1,12 @@
+./lyrics/lastgoodnight/poisonkiss.html
+./lyrics/lastgoodnight/backwherewebelong.html
+./lyrics/lastgoodnight/picturesofyou.html
+./lyrics/lastgoodnight/staybeautiful.html
+./lyrics/lastgoodnight/thisisthesound.html
+./lyrics/lastgoodnight/onetrust.html
+./lyrics/lastgoodnight/returntome.html
+./lyrics/lastgoodnight/goodlove.html
+./lyrics/lastgoodnight/ifitalktogod.html
+./lyrics/lastgoodnight/pushmeaway.html
+./lyrics/lastgoodnight/inyourarms.html
+./lyrics/lastgoodnight/incomplete.html

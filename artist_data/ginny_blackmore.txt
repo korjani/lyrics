@@ -1,0 +1,8 @@
+./lyrics/ginnyblackmore/helloworld.html
+./lyrics/ginnyblackmore/bones.html
+./lyrics/ginnyblackmore/holdingyou.html
+./lyrics/ginnyblackmore/kissingonyou.html
+./lyrics/ginnyblackmore/lovemeanyway.html
+./lyrics/ginnyblackmore/lovestrikes.html
+./lyrics/ginnyblackmore/sfm.html
+./lyrics/ginnyblackmore/undermyfeet.html

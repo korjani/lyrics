@@ -1,0 +1,12 @@
+./lyrics/wreckers/leavethepieces.html
+./lyrics/wreckers/waybackhome.html
+./lyrics/wreckers/thegoodkind.html
+./lyrics/wreckers/tennessee.html
+./lyrics/wreckers/myohmy.html
+./lyrics/wreckers/standstilllookpretty.html
+./lyrics/wreckers/cigarettes.html
+./lyrics/wreckers/hardtoloveyou.html
+./lyrics/wreckers/laymedown.html
+./lyrics/wreckers/onemoregirl.html
+./lyrics/wreckers/rain.html
+./lyrics/wreckers/crazypeople.html

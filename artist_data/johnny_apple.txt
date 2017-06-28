@@ -1,0 +1,7 @@
+./lyrics/johnnyapple/stop.html
+./lyrics/johnnyapple/mondaynight.html
+./lyrics/johnnyapple/didntevensaygoodbye.html
+./lyrics/johnnyapple/imdone.html
+./lyrics/johnnyapple/loverslane.html
+./lyrics/johnnyapple/rafael.html
+./lyrics/johnnyapple/ijustcalledtosayiloveyou.html

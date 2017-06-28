@@ -1,0 +1,14 @@
+./lyrics/bibibourelly/sally.html
+./lyrics/bibibourelly/ego.html
+./lyrics/bibibourelly/guitar.html
+./lyrics/bibibourelly/whatif.html
+./lyrics/bibibourelly/riot.html
+./lyrics/bibibourelly/untitled.html
+./lyrics/bibibourelly/flowers.html
+./lyrics/bibibourelly/fool.html
+./lyrics/bibibourelly/poet.html
+./lyrics/bibibourelly/ballin.html
+./lyrics/bibibourelly/perfect.html
+./lyrics/bibibourelly/boyslie.html
+./lyrics/bibibourelly/lovemefair.html
+./lyrics/bibibourelly/sunshine.html

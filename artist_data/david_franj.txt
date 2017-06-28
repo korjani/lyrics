@@ -1,0 +1,9 @@
+./lyrics/davidfranj/neverbeamazing.html
+./lyrics/davidfranj/godonlyknows.html
+./lyrics/davidfranj/teresa.html
+./lyrics/davidfranj/yellowflowers.html
+./lyrics/davidfranj/perfectworld.html
+./lyrics/davidfranj/takeyourtime.html
+./lyrics/davidfranj/oxygen.html
+./lyrics/davidfranj/songforyou.html
+./lyrics/davidfranj/gotlost.html

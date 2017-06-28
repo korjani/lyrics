@@ -1,0 +1,10 @@
+./lyrics/vice/kuhrazy.html
+./lyrics/vice/barsonbars.html
+./lyrics/vice/blow.html
+./lyrics/vice/brightlights.html
+./lyrics/vice/drugsandammunition.html
+./lyrics/vice/firetruck.html
+./lyrics/vice/obsession.html
+./lyrics/vice/redlight.html
+./lyrics/vice/steady1234.html
+./lyrics/vice/worldisourplayground.html

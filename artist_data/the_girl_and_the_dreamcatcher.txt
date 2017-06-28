@@ -1,0 +1,10 @@
+./lyrics/girlandthedreamcatcher/makeyoustay.html
+./lyrics/girlandthedreamcatcher/glowinginthedark.html
+./lyrics/girlandthedreamcatcher/gladiator.html
+./lyrics/girlandthedreamcatcher/myway.html
+./lyrics/girlandthedreamcatcher/crywolf.html
+./lyrics/girlandthedreamcatcher/monster.html
+./lyrics/girlandthedreamcatcher/alliwantforchristmasisyou.html
+./lyrics/girlandthedreamcatcher/haveyourselfamerrylittlechristmas.html
+./lyrics/girlandthedreamcatcher/someoneyoulike.html
+./lyrics/girlandthedreamcatcher/writteninthestars.html

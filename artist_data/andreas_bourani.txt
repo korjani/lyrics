@@ -1,0 +1,15 @@
+./lyrics/andreasbourani/wiederamleben.html
+./lyrics/andreasbourani/aufuns.html
+./lyrics/andreasbourani/allesbeimalten.html
+./lyrics/andreasbourani/hey.html
+./lyrics/andreasbourani/ultraleicht.html
+./lyrics/andreasbourani/nimmmeinehand.html
+./lyrics/andreasbourani/aufanderenwegen.html
+./lyrics/andreasbourani/delirium.html
+./lyrics/andreasbourani/freinandergemacht.html
+./lyrics/andreasbourani/einendenachdemandern.html
+./lyrics/andreasbourani/wastutdirgut.html
+./lyrics/andreasbourani/sein.html
+./lyrics/andreasbourani/eisberg.html
+./lyrics/andreasbourani/nurinmeinemkopf.html
+./lyrics/andreasbourani/wunder.html

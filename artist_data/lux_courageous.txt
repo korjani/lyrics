@@ -1,0 +1,13 @@
+./lyrics/luxcourageous/concretebroadway.html
+./lyrics/luxcourageous/wearingdangerous.html
+./lyrics/luxcourageous/safeatlast.html
+./lyrics/luxcourageous/irresistible.html
+./lyrics/luxcourageous/ambulance.html
+./lyrics/luxcourageous/everythingyouwanted.html
+./lyrics/luxcourageous/seatbeltsaresaviors.html
+./lyrics/luxcourageous/heyitjustfeelsbetter.html
+./lyrics/luxcourageous/prayerfromthepriest.html
+./lyrics/luxcourageous/thistown.html
+./lyrics/luxcourageous/barelyenough.html
+./lyrics/luxcourageous/battles.html
+./lyrics/luxcourageous/whataplacetofindonesdivinity.html

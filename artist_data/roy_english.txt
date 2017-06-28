@@ -1,0 +1,5 @@
+./lyrics/royenglish/watedouh.html
+./lyrics/royenglish/oxy.html
+./lyrics/royenglish/cantlie.html
+./lyrics/royenglish/hotelpools01101001.html
+./lyrics/royenglish/notimevalentine.html

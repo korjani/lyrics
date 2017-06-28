@@ -1,0 +1,12 @@
+./lyrics/janineandthemixtape/letitrun.html
+./lyrics/janineandthemixtape/darkmind.html
+./lyrics/janineandthemixtape/holdme.html
+./lyrics/janineandthemixtape/littlebit.html
+./lyrics/janineandthemixtape/bullets.html
+./lyrics/janineandthemixtape/wecouldbebetter.html
+./lyrics/janineandthemixtape/whenimbroken.html
+./lyrics/janineandthemixtape/youdeserveit.html
+./lyrics/janineandthemixtape/oldbesideyou.html
+./lyrics/janineandthemixtape/losemymind.html
+./lyrics/janineandthemixtape/thismoment.html
+./lyrics/janineandthemixtape/coldout.html

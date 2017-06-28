@@ -1,0 +1,10 @@
+./lyrics/bobguiney/girlfriend.html
+./lyrics/bobguiney/temporarylife.html
+./lyrics/bobguiney/fortunate.html
+./lyrics/bobguiney/sowrong.html
+./lyrics/bobguiney/bleedon.html
+./lyrics/bobguiney/spareminute.html
+./lyrics/bobguiney/craziestgirliknow.html
+./lyrics/bobguiney/howlong.html
+./lyrics/bobguiney/comeundone.html
+./lyrics/bobguiney/slow44.html

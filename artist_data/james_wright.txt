@@ -1,0 +1,6 @@
+./lyrics/jameswright/akoysayo.html
+./lyrics/jameswright/kunghindiikaw.html
+./lyrics/jameswright/ikawyon.html
+./lyrics/jameswright/sanayikaw.html
+./lyrics/jameswright/mydestiny.html
+./lyrics/jameswright/pleasecomeback.html

@@ -1,0 +1,10 @@
+./lyrics/cidersky/pieces.html
+./lyrics/cidersky/glowinginthedark.html
+./lyrics/cidersky/loveisadrum.html
+./lyrics/cidersky/shootingstars.html
+./lyrics/cidersky/aminuteortwo.html
+./lyrics/cidersky/fall.html
+./lyrics/cidersky/flames.html
+./lyrics/cidersky/northernlights.html
+./lyrics/cidersky/weareinlove.html
+./lyrics/cidersky/wheretonow.html

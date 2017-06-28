@@ -1,0 +1,6 @@
+./lyrics/tomwalker/karma.html
+./lyrics/tomwalker/rapture.html
+./lyrics/tomwalker/justyouandi.html
+./lyrics/tomwalker/blessings.html
+./lyrics/tomwalker/flyawaywithme.html
+./lyrics/tomwalker/playdead.html

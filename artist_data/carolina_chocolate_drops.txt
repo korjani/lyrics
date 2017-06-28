@@ -1,0 +1,6 @@
+./lyrics/carolinachocolatedrops/anothermandonegone.html
+./lyrics/carolinachocolatedrops/daughterslament.html
+./lyrics/carolinachocolatedrops/hitemupstyle.html
+./lyrics/carolinachocolatedrops/knockin.html
+./lyrics/carolinachocolatedrops/leavingeden.html
+./lyrics/carolinachocolatedrops/starrycrown.html

@@ -1,0 +1,5 @@
+./lyrics/edenxo/dripsgold.html
+./lyrics/edenxo/elbarrio.html
+./lyrics/edenxo/holdmenow.html
+./lyrics/edenxo/theweekend.html
+./lyrics/edenxo/toocooltodance.html

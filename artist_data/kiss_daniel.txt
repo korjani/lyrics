@@ -1,0 +1,17 @@
+./lyrics/kissdaniel/newking.html
+./lyrics/kissdaniel/anotherday.html
+./lyrics/kissdaniel/jombo.html
+./lyrics/kissdaniel/mama.html
+./lyrics/kissdaniel/gobe.html
+./lyrics/kissdaniel/goodtime.html
+./lyrics/kissdaniel/laye.html
+./lyrics/kissdaniel/areyoualright.html
+./lyrics/kissdaniel/alone.html
+./lyrics/kissdaniel/sincity.html
+./lyrics/kissdaniel/uponme.html
+./lyrics/kissdaniel/duro.html
+./lyrics/kissdaniel/woju.html
+./lyrics/kissdaniel/allgod.html
+./lyrics/kissdaniel/nothingdey.html
+./lyrics/kissdaniel/sofa.html
+./lyrics/kissdaniel/wojuremix.html

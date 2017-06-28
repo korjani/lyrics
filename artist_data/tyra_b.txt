@@ -1,0 +1,13 @@
+./lyrics/tyrab/apology.html
+./lyrics/tyrab/countryboy.html
+./lyrics/tyrab/exhausted.html
+./lyrics/tyrab/getitpoppin.html
+./lyrics/tyrab/getnooohwee.html
+./lyrics/tyrab/givinmearush.html
+./lyrics/tyrab/imyours.html
+./lyrics/tyrab/leaveanoteonherpillow.html
+./lyrics/tyrab/losecontrol.html
+./lyrics/tyrab/sex.html
+./lyrics/tyrab/stillinlove.html
+./lyrics/tyrab/stillinloveptii.html
+./lyrics/tyrab/tease.html

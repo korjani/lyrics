@@ -1,0 +1,14 @@
+./lyrics/seinabosey/younger.html
+./lyrics/seinabosey/pretend.html
+./lyrics/seinabosey/poetic.html
+./lyrics/seinabosey/hardtime.html
+./lyrics/seinabosey/easy.html
+./lyrics/seinabosey/words.html
+./lyrics/seinabosey/sorry.html
+./lyrics/seinabosey/who.html
+./lyrics/seinabosey/still.html
+./lyrics/seinabosey/you.html
+./lyrics/seinabosey/ruin.html
+./lyrics/seinabosey/burial.html
+./lyrics/seinabosey/pistolsatdawn.html
+./lyrics/seinabosey/river.html

@@ -1,0 +1,5 @@
+./lyrics/bethditto/iwrotethebook.html
+./lyrics/bethditto/goodnightgoodmorning.html
+./lyrics/bethditto/openheartsurgery.html
+./lyrics/bethditto/doyouneedsomeone.html
+./lyrics/bethditto/fire.html

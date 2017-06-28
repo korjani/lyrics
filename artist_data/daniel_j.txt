@@ -1,0 +1,2 @@
+./lyrics/danielj/agirllikeyou.html
+./lyrics/danielj/iwontletyoudown.html

@@ -1,0 +1,2 @@
+./lyrics/tionphipps/dirtydancing.html
+./lyrics/tionphipps/slayin.html

@@ -1,0 +1,4 @@
+./lyrics/melissasteel/burningdown.html
+./lyrics/melissasteel/kissesforbreakfast.html
+./lyrics/melissasteel/youloveme.html
+./lyrics/melissasteel/yourewrong.html

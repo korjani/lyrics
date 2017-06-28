@@ -1,0 +1,23 @@
+URNX
+URNX, NI, IMNX
+ICTV
+ICTV, NICU
+ICU, ICU, NUROK
+URNX
+URNX, NI, IW
+ICATV, ICADVD, NICU
+ICU, ICU, NUROK
+ICU, ICU, NUROK
+
+[Translation:]
+
+You are an X
+You are an X, and I, I am an X
+I see TV
+I see TV, and I see you
+I see you, I see you, and you are okay
+You are an X
+You are an X, and I, I double you
+I see a DVD, I see a DVD, and I see you
+I see you, I see you, and you are okay
+I see you, I see you, and you are okay

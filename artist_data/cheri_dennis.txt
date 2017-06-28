@@ -1,0 +1,11 @@
+./lyrics/cheridennis/iloveyou.html
+./lyrics/cheridennis/portraitoflove.html
+./lyrics/cheridennis/remindyou.html
+./lyrics/cheridennis/droppingoutoflove.html
+./lyrics/cheridennis/pretend.html
+./lyrics/cheridennis/spacedout.html
+./lyrics/cheridennis/showdown.html
+./lyrics/cheridennis/oohooh.html
+./lyrics/cheridennis/caughtup.html
+./lyrics/cheridennis/freak.html
+./lyrics/cheridennis/oohlala.html

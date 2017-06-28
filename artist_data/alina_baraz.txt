@@ -1,0 +1,11 @@
+./lyrics/alinabaraz/showme.html
+./lyrics/alinabaraz/drift.html
+./lyrics/alinabaraz/cani.html
+./lyrics/alinabaraz/fantasy.html
+./lyrics/alinabaraz/makeyoufeel.html
+./lyrics/alinabaraz/maybe.html
+./lyrics/alinabaraz/prettythoughts.html
+./lyrics/alinabaraz/unfold.html
+./lyrics/alinabaraz/downforyou.html
+./lyrics/alinabaraz/electric.html
+./lyrics/alinabaraz/rosesdippedingold.html

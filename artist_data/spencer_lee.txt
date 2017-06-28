@@ -1,0 +1,2 @@
+./lyrics/spencerlee/stillifly.html
+./lyrics/spencerlee/tonightsthenight.html

@@ -1,0 +1,2 @@
+./lyrics/marvinpriest/ownthisclub.html
+./lyrics/marvinpriest/takemeaway.html

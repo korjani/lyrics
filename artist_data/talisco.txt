@@ -1,0 +1,15 @@
+./lyrics/talisco/yourwish.html
+./lyrics/talisco/myhome.html
+./lyrics/talisco/yourwishradioedit.html
+./lyrics/talisco/yourwish.html
+./lyrics/talisco/inlove.html
+./lyrics/talisco/thekeys.html
+./lyrics/talisco/followme.html
+./lyrics/talisco/sorrow.html
+./lyrics/talisco/soold.html
+./lyrics/talisco/bringmeback.html
+./lyrics/talisco/glory.html
+./lyrics/talisco/reborn.html
+./lyrics/talisco/everyone.html
+./lyrics/talisco/lovely.html
+./lyrics/talisco/staybeforethepicturefades.html

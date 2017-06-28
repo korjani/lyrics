@@ -1,0 +1,8 @@
+./lyrics/maiamitchell/bestsummerever.html
+./lyrics/maiamitchell/twistyourfrownupsidedown.html
+./lyrics/maiamitchell/silverscreen.html
+./lyrics/maiamitchell/gottabeme.html
+./lyrics/maiamitchell/meanttobereprise3.html
+./lyrics/maiamitchell/thatshowwedo.html
+./lyrics/maiamitchell/likeme.html
+./lyrics/maiamitchell/oxygen.html

@@ -1,0 +1,12 @@
+./lyrics/timesofgrace/strengthinnumbers.html
+./lyrics/timesofgrace/fightforlife.html
+./lyrics/timesofgrace/willing.html
+./lyrics/timesofgrace/wherethespiritleadsme.html
+./lyrics/timesofgrace/untiltheendofdays.html
+./lyrics/timesofgrace/liveinlove.html
+./lyrics/timesofgrace/hymnofabrokenman.html
+./lyrics/timesofgrace/theforgottenone.html
+./lyrics/timesofgrace/hoperemains.html
+./lyrics/timesofgrace/theendofeternity.html
+./lyrics/timesofgrace/worldsapart.html
+./lyrics/timesofgrace/fallfromgrace.html

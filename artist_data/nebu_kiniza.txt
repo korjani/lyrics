@@ -1,0 +1,12 @@
+./lyrics/nebukiniza/eyes.html
+./lyrics/nebukiniza/allgood.html
+./lyrics/nebukiniza/callitwhatyouwant.html
+./lyrics/nebukiniza/coastin.html
+./lyrics/nebukiniza/days.html
+./lyrics/nebukiniza/everynight.html
+./lyrics/nebukiniza/fuckitup.html
+./lyrics/nebukiniza/gassedup.html
+./lyrics/nebukiniza/lit.html
+./lyrics/nebukiniza/myself.html
+./lyrics/nebukiniza/myselfremix.html
+./lyrics/nebukiniza/theeast.html

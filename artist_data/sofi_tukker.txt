@@ -1,0 +1,7 @@
+./lyrics/sofitukker/drinkee.html
+./lyrics/sofitukker/awoo.html
+./lyrics/sofitukker/matadora.html
+./lyrics/sofitukker/heylion.html
+./lyrics/sofitukker/moontattoo.html
+./lyrics/sofitukker/djvuaffair.html
+./lyrics/sofitukker/johny.html

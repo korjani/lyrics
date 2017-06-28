@@ -1,0 +1,7 @@
+./lyrics/lalalandcast/anotherdayofsun.html
+./lyrics/lalalandcast/someoneinthecrowd.html
+./lyrics/lalalandcast/alovelynight.html
+./lyrics/lalalandcast/cityofstarssolo.html
+./lyrics/lalalandcast/cityofstars.html
+./lyrics/lalalandcast/startafire.html
+./lyrics/lalalandcast/auditionthefoolswhodream.html

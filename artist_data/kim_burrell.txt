@@ -1,0 +1,13 @@
+./lyrics/kimburrell/calvary.html
+./lyrics/kimburrell/dontcountmeout.html
+./lyrics/kimburrell/everlastinglove.html
+./lyrics/kimburrell/holyghost.html
+./lyrics/kimburrell/icometoyoumorethanigive.html
+./lyrics/kimburrell/iseeavictory.html
+./lyrics/kimburrell/illkeepholdingon.html
+./lyrics/kimburrell/itsnotsupposedtobethisway.html
+./lyrics/kimburrell/ohlord.html
+./lyrics/kimburrell/overandoveragain.html
+./lyrics/kimburrell/specialplace.html
+./lyrics/kimburrell/victory.html
+./lyrics/kimburrell/yestoyourwill.html

@@ -1,0 +1,3 @@
+./lyrics/courtneyparker/allineed.html
+./lyrics/courtneyparker/herlastwords.html
+./lyrics/courtneyparker/stoleninnocence.html

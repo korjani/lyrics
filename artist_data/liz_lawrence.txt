@@ -1,0 +1,10 @@
+./lyrics/lizlawrence/bedroomhero.html
+./lyrics/lizlawrence/oosong.html
+./lyrics/lizlawrence/idrather.html
+./lyrics/lizlawrence/wheniwasyounger.html
+./lyrics/lizlawrence/bathroomspoons.html
+./lyrics/lizlawrence/givemecomfort.html
+./lyrics/lizlawrence/mondaymorning.html
+./lyrics/lizlawrence/oneday.html
+./lyrics/lizlawrence/blackandblue.html
+./lyrics/lizlawrence/foolsgold.html

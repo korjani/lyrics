@@ -1,0 +1,4 @@
+./lyrics/blackpink/playingwithfire.html
+./lyrics/blackpink/stay.html
+./lyrics/blackpink/whistle.html
+./lyrics/blackpink/boombayah.html

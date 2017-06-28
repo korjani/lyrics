@@ -1,0 +1,15 @@
+./lyrics/andyblack/homecomingking.html
+./lyrics/andyblack/wedonthavetodance.html
+./lyrics/andyblack/ribcage.html
+./lyrics/andyblack/stayalive.html
+./lyrics/andyblack/lovewasmadetobreak.html
+./lyrics/andyblack/beautifulpain.html
+./lyrics/andyblack/putthegundown.html
+./lyrics/andyblack/drownmeout.html
+./lyrics/andyblack/paintitblack.html
+./lyrics/andyblack/breakyourhalo.html
+./lyrics/andyblack/louderthanyourlove.html
+./lyrics/andyblack/brokenpieces.html
+./lyrics/andyblack/thevoid.html
+./lyrics/andyblack/21guns.html
+./lyrics/andyblack/theydontneedtounderstand.html

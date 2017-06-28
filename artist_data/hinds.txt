@@ -1,0 +1,14 @@
+./lyrics/hinds/garden.html
+./lyrics/hinds/fatcalmedkiddos.html
+./lyrics/hinds/warts.html
+./lyrics/hinds/easy.html
+./lyrics/hinds/castigadasenelgranero.html
+./lyrics/hinds/chilitown.html
+./lyrics/hinds/bamboo.html
+./lyrics/hinds/sandiego.html
+./lyrics/hinds/andiwillsendyourflowersback.html
+./lyrics/hinds/illbeyourman.html
+./lyrics/hinds/walkinghome.html
+./lyrics/hinds/betweencans.html
+./lyrics/hinds/daveycrockett.html
+./lyrics/hinds/trippygum.html

@@ -1,0 +1,6 @@
+./lyrics/hughgrant/popgoesmyheart.html
+./lyrics/hughgrant/meaninglesskiss.html
+./lyrics/hughgrant/waybackintolove.html
+./lyrics/hughgrant/dancewithmetonight.html
+./lyrics/hughgrant/dontwritemeoff.html
+./lyrics/hughgrant/loveautopsy.html

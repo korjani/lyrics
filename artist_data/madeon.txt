@@ -1,0 +1,12 @@
+./lyrics/madeon/youreon.html
+./lyrics/madeon/lalune.html
+./lyrics/madeon/paynomind.html
+./lyrics/madeon/beings.html
+./lyrics/madeon/zephyr.html
+./lyrics/madeon/nonsense.html
+./lyrics/madeon/innocence.html
+./lyrics/madeon/home.html
+./lyrics/madeon/finale.html
+./lyrics/madeon/thecity.html
+./lyrics/madeon/onlywayout.html
+./lyrics/madeon/shelter.html

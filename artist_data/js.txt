@@ -1,0 +1,13 @@
+./lyrics/js/loveangel.html
+./lyrics/js/someone.html
+./lyrics/js/icecream.html
+./lyrics/js/byebye.html
+./lyrics/js/slowgrind.html
+./lyrics/js/half.html
+./lyrics/js/icecreamremix.html
+./lyrics/js/dontturnawayinterlude.html
+./lyrics/js/stay.html
+./lyrics/js/handleyourbusiness.html
+./lyrics/js/stayrighthere.html
+./lyrics/js/rightherewithme.html
+./lyrics/js/sister.html

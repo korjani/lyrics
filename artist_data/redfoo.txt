@@ -1,0 +1,17 @@
+./lyrics/redfoo/keepshining.html
+./lyrics/redfoo/partytrain.html
+./lyrics/redfoo/toomuch.html
+./lyrics/redfoo/beachcruisin.html
+./lyrics/redfoo/bootyman.html
+./lyrics/redfoo/lightsout.html
+./lyrics/redfoo/solit.html
+./lyrics/redfoo/newthang.html
+./lyrics/redfoo/juicywiggle.html
+./lyrics/redfoo/goodthingshappenwhenyadrunk.html
+./lyrics/redfoo/wherethesungoes.html
+./lyrics/redfoo/meetherattomorrow.html
+./lyrics/redfoo/maybe.html
+./lyrics/redfoo/brandnewday.html
+./lyrics/redfoo/bringoutthebottles.html
+./lyrics/redfoo/illawardyouwithmybody.html
+./lyrics/redfoo/letsgetridiculous.html

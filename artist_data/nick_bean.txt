@@ -1,0 +1,15 @@
+./lyrics/nickbean/love.html
+./lyrics/nickbean/dreamgirl.html
+./lyrics/nickbean/wifiwifey.html
+./lyrics/nickbean/sidekick.html
+./lyrics/nickbean/bubblegumgirl.html
+./lyrics/nickbean/emoji.html
+./lyrics/nickbean/u.html
+./lyrics/nickbean/crush.html
+./lyrics/nickbean/floorshake.html
+./lyrics/nickbean/overyou.html
+./lyrics/nickbean/chickennuggets.html
+./lyrics/nickbean/lanez.html
+./lyrics/nickbean/lipsinger.html
+./lyrics/nickbean/netflixchill.html
+./lyrics/nickbean/screenshot.html

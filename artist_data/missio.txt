@@ -1,0 +1,17 @@
+./lyrics/missio/animal.html
+./lyrics/missio/idowhatiwant.html
+./lyrics/missio/middlefingers.html
+./lyrics/missio/idontevencareaboutyou.html
+./lyrics/missio/bottomofthedeepbluesea.html
+./lyrics/missio/kamikazee.html
+./lyrics/missio/kdv.html
+./lyrics/missio/twisted.html
+./lyrics/missio/everybodygetshigh.html
+./lyrics/missio/idontgivea.html
+./lyrics/missio/dwi.html
+./lyrics/missio/anthemforthebroken.html
+./lyrics/missio/caniexist.html
+./lyrics/missio/iruntoyou.html
+./lyrics/missio/monsters.html
+./lyrics/missio/westcoast.html
+./lyrics/missio/whodoithinkiam.html

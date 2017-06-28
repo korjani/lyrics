@@ -1,0 +1,3 @@
+./lyrics/weirdgenius/bigbang.html
+./lyrics/weirdgenius/dps.html
+./lyrics/weirdgenius/lunatic.html

@@ -1,0 +1,10 @@
+./lyrics/petitemeller/theflute.html
+./lyrics/petitemeller/milkbath.html
+./lyrics/petitemeller/babylove.html
+./lyrics/petitemeller/lillove.html
+./lyrics/petitemeller/power.html
+./lyrics/petitemeller/backpack.html
+./lyrics/petitemeller/barbaric.html
+./lyrics/petitemeller/argentina.html
+./lyrics/petitemeller/grace.html
+./lyrics/petitemeller/nyctime.html

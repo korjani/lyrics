@@ -1,0 +1,14 @@
+./lyrics/nickyromero/crossroads.html
+./lyrics/nickyromero/drumsoflove.html
+./lyrics/nickyromero/feetontheground.html
+./lyrics/nickyromero/futurefunk.html
+./lyrics/nickyromero/harmony.html
+./lyrics/nickyromero/human.html
+./lyrics/nickyromero/iron.html
+./lyrics/nickyromero/legacysavemylife.html
+./lyrics/nickyromero/letmefeel.html
+./lyrics/nickyromero/lighthouse.html
+./lyrics/nickyromero/likehome.html
+./lyrics/nickyromero/symphonica.html
+./lyrics/nickyromero/takeme.html
+./lyrics/nickyromero/warriors.html

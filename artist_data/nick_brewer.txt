@@ -1,0 +1,4 @@
+./lyrics/nickbrewer/alonewithmythoughtsagain.html
+./lyrics/nickbrewer/imapro.html
+./lyrics/nickbrewer/neversaynever.html
+./lyrics/nickbrewer/talktome.html

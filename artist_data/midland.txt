@@ -1,0 +1,3 @@
+./lyrics/midland/drinkinproblem.html
+./lyrics/midland/burnout.html
+./lyrics/midland/electricrodeo.html

@@ -1,0 +1,8 @@
+./lyrics/mabel/bedroom.html
+./lyrics/mabel/finderskeepers.html
+./lyrics/mabel/rideordie.html
+./lyrics/mabel/talkaboutforever.html
+./lyrics/mabel/knowmebetter.html
+./lyrics/mabel/myboymytown.html
+./lyrics/mabel/thinkingofyou.html
+./lyrics/mabel/thinkingofyoucadenzaremix.html

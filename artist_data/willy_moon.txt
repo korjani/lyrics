@@ -1,0 +1,13 @@
+./lyrics/willymoon/getup.html
+./lyrics/willymoon/railroadtrack.html
+./lyrics/willymoon/yeahyeah.html
+./lyrics/willymoon/whatiwant.html
+./lyrics/willymoon/fire.html
+./lyrics/willymoon/iwannabeyourman.html
+./lyrics/willymoon/workingforthecompany.html
+./lyrics/willymoon/shakin.html
+./lyrics/willymoon/shelovesme.html
+./lyrics/willymoon/iputaspellonyou.html
+./lyrics/willymoon/mygirl.html
+./lyrics/willymoon/bangbang.html
+./lyrics/willymoon/ohnikkidarling.html

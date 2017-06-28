@@ -1,0 +1,16 @@
+./lyrics/mo-uk/goodfriends.html
+./lyrics/mo-uk/lovethemost.html
+./lyrics/mo-uk/youdontknowmelikethat.html
+./lyrics/mo-uk/nofoolishlove.html
+./lyrics/mo-uk/whodoyouthinkof.html
+./lyrics/mo-uk/toogood.html
+./lyrics/mo-uk/manenuff.html
+./lyrics/mo-uk/aintgottime.html
+./lyrics/mo-uk/comeletmeshowyou.html
+./lyrics/mo-uk/danceonmyown.html
+./lyrics/mo-uk/foraminute.html
+./lyrics/mo-uk/hot.html
+./lyrics/mo-uk/notinlove.html
+./lyrics/mo-uk/onya.html
+./lyrics/mo-uk/preach.html
+./lyrics/mo-uk/waityourturn.html

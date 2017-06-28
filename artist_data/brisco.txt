@@ -1,0 +1,10 @@
+./lyrics/brisco/bitchimme.html
+./lyrics/brisco/bloodmoney.html
+./lyrics/brisco/inthehood.html
+./lyrics/brisco/justknowdat.html
+./lyrics/brisco/onthewall.html
+./lyrics/brisco/opalockagoon.html
+./lyrics/brisco/revenge.html
+./lyrics/brisco/shitonme.html
+./lyrics/brisco/slidin.html
+./lyrics/brisco/you.html

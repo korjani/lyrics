@@ -1,0 +1,5 @@
+./lyrics/joeygraceffa/annasun.html
+./lyrics/joeygraceffa/collarfull.html
+./lyrics/joeygraceffa/dontwait.html
+./lyrics/joeygraceffa/silverlining.html
+./lyrics/joeygraceffa/thearena.html

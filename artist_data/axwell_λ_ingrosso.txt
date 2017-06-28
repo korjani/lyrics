@@ -1,0 +1,11 @@
+./lyrics/axwellingrosso/morethanyouknow.html
+./lyrics/axwellingrosso/renegade.html
+./lyrics/axwellingrosso/howdoyoufeelrightnow.html
+./lyrics/axwellingrosso/cantholdusdown.html
+./lyrics/axwellingrosso/dreambigger.html
+./lyrics/axwellingrosso/iloveyou.html
+./lyrics/axwellingrosso/onmyway.html
+./lyrics/axwellingrosso/somethingnew.html
+./lyrics/axwellingrosso/sunisshining.html
+./lyrics/axwellingrosso/thinkingaboutyou.html
+./lyrics/axwellingrosso/thistime.html

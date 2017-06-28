@@ -1,0 +1,15 @@
+./lyrics/mariehines/worththefight.html
+./lyrics/mariehines/wrappedupinlove.html
+./lyrics/mariehines/better.html
+./lyrics/mariehines/fireflies.html
+./lyrics/mariehines/lovestung.html
+./lyrics/mariehines/overyou.html
+./lyrics/mariehines/japaneseblossoms.html
+./lyrics/mariehines/thislove.html
+./lyrics/mariehines/metalbird.html
+./lyrics/mariehines/aftershock.html
+./lyrics/mariehines/tworowboats.html
+./lyrics/mariehines/alwaysbeenyou.html
+./lyrics/mariehines/holdon.html
+./lyrics/mariehines/mylovewillneverfailyou.html
+./lyrics/mariehines/perfectkiss.html

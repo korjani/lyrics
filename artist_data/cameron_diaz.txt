@@ -1,0 +1,2 @@
+./lyrics/camerondiaz/littlegirls.html
+./lyrics/camerondiaz/whoami.html

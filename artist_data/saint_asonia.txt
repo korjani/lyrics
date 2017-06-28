@@ -1,0 +1,14 @@
+./lyrics/saintasonia/betterplace.html
+./lyrics/saintasonia/blowmewideopen.html
+./lyrics/saintasonia/letmelivemylife.html
+./lyrics/saintasonia/eventhoughisay.html
+./lyrics/saintasonia/fairytale.html
+./lyrics/saintasonia/kingofnothing.html
+./lyrics/saintasonia/wastemytime.html
+./lyrics/saintasonia/dyingslowly.html
+./lyrics/saintasonia/tryingtocatchupwiththeworld.html
+./lyrics/saintasonia/happytragedy.html
+./lyrics/saintasonia/leavingminnesota.html
+./lyrics/saintasonia/notomorrow.html
+./lyrics/saintasonia/voiceinme.html
+./lyrics/saintasonia/idontcareanymore.html

@@ -1,0 +1,9 @@
+./lyrics/mcclainsisters/electronicapology.html
+./lyrics/mcclainsisters/feelinlikeodetoaaliyah.html
+./lyrics/mcclainsisters/go.html
+./lyrics/mcclainsisters/helovesme.html
+./lyrics/mcclainsisters/jinglebellrock.html
+./lyrics/mcclainsisters/perfectmistake.html
+./lyrics/mcclainsisters/rise.html
+./lyrics/mcclainsisters/sharpasarazor.html
+./lyrics/mcclainsisters/thegreatdivide.html

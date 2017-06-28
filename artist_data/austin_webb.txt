@@ -1,0 +1,4 @@
+./lyrics/austinwebb/allcountryonyou.html
+./lyrics/austinwebb/itsallgood.html
+./lyrics/austinwebb/raiseemup.html
+./lyrics/austinwebb/sliponby.html

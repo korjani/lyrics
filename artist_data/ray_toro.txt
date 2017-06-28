@@ -1,0 +1,11 @@
+./lyrics/raytoro/isntthatsomething.html
+./lyrics/raytoro/walkingincircles.html
+./lyrics/raytoro/wesave.html
+./lyrics/raytoro/thegreatbeyond.html
+./lyrics/raytoro/taketheworld.html
+./lyrics/raytoro/theluckyones.html
+./lyrics/raytoro/requiem.html
+./lyrics/raytoro/lookatyounow.html
+./lyrics/raytoro/hopefortheworld.html
+./lyrics/raytoro/rememberthelaughter.html
+./lyrics/raytoro/forthelostandbrave.html

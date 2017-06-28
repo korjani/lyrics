@@ -1,0 +1,2 @@
+./lyrics/rachelfarley/ainteasy.html
+./lyrics/rachelfarley/midnightroad.html

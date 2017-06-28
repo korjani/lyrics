@@ -1,0 +1,5 @@
+./lyrics/augustempire/theresarumor.html
+./lyrics/augustempire/theonlyone.html
+./lyrics/augustempire/hyperionstreet.html
+./lyrics/augustempire/somebodynew.html
+./lyrics/augustempire/lettinggo.html

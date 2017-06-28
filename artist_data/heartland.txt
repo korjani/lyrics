@@ -1,0 +1,14 @@
+./lyrics/heartland/boyslikeus.html
+./lyrics/heartland/playhurt.html
+./lyrics/heartland/you.html
+./lyrics/heartland/builttolast.html
+./lyrics/heartland/nogettingoverme.html
+./lyrics/heartland/letsgetdirty.html
+./lyrics/heartland/toocountry.html
+./lyrics/heartland/freebirdinafirebird.html
+./lyrics/heartland/ilovedherfirst.html
+./lyrics/heartland/mississippimud.html
+./lyrics/heartland/judgeamanbythewoman.html
+./lyrics/heartland/mustache.html
+./lyrics/heartland/onceawomangetsaholdofyourheart.html
+./lyrics/heartland/slowdown.html

@@ -1,0 +1,13 @@
+./lyrics/parmalee/mustahadagoodtime.html
+./lyrics/parmalee/daydrinkin.html
+./lyrics/parmalee/move.html
+./lyrics/parmalee/closeyoureyesforthis.html
+./lyrics/parmalee/dance.html
+./lyrics/parmalee/carolina.html
+./lyrics/parmalee/thinkyououghtaknowthat.html
+./lyrics/parmalee/backintheday.html
+./lyrics/parmalee/mymontgomery.html
+./lyrics/parmalee/alreadycallinyoumine.html
+./lyrics/parmalee/illbringthemusic.html
+./lyrics/parmalee/anotherdaygone.html
+./lyrics/parmalee/roots.html

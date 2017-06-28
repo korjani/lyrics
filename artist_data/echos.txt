@@ -1,0 +1,12 @@
+./lyrics/echos/take.html
+./lyrics/echos/sayit.html
+./lyrics/echos/haunt.html
+./lyrics/echos/stay.html
+./lyrics/echos/gold.html
+./lyrics/echos/leaveyourlover.html
+./lyrics/echos/fiction.html
+./lyrics/echos/alliwant.html
+./lyrics/echos/dontletmego.html
+./lyrics/echos/rainfall.html
+./lyrics/echos/silhouettes.html
+./lyrics/echos/tomorrow.html

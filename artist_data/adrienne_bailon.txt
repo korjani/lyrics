@@ -1,0 +1,14 @@
+./lyrics/adriennebailon/bigspender.html
+./lyrics/adriennebailon/chasethewind.html
+./lyrics/adriennebailon/dontgiveuponus.html
+./lyrics/adriennebailon/everlastinglove.html
+./lyrics/adriennebailon/likeavirgin.html
+./lyrics/adriennebailon/liveitup.html
+./lyrics/adriennebailon/loosenmeup.html
+./lyrics/adriennebailon/onlyyou.html
+./lyrics/adriennebailon/standup.html
+./lyrics/adriennebailon/superbad.html
+./lyrics/adriennebailon/takeyouhome.html
+./lyrics/adriennebailon/thishot.html
+./lyrics/adriennebailon/uncontrollable.html
+./lyrics/adriennebailon/whatif.html

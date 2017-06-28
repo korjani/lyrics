@@ -1,0 +1,12 @@
+./lyrics/svala/therealme.html
+./lyrics/svala/falling.html
+./lyrics/svala/lovemelovemenot.html
+./lyrics/svala/truelove.html
+./lyrics/svala/allaboutyou.html
+./lyrics/svala/wonderofmyworld.html
+./lyrics/svala/youtomeareeverything.html
+./lyrics/svala/closetoyou.html
+./lyrics/svala/counttofour.html
+./lyrics/svala/nevershouldhaveletyougo.html
+./lyrics/svala/layyourhands.html
+./lyrics/svala/paper.html

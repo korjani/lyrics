@@ -1,0 +1,7 @@
+./lyrics/billieeilish/bellyache.html
+./lyrics/billieeilish/bored.html
+./lyrics/billieeilish/oceaneyes.html
+./lyrics/billieeilish/oceaneyesastronomyyedit.html
+./lyrics/billieeilish/oceaneyesblackbearremix.html
+./lyrics/billieeilish/shesbroken.html
+./lyrics/billieeilish/sixfeetunder.html

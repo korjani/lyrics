@@ -1,0 +1,9 @@
+./lyrics/shiftk3y/noquestion.html
+./lyrics/shiftk3y/gonemissing.html
+./lyrics/shiftk3y/iknow.html
+./lyrics/shiftk3y/keepyamouthshutthingsthatwedo.html
+./lyrics/shiftk3y/laughingatyou.html
+./lyrics/shiftk3y/makeitgood.html
+./lyrics/shiftk3y/misbehave.html
+./lyrics/shiftk3y/namenumber.html
+./lyrics/shiftk3y/touch.html

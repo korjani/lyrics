@@ -1,0 +1,17 @@
+./lyrics/davematthews/dodo.html
+./lyrics/davematthews/sodamnlucky.html
+./lyrics/davematthews/gravedigger.html
+./lyrics/davematthews/somedevil.html
+./lyrics/davematthews/greyblueeyes.html
+./lyrics/davematthews/trouble.html
+./lyrics/davematthews/saveme.html
+./lyrics/davematthews/stayorleave.html
+./lyrics/davematthews/ananotherthing.html
+./lyrics/davematthews/oh.html
+./lyrics/davematthews/baby.html
+./lyrics/davematthews/upandaway.html
+./lyrics/davematthews/toohigh.html
+./lyrics/davematthews/aloneandforsaken.html
+./lyrics/davematthews/ehhee.html
+./lyrics/davematthews/hereonout.html
+./lyrics/davematthews/mercy.html

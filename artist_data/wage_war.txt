@@ -1,0 +1,14 @@
+./lyrics/wagewar/hollow.html
+./lyrics/wagewar/twentyone.html
+./lyrics/wagewar/alive.html
+./lyrics/wagewar/blueprints.html
+./lyrics/wagewar/youngblood.html
+./lyrics/wagewar/theriver.html
+./lyrics/wagewar/deadlocked.html
+./lyrics/wagewar/enemy.html
+./lyrics/wagewar/spineless.html
+./lyrics/wagewar/basichate.html
+./lyrics/wagewar/desperate.html
+./lyrics/wagewar/dontletmefadeaway.html
+./lyrics/wagewar/stitch.html
+./lyrics/wagewar/theaftermath.html

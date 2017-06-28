@@ -1,0 +1,13 @@
+./lyrics/twinforks/cantbebroken.html
+./lyrics/twinforks/crossmymind.html
+./lyrics/twinforks/backtoyou.html
+./lyrics/twinforks/kissmedarling.html
+./lyrics/twinforks/scrapingupthepieces.html
+./lyrics/twinforks/somethingwejustknow.html
+./lyrics/twinforks/danger.html
+./lyrics/twinforks/reasonedandroughened.html
+./lyrics/twinforks/plans.html
+./lyrics/twinforks/done.html
+./lyrics/twinforks/comeon.html
+./lyrics/twinforks/whoslookingout.html
+./lyrics/twinforks/hardtimes.html

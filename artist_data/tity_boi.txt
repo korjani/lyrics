@@ -1,0 +1,2 @@
+./lyrics/tityboi/boo.html
+./lyrics/tityboi/stunt.html

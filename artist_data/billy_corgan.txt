@@ -1,0 +1,12 @@
+./lyrics/billycorgan/allthingschange.html
+./lyrics/billycorgan/minaloymoh.html
+./lyrics/billycorgan/thecameraeye.html
+./lyrics/billycorgan/tolovesomebody.html
+./lyrics/billycorgan/a100.html
+./lyrics/billycorgan/dia.html
+./lyrics/billycorgan/nowandthen.html
+./lyrics/billycorgan/imready.html
+./lyrics/billycorgan/walkingshade.html
+./lyrics/billycorgan/sorrowsinblue.html
+./lyrics/billycorgan/prettyprettystar.html
+./lyrics/billycorgan/strayz.html

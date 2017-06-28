@@ -1,0 +1,5 @@
+./lyrics/ajmichalka/alliveeverneeded.html
+./lyrics/ajmichalka/desertsong.html
+./lyrics/ajmichalka/itswhoyouare.html
+./lyrics/ajmichalka/misunderstood.html
+./lyrics/ajmichalka/youneverletgo.html

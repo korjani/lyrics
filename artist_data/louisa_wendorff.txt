@@ -1,0 +1,11 @@
+./lyrics/louisawendorff/arrow.html
+./lyrics/louisawendorff/everylittlething.html
+./lyrics/louisawendorff/putmyfootdown.html
+./lyrics/louisawendorff/unglued.html
+./lyrics/louisawendorff/anddance.html
+./lyrics/louisawendorff/byyourside.html
+./lyrics/louisawendorff/blankspacestyle.html
+./lyrics/louisawendorff/goodbyebelieve.html
+./lyrics/louisawendorff/letyouloveme.html
+./lyrics/louisawendorff/newnormal.html
+./lyrics/louisawendorff/riptideskinnylovehohey.html

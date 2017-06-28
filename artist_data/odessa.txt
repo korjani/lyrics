@@ -1,0 +1,10 @@
+./lyrics/odessa/iwillbethere.html
+./lyrics/odessa/mymatch.html
+./lyrics/odessa/hummedlow.html
+./lyrics/odessa/gatherround.html
+./lyrics/odessa/blackbutterfly.html
+./lyrics/odessa/lovealone.html
+./lyrics/odessa/forgranted.html
+./lyrics/odessa/grow.html
+./lyrics/odessa/pictureofawoman.html
+./lyrics/odessa/shallowheart.html

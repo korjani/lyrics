@@ -1,0 +1,34 @@
+(MAN [X5])
+(WOMAN [X4])
+Imagine how it would be
+To be at the top
+Making cash money
+Go and tour all
+around the world
+Tell stories about
+all the young girls
+
+Imagine how it would be
+To be at the top
+Making cash money
+
+Girls
+
+(WOMAN [X2])
+Travel fast
+Have a blast
+Travel fast
+Make it last
+Girls, Girls Round the world!
+
+(WOMAN [X3])
+Imagine how it would be
+To be at the top
+Making cash money
+Go and tour all
+around the world
+Tell stories about
+all the young girls
+
+(WOMAN [X12])
+about Girls

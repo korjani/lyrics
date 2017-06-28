@@ -1,0 +1,8 @@
+./lyrics/leon/treasure.html
+./lyrics/leon/tiredoftalking.html
+./lyrics/leon/nobodycares.html
+./lyrics/leon/lonslullaby.html
+./lyrics/leon/foryou.html
+./lyrics/leon/sleepdeprived.html
+./lyrics/leon/liar.html
+./lyrics/leon/thinkaboutyou.html

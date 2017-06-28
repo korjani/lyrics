@@ -1,0 +1,13 @@
+./lyrics/leonjackson/dontcallthislove.html
+./lyrics/leonjackson/creative.html
+./lyrics/leonjackson/stargazing.html
+./lyrics/leonjackson/allingoodtime.html
+./lyrics/leonjackson/rightnow.html
+./lyrics/leonjackson/youdontknowme.html
+./lyrics/leonjackson/ordinarydays.html
+./lyrics/leonjackson/asongforyou.html
+./lyrics/leonjackson/fingerprints.html
+./lyrics/leonjackson/coulddobetter.html
+./lyrics/leonjackson/mistyblue.html
+./lyrics/leonjackson/caledonia.html
+./lyrics/leonjackson/whenyoubelieve.html

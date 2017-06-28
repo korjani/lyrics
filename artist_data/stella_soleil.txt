@@ -1,0 +1,12 @@
+./lyrics/stellasoleil/kisskiss.html
+./lyrics/stellasoleil/prettyyoungthing.html
+./lyrics/stellasoleil/you.html
+./lyrics/stellasoleil/imperfect.html
+./lyrics/stellasoleil/runawaycrush.html
+./lyrics/stellasoleil/standup.html
+./lyrics/stellasoleil/loveyoutodeath.html
+./lyrics/stellasoleil/angelface.html
+./lyrics/stellasoleil/twilight.html
+./lyrics/stellasoleil/lookmyway.html
+./lyrics/stellasoleil/letsjustgotobed.html
+./lyrics/stellasoleil/dancewithme.html

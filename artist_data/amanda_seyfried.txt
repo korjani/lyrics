@@ -1,0 +1,4 @@
+./lyrics/amandaseyfried/lilredridinghood.html
+./lyrics/amandaseyfried/littlehouse.html
+./lyrics/amandaseyfried/meanolmoon.html
+./lyrics/amandaseyfried/thenameofthegame.html

@@ -1,0 +1,8 @@
+./lyrics/lastinline/devilinme.html
+./lyrics/lastinline/martyr.html
+./lyrics/lastinline/starmaker.html
+./lyrics/lastinline/burnthishousedown.html
+./lyrics/lastinline/iamrevolution.html
+./lyrics/lastinline/blameitonme.html
+./lyrics/lastinline/heavycrown.html
+./lyrics/lastinline/thesickness.html

@@ -1,0 +1,3 @@
+./lyrics/tyrabanks/beastar.html
+./lyrics/tyrabanks/kobe.html
+./lyrics/tyrabanks/shakeyabody.html

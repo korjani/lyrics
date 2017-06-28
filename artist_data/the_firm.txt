@@ -1,0 +1,16 @@
+./lyrics/firm/intro.html
+./lyrics/firm/firmfiasco.html
+./lyrics/firm/phonetapintro.html
+./lyrics/firm/phonetap.html
+./lyrics/firm/executivedecisions.html
+./lyrics/firm/firmfamily.html
+./lyrics/firm/firmallstars.html
+./lyrics/firm/fucksomebodyelse.html
+./lyrics/firm/hardcore.html
+./lyrics/firm/untouchable.html
+./lyrics/firm/fiveminutestoflush.html
+./lyrics/firm/desparados.html
+./lyrics/firm/firmbiz.html
+./lyrics/firm/imleaving.html
+./lyrics/firm/throwyourguns.html
+./lyrics/firm/firmfreestyle.html

@@ -1,0 +1,12 @@
+./lyrics/melissaoneil/letitgo.html
+./lyrics/melissaoneil/stringmealong.html
+./lyrics/melissaoneil/alive.html
+./lyrics/melissaoneil/kissgoodnight.html
+./lyrics/melissaoneil/justlikejanuary.html
+./lyrics/melissaoneil/forgetaboutit.html
+./lyrics/melissaoneil/drivingblind.html
+./lyrics/melissaoneil/speechless.html
+./lyrics/melissaoneil/outsidelookingin.html
+./lyrics/melissaoneil/originalgirl.html
+./lyrics/melissaoneil/iwonttakeyouback.html
+./lyrics/melissaoneil/safeplacetohide.html

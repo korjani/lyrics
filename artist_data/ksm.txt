@@ -1,0 +1,15 @@
+./lyrics/ksm/dontrainonmyparade.html
+./lyrics/ksm/crazyoveryou.html
+./lyrics/ksm/readbetweenthelines.html
+./lyrics/ksm/everytimeyougo.html
+./lyrics/ksm/saturdaysandsundays.html
+./lyrics/ksm/permissiontoparty.html
+./lyrics/ksm/distracted.html
+./lyrics/ksm/unpredictable.html
+./lyrics/ksm/dontcomecryingtome.html
+./lyrics/ksm/bestfriendsforever.html
+./lyrics/ksm/slowmotion.html
+./lyrics/ksm/2guitarsbassandadrum.html
+./lyrics/ksm/iwantyoutowantme.html
+./lyrics/ksm/goodenough.html
+./lyrics/ksm/magiccarpetride.html

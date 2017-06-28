@@ -1,0 +1,4 @@
+./lyrics/clooney/sorry.html
+./lyrics/clooney/takemeaway.html
+./lyrics/clooney/whambam.html
+./lyrics/clooney/whatgirlslikeaboutboys.html

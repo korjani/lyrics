@@ -1,0 +1,11 @@
+./lyrics/pointbreak/standtough.html
+./lyrics/pointbreak/dowerock.html
+./lyrics/pointbreak/freakytime.html
+./lyrics/pointbreak/thegame.html
+./lyrics/pointbreak/sayyeah.html
+./lyrics/pointbreak/tagtheparty.html
+./lyrics/pointbreak/giveitup.html
+./lyrics/pointbreak/apocadelic.html
+./lyrics/pointbreak/whataboutus.html
+./lyrics/pointbreak/babyidontcare.html
+./lyrics/pointbreak/you.html

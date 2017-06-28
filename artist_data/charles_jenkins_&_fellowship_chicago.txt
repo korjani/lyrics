@@ -1,0 +1,12 @@
+./lyrics/charlesjenkinsfellowshipchicago/fellowshipmedley.html
+./lyrics/charlesjenkinsfellowshipchicago/worthyisyourname.html
+./lyrics/charlesjenkinsfellowshipchicago/joywill.html
+./lyrics/charlesjenkinsfellowshipchicago/awesome.html
+./lyrics/charlesjenkinsfellowshipchicago/closetoyou.html
+./lyrics/charlesjenkinsfellowshipchicago/daysofelijah.html
+./lyrics/charlesjenkinsfellowshipchicago/graceandmercy.html
+./lyrics/charlesjenkinsfellowshipchicago/iwilllive.html
+./lyrics/charlesjenkinsfellowshipchicago/praiseonmymind.html
+./lyrics/charlesjenkinsfellowshipchicago/releasingmyfaithreprise.html
+./lyrics/charlesjenkinsfellowshipchicago/war.html
+./lyrics/charlesjenkinsfellowshipchicago/awesomeremix.html

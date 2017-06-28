@@ -1,0 +1,11 @@
+./lyrics/hockey/toofake.html
+./lyrics/hockey/3amspanish.html
+./lyrics/hockey/learntolose.html
+./lyrics/hockey/work.html
+./lyrics/hockey/songaway.html
+./lyrics/hockey/cursethiscity.html
+./lyrics/hockey/wannabeblack.html
+./lyrics/hockey/fourholyphotos.html
+./lyrics/hockey/preacher.html
+./lyrics/hockey/putthegamedown.html
+./lyrics/hockey/everyonesthesameage.html

@@ -1,0 +1,12 @@
+./lyrics/androids/heyyou.html
+./lyrics/androids/cynical.html
+./lyrics/androids/brandnewlife.html
+./lyrics/androids/hereshecomes.html
+./lyrics/androids/doitwithmadonna.html
+./lyrics/androids/shesanalien.html
+./lyrics/androids/bored.html
+./lyrics/androids/wannabe.html
+./lyrics/androids/letmedown.html
+./lyrics/androids/takeittoofar.html
+./lyrics/androids/pullmeapart.html
+./lyrics/androids/automatic.html

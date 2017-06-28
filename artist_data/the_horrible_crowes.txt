@@ -1,0 +1,12 @@
+./lyrics/horriblecrowes/lastrites.html
+./lyrics/horriblecrowes/sugar.html
+./lyrics/horriblecrowes/beholdthehurricane.html
+./lyrics/horriblecrowes/iwitnessedacrime.html
+./lyrics/horriblecrowes/gotelleverybody.html
+./lyrics/horriblecrowes/cherryblossoms.html
+./lyrics/horriblecrowes/ladykiller.html
+./lyrics/horriblecrowes/crush.html
+./lyrics/horriblecrowes/maryann.html
+./lyrics/horriblecrowes/blackbettythemoon.html
+./lyrics/horriblecrowes/bloodloss.html
+./lyrics/horriblecrowes/ibelievejesusbroughtustogether.html

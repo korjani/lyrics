@@ -1,0 +1,14 @@
+./lyrics/lisamaffia/swissintro.html
+./lyrics/lisamaffia/allover.html
+./lyrics/lisamaffia/womanoftheworld.html
+./lyrics/lisamaffia/down.html
+./lyrics/lisamaffia/wrongguys.html
+./lyrics/lisamaffia/sosolidparty.html
+./lyrics/lisamaffia/jdinterlude.html
+./lyrics/lisamaffia/inlove.html
+./lyrics/lisamaffia/life.html
+./lyrics/lisamaffia/citylife.html
+./lyrics/lisamaffia/superfreak.html
+./lyrics/lisamaffia/alwaysbeyourangel.html
+./lyrics/lisamaffia/outofmylife.html
+./lyrics/lisamaffia/outroslowdownzone.html

@@ -1,0 +1,5 @@
+./lyrics/ifani/ayadelela.html
+./lyrics/ifani/ewe.html
+./lyrics/ifani/ingomaezimnandi.html
+./lyrics/ifani/milli.html
+./lyrics/ifani/stay.html

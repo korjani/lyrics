@@ -1,0 +1,9 @@
+./lyrics/loveablerogues/sweetlovin.html
+./lyrics/loveablerogues/talkingmonkeys.html
+./lyrics/loveablerogues/whatanight.html
+./lyrics/loveablerogues/honest.html
+./lyrics/loveablerogues/lovesick.html
+./lyrics/loveablerogues/everythingsbetterwithyou.html
+./lyrics/loveablerogues/thisandthat.html
+./lyrics/loveablerogues/mrpianoman.html
+./lyrics/loveablerogues/goinghomesong.html

@@ -1,0 +1,2 @@
+./lyrics/akia/california.html
+./lyrics/akia/istillmissyou.html

@@ -1,0 +1,7 @@
+./lyrics/richchigga/backatit.html
+./lyrics/richchigga/dattick.html
+./lyrics/richchigga/dattickremix.html
+./lyrics/richchigga/gospel.html
+./lyrics/richchigga/livingthedream.html
+./lyrics/richchigga/seventeen.html
+./lyrics/richchigga/whothatb.html

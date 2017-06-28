@@ -1,0 +1,3 @@
+./lyrics/mishab/doyouthinkofme.html
+./lyrics/mishab/herestoeverythingoohlala.html
+./lyrics/mishab/homerun.html

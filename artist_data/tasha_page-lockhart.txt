@@ -1,0 +1,5 @@
+./lyrics/tashapagelockhart/hererightnow.html
+./lyrics/tashapagelockhart/fragile.html
+./lyrics/tashapagelockhart/welcome.html
+./lyrics/tashapagelockhart/different.html
+./lyrics/tashapagelockhart/faithcomealive.html

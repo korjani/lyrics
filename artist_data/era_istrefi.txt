@@ -1,0 +1,5 @@
+./lyrics/eraistrefi/bonbon.html
+./lyrics/eraistrefi/bonbonenglishversion.html
+./lyrics/eraistrefi/edehun.html
+./lyrics/eraistrefi/njositi.html
+./lyrics/eraistrefi/redrum.html

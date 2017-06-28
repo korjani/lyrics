@@ -1,0 +1,2 @@
+./lyrics/dfdub/countrygirl.html
+./lyrics/dfdub/drinkyouaway.html

@@ -1,0 +1,7 @@
+./lyrics/chordoverstreet/torturedsoul.html
+./lyrics/chordoverstreet/wreckme.html
+./lyrics/chordoverstreet/screwparis.html
+./lyrics/chordoverstreet/takemehome.html
+./lyrics/chordoverstreet/holdon.html
+./lyrics/chordoverstreet/holdonacoustic.html
+./lyrics/chordoverstreet/homeland.html

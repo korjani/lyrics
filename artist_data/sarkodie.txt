@@ -1,0 +1,9 @@
+./lyrics/sarkodie/illuminati.html
+./lyrics/sarkodie/original.html
+./lyrics/sarkodie/lies.html
+./lyrics/sarkodie/devilinme.html
+./lyrics/sarkodie/africarising.html
+./lyrics/sarkodie/cometome.html
+./lyrics/sarkodie/illuminatiremix.html
+./lyrics/sarkodie/newguy.html
+./lyrics/sarkodie/ugokillme.html

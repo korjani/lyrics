@@ -1,0 +1,2 @@
+./lyrics/murrayhead/onenightinbangkok.html
+./lyrics/murrayhead/superstar.html

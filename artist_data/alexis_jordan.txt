@@ -1,0 +1,12 @@
+./lyrics/alexisjordan/happiness.html
+./lyrics/alexisjordan/goodgirl.html
+./lyrics/alexisjordan/howyoulikemenow.html
+./lyrics/alexisjordan/saythat.html
+./lyrics/alexisjordan/lovemist.html
+./lyrics/alexisjordan/habit.html
+./lyrics/alexisjordan/hushhush.html
+./lyrics/alexisjordan/highroad.html
+./lyrics/alexisjordan/shoutshout.html
+./lyrics/alexisjordan/layingaround.html
+./lyrics/alexisjordan/theairthatibreathe.html
+./lyrics/alexisjordan/acidrain.html

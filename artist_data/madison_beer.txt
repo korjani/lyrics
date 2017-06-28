@@ -1,0 +1,7 @@
+./lyrics/madisonbeer/allforlove.html
+./lyrics/madisonbeer/dead.html
+./lyrics/madisonbeer/melodies.html
+./lyrics/madisonbeer/somethingsweet.html
+./lyrics/madisonbeer/unbreakable.html
+./lyrics/madisonbeer/valentine.html
+./lyrics/madisonbeer/wearemonsterhigh.html

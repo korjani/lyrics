@@ -1,0 +1,5 @@
+./lyrics/ageofinformation/knowledge.html
+./lyrics/ageofinformation/outside.html
+./lyrics/ageofinformation/tellhersomething.html
+./lyrics/ageofinformation/breakyourheart.html
+./lyrics/ageofinformation/fallingoutoflove.html

@@ -1,0 +1,3 @@
+./lyrics/taylorgirlz/bougie.html
+./lyrics/taylorgirlz/stealherman.html
+./lyrics/taylorgirlz/wedgie.html

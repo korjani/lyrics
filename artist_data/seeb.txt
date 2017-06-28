@@ -1,0 +1,5 @@
+./lyrics/seeb/boysinthestreet.html
+./lyrics/seeb/breathe.html
+./lyrics/seeb/itookapillinibizaremix.html
+./lyrics/seeb/underyourskin.html
+./lyrics/seeb/whatdoyoulove.html

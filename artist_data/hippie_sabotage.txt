@@ -1,0 +1,3 @@
+./lyrics/hippiesabotage/devileyes.html
+./lyrics/hippiesabotage/stayhightoveloflip.html
+./lyrics/hippiesabotage/yoursoul.html

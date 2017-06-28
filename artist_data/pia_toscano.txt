@@ -1,0 +1,9 @@
+./lyrics/piatoscano/belong.html
+./lyrics/piatoscano/pyro.html
+./lyrics/piatoscano/liarliar.html
+./lyrics/piatoscano/youllbeking.html
+./lyrics/piatoscano/gomissing.html
+./lyrics/piatoscano/riverdeepmountainhigh.html
+./lyrics/piatoscano/sayyouwontletgo.html
+./lyrics/piatoscano/thistime.html
+./lyrics/piatoscano/wheredobrokenheartsgo.html

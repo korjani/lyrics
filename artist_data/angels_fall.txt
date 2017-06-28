@@ -1,0 +1,9 @@
+./lyrics/angelsfall/angel.html
+./lyrics/angelsfall/callonme.html
+./lyrics/angelsfall/closure.html
+./lyrics/angelsfall/evaporate.html
+./lyrics/angelsfall/drunkenough.html
+./lyrics/angelsfall/goodbyetoyou.html
+./lyrics/angelsfall/somethingnew.html
+./lyrics/angelsfall/unsaid.html
+./lyrics/angelsfall/yesterdaysgone.html

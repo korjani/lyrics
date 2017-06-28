@@ -1,0 +1,8 @@
+./lyrics/gracevanderwaal/idontknowmyname.html
+./lyrics/gracevanderwaal/clay.html
+./lyrics/gracevanderwaal/lightthesky.html
+./lyrics/gracevanderwaal/beautifulthing.html
+./lyrics/gracevanderwaal/gossipgirl.html
+./lyrics/gracevanderwaal/12stars.html
+./lyrics/gracevanderwaal/missyou.html
+./lyrics/gracevanderwaal/thegoodjustgetsbetter.html

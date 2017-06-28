@@ -1,0 +1,6 @@
+./lyrics/svrcina/loverfighter.html
+./lyrics/svrcina/battlefield.html
+./lyrics/svrcina/burningheart.html
+./lyrics/svrcina/nomatterwhattheysay.html
+./lyrics/svrcina/deeper.html
+./lyrics/svrcina/island.html

@@ -1,0 +1,14 @@
+./lyrics/network/joerobot.html
+./lyrics/network/transistorsgonewild.html
+./lyrics/network/reto.html
+./lyrics/network/supermodelrobots.html
+./lyrics/network/moneymoney2020.html
+./lyrics/network/spike.html
+./lyrics/network/loveandmoney.html
+./lyrics/network/righthandarama.html
+./lyrics/network/roshambo.html
+./lyrics/network/hungryhungry.html
+./lyrics/network/spasticsociety.html
+./lyrics/network/xrayhamburger.html
+./lyrics/network/teenagersfrommars.html
+./lyrics/network/hammerofthegods.html

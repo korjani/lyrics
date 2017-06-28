@@ -1,0 +1,10 @@
+./lyrics/johnnyorlando/youi.html
+./lyrics/johnnyorlando/rightbyyourside.html
+./lyrics/johnnyorlando/seetheworld.html
+./lyrics/johnnyorlando/vxiixi.html
+./lyrics/johnnyorlando/daynight.html
+./lyrics/johnnyorlando/fancy.html
+./lyrics/johnnyorlando/letgo.html
+./lyrics/johnnyorlando/missingyou.html
+./lyrics/johnnyorlando/replay.html
+./lyrics/johnnyorlando/stitches.html

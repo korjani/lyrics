@@ -1,0 +1,3 @@
+./lyrics/icejjfish/whattimeitis.html
+./lyrics/icejjfish/samepage.html
+./lyrics/icejjfish/onthefloor.html

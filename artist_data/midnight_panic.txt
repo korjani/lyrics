@@ -1,0 +1,9 @@
+./lyrics/midnightpanic/tonightisourlastnight.html
+./lyrics/midnightpanic/youdonthavetobeafraid.html
+./lyrics/midnightpanic/givemeonechance.html
+./lyrics/midnightpanic/iwanttoknow.html
+./lyrics/midnightpanic/celebrate.html
+./lyrics/midnightpanic/bringmebacktolife.html
+./lyrics/midnightpanic/missyou.html
+./lyrics/midnightpanic/notlookingback.html
+./lyrics/midnightpanic/noonehereissafe.html

@@ -1,0 +1,16 @@
+./lyrics/gavinjames/foryou.html
+./lyrics/gavinjames/nervous.html
+./lyrics/gavinjames/rememberme.html
+./lyrics/gavinjames/bitterpill.html
+./lyrics/gavinjames/cominghome.html
+./lyrics/gavinjames/idontknowwhy.html
+./lyrics/gavinjames/22.html
+./lyrics/gavinjames/ghost.html
+./lyrics/gavinjames/holeinmyheart.html
+./lyrics/gavinjames/sayhello.html
+./lyrics/gavinjames/twohearts.html
+./lyrics/gavinjames/tillthesuncomesup.html
+./lyrics/gavinjames/thebookoflove.html
+./lyrics/gavinjames/cityofstars.html
+./lyrics/gavinjames/greatescape.html
+./lyrics/gavinjames/thebookoflovelivefromthecapitoltower.html

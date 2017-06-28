@@ -1,0 +1,12 @@
+./lyrics/danaglover/rain.html
+./lyrics/danaglover/thinkingover.html
+./lyrics/danaglover/almosthaditall.html
+./lyrics/danaglover/cherish.html
+./lyrics/danaglover/areason.html
+./lyrics/danaglover/maybe.html
+./lyrics/danaglover/makeitreal.html
+./lyrics/danaglover/riveroflove.html
+./lyrics/danaglover/fallingintolove.html
+./lyrics/danaglover/thewayradiosong.html
+./lyrics/danaglover/testimony.html
+./lyrics/danaglover/itisyouihaveloved.html

@@ -1,0 +1,14 @@
+./lyrics/joeweller/90skid.html
+./lyrics/joeweller/farfromyou.html
+./lyrics/joeweller/fireinthecarpark.html
+./lyrics/joeweller/kitty.html
+./lyrics/joeweller/likebeckham.html
+./lyrics/joeweller/mcmoyes.html
+./lyrics/joeweller/mesutzilarsenalsong.html
+./lyrics/joeweller/mission.html
+./lyrics/joeweller/ronaldochop.html
+./lyrics/joeweller/surezbite.html
+./lyrics/joeweller/thetankromelulukaku.html
+./lyrics/joeweller/wannado.html
+./lyrics/joeweller/withmyload.html
+./lyrics/joeweller/worldcupsongbrasil2014.html

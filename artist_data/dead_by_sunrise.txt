@@ -1,0 +1,15 @@
+./lyrics/deadbysunrise/fire.html
+./lyrics/deadbysunrise/crawlbackin.html
+./lyrics/deadbysunrise/toolate.html
+./lyrics/deadbysunrise/insideofme.html
+./lyrics/deadbysunrise/letdown.html
+./lyrics/deadbysunrise/givemeyourname.html
+./lyrics/deadbysunrise/mysuffering.html
+./lyrics/deadbysunrise/condemned.html
+./lyrics/deadbysunrise/intoyou.html
+./lyrics/deadbysunrise/endoftheworld.html
+./lyrics/deadbysunrise/walkingincircles.html
+./lyrics/deadbysunrise/inthedarkness.html
+./lyrics/deadbysunrise/morningafter.html
+./lyrics/deadbysunrise/crawlbackinlive.html
+./lyrics/deadbysunrise/hardlybreathe.html

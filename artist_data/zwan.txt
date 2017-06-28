@@ -1,0 +1,14 @@
+./lyrics/zwan/lyric.html
+./lyrics/zwan/settledown.html
+./lyrics/zwan/declarationoffaith.html
+./lyrics/zwan/honestly.html
+./lyrics/zwan/elsol.html
+./lyrics/zwan/ofabrokenheart.html
+./lyrics/zwan/rideablackswan.html
+./lyrics/zwan/heartsong.html
+./lyrics/zwan/endlesssummer.html
+./lyrics/zwan/babyletsrock.html
+./lyrics/zwan/yeah.html
+./lyrics/zwan/desire.html
+./lyrics/zwan/jesusimarystarofthesea.html
+./lyrics/zwan/comewithme.html

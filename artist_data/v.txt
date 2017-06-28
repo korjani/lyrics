@@ -1,0 +1,12 @@
+./lyrics/v/bloodsweattears.html
+./lyrics/v/holdme.html
+./lyrics/v/youstoodup.html
+./lyrics/v/walkon.html
+./lyrics/v/stopthetears.html
+./lyrics/v/hiptohip.html
+./lyrics/v/canyoufeelit.html
+./lyrics/v/chillsintheevening.html
+./lyrics/v/breakaway.html
+./lyrics/v/fools.html
+./lyrics/v/earthwindfire.html
+./lyrics/v/firsttime.html

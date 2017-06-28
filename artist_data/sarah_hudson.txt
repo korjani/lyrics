@@ -1,0 +1,13 @@
+./lyrics/sarahhudson/nakedtruth.html
+./lyrics/sarahhudson/girlontheverge.html
+./lyrics/sarahhudson/strange.html
+./lyrics/sarahhudson/iknow.html
+./lyrics/sarahhudson/little.html
+./lyrics/sarahhudson/unloveyou.html
+./lyrics/sarahhudson/gandhi.html
+./lyrics/sarahhudson/callitmylife.html
+./lyrics/sarahhudson/sentimentalsaturday.html
+./lyrics/sarahhudson/fakerain.html
+./lyrics/sarahhudson/badhabit.html
+./lyrics/sarahhudson/voices.html
+./lyrics/sarahhudson/gypsygirlacappella.html

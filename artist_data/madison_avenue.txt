@@ -1,0 +1,7 @@
+./lyrics/madisonavenue/whothehellareyou.html
+./lyrics/madisonavenue/dontcallmebaby.html
+./lyrics/madisonavenue/doyoulikewhatyousee.html
+./lyrics/madisonavenue/everythingyouneed.html
+./lyrics/madisonavenue/she.html
+./lyrics/madisonavenue/itsalright.html
+./lyrics/madisonavenue/fly.html

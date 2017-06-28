@@ -1,0 +1,12 @@
+./lyrics/maria/lonely.html
+./lyrics/maria/igiveyoutake.html
+./lyrics/maria/mysoul.html
+./lyrics/maria/nowadays.html
+./lyrics/maria/coffeeinbed.html
+./lyrics/maria/youmeandshe.html
+./lyrics/maria/intoxicated.html
+./lyrics/maria/weakness.html
+./lyrics/maria/always.html
+./lyrics/maria/simplified.html
+./lyrics/maria/hatetoloveyou.html
+./lyrics/maria/missyou.html

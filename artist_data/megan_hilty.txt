@@ -1,0 +1,10 @@
+./lyrics/meganhilty/ithappensallthetime.html
+./lyrics/meganhilty/beaman.html
+./lyrics/meganhilty/nocure.html
+./lyrics/meganhilty/walkaway.html
+./lyrics/meganhilty/safeandsound.html
+./lyrics/meganhilty/theblowersdaughter.html
+./lyrics/meganhilty/hopin.html
+./lyrics/meganhilty/wiseup.html
+./lyrics/meganhilty/theheartofthematter.html
+./lyrics/meganhilty/dareyoutomove.html

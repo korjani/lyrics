@@ -1,0 +1,2 @@
+./lyrics/shekhinah/backtothebeach.html
+./lyrics/shekhinah/letyouknow.html

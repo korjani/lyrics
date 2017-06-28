@@ -1,0 +1,3 @@
+./lyrics/ayoteo/inreverse.html
+./lyrics/ayoteo/litrightnow.html
+./lyrics/ayoteo/rolex.html

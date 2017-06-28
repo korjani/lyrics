@@ -1,0 +1,12 @@
+./lyrics/inthevalleybelow/peaches.html
+./lyrics/inthevalleybelow/neverminders.html
+./lyrics/inthevalleybelow/lastsoul.html
+./lyrics/inthevalleybelow/hymnal.html
+./lyrics/inthevalleybelow/standup.html
+./lyrics/inthevalleybelow/doveseason.html
+./lyrics/inthevalleybelow/takemeback.html
+./lyrics/inthevalleybelow/lover.html
+./lyrics/inthevalleybelow/searchingforadevil.html
+./lyrics/inthevalleybelow/medicinepocket.html
+./lyrics/inthevalleybelow/kingtide.html
+./lyrics/inthevalleybelow/palmtreefire.html

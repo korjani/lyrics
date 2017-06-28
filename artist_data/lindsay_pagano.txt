@@ -1,0 +1,11 @@
+./lyrics/lindsaypagano/everythingur.html
+./lyrics/lindsaypagano/lovefaithinspiration.html
+./lyrics/lindsaypagano/cryinshame.html
+./lyrics/lindsaypagano/romeo.html
+./lyrics/lindsaypagano/dreamslikethis.html
+./lyrics/lindsaypagano/amazinghigh.html
+./lyrics/lindsaypagano/itdoesntgetanybetter.html
+./lyrics/lindsaypagano/burninginme.html
+./lyrics/lindsaypagano/1withabullet.html
+./lyrics/lindsaypagano/sobad.html
+./lyrics/lindsaypagano/igottastop.html

@@ -1,0 +1,2 @@
+./lyrics/soyou/imissyou.html
+./lyrics/soyou/perfect.html

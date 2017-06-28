@@ -1,0 +1,8 @@
+./lyrics/liltweety/confessingafeeling.html
+./lyrics/liltweety/illbemissingyou.html
+./lyrics/liltweety/imsorry.html
+./lyrics/liltweety/memories.html
+./lyrics/liltweety/setyoufree.html
+./lyrics/liltweety/somebodylikeyou.html
+./lyrics/liltweety/teenagelove.html
+./lyrics/liltweety/youandme.html

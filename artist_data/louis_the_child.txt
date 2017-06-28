@@ -1,0 +1,9 @@
+./lyrics/louis-the-child/go.html
+./lyrics/louis-the-child/fire.html
+./lyrics/louis-the-child/slowdownlove.html
+./lyrics/louis-the-child/phonedied.html
+./lyrics/louis-the-child/worldonfire.html
+./lyrics/louis-the-child/loveisalive.html
+./lyrics/louis-the-child/fromhere.html
+./lyrics/louis-the-child/itsstrange.html
+./lyrics/louis-the-child/weekend.html

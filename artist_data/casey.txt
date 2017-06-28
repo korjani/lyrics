@@ -1,0 +1,15 @@
+./lyrics/casey/teeth.html
+./lyrics/casey/fade.html
+./lyrics/casey/bloom.html
+./lyrics/casey/littlebird.html
+./lyrics/casey/darling.html
+./lyrics/casey/sleep.html
+./lyrics/casey/happy.html
+./lyrics/casey/haze.html
+./lyrics/casey/passionflowers.html
+./lyrics/casey/ceremony.html
+./lyrics/casey/cavities.html
+./lyrics/casey/doubt.html
+./lyrics/casey/mourning.html
+./lyrics/casey/ghost.html
+./lyrics/casey/hell.html

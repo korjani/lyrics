@@ -1,0 +1,13 @@
+./lyrics/instereo/goodenough.html
+./lyrics/instereo/messedupweekend.html
+./lyrics/instereo/goodtimes.html
+./lyrics/instereo/shesrocknroll.html
+./lyrics/instereo/honest.html
+./lyrics/instereo/thespeedofsound.html
+./lyrics/instereo/thespeedofsoundremix.html
+./lyrics/instereo/2am.html
+./lyrics/instereo/perfect10.html
+./lyrics/instereo/mydlm.html
+./lyrics/instereo/deardiary.html
+./lyrics/instereo/lois.html
+./lyrics/instereo/girlfriend.html

@@ -1,0 +1,12 @@
+./lyrics/sevenwiser/life.html
+./lyrics/sevenwiser/weresad.html
+./lyrics/sevenwiser/takemeasiam.html
+./lyrics/sevenwiser/selfesteem.html
+./lyrics/sevenwiser/regret.html
+./lyrics/sevenwiser/goodasyouthink.html
+./lyrics/sevenwiser/lies.html
+./lyrics/sevenwiser/sick.html
+./lyrics/sevenwiser/lovetohate.html
+./lyrics/sevenwiser/losinggrip.html
+./lyrics/sevenwiser/oneinequal.html
+./lyrics/sevenwiser/talktome.html

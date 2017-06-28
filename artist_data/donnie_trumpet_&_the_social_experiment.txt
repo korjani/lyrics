@@ -1,0 +1,15 @@
+./lyrics/donnietrumpetthesocialexperiment/miracle.html
+./lyrics/donnietrumpetthesocialexperiment/slipslide.html
+./lyrics/donnietrumpetthesocialexperiment/warmenough.html
+./lyrics/donnietrumpetthesocialexperiment/wannabecool.html
+./lyrics/donnietrumpetthesocialexperiment/windows.html
+./lyrics/donnietrumpetthesocialexperiment/caretaker.html
+./lyrics/donnietrumpetthesocialexperiment/justwait.html
+./lyrics/donnietrumpetthesocialexperiment/familiar.html
+./lyrics/donnietrumpetthesocialexperiment/smthnthtiwnt.html
+./lyrics/donnietrumpetthesocialexperiment/go.html
+./lyrics/donnietrumpetthesocialexperiment/questions.html
+./lyrics/donnietrumpetthesocialexperiment/rememory.html
+./lyrics/donnietrumpetthesocialexperiment/sundaycandy.html
+./lyrics/donnietrumpetthesocialexperiment/passthevibes.html
+./lyrics/donnietrumpetthesocialexperiment/thefirsttime.html

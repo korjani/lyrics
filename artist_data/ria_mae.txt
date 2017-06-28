@@ -1,0 +1,9 @@
+./lyrics/riamae/whereverwego.html
+./lyrics/riamae/clothesoff.html
+./lyrics/riamae/oohlove.html
+./lyrics/riamae/ifyoudontloveme.html
+./lyrics/riamae/thoughtsonfire.html
+./lyrics/riamae/leavingtoday.html
+./lyrics/riamae/girlfriend.html
+./lyrics/riamae/crazy.html
+./lyrics/riamae/gold.html

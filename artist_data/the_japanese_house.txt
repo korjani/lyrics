@@ -1,0 +1,14 @@
+./lyrics/japanesehouse/poolstobathein.html
+./lyrics/japanesehouse/teeth.html
+./lyrics/japanesehouse/still.html
+./lyrics/japanesehouse/sister.html
+./lyrics/japanesehouse/clean.html
+./lyrics/japanesehouse/coolblue.html
+./lyrics/japanesehouse/letterbythewater.html
+./lyrics/japanesehouse/sugarpill.html
+./lyrics/japanesehouse/swimagainstthetide.html
+./lyrics/japanesehouse/facelikethunder.html
+./lyrics/japanesehouse/goodsidein.html
+./lyrics/japanesehouse/leon.html
+./lyrics/japanesehouse/sawyouinadream.html
+./lyrics/japanesehouse/somebodyyoufound.html

@@ -1,0 +1,5 @@
+./lyrics/chrissiehynde/youornoone.html
+./lyrics/chrissiehynde/darksunglasses.html
+./lyrics/chrissiehynde/downthewrongway.html
+./lyrics/chrissiehynde/inamiracle.html
+./lyrics/chrissiehynde/addingtheblue.html

@@ -1,0 +1,6 @@
+./lyrics/christiancollins/aintready.html
+./lyrics/christiancollins/amazing.html
+./lyrics/christiancollins/breakupmakeup.html
+./lyrics/christiancollins/prettybrowneyes.html
+./lyrics/christiancollins/worstway.html
+./lyrics/christiancollins/youdonthavetogo.html

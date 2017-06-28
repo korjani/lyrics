@@ -1,0 +1,8 @@
+./lyrics/aldenrichards/wishimay.html
+./lyrics/aldenrichards/thinkingoutloud.html
+./lyrics/aldenrichards/godgavemeyou.html
+./lyrics/aldenrichards/urongsulong.html
+./lyrics/aldenrichards/howgreatisourgod.html
+./lyrics/aldenrichards/haplos.html
+./lyrics/aldenrichards/magmahalantayongayongpasko.html
+./lyrics/aldenrichards/rescueme.html

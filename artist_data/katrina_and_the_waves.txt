@@ -1,0 +1,11 @@
+./lyrics/katrinaandthewaves/browneyedson.html
+./lyrics/katrinaandthewaves/doyouwantcrying.html
+./lyrics/katrinaandthewaves/goingdowntoliverpool.html
+./lyrics/katrinaandthewaves/isthatit.html
+./lyrics/katrinaandthewaves/loveshinealight.html
+./lyrics/katrinaandthewaves/quetequiero.html
+./lyrics/katrinaandthewaves/redwineandwhisky.html
+./lyrics/katrinaandthewaves/spiderman.html
+./lyrics/katrinaandthewaves/sunstreet.html
+./lyrics/katrinaandthewaves/thatstheway.html
+./lyrics/katrinaandthewaves/walkingonsunshine.html

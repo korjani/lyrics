@@ -1,0 +1,12 @@
+./lyrics/mytown/cmoneverybody.html
+./lyrics/mytown/bodybumpin.html
+./lyrics/mytown/lifetimeaffair.html
+./lyrics/mytown/partyallnight.html
+./lyrics/mytown/nowthatifoundyou.html
+./lyrics/mytown/timewilltell.html
+./lyrics/mytown/lovesentangel.html
+./lyrics/mytown/girlintears.html
+./lyrics/mytown/ilikeyourstyle.html
+./lyrics/mytown/everythingshewants.html
+./lyrics/mytown/thisisthetime.html
+./lyrics/mytown/theday.html

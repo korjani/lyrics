@@ -1,0 +1,3 @@
+./lyrics/jentina/badassstrippa.html
+./lyrics/jentina/frenchkisses.html
+./lyrics/jentina/mysterious.html

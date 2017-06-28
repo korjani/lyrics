@@ -1,0 +1,2 @@
+./lyrics/whoisfancy/boyslikeyou.html
+./lyrics/whoisfancy/goodbye.html

@@ -1,0 +1,12 @@
+./lyrics/flightfacilities/twobodies.html
+./lyrics/flightfacilities/sunshine.html
+./lyrics/flightfacilities/wakingbliss.html
+./lyrics/flightfacilities/standstill.html
+./lyrics/flightfacilities/clairdelune.html
+./lyrics/flightfacilities/heartattack.html
+./lyrics/flightfacilities/whydoyoufeel.html
+./lyrics/flightfacilities/craveyoureprise.html
+./lyrics/flightfacilities/craveyou.html
+./lyrics/flightfacilities/craveyouadventureclubdubstepremix.html
+./lyrics/flightfacilities/foreignlanguage.html
+./lyrics/flightfacilities/withyou.html

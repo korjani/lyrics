@@ -1,0 +1,10 @@
+./lyrics/leeharding/wasabi.html
+./lyrics/leeharding/letsnotgotowork.html
+./lyrics/leeharding/anythingforyou.html
+./lyrics/leeharding/justanotherlovesong.html
+./lyrics/leeharding/lisforloser.html
+./lyrics/leeharding/callthenurse.html
+./lyrics/leeharding/youcouldhaveanyone.html
+./lyrics/leeharding/changetheworld.html
+./lyrics/leeharding/trytonight.html
+./lyrics/leeharding/eyeofthetiger.html

@@ -1,0 +1,4 @@
+./lyrics/henningsens/americanbeautiful.html
+./lyrics/henningsens/imissyou.html
+./lyrics/henningsens/tobelieve.html
+./lyrics/henningsens/thecolorred.html

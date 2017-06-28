@@ -1,0 +1,9 @@
+./lyrics/dawngolden/discoloration.html
+./lyrics/dawngolden/alliwant.html
+./lyrics/dawngolden/sleightorchestra.html
+./lyrics/dawngolden/iwontbend.html
+./lyrics/dawngolden/swing.html
+./lyrics/dawngolden/thebeekeeper.html
+./lyrics/dawngolden/stilllife.html
+./lyrics/dawngolden/lasttrain.html
+./lyrics/dawngolden/briefencounter.html

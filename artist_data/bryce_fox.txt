@@ -1,0 +1,4 @@
+./lyrics/brycefox/burnfast.html
+./lyrics/brycefox/coldhearted.html
+./lyrics/brycefox/horns.html
+./lyrics/brycefox/voodoo.html

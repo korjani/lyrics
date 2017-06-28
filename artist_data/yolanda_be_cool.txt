@@ -1,0 +1,5 @@
+./lyrics/yolandabecool/beforemidnight.html
+./lyrics/yolandabecool/frommetoyou.html
+./lyrics/yolandabecool/lebump.html
+./lyrics/yolandabecool/sugarman.html
+./lyrics/yolandabecool/wenospeakamericano.html

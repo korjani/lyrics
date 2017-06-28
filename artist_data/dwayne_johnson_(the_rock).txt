@@ -1,0 +1,2 @@
+./lyrics/dwaynejohnson/pie.html
+./lyrics/dwaynejohnson/yourewelcome.html

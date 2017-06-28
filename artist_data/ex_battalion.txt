@@ -1,0 +1,4 @@
+./lyrics/exbattalion/comewithme.html
+./lyrics/exbattalion/kakaiba.html
+./lyrics/exbattalion/nogames.html
+./lyrics/exbattalion/tellme.html

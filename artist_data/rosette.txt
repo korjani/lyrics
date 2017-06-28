@@ -1,0 +1,13 @@
+./lyrics/rosette/uhoh.html
+./lyrics/rosette/imsogone.html
+./lyrics/rosette/crushed.html
+./lyrics/rosette/bounce.html
+./lyrics/rosette/iowe.html
+./lyrics/rosette/mirage.html
+./lyrics/rosette/igotit.html
+./lyrics/rosette/howcansorryevermendabrokenheart.html
+./lyrics/rosette/delirious.html
+./lyrics/rosette/nomore.html
+./lyrics/rosette/onewish.html
+./lyrics/rosette/crushedremix.html
+./lyrics/rosette/iwannafly.html

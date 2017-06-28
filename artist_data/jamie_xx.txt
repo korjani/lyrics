@@ -1,0 +1,6 @@
+./lyrics/jamiexx/gosh.html
+./lyrics/jamiexx/seesaw.html
+./lyrics/jamiexx/strangerinaroom.html
+./lyrics/jamiexx/loudplaces.html
+./lyrics/jamiexx/iknowtheresgonnabegoodtimes.html
+./lyrics/jamiexx/girl.html

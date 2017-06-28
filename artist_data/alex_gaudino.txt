@@ -1,0 +1,6 @@
+./lyrics/alexgaudino/destinationcalabria.html
+./lyrics/alexgaudino/iminloveiwannadoit.html
+./lyrics/alexgaudino/isthislove.html
+./lyrics/alexgaudino/missingyou.html
+./lyrics/alexgaudino/watchout.html
+./lyrics/alexgaudino/whatafeeling.html

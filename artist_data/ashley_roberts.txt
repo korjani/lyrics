@@ -1,0 +1,4 @@
+./lyrics/ashleyroberts/clockwork.html
+./lyrics/ashleyroberts/womanup.html
+./lyrics/ashleyroberts/allinaday.html
+./lyrics/ashleyroberts/wildheart.html

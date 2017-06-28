@@ -1,0 +1,17 @@
+./lyrics/timomatic/canyoufeelit.html
+./lyrics/timomatic/iflookscouldkill.html
+./lyrics/timomatic/explode.html
+./lyrics/timomatic/momenttolove.html
+./lyrics/timomatic/incredible.html
+./lyrics/timomatic/setitoff.html
+./lyrics/timomatic/satellites.html
+./lyrics/timomatic/ayothatswhatilike.html
+./lyrics/timomatic/gettoknowyou.html
+./lyrics/timomatic/givemeyourlove.html
+./lyrics/timomatic/trust.html
+./lyrics/timomatic/onmymind.html
+./lyrics/timomatic/restofourlives.html
+./lyrics/timomatic/everythingisallowed.html
+./lyrics/timomatic/parachute.html
+./lyrics/timomatic/savethedancefloor.html
+./lyrics/timomatic/waterfalls.html

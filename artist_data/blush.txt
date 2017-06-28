@@ -1,0 +1,9 @@
+./lyrics/blush/undivided.html
+./lyrics/blush/allstars.html
+./lyrics/blush/warrior.html
+./lyrics/blush/sweetlyleaveme.html
+./lyrics/blush/togetherweregreater.html
+./lyrics/blush/aintnobodygottimeforthat.html
+./lyrics/blush/danceon.html
+./lyrics/blush/missout.html
+./lyrics/blush/upupandaway.html

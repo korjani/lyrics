@@ -1,0 +1,11 @@
+./lyrics/chrismedina/dontsaygoodbye.html
+./lyrics/chrismedina/onemoretime.html
+./lyrics/chrismedina/possible.html
+./lyrics/chrismedina/whatarewords.html
+./lyrics/chrismedina/dreamtonight.html
+./lyrics/chrismedina/wecanchangetheworld.html
+./lyrics/chrismedina/amazed.html
+./lyrics/chrismedina/summerrain.html
+./lyrics/chrismedina/fallingindeeper.html
+./lyrics/chrismedina/beautifuleyes.html
+./lyrics/chrismedina/juliet.html

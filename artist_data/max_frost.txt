@@ -1,0 +1,13 @@
+./lyrics/maxfrost/whitelies.html
+./lyrics/maxfrost/niceandslow.html
+./lyrics/maxfrost/glowlong.html
+./lyrics/maxfrost/suspendedanimation.html
+./lyrics/maxfrost/bewhoyouwanttobe.html
+./lyrics/maxfrost/withdrawal.html
+./lyrics/maxfrost/paranoia.html
+./lyrics/maxfrost/letmedowneasy.html
+./lyrics/maxfrost/blindfool.html
+./lyrics/maxfrost/dreams.html
+./lyrics/maxfrost/dieyoung.html
+./lyrics/maxfrost/adderall.html
+./lyrics/maxfrost/president.html

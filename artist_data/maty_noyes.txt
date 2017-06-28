@@ -1,0 +1,10 @@
+./lyrics/matynoyes/inmymind.html
+./lyrics/matynoyes/lilbitwrong.html
+./lyrics/matynoyes/takeonetoloveone.html
+./lyrics/matynoyes/rollinwyew.html
+./lyrics/matynoyes/fallingoutoflove.html
+./lyrics/matynoyes/canttellmewhotolove.html
+./lyrics/matynoyes/chargeittothegame.html
+./lyrics/matynoyes/haunted.html
+./lyrics/matynoyes/london.html
+./lyrics/matynoyes/loveyouwithabang.html

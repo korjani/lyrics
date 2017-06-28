@@ -1,0 +1,7 @@
+./lyrics/leyouth/cool.html
+./lyrics/leyouth/coolbenpearceremix.html
+./lyrics/leyouth/dancewithme.html
+./lyrics/leyouth/ifyoureleaving.html
+./lyrics/leyouth/mewithoutyou.html
+./lyrics/leyouth/real.html
+./lyrics/leyouth/walkaway.html

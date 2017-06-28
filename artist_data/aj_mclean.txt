@@ -1,0 +1,14 @@
+./lyrics/ajmclean/teenagewildlife.html
+./lyrics/ajmclean/haveitall.html
+./lyrics/ajmclean/london.html
+./lyrics/ajmclean/gorgeous.html
+./lyrics/ajmclean/whatif.html
+./lyrics/ajmclean/drivebylove.html
+./lyrics/ajmclean/lovecrazy.html
+./lyrics/ajmclean/sincerelyyours.html
+./lyrics/ajmclean/iquit.html
+./lyrics/ajmclean/ihateitwhenyouregone.html
+./lyrics/ajmclean/whatitdo.html
+./lyrics/ajmclean/mra.html
+./lyrics/ajmclean/livetogether.html
+./lyrics/ajmclean/you.html

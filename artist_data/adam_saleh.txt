@@ -1,0 +1,3 @@
+./lyrics/adamsaleh/diamondgirl.html
+./lyrics/adamsaleh/tears.html
+./lyrics/adamsaleh/tomorrowsanotherday.html

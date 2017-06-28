@@ -1,0 +1,11 @@
+./lyrics/wildflag/romance.html
+./lyrics/wildflag/somethingcameoverme.html
+./lyrics/wildflag/boom.html
+./lyrics/wildflag/glasstambourine.html
+./lyrics/wildflag/endlesstalk.html
+./lyrics/wildflag/shortversion.html
+./lyrics/wildflag/electricband.html
+./lyrics/wildflag/futurecrimes.html
+./lyrics/wildflag/racehorse.html
+./lyrics/wildflag/blacktiles.html
+./lyrics/wildflag/ohyeah.html

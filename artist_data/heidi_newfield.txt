@@ -1,0 +1,12 @@
+./lyrics/heidinewfield/cantletgo.html
+./lyrics/heidinewfield/whentearsfalldown.html
+./lyrics/heidinewfield/johnnyjune.html
+./lyrics/heidinewfield/whatamiwaitingfor.html
+./lyrics/heidinewfield/loveherandloseme.html
+./lyrics/heidinewfield/crycrytilthesunshines.html
+./lyrics/heidinewfield/wreckyou.html
+./lyrics/heidinewfield/nothinburnslikeamemory.html
+./lyrics/heidinewfield/alliwannado.html
+./lyrics/heidinewfield/knockedup.html
+./lyrics/heidinewfield/stayuplate.html
+./lyrics/heidinewfield/whydyouhavetobesogood.html

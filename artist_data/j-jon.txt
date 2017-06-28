@@ -1,0 +1,6 @@
+./lyrics/jjon/bussinyourgun.html
+./lyrics/jjon/copcriminalsofpermision.html
+./lyrics/jjon/dearex.html
+./lyrics/jjon/didiloseyouyet.html
+./lyrics/jjon/prettyagain.html
+./lyrics/jjon/statistics.html

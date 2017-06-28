@@ -1,0 +1,8 @@
+./lyrics/yanni/almostawhisper.html
+./lyrics/yanni/cantwait.html
+./lyrics/yanni/change.html
+./lyrics/yanni/loveisall.html
+./lyrics/yanni/ourdays.html
+./lyrics/yanni/secret.html
+./lyrics/yanni/thekeeper.html
+./lyrics/yanni/tribute.html

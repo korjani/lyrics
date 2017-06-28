@@ -1,0 +1,14 @@
+./lyrics/joejonas/allthistime.html
+./lyrics/joejonas/justinlovewithyou.html
+./lyrics/joejonas/seenomore.html
+./lyrics/joejonas/loveslayer.html
+./lyrics/joejonas/fastlife.html
+./lyrics/joejonas/makeyoumine.html
+./lyrics/joejonas/sorry.html
+./lyrics/joejonas/kleptomaniac.html
+./lyrics/joejonas/notrightnow.html
+./lyrics/joejonas/takeitandrun.html
+./lyrics/joejonas/lighthouse.html
+./lyrics/joejonas/justinloveremix.html
+./lyrics/joejonas/partyafterparty.html
+./lyrics/joejonas/youngandreckless.html

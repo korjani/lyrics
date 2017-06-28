@@ -1,0 +1,11 @@
+./lyrics/dantethomas/misscalifornia.html
+./lyrics/dantethomas/goodbye.html
+./lyrics/dantethomas/fly.html
+./lyrics/dantethomas/letitbelove.html
+./lyrics/dantethomas/nevergiveup.html
+./lyrics/dantethomas/shesays.html
+./lyrics/dantethomas/moneycantbuy.html
+./lyrics/dantethomas/shouldhavelovedherthen.html
+./lyrics/dantethomas/tinacolada.html
+./lyrics/dantethomas/waitforday.html
+./lyrics/dantethomas/misscaliforniarapremix.html

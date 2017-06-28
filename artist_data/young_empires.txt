@@ -1,0 +1,14 @@
+./lyrics/youngempires/rainofgold.html
+./lyrics/youngempires/enterthroughthesun.html
+./lyrics/youngempires/whitedoves.html
+./lyrics/youngempires/wedontsleeptonight.html
+./lyrics/youngempires/earthplatesareshifting.html
+./lyrics/youngempires/mercy.html
+./lyrics/youngempires/thegates.html
+./lyrics/youngempires/socruel.html
+./lyrics/youngempires/ghosts.html
+./lyrics/youngempires/stranglehold.html
+./lyrics/youngempires/houselights.html
+./lyrics/youngempires/neverdieyoung.html
+./lyrics/youngempires/sunshine.html
+./lyrics/youngempires/uncoveryoureyes.html

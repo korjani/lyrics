@@ -1,0 +1,4 @@
+./lyrics/trecoast/donttalktome.html
+./lyrics/trecoast/icantletyougo.html
+./lyrics/trecoast/stuckinbetween.html
+./lyrics/trecoast/yourlast.html

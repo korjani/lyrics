@@ -1,0 +1,15 @@
+./lyrics/raye/w2tw.html
+./lyrics/raye/badfaith.html
+./lyrics/raye/needme.html
+./lyrics/raye/birdsonginterlude.html
+./lyrics/raye/betuwish.html
+./lyrics/raye/justlikethat.html
+./lyrics/raye/hotbox.html
+./lyrics/raye/iuus.html
+./lyrics/raye/shhh.html
+./lyrics/raye/distraction.html
+./lyrics/raye/tellme.html
+./lyrics/raye/ambition.html
+./lyrics/raye/alien.html
+./lyrics/raye/flowers.html
+./lyrics/raye/theline.html

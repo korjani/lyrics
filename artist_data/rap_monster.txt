@@ -1,0 +1,15 @@
+./lyrics/rapmonster/voices.html
+./lyrics/rapmonster/doyou.html
+./lyrics/rapmonster/awakening.html
+./lyrics/rapmonster/monster.html
+./lyrics/rapmonster/throwaway.html
+./lyrics/rapmonster/joke.html
+./lyrics/rapmonster/godrap.html
+./lyrics/rapmonster/rush.html
+./lyrics/rapmonster/life.html
+./lyrics/rapmonster/adrift.html
+./lyrics/rapmonster/ibelieve.html
+./lyrics/rapmonster/change.html
+./lyrics/rapmonster/fantastic.html
+./lyrics/rapmonster/pdd.html
+./lyrics/rapmonster/reflection.html

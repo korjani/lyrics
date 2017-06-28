@@ -1,0 +1,3 @@
+./lyrics/darylong/ikawnanga.html
+./lyrics/darylong/nandonako.html
+./lyrics/darylong/stay.html

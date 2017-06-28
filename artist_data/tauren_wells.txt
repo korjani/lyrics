@@ -1,0 +1,4 @@
+./lyrics/taurenwells/loveisaction.html
+./lyrics/taurenwells/undefeated.html
+./lyrics/taurenwells/nevergonnaletmego.html
+./lyrics/taurenwells/hillsandvalleys.html

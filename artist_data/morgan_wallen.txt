@@ -1,0 +1,2 @@
+./lyrics/morganwallen/thewayitalk.html
+./lyrics/morganwallen/whiskeyglasses.html

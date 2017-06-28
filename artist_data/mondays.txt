@@ -1,0 +1,2 @@
+./lyrics/mondays/bewithyou.html
+./lyrics/mondays/pandemonium.html

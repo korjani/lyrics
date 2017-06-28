@@ -1,0 +1,2 @@
+./lyrics/tatianaowens/hazy.html
+./lyrics/tatianaowens/pendulum.html

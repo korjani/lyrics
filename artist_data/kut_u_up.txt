@@ -1,0 +1,9 @@
+./lyrics/kutuup/smdens.html
+./lyrics/kutuup/waynewright.html
+./lyrics/kutuup/jms.html
+./lyrics/kutuup/nightatthebeach.html
+./lyrics/kutuup/sailedtofar.html
+./lyrics/kutuup/destination.html
+./lyrics/kutuup/rollingrock.html
+./lyrics/kutuup/haveshavenots.html
+./lyrics/kutuup/stupidlyclear.html

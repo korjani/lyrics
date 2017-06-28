@@ -1,0 +1,11 @@
+./lyrics/losdelrio/algosemuereenelalma.html
+./lyrics/losdelrio/aurora.html
+./lyrics/losdelrio/bailabaila.html
+./lyrics/losdelrio/elgallo.html
+./lyrics/losdelrio/macarena.html
+./lyrics/losdelrio/macarenabaysideboysmix.html
+./lyrics/losdelrio/macarenachristmas.html
+./lyrics/losdelrio/mariachisytequila.html
+./lyrics/losdelrio/sevillatieneuncolorespecial.html
+./lyrics/losdelrio/takeiteasyyonos.html
+./lyrics/losdelrio/tequilaboomboom.html

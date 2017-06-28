@@ -1,0 +1,17 @@
+./lyrics/whydontwe/takingyou.html
+./lyrics/whydontwe/nobodygottaknow.html
+./lyrics/whydontwe/justtoseeyousmile.html
+./lyrics/whydontwe/onmyway.html
+./lyrics/whydontwe/perfect.html
+./lyrics/whydontwe/free.html
+./lyrics/whydontwe/somethingdifferent.html
+./lyrics/whydontwe/tellme.html
+./lyrics/whydontwe/madefor.html
+./lyrics/whydontwe/airofthenightsmoothstep.html
+./lyrics/whydontwe/neverknow.html
+./lyrics/whydontwe/whydontwejust.html
+./lyrics/whydontwe/allmylove.html
+./lyrics/whydontwe/idependonyou.html
+./lyrics/whydontwe/runner.html
+./lyrics/whydontwe/wetheparty.html
+./lyrics/whydontwe/youandmeatchristmas.html

@@ -1,0 +1,6 @@
+./lyrics/vigiland/addicted.html
+./lyrics/vigiland/fridaynight.html
+./lyrics/vigiland/letsescape.html
+./lyrics/vigiland/pongdance.html
+./lyrics/vigiland/queensofanarchyrykenrussen2015.html
+./lyrics/vigiland/shotssquats.html

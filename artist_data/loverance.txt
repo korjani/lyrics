@@ -1,0 +1,3 @@
+./lyrics/loverance/up.html
+./lyrics/loverance/up270842.html
+./lyrics/loverance/upremix.html

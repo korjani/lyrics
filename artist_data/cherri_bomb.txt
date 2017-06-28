@@ -1,0 +1,17 @@
+./lyrics/cherribomb/mirrormirror.html
+./lyrics/cherribomb/alreadydead.html
+./lyrics/cherribomb/letitgo.html
+./lyrics/cherribomb/spin.html
+./lyrics/cherribomb/thepretender.html
+./lyrics/cherribomb/takethisnow.html
+./lyrics/cherribomb/betterthisway.html
+./lyrics/cherribomb/rawreal.html
+./lyrics/cherribomb/shaketheground.html
+./lyrics/cherribomb/toomanyfaces.html
+./lyrics/cherribomb/letitgo.html
+./lyrics/cherribomb/sacrificiallamb.html
+./lyrics/cherribomb/actthepart.html
+./lyrics/cherribomb/drawingablank.html
+./lyrics/cherribomb/heartisahole.html
+./lyrics/cherribomb/paperdoll.html
+./lyrics/cherribomb/holdon.html

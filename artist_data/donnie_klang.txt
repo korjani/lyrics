@@ -1,0 +1,17 @@
+./lyrics/donnieklang/intro.html
+./lyrics/donnieklang/takeyouthere.html
+./lyrics/donnieklang/drlove.html
+./lyrics/donnieklang/hurtthatbody.html
+./lyrics/donnieklang/hollywoodgirl.html
+./lyrics/donnieklang/pickitup.html
+./lyrics/donnieklang/prettygirlscry.html
+./lyrics/donnieklang/catchmybreath.html
+./lyrics/donnieklang/bedroominterlude.html
+./lyrics/donnieklang/notalovesong.html
+./lyrics/donnieklang/whichone.html
+./lyrics/donnieklang/loveinstereo.html
+./lyrics/donnieklang/justarollingstoneinterlude.html
+./lyrics/donnieklang/youremyidol.html
+./lyrics/donnieklang/therain.html
+./lyrics/donnieklang/badguy.html
+./lyrics/donnieklang/stuckinmyhead.html

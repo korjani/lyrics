@@ -1,0 +1,10 @@
+./lyrics/davenavarro/rexall.html
+./lyrics/davenavarro/hungry.html
+./lyrics/davenavarro/sunnyday.html
+./lyrics/davenavarro/mourningson.html
+./lyrics/davenavarro/everything.html
+./lyrics/davenavarro/notfornothing.html
+./lyrics/davenavarro/avoidingtheangel.html
+./lyrics/davenavarro/verylittledaylight.html
+./lyrics/davenavarro/venusinfurs.html
+./lyrics/davenavarro/slowmotionsickness.html

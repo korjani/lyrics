@@ -1,0 +1,6 @@
+./lyrics/mariemiller/yourenotalone.html
+./lyrics/mariemiller/suchashame.html
+./lyrics/mariemiller/62.html
+./lyrics/mariemiller/thissideofparadise.html
+./lyrics/mariemiller/glittergold.html
+./lyrics/mariemiller/silentnight.html

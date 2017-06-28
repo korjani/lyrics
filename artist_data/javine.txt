@@ -1,0 +1,6 @@
+./lyrics/javine/bestofmylove.html
+./lyrics/javine/dontwalkaway.html
+./lyrics/javine/realthings.html
+./lyrics/javine/surrenderyourlove.html
+./lyrics/javine/touchmyfire.html
+./lyrics/javine/winner.html

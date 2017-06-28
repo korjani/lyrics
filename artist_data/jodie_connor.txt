@@ -1,0 +1,4 @@
+./lyrics/jodieconnor/bringit.html
+./lyrics/jodieconnor/loverlikeyou.html
+./lyrics/jodieconnor/nowornever.html
+./lyrics/jodieconnor/takeyouthere.html

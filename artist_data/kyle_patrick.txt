@@ -1,0 +1,6 @@
+./lyrics/kylepatrick/followyourheartbeat.html
+./lyrics/kylepatrick/goforgold.html
+./lyrics/kylepatrick/wildways.html
+./lyrics/kylepatrick/babydontboardthatplane.html
+./lyrics/kylepatrick/aintnosunshine.html
+./lyrics/kylepatrick/dontmakemewait.html

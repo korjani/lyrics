@@ -1,0 +1,8 @@
+./lyrics/eatyourheartout/divided.html
+./lyrics/eatyourheartout/future.html
+./lyrics/eatyourheartout/ghost.html
+./lyrics/eatyourheartout/postcard.html
+./lyrics/eatyourheartout/gone.html
+./lyrics/eatyourheartout/dragmedown.html
+./lyrics/eatyourheartout/somethingintheway.html
+./lyrics/eatyourheartout/patience.html

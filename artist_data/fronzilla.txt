@@ -1,0 +1,6 @@
+./lyrics/fronzilla/turnitup.html
+./lyrics/fronzilla/intoodeep.html
+./lyrics/fronzilla/theystilltalk.html
+./lyrics/fronzilla/creeper.html
+./lyrics/fronzilla/partypeoplesanthem.html
+./lyrics/fronzilla/getbuck.html

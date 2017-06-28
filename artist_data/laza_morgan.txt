@@ -1,0 +1,5 @@
+./lyrics/lazamorgan/allshewantsgonetomorrow.html
+./lyrics/lazamorgan/gimmelittle.html
+./lyrics/lazamorgan/onebyone.html
+./lyrics/lazamorgan/thisgirl.html
+./lyrics/lazamorgan/wineyuhbody.html

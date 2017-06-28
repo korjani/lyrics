@@ -1,0 +1,2 @@
+./lyrics/diphabarus/allgood.html
+./lyrics/diphabarus/noonecanstopus.html

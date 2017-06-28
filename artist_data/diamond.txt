@@ -1,0 +1,2 @@
+./lyrics/diamond/prettygirlswag.html
+./lyrics/diamond/superbad.html

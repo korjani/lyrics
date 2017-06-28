@@ -1,0 +1,6 @@
+./lyrics/modjo/chillin.html
+./lyrics/modjo/ladyhearmetonight.html
+./lyrics/modjo/peaceofmind.html
+./lyrics/modjo/whatimean.html
+./lyrics/modjo/nomoretears.html
+./lyrics/modjo/onfire.html

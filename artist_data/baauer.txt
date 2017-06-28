@@ -1,0 +1,10 @@
+./lyrics/baauer/onetouch.html
+./lyrics/baauer/onetouchvip.html
+./lyrics/baauer/dayones.html
+./lyrics/baauer/wayfromme.html
+./lyrics/baauer/temple.html
+./lyrics/baauer/makeitbang.html
+./lyrics/baauer/kungfu.html
+./lyrics/baauer/harlemshake.html
+./lyrics/baauer/higher.html
+./lyrics/baauer/promises.html

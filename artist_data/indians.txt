@@ -1,0 +1,7 @@
+./lyrics/indians/bird.html
+./lyrics/indians/iamhaunted.html
+./lyrics/indians/magickids.html
+./lyrics/indians/realitysublime.html
+./lyrics/indians/cakelakers.html
+./lyrics/indians/somewhereelse.html
+./lyrics/indians/oblivion.html

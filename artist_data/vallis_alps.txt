@@ -1,0 +1,8 @@
+./lyrics/vallisalps/young.html
+./lyrics/vallisalps/thru.html
+./lyrics/vallisalps/oh.html
+./lyrics/vallisalps/reprieve.html
+./lyrics/vallisalps/east.html
+./lyrics/vallisalps/serity.html
+./lyrics/vallisalps/run.html
+./lyrics/vallisalps/fading.html

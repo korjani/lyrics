@@ -1,0 +1,3 @@
+./lyrics/sweetsuspense/gibberish.html
+./lyrics/sweetsuspense/herewegoagain.html
+./lyrics/sweetsuspense/justanothernight.html

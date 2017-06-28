@@ -1,0 +1,4 @@
+./lyrics/allisimpson/guilty.html
+./lyrics/allisimpson/noticeme.html
+./lyrics/allisimpson/rollemup.html
+./lyrics/allisimpson/whyimsingle.html

@@ -1,0 +1,12 @@
+./lyrics/dreamcar/aftericonfessed.html
+./lyrics/dreamcar/killforcandy.html
+./lyrics/dreamcar/borntolie.html
+./lyrics/dreamcar/onthecharts.html
+./lyrics/dreamcar/allofthedeadgirls.html
+./lyrics/dreamcar/everlonely.html
+./lyrics/dreamcar/theassailant.html
+./lyrics/dreamcar/thepreferred.html
+./lyrics/dreamcar/sliponthemoon.html
+./lyrics/dreamcar/dontletmelove.html
+./lyrics/dreamcar/donothing.html
+./lyrics/dreamcar/showmemercy.html

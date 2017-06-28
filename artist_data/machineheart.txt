@@ -1,0 +1,6 @@
+./lyrics/machineheart/bestthing.html
+./lyrics/machineheart/watercolors.html
+./lyrics/machineheart/circles-vanic.html
+./lyrics/machineheart/shelter.html
+./lyrics/machineheart/speakintongues.html
+./lyrics/machineheart/stonecold.html

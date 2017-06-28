@@ -1,0 +1,12 @@
+./lyrics/haux/marigoldinautumn.html
+./lyrics/haux/toulouse.html
+./lyrics/haux/theriversong.html
+./lyrics/haux/ourfathers.html
+./lyrics/haux/marigoldinwinter.html
+./lyrics/haux/homegrown.html
+./lyrics/haux/seaside.html
+./lyrics/haux/thewar.html
+./lyrics/haux/caves.html
+./lyrics/haux/sister.html
+./lyrics/haux/touch.html
+./lyrics/haux/youth.html

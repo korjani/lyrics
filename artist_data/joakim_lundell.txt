@@ -1,0 +1,2 @@
+./lyrics/joakimlundell/allineed.html
+./lyrics/joakimlundell/myaddiction.html

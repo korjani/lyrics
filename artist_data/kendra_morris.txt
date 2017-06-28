@@ -1,0 +1,8 @@
+./lyrics/kendramorris/pow.html
+./lyrics/kendramorris/ifyoudidntgo.html
+./lyrics/kendramorris/concretewaves.html
+./lyrics/kendramorris/rightnow.html
+./lyrics/kendramorris/justonemore.html
+./lyrics/kendramorris/banshee.html
+./lyrics/kendramorris/spittingteeth.html
+./lyrics/kendramorris/imgonnabe500miles.html

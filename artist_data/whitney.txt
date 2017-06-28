@@ -1,0 +1,14 @@
+./lyrics/whitney/nowoman.html
+./lyrics/whitney/thefalls.html
+./lyrics/whitney/goldendays.html
+./lyrics/whitney/davessong.html
+./lyrics/whitney/lightuponthelake.html
+./lyrics/whitney/nomatterwherewego.html
+./lyrics/whitney/onmyown.html
+./lyrics/whitney/polly.html
+./lyrics/whitney/follow.html
+./lyrics/whitney/youvegotawoman.html
+./lyrics/whitney/gonnahurryasslowasican.html
+./lyrics/whitney/magnet.html
+./lyrics/whitney/southernnights.html
+./lyrics/whitney/tonightillbestayingherewithyou.html

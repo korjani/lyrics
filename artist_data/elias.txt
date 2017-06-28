@@ -1,0 +1,9 @@
+./lyrics/elias/cloud.html
+./lyrics/elias/cosmeticlove.html
+./lyrics/elias/blindedbyyou.html
+./lyrics/elias/northernlights.html
+./lyrics/elias/greeneyes.html
+./lyrics/elias/revolution.html
+./lyrics/elias/downnout.html
+./lyrics/elias/makinmehappy.html
+./lyrics/elias/thinkingofyou.html

@@ -1,0 +1,9 @@
+./lyrics/clairity/dna.html
+./lyrics/clairity/scarecrow.html
+./lyrics/clairity/exorcism.html
+./lyrics/clairity/velcro.html
+./lyrics/clairity/brokenthings.html
+./lyrics/clairity/dnabeautifulnowmedley.html
+./lyrics/clairity/dontpanic.html
+./lyrics/clairity/loveinthelight.html
+./lyrics/clairity/sharksintheswimmingpool.html

@@ -1,0 +1,7 @@
+./lyrics/arlissa/devilandthedeep.html
+./lyrics/arlissa/hardtolovesomebody.html
+./lyrics/arlissa/heartsaintgonnalie.html
+./lyrics/arlissa/isurrender.html
+./lyrics/arlissa/intothelight.html
+./lyrics/arlissa/multiply.html
+./lyrics/arlissa/sticksstones.html

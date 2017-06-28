@@ -1,0 +1,5 @@
+./lyrics/zachwilliams/chainbreaker.html
+./lyrics/zachwilliams/oldchurchchoir.html
+./lyrics/zachwilliams/songofdeliverance.html
+./lyrics/zachwilliams/revival.html
+./lyrics/zachwilliams/tothetable.html

@@ -1,0 +1,2 @@
+./lyrics/vs/callusexy.html
+./lyrics/vs/loveyoulikemad.html

@@ -1,0 +1,11 @@
+./lyrics/glorioussons/manmademan.html
+./lyrics/glorioussons/heavy.html
+./lyrics/glorioussons/hardtimes.html
+./lyrics/glorioussons/lightning.html
+./lyrics/glorioussons/whitenoise.html
+./lyrics/glorioussons/thecontender.html
+./lyrics/glorioussons/mama.html
+./lyrics/glorioussons/theunion.html
+./lyrics/glorioussons/gordie.html
+./lyrics/glorioussons/loverunderfire.html
+./lyrics/glorioussons/amigo.html

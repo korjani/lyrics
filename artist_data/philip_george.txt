@@ -1,0 +1,2 @@
+./lyrics/philipgeorge/alonenomore.html
+./lyrics/philipgeorge/wishyouweremine.html

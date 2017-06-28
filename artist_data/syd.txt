@@ -1,0 +1,13 @@
+./lyrics/syd/shakeemoff.html
+./lyrics/syd/know.html
+./lyrics/syd/nocomplaints.html
+./lyrics/syd/nothintosomethin.html
+./lyrics/syd/allaboutme.html
+./lyrics/syd/smilemore.html
+./lyrics/syd/gotherown.html
+./lyrics/syd/drowninit.html
+./lyrics/syd/body.html
+./lyrics/syd/dollarbills.html
+./lyrics/syd/over.html
+./lyrics/syd/insecurities.html
+./lyrics/syd/treadingwater.html

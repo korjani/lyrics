@@ -1,0 +1,15 @@
+./lyrics/buckycovington/americanfridaynight.html
+./lyrics/buckycovington/adifferentworld.html
+./lyrics/buckycovington/illwalk.html
+./lyrics/buckycovington/backwhenweweregods.html
+./lyrics/buckycovington/aintnothing.html
+./lyrics/buckycovington/imgood.html
+./lyrics/buckycovington/emptyhanded.html
+./lyrics/buckycovington/hometown.html
+./lyrics/buckycovington/itsgoodtobeus.html
+./lyrics/buckycovington/carolinablue.html
+./lyrics/buckycovington/thebibleandthebelt.html
+./lyrics/buckycovington/afatherslovetheonlywayheknewhow.html
+./lyrics/buckycovington/gottabesomebody.html
+./lyrics/buckycovington/iwannabethatfeeling.html
+./lyrics/buckycovington/iwantmylifeback.html

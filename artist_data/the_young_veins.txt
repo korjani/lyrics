@@ -1,0 +1,13 @@
+./lyrics/youngveins/change.html
+./lyrics/youngveins/takeavacation.html
+./lyrics/youngveins/capetown.html
+./lyrics/youngveins/maybeiwillmaybeiwont.html
+./lyrics/youngveins/theyoungveinsdietonight.html
+./lyrics/youngveins/everyonebutyou.html
+./lyrics/youngveins/theothergirl.html
+./lyrics/youngveins/dangerousblues.html
+./lyrics/youngveins/defiance.html
+./lyrics/youngveins/lietothetruth.html
+./lyrics/youngveins/heartofmine.html
+./lyrics/youngveins/nothingmattersbutyou.html
+./lyrics/youngveins/security.html

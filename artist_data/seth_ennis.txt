@@ -1,0 +1,4 @@
+./lyrics/sethennis/playitcool.html
+./lyrics/sethennis/thinkdrive.html
+./lyrics/sethennis/fastgirl.html
+./lyrics/sethennis/wokeupinnashville.html

@@ -1,0 +1,16 @@
+./lyrics/micasa/thesestreets.html
+./lyrics/micasa/illbethereforyou.html
+./lyrics/micasa/heavenlysent.html
+./lyrics/micasa/giveyoulove.html
+./lyrics/micasa/betheone.html
+./lyrics/micasa/beautiful.html
+./lyrics/micasa/turnyouon.html
+./lyrics/micasa/feelthelove.html
+./lyrics/micasa/jika.html
+./lyrics/micasa/iwantyou.html
+./lyrics/micasa/yourbody.html
+./lyrics/micasa/saveyouagain.html
+./lyrics/micasa/leave.html
+./lyrics/micasa/tulalefofofo.html
+./lyrics/micasa/barman.html
+./lyrics/micasa/dontwannabeyourfriend.html

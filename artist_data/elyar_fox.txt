@@ -1,0 +1,10 @@
+./lyrics/elyarfox/djvu.html
+./lyrics/elyarfox/goodfriends.html
+./lyrics/elyarfox/newyorkcity.html
+./lyrics/elyarfox/rude.html
+./lyrics/elyarfox/abilliongirls.html
+./lyrics/elyarfox/colourblind.html
+./lyrics/elyarfox/doitalloveragain.html
+./lyrics/elyarfox/lucy.html
+./lyrics/elyarfox/peopleinlove.html
+./lyrics/elyarfox/smile.html

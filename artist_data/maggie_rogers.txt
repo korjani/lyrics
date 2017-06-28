@@ -1,0 +1,6 @@
+./lyrics/maggierogers/colorsong.html
+./lyrics/maggierogers/alaska.html
+./lyrics/maggierogers/onoff.html
+./lyrics/maggierogers/dogyears.html
+./lyrics/maggierogers/better.html
+./lyrics/maggierogers/alaskasohnremix.html

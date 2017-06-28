@@ -1,0 +1,7 @@
+./lyrics/bakermat/baby.html
+./lyrics/bakermat/ballade.html
+./lyrics/bakermat/dontwantyouback.html
+./lyrics/bakermat/games.html
+./lyrics/bakermat/living.html
+./lyrics/bakermat/onedayvandaag.html
+./lyrics/bakermat/teachme.html

@@ -1,0 +1,8 @@
+./lyrics/saknoel/iamthelaw.html
+./lyrics/saknoel/locapeople.html
+./lyrics/saknoel/noboyfriend.html
+./lyrics/saknoel/omg.html
+./lyrics/saknoel/partyonmylevel.html
+./lyrics/saknoel/pasotheninianthem.html
+./lyrics/saknoel/trumpets.html
+./lyrics/saknoel/youngreckless.html

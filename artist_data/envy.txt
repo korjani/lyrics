@@ -1,0 +1,11 @@
+./lyrics/envy/intro.html
+./lyrics/envy/whynotme.html
+./lyrics/envy/settogo.html
+./lyrics/envy/showsomelove.html
+./lyrics/envy/speedofsound.html
+./lyrics/envy/aintgottime.html
+./lyrics/envy/goloud.html
+./lyrics/envy/onesong.html
+./lyrics/envy/del3nykommere.html
+./lyrics/envy/gameover.html
+./lyrics/envy/whatweherefor.html

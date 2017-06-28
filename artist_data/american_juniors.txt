@@ -1,0 +1,11 @@
+./lyrics/americanjuniors/abc.html
+./lyrics/americanjuniors/nomattawhatpartyallnightlong.html
+./lyrics/americanjuniors/truecolors.html
+./lyrics/americanjuniors/unstoppable.html
+./lyrics/americanjuniors/onestepcloser.html
+./lyrics/americanjuniors/haveyouever.html
+./lyrics/americanjuniors/reachoutillbethere.html
+./lyrics/americanjuniors/emotional.html
+./lyrics/americanjuniors/sundown.html
+./lyrics/americanjuniors/bringthehousedown.html
+./lyrics/americanjuniors/loveaintgonnawaitforyou.html

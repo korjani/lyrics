@@ -1,0 +1,14 @@
+./lyrics/iamthey/weareyours.html
+./lyrics/iamthey/awakemylove.html
+./lyrics/iamthey/yourloveismine.html
+./lyrics/iamthey/overoveragain.html
+./lyrics/iamthey/kingoflove.html
+./lyrics/iamthey/evenme.html
+./lyrics/iamthey/fromtheday.html
+./lyrics/iamthey/makeaway.html
+./lyrics/iamthey/heresmyheart.html
+./lyrics/iamthey/amen.html
+./lyrics/iamthey/crownhim.html
+./lyrics/iamthey/nolongerslaves.html
+./lyrics/iamthey/restingplacetothecross.html
+./lyrics/iamthey/yourloveistrue.html

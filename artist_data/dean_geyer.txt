@@ -1,0 +1,12 @@
+./lyrics/deangeyer/ifyoudontmeanit.html
+./lyrics/deangeyer/idontwannawait.html
+./lyrics/deangeyer/rush.html
+./lyrics/deangeyer/stay.html
+./lyrics/deangeyer/illbe.html
+./lyrics/deangeyer/shecomesinwaves.html
+./lyrics/deangeyer/angel.html
+./lyrics/deangeyer/writtenalloveryourface.html
+./lyrics/deangeyer/shetakesme.html
+./lyrics/deangeyer/cantbeyou.html
+./lyrics/deangeyer/thisworldwontwait.html
+./lyrics/deangeyer/secretplace.html

@@ -1,0 +1,17 @@
+./lyrics/hivi/lihatlahdunia.html
+./lyrics/hivi/indahnyadirimu.html
+./lyrics/hivi/selaludihati.html
+./lyrics/hivi/curicuri.html
+./lyrics/hivi/dearfriends.html
+./lyrics/hivi/matakehati.html
+./lyrics/hivi/orangke3.html
+./lyrics/hivi/khayalan.html
+./lyrics/hivi/merakitperahu.html
+./lyrics/hivi/samasamatahu.html
+./lyrics/hivi/gadissampul.html
+./lyrics/hivi/apaadanya.html
+./lyrics/hivi/remaja.html
+./lyrics/hivi/pelangi.html
+./lyrics/hivi/keretakencan.html
+./lyrics/hivi/siapkahkautukjatuhcintalagi.html
+./lyrics/hivi/matakehatiacousticversion.html

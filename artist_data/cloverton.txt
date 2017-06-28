@@ -1,0 +1,17 @@
+./lyrics/cloverton/hopeinside.html
+./lyrics/cloverton/someday.html
+./lyrics/cloverton/greenlight.html
+./lyrics/cloverton/fatherslove.html
+./lyrics/cloverton/bridge.html
+./lyrics/cloverton/glowinginthedark.html
+./lyrics/cloverton/mountainswillmove.html
+./lyrics/cloverton/patterns.html
+./lyrics/cloverton/nonecompare.html
+./lyrics/cloverton/youneverleaveme.html
+./lyrics/cloverton/whiteknuckles.html
+./lyrics/cloverton/godhelpmetobe.html
+./lyrics/cloverton/whatchildisthis.html
+./lyrics/cloverton/doyouhear.html
+./lyrics/cloverton/ahallelujahchristmas.html
+./lyrics/cloverton/greatplans.html
+./lyrics/cloverton/takemeintothebeautiful.html

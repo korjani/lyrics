@@ -1,0 +1,5 @@
+./lyrics/somayareece/cominwithme.html
+./lyrics/somayareece/dalemami.html
+./lyrics/somayareece/girlsnight.html
+./lyrics/somayareece/oohbabybabyimarideordiechick.html
+./lyrics/somayareece/wouldyoustillloveme.html

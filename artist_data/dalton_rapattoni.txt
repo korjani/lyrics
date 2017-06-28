@@ -1,0 +1,4 @@
+./lyrics/daltonrapattoni/stop427640.html
+./lyrics/daltonrapattoni/strikeamatch.html
+./lyrics/daltonrapattoni/tothemoonandback.html
+./lyrics/daltonrapattoni/turntostone.html

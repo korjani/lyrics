@@ -1,0 +1,10 @@
+./lyrics/myronbutler/blessthelord.html
+./lyrics/myronbutler/speak.html
+./lyrics/myronbutler/aboveall.html
+./lyrics/myronbutler/everything.html
+./lyrics/myronbutler/herewithme.html
+./lyrics/myronbutler/ineedmoreofyou.html
+./lyrics/myronbutler/redeemed.html
+./lyrics/myronbutler/setmefree.html
+./lyrics/myronbutler/stronger.html
+./lyrics/myronbutler/unrestrained.html

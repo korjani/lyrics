@@ -1,0 +1,8 @@
+./lyrics/ritchievalens/comeonletsgo.html
+./lyrics/ritchievalens/donna.html
+./lyrics/ritchievalens/framed.html
+./lyrics/ritchievalens/labamba.html
+./lyrics/ritchievalens/oohmyhead.html
+./lyrics/ritchievalens/staybesideme.html
+./lyrics/ritchievalens/thatsmylittlesuzie.html
+./lyrics/ritchievalens/webelongtogether.html

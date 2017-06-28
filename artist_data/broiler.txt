@@ -1,0 +1,3 @@
+./lyrics/broiler/flybynight.html
+./lyrics/broiler/money.html
+./lyrics/broiler/wildeyes.html

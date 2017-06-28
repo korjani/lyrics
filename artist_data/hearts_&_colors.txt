@@ -1,0 +1,6 @@
+./lyrics/heartscolors/sayyouwill.html
+./lyrics/heartscolors/loveheranyways.html
+./lyrics/heartscolors/richman.html
+./lyrics/heartscolors/lighthouse.html
+./lyrics/heartscolors/forthelove.html
+./lyrics/heartscolors/shame.html

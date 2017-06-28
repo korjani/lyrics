@@ -1,0 +1,9 @@
+./lyrics/arjun/allofmebaarish.html
+./lyrics/arjun/chaiyyachaiyya.html
+./lyrics/arjun/illbewaitingkabhijobaadal.html
+./lyrics/arjun/mohabbatbarsade.html
+./lyrics/arjun/remembertonight.html
+./lyrics/arjun/runawaythulithulirudeboyremix.html
+./lyrics/arjun/samegirl.html
+./lyrics/arjun/stargazer.html
+./lyrics/arjun/takeitback.html

@@ -1,0 +1,11 @@
+./lyrics/lowmillions/eleanor.html
+./lyrics/lowmillions/mockingbird.html
+./lyrics/lowmillions/lowmillions.html
+./lyrics/lowmillions/hereshecomes.html
+./lyrics/lowmillions/statue.html
+./lyrics/lowmillions/julia.html
+./lyrics/lowmillions/diary.html
+./lyrics/lowmillions/heyjane.html
+./lyrics/lowmillions/moneything.html
+./lyrics/lowmillions/100blouses.html
+./lyrics/lowmillions/nikkidontstop.html

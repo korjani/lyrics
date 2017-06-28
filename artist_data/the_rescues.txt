@@ -1,0 +1,15 @@
+./lyrics/rescues/letloosethehorses.html
+./lyrics/rescues/startariot.html
+./lyrics/rescues/wereok.html
+./lyrics/rescues/beforethefall.html
+./lyrics/rescues/nevertoolate.html
+./lyrics/rescues/cantstandtherain.html
+./lyrics/rescues/breakmeout.html
+./lyrics/rescues/followmebackintothesun.html
+./lyrics/rescues/thecityandtheriver.html
+./lyrics/rescues/stayover.html
+./lyrics/rescues/strangerkeeper.html
+./lyrics/rescues/yourenotlistening.html
+./lyrics/rescues/crazyeverafter.html
+./lyrics/rescues/matteroftime.html
+./lyrics/rescues/myheartwithyou.html

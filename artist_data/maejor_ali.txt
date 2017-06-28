@@ -1,0 +1,6 @@
+./lyrics/maejorali/dance.html
+./lyrics/maejorali/getyoualone.html
+./lyrics/maejorali/lolly.html
+./lyrics/maejorali/meandmyteam.html
+./lyrics/maejorali/meandyou.html
+./lyrics/maejorali/vibrations.html

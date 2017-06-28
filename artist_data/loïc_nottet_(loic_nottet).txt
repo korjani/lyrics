@@ -1,0 +1,13 @@
+./lyrics/locnottet/selfocracy.html
+./lyrics/locnottet/mudblood.html
+./lyrics/locnottet/team8.html
+./lyrics/locnottet/dirty.html
+./lyrics/locnottet/millioneyes.html
+./lyrics/locnottet/whisperers.html
+./lyrics/locnottet/poison.html
+./lyrics/locnottet/cure.html
+./lyrics/locnottet/wolves.html
+./lyrics/locnottet/hungryheart.html
+./lyrics/locnottet/peculiarandbeautiful.html
+./lyrics/locnottet/mirror.html
+./lyrics/locnottet/rhythminside.html

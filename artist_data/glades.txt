@@ -1,0 +1,11 @@
+./lyrics/glades/speechless.html
+./lyrics/glades/herlovingyou.html
+./lyrics/glades/skylines.html
+./lyrics/glades/summerair.html
+./lyrics/glades/drive.html
+./lyrics/glades/iwantyousobad.html
+./lyrics/glades/drivestripped.html
+./lyrics/glades/dangerous.html
+./lyrics/glades/fallingaway.html
+./lyrics/glades/fools.html
+./lyrics/glades/keepitfromyou.html

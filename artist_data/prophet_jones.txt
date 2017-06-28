@@ -1,0 +1,3 @@
+./lyrics/prophetjones/allido.html
+./lyrics/prophetjones/iknowyouwanna.html
+./lyrics/prophetjones/lifetime.html

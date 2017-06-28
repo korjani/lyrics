@@ -1,0 +1,10 @@
+./lyrics/matthewmole/chapel.html
+./lyrics/matthewmole/autumn.html
+./lyrics/matthewmole/takeyoursilltakemine.html
+./lyrics/matthewmole/theweddingsong.html
+./lyrics/matthewmole/itssimplechild.html
+./lyrics/matthewmole/youyourcrown.html
+./lyrics/matthewmole/freeuntorn.html
+./lyrics/matthewmole/haveitoldyou.html
+./lyrics/matthewmole/run.html
+./lyrics/matthewmole/yeoflittlefaith.html

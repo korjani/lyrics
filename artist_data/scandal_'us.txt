@@ -1,0 +1,9 @@
+./lyrics/scandalus/bethatway.html
+./lyrics/scandalus/highonyourlove.html
+./lyrics/scandalus/history.html
+./lyrics/scandalus/loveyoutobemybaby.html
+./lyrics/scandalus/makemecrazy.html
+./lyrics/scandalus/memyselfi.html
+./lyrics/scandalus/startinsomethin.html
+./lyrics/scandalus/thinkagain.html
+./lyrics/scandalus/youbringmelove.html

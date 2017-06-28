@@ -1,0 +1,9 @@
+./lyrics/grl/uglyheart.html
+./lyrics/grl/showmewhatyougot.html
+./lyrics/grl/rewind.html
+./lyrics/grl/donttalkaboutlove.html
+./lyrics/grl/girlsarealwaysright.html
+./lyrics/grl/arewegood.html
+./lyrics/grl/kissmyself.html
+./lyrics/grl/lighthouse.html
+./lyrics/grl/vacation.html

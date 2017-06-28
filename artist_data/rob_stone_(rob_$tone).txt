@@ -1,0 +1,15 @@
+./lyrics/robstone/lemotionaldreamsintro.html
+./lyrics/robstone/okayokayokay.html
+./lyrics/robstone/rollingtone.html
+./lyrics/robstone/dontyoudare.html
+./lyrics/robstone/icecreamman2.html
+./lyrics/robstone/pulluponit.html
+./lyrics/robstone/vintagecouch.html
+./lyrics/robstone/hitme.html
+./lyrics/robstone/meetings.html
+./lyrics/robstone/check.html
+./lyrics/robstone/chillbillremix.html
+./lyrics/robstone/chillbill.html
+./lyrics/robstone/nachos.html
+./lyrics/robstone/nofeelings.html
+./lyrics/robstone/suspects.html

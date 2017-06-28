@@ -1,0 +1,7 @@
+./lyrics/cartoon/irememberu.html
+./lyrics/cartoon/immortality.html
+./lyrics/cartoon/mademefeel.html
+./lyrics/cartoon/onon.html
+./lyrics/cartoon/oneday.html
+./lyrics/cartoon/whateverido.html
+./lyrics/cartoon/whywelose.html

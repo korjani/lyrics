@@ -1,0 +1,7 @@
+./lyrics/elenlevon/coolenough.html
+./lyrics/elenlevon/dancingtothesamesong.html
+./lyrics/elenlevon/kingdom.html
+./lyrics/elenlevon/likeagirlinlove.html
+./lyrics/elenlevon/naughty.html
+./lyrics/elenlevon/overmyhead.html
+./lyrics/elenlevon/wildchild.html

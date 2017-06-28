@@ -1,0 +1,2 @@
+./lyrics/misse/forgettoforget.html
+./lyrics/misse/hummingbird.html

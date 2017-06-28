@@ -1,0 +1,17 @@
+./lyrics/altiyanchilds/somewhereintheworld.html
+./lyrics/altiyanchilds/heysoulsister.html
+./lyrics/altiyanchilds/beautifulday.html
+./lyrics/altiyanchilds/sexonfire.html
+./lyrics/altiyanchilds/livinonaprayer.html
+./lyrics/altiyanchilds/nevertearusapart.html
+./lyrics/altiyanchilds/blazeofglory.html
+./lyrics/altiyanchilds/eyeofthetiger.html
+./lyrics/altiyanchilds/summerof69.html
+./lyrics/altiyanchilds/thelivingyears.html
+./lyrics/altiyanchilds/theladyinred.html
+./lyrics/altiyanchilds/bluejeans.html
+./lyrics/altiyanchilds/headlines.html
+./lyrics/altiyanchilds/letsforget.html
+./lyrics/altiyanchilds/ordinaryman.html
+./lyrics/altiyanchilds/riseup.html
+./lyrics/altiyanchilds/water.html

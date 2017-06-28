@@ -1,0 +1,13 @@
+./lyrics/marlisa/standbyyou.html
+./lyrics/marlisa/yesterday.html
+./lyrics/marlisa/allbymyself.html
+./lyrics/marlisa/hopelesslydevotedtoyou.html
+./lyrics/marlisa/letitgo.html
+./lyrics/marlisa/nothingelsematters.html
+./lyrics/marlisa/try.html
+./lyrics/marlisa/titanium.html
+./lyrics/marlisa/somewhereovertherainbow.html
+./lyrics/marlisa/girlonfire.html
+./lyrics/marlisa/impossible.html
+./lyrics/marlisa/foreveryoung.html
+./lyrics/marlisa/unstoppablefillipinoversion.html

@@ -1,0 +1,3 @@
+./lyrics/codikaye/butterfly.html
+./lyrics/codikaye/myconscience.html
+./lyrics/codikaye/yourenotinnocent.html

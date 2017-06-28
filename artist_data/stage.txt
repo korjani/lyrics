@@ -1,0 +1,11 @@
+./lyrics/stage/theworldhascomebetweenus.html
+./lyrics/stage/anangelscreamsfromouterspace.html
+./lyrics/stage/iwillbesomething.html
+./lyrics/stage/idontknow.html
+./lyrics/stage/perfect.html
+./lyrics/stage/iknowwhereyouare.html
+./lyrics/stage/countrybleeding.html
+./lyrics/stage/livehappyliveanorexia.html
+./lyrics/stage/flag.html
+./lyrics/stage/thescientistscanvas.html
+./lyrics/stage/jesuswasatesttubebaby.html

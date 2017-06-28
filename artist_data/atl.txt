@@ -1,0 +1,10 @@
+./lyrics/atl/callingallgirls.html
+./lyrics/atl/makeitupwithlove.html
+./lyrics/atl/letme.html
+./lyrics/atl/itsus.html
+./lyrics/atl/shawty.html
+./lyrics/atl/youare.html
+./lyrics/atl/iwish.html
+./lyrics/atl/nomore.html
+./lyrics/atl/thatgirl.html
+./lyrics/atl/theone.html

@@ -1,0 +1,12 @@
+./lyrics/amir/jaicherch.html
+./lyrics/amir/ondirait.html
+./lyrics/amir/aucurdemoi.html
+./lyrics/amir/maviemavillemonmonde.html
+./lyrics/amir/tamanire.html
+./lyrics/amir/iknow.html
+./lyrics/amir/trshaut.html
+./lyrics/amir/jereviendrai.html
+./lyrics/amir/lost.html
+./lyrics/amir/oasis.html
+./lyrics/amir/brokenheart.html
+./lyrics/amir/ilesttempsquonmaime.html

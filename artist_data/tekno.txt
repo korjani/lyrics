@@ -1,0 +1,8 @@
+./lyrics/tekno/be.html
+./lyrics/tekno/dance.html
+./lyrics/tekno/diana.html
+./lyrics/tekno/pana.html
+./lyrics/tekno/rara.html
+./lyrics/tekno/wash.html
+./lyrics/tekno/where.html
+./lyrics/tekno/yawa.html

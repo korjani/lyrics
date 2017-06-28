@@ -1,0 +1,5 @@
+./lyrics/patrickjrgensen/fanmail.html
+./lyrics/patrickjrgensen/hardtosaygoodbye.html
+./lyrics/patrickjrgensen/imdreaming.html
+./lyrics/patrickjrgensen/lifeline.html
+./lyrics/patrickjrgensen/millionquestions.html

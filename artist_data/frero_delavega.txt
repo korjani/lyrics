@@ -1,0 +1,5 @@
+./lyrics/frerodelavega/ilya.html
+./lyrics/frerodelavega/monpetitpays.html
+./lyrics/frerodelavega/savetonight.html
+./lyrics/frerodelavega/sexybitch.html
+./lyrics/frerodelavega/tonvisage.html

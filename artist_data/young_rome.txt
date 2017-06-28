@@ -1,0 +1,13 @@
+./lyrics/youngrome/intro.html
+./lyrics/youngrome/freaky.html
+./lyrics/youngrome/idontcare.html
+./lyrics/youngrome/afterparty.html
+./lyrics/youngrome/inmybedroom.html
+./lyrics/youngrome/crazygirl.html
+./lyrics/youngrome/sexapade.html
+./lyrics/youngrome/bestdays.html
+./lyrics/youngrome/clap.html
+./lyrics/youngrome/inmycar.html
+./lyrics/youngrome/whachadointonight.html
+./lyrics/youngrome/lookdownonme.html
+./lyrics/youngrome/foryourlove.html

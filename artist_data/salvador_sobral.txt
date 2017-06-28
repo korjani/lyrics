@@ -1,0 +1,14 @@
+./lyrics/salvadorsobral/excuseme.html
+./lyrics/salvadorsobral/nadaqueesperar.html
+./lyrics/salvadorsobral/change.html
+./lyrics/salvadorsobral/nemeu.html
+./lyrics/salvadorsobral/autumninnewyork.html
+./lyrics/salvadorsobral/readyforloveagain.html
+./lyrics/salvadorsobral/somethingreal.html
+./lyrics/salvadorsobral/ayamor.html
+./lyrics/salvadorsobral/beachprision.html
+./lyrics/salvadorsobral/imightjuststayaway.html
+./lyrics/salvadorsobral/afteryouvegone.html
+./lyrics/salvadorsobral/glow.html
+./lyrics/salvadorsobral/amarpelosdois.html
+./lyrics/salvadorsobral/youdbesonicetocomehome.html

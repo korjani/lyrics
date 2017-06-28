@@ -1,0 +1,9 @@
+./lyrics/keithmartin/anykindofreason.html
+./lyrics/keithmartin/becauseofyou.html
+./lyrics/keithmartin/foreverwillbetheweddingsong.html
+./lyrics/keithmartin/ithinkofyouallofthetime.html
+./lyrics/keithmartin/loveofmylife.html
+./lyrics/keithmartin/neverfindsomeonelikeyou.html
+./lyrics/keithmartin/overjoyed.html
+./lyrics/keithmartin/realthing.html
+./lyrics/keithmartin/withoutyou.html

@@ -1,0 +1,8 @@
+./lyrics/wdl/bobsbeat.html
+./lyrics/wdl/stardust.html
+./lyrics/wdl/monstervsangel.html
+./lyrics/wdl/hurricanehighlife.html
+./lyrics/wdl/cashmere.html
+./lyrics/wdl/bobsbeat.html
+./lyrics/wdl/losingsleep.html
+./lyrics/wdl/tincanmotorbike.html

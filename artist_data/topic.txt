@@ -1,0 +1,3 @@
+./lyrics/topic/breakmyhabits.html
+./lyrics/topic/findyou.html
+./lyrics/topic/home.html

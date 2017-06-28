@@ -1,0 +1,5 @@
+./lyrics/allyburnett/creationofamonster.html
+./lyrics/allyburnett/ifwerebeinghonest.html
+./lyrics/allyburnett/talkofthetown.html
+./lyrics/allyburnett/theexboyfriendsong.html
+./lyrics/allyburnett/wewouldvebrokenuponceyouheardthissonganyway.html

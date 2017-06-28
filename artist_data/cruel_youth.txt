@@ -1,0 +1,7 @@
+./lyrics/cruelyouth/everythingwasbeautiful.html
+./lyrics/cruelyouth/alexistexas.html
+./lyrics/cruelyouth/mrwatson.html
+./lyrics/cruelyouth/idontloveyou.html
+./lyrics/cruelyouth/floridablues.html
+./lyrics/cruelyouth/hatefuck.html
+./lyrics/cruelyouth/diamonddays.html

@@ -1,0 +1,8 @@
+./lyrics/sabrinaclaudio/toomuchtoolate.html
+./lyrics/sabrinaclaudio/tellme.html
+./lyrics/sabrinaclaudio/runninthrulovers.html
+./lyrics/sabrinaclaudio/confidentlylost.html
+./lyrics/sabrinaclaudio/orionsbelt.html
+./lyrics/sabrinaclaudio/idont.html
+./lyrics/sabrinaclaudio/tellmeacoustic.html
+./lyrics/sabrinaclaudio/unravelme.html

@@ -1,0 +1,12 @@
+./lyrics/hugo/oldtymereligion.html
+./lyrics/hugo/99problems.html
+./lyrics/hugo/breadbutter.html
+./lyrics/hugo/rocknrolldelight.html
+./lyrics/hugo/hopelesslystoned.html
+./lyrics/hugo/hurtmakesitbeautiful.html
+./lyrics/hugo/born.html
+./lyrics/hugo/mekongriverdelta.html
+./lyrics/hugo/sweetestcure.html
+./lyrics/hugo/differentlives.html
+./lyrics/hugo/justashred.html
+./lyrics/hugo/wakealone.html

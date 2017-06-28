@@ -1,0 +1,5 @@
+./lyrics/sixpartinvention/fallinginlove.html
+./lyrics/sixpartinvention/sanayakonalang.html
+./lyrics/sixpartinvention/theflame.html
+./lyrics/sixpartinvention/timemachine.html
+./lyrics/sixpartinvention/twostepsbehind.html

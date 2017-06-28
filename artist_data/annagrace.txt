@@ -1,0 +1,3 @@
+./lyrics/annagrace/letthefeelingsgo.html
+./lyrics/annagrace/lovekeepscalling.html
+./lyrics/annagrace/youmakemefeel.html

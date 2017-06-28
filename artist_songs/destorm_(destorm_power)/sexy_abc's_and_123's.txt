@@ -1,0 +1,65 @@
+[Intro:]
+O, D, Volume, at, Z
+O, D, Volume, Z
+O, O, A, E, O, O, O, O, O
+
+A, B, I, C, U
+R, U, N, 2, D
+I, M, N, 2, U, 2
+F, D, #, Return, D, tab
+4, I, M, Down
+2, C, U, @ [at]
+9, 0, 5
+&[And], Shift, 2, 4, Play
+B, 2, E, Z
+O, K, Home, 2, D, 4, Play
+2, 6, A, M
+I, M, N, Ctrl [control]
+I, B, # [number], 1
+Y, D, Vol [volumes], @ [at]
+Y, D, Vol [volumes], @ [at]
+O, D, Vol [volumes], @ [at]
+
+O, D, Vol [volumes], @ [at]
+O, D, Vol [volumes], @ [at]
+O, D, Vol [volumes], @ [at]
+O, D, Vol [volumes], @ [at]
+O, D, Vol [volumes], @ [at]
+O, D, Vol [volumes], @ [at]
+O, O, O, O
+U, Esc [escape], 4, A,. [period]
+
+[DeStorm:]
+U, F7 [rewind], 4, A,. [period]
+
+[Background Vocal:]
+U, F7 [rewind], 4, A,. [period]
+
+[DeStorm:]
+U, Esc [escape], 4, A,. [period]
+
+[Background Vocal:]
+Esc [escape], 4, A,. [period]
+
+[DeStorm:]
+And [and], F7 [rewind], 4, A,. [period]
+
+[Background Vocal:]
+F7 [rewind], 4, A,. [period]
+
+[DeStorm:]
++ [plus], I, M, > [greater], D, X
+
+[Background Vocal]
+O
+
+[DeStorm:]
++ [plus], I, M, > [greater], D, X
+
+[Background Vocal:]
+O
+
+[DeStorm:]
+U, Return [Enter] 4, D, Sex
+
+Oops I guess sex isn't on the keyboard...

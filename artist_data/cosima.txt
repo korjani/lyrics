@@ -1,0 +1,8 @@
+./lyrics/cosima/wyd.html
+./lyrics/cosima/concubinescall.html
+./lyrics/cosima/hymnsforhim.html
+./lyrics/cosima/girlswhogetready.html
+./lyrics/cosima/southofheaven.html
+./lyrics/cosima/hadtofeelsomething.html
+./lyrics/cosima/supernova.html
+./lyrics/cosima/tobuildahouse.html

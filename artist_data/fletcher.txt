@@ -1,0 +1,7 @@
+./lyrics/fletcher/princess.html
+./lyrics/fletcher/warpaint.html
+./lyrics/fletcher/overmyhead.html
+./lyrics/fletcher/avalanche.html
+./lyrics/fletcher/wastedyouth.html
+./lyrics/fletcher/liveyoungdiefree.html
+./lyrics/fletcher/wishlist.html

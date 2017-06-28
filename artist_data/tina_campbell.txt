@@ -1,0 +1,11 @@
+./lyrics/tinacampbell/holyspirit.html
+./lyrics/tinacampbell/onlyjesusdidit.html
+./lyrics/tinacampbell/lovelovelove.html
+./lyrics/tinacampbell/wohohoh.html
+./lyrics/tinacampbell/life.html
+./lyrics/tinacampbell/destiny.html
+./lyrics/tinacampbell/illwait.html
+./lyrics/tinacampbell/icallyoujesus.html
+./lyrics/tinacampbell/speaktheword.html
+./lyrics/tinacampbell/imeverythingwithya.html
+./lyrics/tinacampbell/forevermore.html

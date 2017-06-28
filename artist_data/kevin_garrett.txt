@@ -1,0 +1,12 @@
+./lyrics/kevingarrett/coloring.html
+./lyrics/kevingarrett/pushingaway.html
+./lyrics/kevingarrett/control.html
+./lyrics/kevingarrett/comeupshort.html
+./lyrics/kevingarrett/neverknock.html
+./lyrics/kevingarrett/aheartlikeyours.html
+./lyrics/kevingarrett/stranglehold.html
+./lyrics/kevingarrett/pullingmeunder.html
+./lyrics/kevingarrett/littlebitofyou.html
+./lyrics/kevingarrett/thewayikeepmyselftogether.html
+./lyrics/kevingarrett/precious.html
+./lyrics/kevingarrett/refuse.html

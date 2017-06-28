@@ -1,0 +1,11 @@
+./lyrics/lowlevelflight/changeforme.html
+./lyrics/lowlevelflight/hesitate.html
+./lyrics/lowlevelflight/whenwillilearn.html
+./lyrics/lowlevelflight/hateyou.html
+./lyrics/lowlevelflight/turnaround.html
+./lyrics/lowlevelflight/say.html
+./lyrics/lowlevelflight/forasecond.html
+./lyrics/lowlevelflight/holiday.html
+./lyrics/lowlevelflight/savemysoul.html
+./lyrics/lowlevelflight/allthatineed.html
+./lyrics/lowlevelflight/brooklynradio.html

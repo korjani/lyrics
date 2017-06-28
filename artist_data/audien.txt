@@ -1,0 +1,7 @@
+./lyrics/audien/somethingbetter.html
+./lyrics/audien/pharaohs.html
+./lyrics/audien/monaco.html
+./lyrics/audien/crazylove.html
+./lyrics/audien/insomnia.html
+./lyrics/audien/leavingyou.html
+./lyrics/audien/onemoreweekend.html

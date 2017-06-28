@@ -1,0 +1,7 @@
+./lyrics/jetta/startariot.html
+./lyrics/jetta/canyouhearmenow.html
+./lyrics/jetta/feelslikecominghome.html
+./lyrics/jetta/operators.html
+./lyrics/jetta/takeiteasy.html
+./lyrics/jetta/crescendo.html
+./lyrics/jetta/idlovetochangetheworld.html

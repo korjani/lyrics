@@ -1,0 +1,12 @@
+./lyrics/jvalentine/badbehavior.html
+./lyrics/jvalentine/bedbathbeyond.html
+./lyrics/jvalentine/bestfriend.html
+./lyrics/jvalentine/churchgirl.html
+./lyrics/jvalentine/climbthemwalls.html
+./lyrics/jvalentine/freaky.html
+./lyrics/jvalentine/getwitthis.html
+./lyrics/jvalentine/godumbimsprungbayarearemix.html
+./lyrics/jvalentine/ijustwanna.html
+./lyrics/jvalentine/shesworththetrouble.html
+./lyrics/jvalentine/trapped.html
+./lyrics/jvalentine/uprbremix.html

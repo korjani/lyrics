@@ -1,0 +1,15 @@
+./lyrics/houston/itsalreadywrittenparti.html
+./lyrics/houston/ilikethat.html
+./lyrics/houston/twizalainterlude.html
+./lyrics/houston/twizala.html
+./lyrics/houston/aintnothingwrong.html
+./lyrics/houston/mypromise.html
+./lyrics/houston/keepitonthelow.html
+./lyrics/houston/whatyousay.html
+./lyrics/houston/loveyoudown.html
+./lyrics/houston/allright.html
+./lyrics/houston/byebyelove.html
+./lyrics/houston/didntgiveadamninterlude.html
+./lyrics/houston/didntgiveadamn.html
+./lyrics/houston/sheis.html
+./lyrics/houston/itsalreadywrittenpartii.html

@@ -1,0 +1,2 @@
+./lyrics/liv/dreamawake.html
+./lyrics/liv/wingsoflove.html

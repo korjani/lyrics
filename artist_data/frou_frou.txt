@@ -1,0 +1,16 @@
+./lyrics/froufrou/letgo.html
+./lyrics/froufrou/breathein.html
+./lyrics/froufrou/itsgoodtobeinlove.html
+./lyrics/froufrou/mustbedreaming.html
+./lyrics/froufrou/psychobabble.html
+./lyrics/froufrou/onlygotone.html
+./lyrics/froufrou/shh.html
+./lyrics/froufrou/hearmeout.html
+./lyrics/froufrou/maddeningshroud.html
+./lyrics/froufrou/flicks.html
+./lyrics/froufrou/thedumbingdownoflove.html
+./lyrics/froufrou/oldpiano.html
+./lyrics/froufrou/anewkindoflove.html
+./lyrics/froufrou/closeup.html
+./lyrics/froufrou/dealwithit.html
+./lyrics/froufrou/holdingoutforahero.html

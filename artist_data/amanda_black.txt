@@ -1,0 +1,2 @@
+./lyrics/amandablack/amazulu.html
+./lyrics/amandablack/buyelakum.html

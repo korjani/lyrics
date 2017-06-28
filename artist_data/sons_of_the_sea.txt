@@ -1,0 +1,10 @@
+./lyrics/sonsofthesea/jetblackcrow.html
+./lyrics/sonsofthesea/spaceandtime.html
+./lyrics/sonsofthesea/untethered.html
+./lyrics/sonsofthesea/plusminus.html
+./lyrics/sonsofthesea/greatescape.html
+./lyrics/sonsofthesea/cometogether.html
+./lyrics/sonsofthesea/whereallthesongscomefrom.html
+./lyrics/sonsofthesea/avalanche.html
+./lyrics/sonsofthesea/ladyblack.html
+./lyrics/sonsofthesea/heythatsnowaytosaygoodbye.html

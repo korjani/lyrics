@@ -1,0 +1,7 @@
+./lyrics/jacksonguthy/badboy.html
+./lyrics/jacksonguthy/brotherssisters.html
+./lyrics/jacksonguthy/everythingyoudo.html
+./lyrics/jacksonguthy/loving.html
+./lyrics/jacksonguthy/oneofthesedays.html
+./lyrics/jacksonguthy/roll.html
+./lyrics/jacksonguthy/youngsingle.html

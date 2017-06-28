@@ -1,0 +1,7 @@
+./lyrics/ayojay/available.html
+./lyrics/ayojay/dontsaythat.html
+./lyrics/ayojay/thevibe.html
+./lyrics/ayojay/wantyou.html
+./lyrics/ayojay/yournumber.html
+./lyrics/ayojay/yournumberchrisbrownkidinkremix.html
+./lyrics/ayojay/yournumberfettywapremix.html

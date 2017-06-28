@@ -1,0 +1,14 @@
+./lyrics/novoamor/fromgold.html
+./lyrics/novoamor/weather.html
+./lyrics/novoamor/cold.html
+./lyrics/novoamor/holland.html
+./lyrics/novoamor/carryyou.html
+./lyrics/novoamor/colourway.html
+./lyrics/novoamor/anchor.html
+./lyrics/novoamor/embodyme.html
+./lyrics/novoamor/alps.html
+./lyrics/novoamor/callow.html
+./lyrics/novoamor/faux.html
+./lyrics/novoamor/flay.html
+./lyrics/novoamor/sowedrift.html
+./lyrics/novoamor/welcometothejungle.html

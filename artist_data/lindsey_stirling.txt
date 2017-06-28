@@ -1,0 +1,12 @@
+./lyrics/lindseystirling/shatterme.html
+./lyrics/lindseystirling/wearegiants.html
+./lyrics/lindseystirling/braveenough.html
+./lyrics/lindseystirling/wheredowego.html
+./lyrics/lindseystirling/thosedays.html
+./lyrics/lindseystirling/holdmyheart.html
+./lyrics/lindseystirling/dontletthisfeelingfade.html
+./lyrics/lindseystirling/lovesjustafeeling.html
+./lyrics/lindseystirling/somethingwild.html
+./lyrics/lindseystirling/comewithus.html
+./lyrics/lindseystirling/firefly.html
+./lyrics/lindseystirling/radioactive.html

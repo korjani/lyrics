@@ -1,0 +1,11 @@
+./lyrics/jerzeemonet/mosthigh.html
+./lyrics/jerzeemonet/respect.html
+./lyrics/jerzeemonet/workitout.html
+./lyrics/jerzeemonet/tonightisthenight.html
+./lyrics/jerzeemonet/yeah.html
+./lyrics/jerzeemonet/stopmyflow.html
+./lyrics/jerzeemonet/twisted.html
+./lyrics/jerzeemonet/betterthanthat.html
+./lyrics/jerzeemonet/missingyou.html
+./lyrics/jerzeemonet/oneofthosedays.html
+./lyrics/jerzeemonet/mosthighremix.html

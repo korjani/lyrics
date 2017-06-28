@@ -1,0 +1,6 @@
+./lyrics/palms/futurewarrior.html
+./lyrics/palms/patagonia.html
+./lyrics/palms/missionsunset.html
+./lyrics/palms/shortwaveradio.html
+./lyrics/palms/tropics.html
+./lyrics/palms/antarctichandshake.html

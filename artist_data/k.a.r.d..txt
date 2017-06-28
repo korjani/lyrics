@@ -1,0 +1,2 @@
+./lyrics/kard/dontrecall.html
+./lyrics/kard/ohnana.html

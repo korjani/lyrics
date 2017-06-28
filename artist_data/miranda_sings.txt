@@ -1,0 +1,9 @@
+./lyrics/mirandasings/asongforthehaters.html
+./lyrics/mirandasings/burninthehaters.html
+./lyrics/mirandasings/dothemiranda.html
+./lyrics/mirandasings/mirandacamp.html
+./lyrics/mirandasings/myfamily.html
+./lyrics/mirandasings/sexybutterylovesong.html
+./lyrics/mirandasings/shook.html
+./lyrics/mirandasings/thehappythanksgivingsong.html
+./lyrics/mirandasings/wheremybaesat.html

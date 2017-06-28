@@ -1,0 +1,6 @@
+./lyrics/adelen/alwaysonmymind.html
+./lyrics/adelen/bailaconmigo.html
+./lyrics/adelen/bombo.html
+./lyrics/adelen/ol.html
+./lyrics/adelen/spellonme.html
+./lyrics/adelen/wildlikeme.html

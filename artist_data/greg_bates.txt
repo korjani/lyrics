@@ -1,0 +1,7 @@
+./lyrics/gregbates/gotime.html
+./lyrics/gregbates/brothers.html
+./lyrics/gregbates/fillintheblank.html
+./lyrics/gregbates/lostincaroline.html
+./lyrics/gregbates/diditforthegirl.html
+./lyrics/gregbates/myvow.html
+./lyrics/gregbates/sand.html

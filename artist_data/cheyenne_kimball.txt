@@ -1,0 +1,14 @@
+./lyrics/cheyennekimball/intro.html
+./lyrics/cheyennekimball/iwantto.html
+./lyrics/cheyennekimball/hangingon.html
+./lyrics/cheyennekimball/oneoriginalthing.html
+./lyrics/cheyennekimball/thedayhascome.html
+./lyrics/cheyennekimball/fourwalls.html
+./lyrics/cheyennekimball/hellogoodbye.html
+./lyrics/cheyennekimball/goodgobad.html
+./lyrics/cheyennekimball/everythingtolose.html
+./lyrics/cheyennekimball/mrbeautiful.html
+./lyrics/cheyennekimball/breakingyourheart.html
+./lyrics/cheyennekimball/didnti.html
+./lyrics/cheyennekimball/fullcircle.html
+./lyrics/cheyennekimball/wonderful.html

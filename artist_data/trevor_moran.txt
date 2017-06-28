@@ -1,0 +1,12 @@
+./lyrics/trevormoran/xiat.html
+./lyrics/trevormoran/nowornever.html
+./lyrics/trevormoran/slay.html
+./lyrics/trevormoran/echo.html
+./lyrics/trevormoran/letsroll.html
+./lyrics/trevormoran/gotmefeelinlike.html
+./lyrics/trevormoran/iwannafly.html
+./lyrics/trevormoran/coldsoul.html
+./lyrics/trevormoran/alive.html
+./lyrics/trevormoran/getmethroughthenight.html
+./lyrics/trevormoran/someone.html
+./lyrics/trevormoran/thedarkside.html

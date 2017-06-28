@@ -1,0 +1,2 @@
+./lyrics/scarlettjohansson/idontwanna.html
+./lyrics/scarlettjohansson/setitallfree.html

@@ -1,0 +1,11 @@
+./lyrics/grahamcoltonband/dontgiveuponme.html
+./lyrics/grahamcoltonband/sinceyoubrokeit.html
+./lyrics/grahamcoltonband/firstweek.html
+./lyrics/grahamcoltonband/morninglight.html
+./lyrics/grahamcoltonband/sendinganote.html
+./lyrics/grahamcoltonband/cigarette.html
+./lyrics/grahamcoltonband/killingme.html
+./lyrics/grahamcoltonband/howlowbreakdown.html
+./lyrics/grahamcoltonband/cut.html
+./lyrics/grahamcoltonband/south.html
+./lyrics/grahamcoltonband/alltheworldtonight.html

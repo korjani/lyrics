@@ -1,0 +1,3 @@
+./lyrics/frans/ifiweresorry.html
+./lyrics/frans/liar.html
+./lyrics/frans/younglikeus.html

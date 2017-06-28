@@ -1,0 +1,3 @@
+./lyrics/loonie/balewala.html
+./lyrics/loonie/pilosopo.html
+./lyrics/loonie/taolang.html

@@ -1,0 +1,6 @@
+./lyrics/voicesoftheory/inside.html
+./lyrics/voicesoftheory/somehow.html
+./lyrics/voicesoftheory/sayit.html
+./lyrics/voicesoftheory/whereveryougo.html
+./lyrics/voicesoftheory/canwegoback.html
+./lyrics/voicesoftheory/dmelosayit.html

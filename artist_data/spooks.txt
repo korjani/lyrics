@@ -1,0 +1,11 @@
+./lyrics/spooks/otherscript.html
+./lyrics/spooks/themission.html
+./lyrics/spooks/thingsiveseen.html
+./lyrics/spooks/theydontknow.html
+./lyrics/spooks/igotu.html
+./lyrics/spooks/fleshnotbone.html
+./lyrics/spooks/sweetrevenge.html
+./lyrics/spooks/karmahotel.html
+./lyrics/spooks/somethingfresh.html
+./lyrics/spooks/swindleysmaracas.html
+./lyrics/spooks/fasterthanyouknow.html

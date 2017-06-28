@@ -1,0 +1,3 @@
+./lyrics/dannarichards/chasingdays.html
+./lyrics/dannarichards/foreverlove.html
+./lyrics/dannarichards/whereyouare.html

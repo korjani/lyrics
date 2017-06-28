@@ -1,0 +1,6 @@
+./lyrics/deanlewis/waves.html
+./lyrics/deanlewis/needyounow.html
+./lyrics/deanlewis/letgo.html
+./lyrics/deanlewis/losemymind.html
+./lyrics/deanlewis/chemicals.html
+./lyrics/deanlewis/adore.html

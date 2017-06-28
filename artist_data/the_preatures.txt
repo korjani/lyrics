@@ -1,0 +1,17 @@
+./lyrics/preatures/takeacard.html
+./lyrics/preatures/threat.html
+./lyrics/preatures/palerider.html
+./lyrics/preatures/youngbraveme.html
+./lyrics/preatures/isthishowyoufeel.html
+./lyrics/preatures/manicbaby.html
+./lyrics/preatures/revelationsoyoung.html
+./lyrics/preatures/blueplaneteyes.html
+./lyrics/preatures/somebodystalking.html
+./lyrics/preatures/isthishowyoufeel.html
+./lyrics/preatures/ordinary.html
+./lyrics/preatures/twotonemelody.html
+./lyrics/preatures/rockandrollrave.html
+./lyrics/preatures/whateveryouwant.html
+./lyrics/preatures/cruel.html
+./lyrics/preatures/itgetsbetter.html
+./lyrics/preatures/businessyeah.html

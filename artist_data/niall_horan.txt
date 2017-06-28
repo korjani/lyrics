@@ -1,0 +1,4 @@
+./lyrics/niallhoran/candy.html
+./lyrics/niallhoran/ontheloose.html
+./lyrics/niallhoran/slowhands.html
+./lyrics/niallhoran/thistown.html

@@ -1,0 +1,5 @@
+./lyrics/filous/dawn.html
+./lyrics/filous/howharditry.html
+./lyrics/filous/betteroff.html
+./lyrics/filous/shadedin.html
+./lyrics/filous/goodbye.html

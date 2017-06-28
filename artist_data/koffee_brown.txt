@@ -1,0 +1,11 @@
+./lyrics/koffeebrown/intro.html
+./lyrics/koffeebrown/weekendthing.html
+./lyrics/koffeebrown/afterparty.html
+./lyrics/koffeebrown/didntmeantoturnyouon.html
+./lyrics/koffeebrown/chickondaside.html
+./lyrics/koffeebrown/fingerpointing.html
+./lyrics/koffeebrown/blackout.html
+./lyrics/koffeebrown/quickie.html
+./lyrics/koffeebrown/qualify.html
+./lyrics/koffeebrown/marsvenusinterlude.html
+./lyrics/koffeebrown/doyousee.html

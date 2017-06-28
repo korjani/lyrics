@@ -1,0 +1,10 @@
+./lyrics/jorjasmith/somethingintheway.html
+./lyrics/jorjasmith/solonely.html
+./lyrics/jorjasmith/carrymehomeinterlude.html
+./lyrics/jorjasmith/carrymehome.html
+./lyrics/jorjasmith/imperfectcircle.html
+./lyrics/jorjasmith/aprince.html
+./lyrics/jorjasmith/beautifullittlefools.html
+./lyrics/jorjasmith/bluelights.html
+./lyrics/jorjasmith/teenagefantasy.html
+./lyrics/jorjasmith/wheredidigo.html

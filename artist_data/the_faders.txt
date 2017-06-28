@@ -1,0 +1,12 @@
+./lyrics/faders/nosleeptonight.html
+./lyrics/faders/jump.html
+./lyrics/faders/whateverittakes.html
+./lyrics/faders/girlscanmakeyoucry.html
+./lyrics/faders/betteroffdead.html
+./lyrics/faders/shejustwantstobeloved.html
+./lyrics/faders/herewithme.html
+./lyrics/faders/youknowyoushould.html
+./lyrics/faders/strangeboy.html
+./lyrics/faders/iletyougoagain.html
+./lyrics/faders/idontmeanmaybe.html
+./lyrics/faders/justlookatmenow.html

@@ -1,0 +1,12 @@
+./lyrics/heavensbasement/welcomehome.html
+./lyrics/heavensbasement/firefire.html
+./lyrics/heavensbasement/nothinglefttolose.html
+./lyrics/heavensbasement/lightsoutinlondon.html
+./lyrics/heavensbasement/iamelectric.html
+./lyrics/heavensbasement/thelonggoodbye.html
+./lyrics/heavensbasement/heartbreakingsonofabitch.html
+./lyrics/heavensbasement/besomebody.html
+./lyrics/heavensbasement/cantletgo.html
+./lyrics/heavensbasement/thepricewepay.html
+./lyrics/heavensbasement/jumpback.html
+./lyrics/heavensbasement/executionersday.html

@@ -1,0 +1,7 @@
+./lyrics/avery/aheadofyourtime.html
+./lyrics/avery/americanidiot.html
+./lyrics/avery/goscrewyourself.html
+./lyrics/avery/lovemeorletmego.html
+./lyrics/avery/sickofhatingyourguts.html
+./lyrics/avery/stereohearts.html
+./lyrics/avery/thatgirl.html

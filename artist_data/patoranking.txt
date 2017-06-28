@@ -1,0 +1,7 @@
+./lyrics/patoranking/alubarika.html
+./lyrics/patoranking/anotherlevel.html
+./lyrics/patoranking/friends.html
+./lyrics/patoranking/girlieo.html
+./lyrics/patoranking/girlieoremix.html
+./lyrics/patoranking/mywomanmyeverything.html
+./lyrics/patoranking/nokissingbaby.html

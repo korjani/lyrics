@@ -1,0 +1,2 @@
+./lyrics/rlumr/frustrated.html
+./lyrics/rlumr/showme.html

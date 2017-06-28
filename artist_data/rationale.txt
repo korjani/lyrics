@@ -1,0 +1,14 @@
+./lyrics/rationale/fastlane.html
+./lyrics/rationale/reup.html
+./lyrics/rationale/fueltothefire.html
+./lyrics/rationale/themire.html
+./lyrics/rationale/prodigalson.html
+./lyrics/rationale/vessels.html
+./lyrics/rationale/reciprocate.html
+./lyrics/rationale/prodigalson.html
+./lyrics/rationale/reciprocate.html
+./lyrics/rationale/vessels.html
+./lyrics/rationale/palms.html
+./lyrics/rationale/somethingfornothing.html
+./lyrics/rationale/deliverance.html
+./lyrics/rationale/noplacelikehome.html

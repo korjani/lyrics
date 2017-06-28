@@ -1,0 +1,13 @@
+./lyrics/myra/lielielie.html
+./lyrics/myra/candyboy.html
+./lyrics/myra/likeagirlinlove.html
+./lyrics/myra/miracleshappenwhenyoubelieve.html
+./lyrics/myra/byebyemylove.html
+./lyrics/myra/25hoursaday.html
+./lyrics/myra/wishingonthesamestar.html
+./lyrics/myra/dancinginthestreet.html
+./lyrics/myra/whereyouat.html
+./lyrics/myra/girlslikeboyz.html
+./lyrics/myra/asif.html
+./lyrics/myra/hanginguponyou.html
+./lyrics/myra/dreams.html

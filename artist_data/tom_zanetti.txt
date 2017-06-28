@@ -1,0 +1,2 @@
+./lyrics/tomzanetti/tnt.html
+./lyrics/tomzanetti/youwantme.html

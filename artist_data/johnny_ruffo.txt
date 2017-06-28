@@ -1,0 +1,3 @@
+./lyrics/johnnyruffo/ontop.html
+./lyrics/johnnyruffo/takeithome.html
+./lyrics/johnnyruffo/untouchable.html

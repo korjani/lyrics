@@ -1,0 +1,8 @@
+./lyrics/gracephipps/fallingforya.html
+./lyrics/gracephipps/meanttobereprise1.html
+./lyrics/gracephipps/coolestcatsintown.html
+./lyrics/gracephipps/bestsummerever.html
+./lyrics/gracephipps/rightwhereiwannabe.html
+./lyrics/gracephipps/twistyourfrownupsidedown.html
+./lyrics/gracephipps/meanttobereprise3.html
+./lyrics/gracephipps/thatshowwedo.html

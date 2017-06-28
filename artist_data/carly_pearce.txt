@@ -1,0 +1,3 @@
+./lyrics/carlypearce/blamethewhiskey.html
+./lyrics/carlypearce/dareya.html
+./lyrics/carlypearce/everylittlething.html

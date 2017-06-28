@@ -1,0 +1,12 @@
+./lyrics/steviebrock/ifubemybaby.html
+./lyrics/steviebrock/shutmedown.html
+./lyrics/steviebrock/neverwannagiveyouup.html
+./lyrics/steviebrock/ifoundyou.html
+./lyrics/steviebrock/allforlove.html
+./lyrics/steviebrock/youretheinspiration.html
+./lyrics/steviebrock/girlyouknowitstrue.html
+./lyrics/steviebrock/flying.html
+./lyrics/steviebrock/santaclausiscomingtotown.html
+./lyrics/steviebrock/threeisamagicnumber.html
+./lyrics/steviebrock/worstcasescenario.html
+./lyrics/steviebrock/zipadeedoodah.html

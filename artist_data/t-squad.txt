@@ -1,0 +1,13 @@
+./lyrics/tsquad/vertical.html
+./lyrics/tsquad/nosleeptillsummertime.html
+./lyrics/tsquad/flip.html
+./lyrics/tsquad/believe.html
+./lyrics/tsquad/parentsjustdontunderstand.html
+./lyrics/tsquad/whatchagonnado.html
+./lyrics/tsquad/rocdamic.html
+./lyrics/tsquad/graduationfriendsforever.html
+./lyrics/tsquad/thesecondstartotheright.html
+./lyrics/tsquad/melikey.html
+./lyrics/tsquad/wheretheheartis.html
+./lyrics/tsquad/trust.html
+./lyrics/tsquad/thejourneysjustbegun.html

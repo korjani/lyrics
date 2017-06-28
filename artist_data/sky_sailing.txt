@@ -1,0 +1,12 @@
+./lyrics/skysailing/captainsofthesky.html
+./lyrics/skysailing/brielle.html
+./lyrics/skysailing/steadyasshegoes.html
+./lyrics/skysailing/explorers.html
+./lyrics/skysailing/alittleoperagoesalongway.html
+./lyrics/skysailing/tenniselbow.html
+./lyrics/skysailing/blueandred.html
+./lyrics/skysailing/alaska.html
+./lyrics/skysailing/ilivealone.html
+./lyrics/skysailing/takemesomewherenice.html
+./lyrics/skysailing/sailboats.html
+./lyrics/skysailing/flowersofthefield.html

@@ -1,0 +1,10 @@
+./lyrics/fatpat/bodyroc.html
+./lyrics/fatpat/superstar.html
+./lyrics/fatpat/ghettodreams.html
+./lyrics/fatpat/whytheyhatinus.html
+./lyrics/fatpat/pymptyte.html
+./lyrics/fatpat/topsdrop.html
+./lyrics/fatpat/doulikewhatusee.html
+./lyrics/fatpat/missingourgs.html
+./lyrics/fatpat/ifyouonlyknew.html
+./lyrics/fatpat/whyyoupeepinme.html

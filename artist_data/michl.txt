@@ -1,0 +1,8 @@
+./lyrics/michl/killourwaytoheaven.html
+./lyrics/michl/tellmethesame.html
+./lyrics/michl/brokenroots.html
+./lyrics/michl/dietrying.html
+./lyrics/michl/whenyoulovedmeleast.html
+./lyrics/michl/gone.html
+./lyrics/michl/everythingllchange.html
+./lyrics/michl/waste.html

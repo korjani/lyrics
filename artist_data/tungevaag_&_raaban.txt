@@ -1,0 +1,7 @@
+./lyrics/tungevaag-and-raaban/russianroulette.html
+./lyrics/tungevaag-and-raaban/samsara.html
+./lyrics/tungevaag-and-raaban/parade.html
+./lyrics/tungevaag-and-raaban/houseofmirrors.html
+./lyrics/tungevaag-and-raaban/beast.html
+./lyrics/tungevaag-and-raaban/wakeupalone.html
+./lyrics/tungevaag-and-raaban/wolf.html

@@ -1,0 +1,16 @@
+./lyrics/mako/letgoofthewheel.html
+./lyrics/mako/reallife.html
+./lyrics/mako/smokefilledroom.html
+./lyrics/mako/wishyouback.html
+./lyrics/mako/intothesunset.html
+./lyrics/mako/runforyourlife.html
+./lyrics/mako/paradiselost.html
+./lyrics/mako/craziestdayieverhad.html
+./lyrics/mako/northdakota.html
+./lyrics/mako/devilmaycry.html
+./lyrics/mako/waybackhome.html
+./lyrics/mako/ourstory.html
+./lyrics/mako/wishyoubackthehimradioedit.html
+./lyrics/mako/ghosts.html
+./lyrics/mako/iwontletyouwalkaway.html
+./lyrics/mako/notalone.html

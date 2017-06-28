@@ -1,0 +1,15 @@
+./lyrics/arcs/oncewebeginintro.html
+./lyrics/arcs/outtamymind.html
+./lyrics/arcs/putaflowerinyourpocket.html
+./lyrics/arcs/pistolmadeofbones.html
+./lyrics/arcs/everythingyoudoyoudoforyou.html
+./lyrics/arcs/stayinmycorner.html
+./lyrics/arcs/coldcompanion.html
+./lyrics/arcs/thearc.html
+./lyrics/arcs/natureschild.html
+./lyrics/arcs/velvetditch.html
+./lyrics/arcs/chainsoflove.html
+./lyrics/arcs/comego.html
+./lyrics/arcs/rosieoohlala.html
+./lyrics/arcs/searchingtheblue.html
+./lyrics/arcs/lakesuperior.html

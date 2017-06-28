@@ -1,0 +1,3 @@
+./lyrics/lookingglass/brandyyoureafinegirl.html
+./lyrics/lookingglass/fromstantonstation.html
+./lyrics/lookingglass/jimmylovesmaryanne.html

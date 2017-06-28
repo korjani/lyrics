@@ -1,0 +1,17 @@
+./lyrics/grizfolk/intothebarrens.html
+./lyrics/grizfolk/troublemaker.html
+./lyrics/grizfolk/hymnals.html
+./lyrics/grizfolk/thestruggle.html
+./lyrics/grizfolk/bobmarley.html
+./lyrics/grizfolk/wakingupthegiants.html
+./lyrics/grizfolk/waitingforyou.html
+./lyrics/grizfolk/vagabonds.html
+./lyrics/grizfolk/bountyonmyhead.html
+./lyrics/grizfolk/cosmicangel.html
+./lyrics/grizfolk/bohemianbird.html
+./lyrics/grizfolk/wideawake.html
+./lyrics/grizfolk/moneytrees.html
+./lyrics/grizfolk/thebarrens.html
+./lyrics/grizfolk/theripple.html
+./lyrics/grizfolk/waybackwhen.html
+./lyrics/grizfolk/youngandrestless.html

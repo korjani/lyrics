@@ -1,0 +1,13 @@
+./lyrics/sonta/crushing.html
+./lyrics/sonta/friends.html
+./lyrics/sonta/allido.html
+./lyrics/sonta/godown.html
+./lyrics/sonta/crazyoveryou.html
+./lyrics/sonta/whoisshe.html
+./lyrics/sonta/typical.html
+./lyrics/sonta/youaintshit.html
+./lyrics/sonta/yasremix.html
+./lyrics/sonta/wordtomyex.html
+./lyrics/sonta/itoldyou.html
+./lyrics/sonta/comepleaseme.html
+./lyrics/sonta/finalgoodbye.html

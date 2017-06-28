@@ -1,0 +1,4 @@
+./lyrics/janellasalvador/ganyantalaga.html
+./lyrics/janellasalvador/howfarillgo.html
+./lyrics/janellasalvador/ican.html
+./lyrics/janellasalvador/mahalkitapero.html

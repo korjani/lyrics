@@ -1,0 +1,8 @@
+./lyrics/williamhung/shebangs.html
+./lyrics/williamhung/bailamos.html
+./lyrics/williamhung/ibelieveicanfly.html
+./lyrics/williamhung/hotelcalifornia.html
+./lyrics/williamhung/canyoufeelthelovetonight.html
+./lyrics/williamhung/rocketman.html
+./lyrics/williamhung/circleoflife.html
+./lyrics/williamhung/shakeyourbonbon.html

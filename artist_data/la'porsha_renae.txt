@@ -1,0 +1,7 @@
+./lyrics/laporsharenae/whatislove.html
+./lyrics/laporsharenae/goodwoman.html
+./lyrics/laporsharenae/somebodydoes.html
+./lyrics/laporsharenae/wheninrome.html
+./lyrics/laporsharenae/breathe.html
+./lyrics/laporsharenae/coverup.html
+./lyrics/laporsharenae/battles.html

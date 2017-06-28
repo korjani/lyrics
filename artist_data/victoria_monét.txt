@@ -1,0 +1,15 @@
+./lyrics/victoria-monet/wearepeople.html
+./lyrics/victoria-monet/madeinchina.html
+./lyrics/victoria-monet/forthethrill.html
+./lyrics/victoria-monet/backyard.html
+./lyrics/victoria-monet/wellidointerlude.html
+./lyrics/victoria-monet/highluv.html
+./lyrics/victoria-monet/madgeneration.html
+./lyrics/victoria-monet/cupid.html
+./lyrics/victoria-monet/moreofyou.html
+./lyrics/victoria-monet/90sbabies.html
+./lyrics/victoria-monet/seethelight.html
+./lyrics/victoria-monet/betterdays.html
+./lyrics/victoria-monet/goodlife.html
+./lyrics/victoria-monet/mightnot.html
+./lyrics/victoria-monet/trust.html

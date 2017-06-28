@@ -1,0 +1,5 @@
+./lyrics/alanalee/butterflies.html
+./lyrics/alanalee/dreamoutloud.html
+./lyrics/alanalee/perfectstorm.html
+./lyrics/alanalee/shadowdancer.html
+./lyrics/alanalee/synchronize.html

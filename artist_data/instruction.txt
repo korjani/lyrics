@@ -1,0 +1,12 @@
+./lyrics/instruction/great.html
+./lyrics/instruction/leanonyou.html
+./lyrics/instruction/areyouhappy.html
+./lyrics/instruction/imdead.html
+./lyrics/instruction/breakdown.html
+./lyrics/instruction/pissedmeoffagain.html
+./lyrics/instruction/deathtothe4cargarageband.html
+./lyrics/instruction/feedtheculture.html
+./lyrics/instruction/yourpunksucks.html
+./lyrics/instruction/typestoexceptions.html
+./lyrics/instruction/threestopsshortofdagenham.html
+./lyrics/instruction/goddoesntcareifweblowupthefuckingworld.html

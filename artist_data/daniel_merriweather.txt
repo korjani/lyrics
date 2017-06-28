@@ -1,0 +1,13 @@
+./lyrics/danielmerriweather/foryourmoney.html
+./lyrics/danielmerriweather/impossible.html
+./lyrics/danielmerriweather/change.html
+./lyrics/danielmerriweather/chainsaw.html
+./lyrics/danielmerriweather/cigarettes.html
+./lyrics/danielmerriweather/red.html
+./lyrics/danielmerriweather/couldyou.html
+./lyrics/danielmerriweather/notgivingup.html
+./lyrics/danielmerriweather/gettingout.html
+./lyrics/danielmerriweather/waterandaflame.html
+./lyrics/danielmerriweather/livebynight.html
+./lyrics/danielmerriweather/givingawayeverythingforfree.html
+./lyrics/danielmerriweather/allofthepeople.html

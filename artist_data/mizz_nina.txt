@@ -1,0 +1,4 @@
+./lyrics/mizznina/aroundtheworld.html
+./lyrics/mizznina/kurnia.html
+./lyrics/mizznina/takeover.html
+./lyrics/mizznina/whatyouwaitingfor.html

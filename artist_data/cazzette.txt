@@ -1,0 +1,16 @@
+./lyrics/cazzette/together.html
+./lyrics/cazzette/genius.html
+./lyrics/cazzette/stateofbliss.html
+./lyrics/cazzette/soloparati.html
+./lyrics/cazzette/dancingwithyourghost.html
+./lyrics/cazzette/beammeup.html
+./lyrics/cazzette/blindheart.html
+./lyrics/cazzette/bluesky.html
+./lyrics/cazzette/handfulofgold.html
+./lyrics/cazzette/heroes.html
+./lyrics/cazzette/isurrender.html
+./lyrics/cazzette/oceans.html
+./lyrics/cazzette/shewantsmedead.html
+./lyrics/cazzette/sleepless.html
+./lyrics/cazzette/static.html
+./lyrics/cazzette/weapon.html

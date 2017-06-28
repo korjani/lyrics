@@ -1,0 +1,14 @@
+./lyrics/clarebowen/changeyourmind.html
+./lyrics/clarebowen/fadeintoyou.html
+./lyrics/clarebowen/iwillfall.html
+./lyrics/clarebowen/ifididntknowbetter.html
+./lyrics/clarebowen/lovesringoffire.html
+./lyrics/clarebowen/lovingyouistheonlywaytofly.html
+./lyrics/clarebowen/oneworksbetter.html
+./lyrics/clarebowen/whentherightonecomesalong.html
+./lyrics/clarebowen/youaintdolly.html
+./lyrics/clarebowen/blackroses.html
+./lyrics/clarebowen/lovestepsin.html
+./lyrics/clarebowen/stillrunning.html
+./lyrics/clarebowen/thistown.html
+./lyrics/clarebowen/waitin.html

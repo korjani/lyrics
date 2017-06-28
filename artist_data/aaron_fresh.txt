@@ -1,0 +1,4 @@
+./lyrics/aaronfresh/apology.html
+./lyrics/aaronfresh/dirtygirl.html
+./lyrics/aaronfresh/hotelcalifornia.html
+./lyrics/aaronfresh/spendingallmytime.html

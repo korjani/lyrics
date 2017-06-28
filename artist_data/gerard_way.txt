@@ -1,0 +1,16 @@
+./lyrics/gerardway/thebureau.html
+./lyrics/gerardway/actioncat.html
+./lyrics/gerardway/noshows.html
+./lyrics/gerardway/brother.html
+./lyrics/gerardway/millions.html
+./lyrics/gerardway/zerozero.html
+./lyrics/gerardway/juarez.html
+./lyrics/gerardway/drugstoreperfume.html
+./lyrics/gerardway/getthegangtogether.html
+./lyrics/gerardway/howsitgoingtobe.html
+./lyrics/gerardway/mayathepsychic.html
+./lyrics/gerardway/televisionallthetime.html
+./lyrics/gerardway/donttry.html
+./lyrics/gerardway/pinkish.html
+./lyrics/gerardway/superstar.html
+./lyrics/gerardway/thewateriswideowalywaly.html

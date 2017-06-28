@@ -1,0 +1,12 @@
+./lyrics/selwyn/bugginme.html
+./lyrics/selwyn/shesaid.html
+./lyrics/selwyn/waylovessupposedtobe.html
+./lyrics/selwyn/negativethings.html
+./lyrics/selwyn/richgirl.html
+./lyrics/selwyn/likethislikethat.html
+./lyrics/selwyn/wayyoumakemefeel.html
+./lyrics/selwyn/satisfactual.html
+./lyrics/selwyn/sayheybaby.html
+./lyrics/selwyn/boomin.html
+./lyrics/selwyn/breathe.html
+./lyrics/selwyn/showbiz.html

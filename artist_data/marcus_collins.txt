@@ -1,0 +1,11 @@
+./lyrics/marcuscollins/sevennationarmy.html
+./lyrics/marcuscollins/lovehate.html
+./lyrics/marcuscollins/innocence.html
+./lyrics/marcuscollins/dontsurrender.html
+./lyrics/marcuscollins/mercy.html
+./lyrics/marcuscollins/higherhigher.html
+./lyrics/marcuscollins/thatsjustlife.html
+./lyrics/marcuscollins/tightrope.html
+./lyrics/marcuscollins/itstime.html
+./lyrics/marcuscollins/feellikeifeel.html
+./lyrics/marcuscollins/breakthesechains.html

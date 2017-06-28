@@ -1,0 +1,2 @@
+./lyrics/caileerae/anchor.html
+./lyrics/caileerae/beautifullights.html

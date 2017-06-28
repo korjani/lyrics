@@ -1,0 +1,10 @@
+./lyrics/panjabimc/bewareoftheboys.html
+./lyrics/panjabimc/dholjageeroda.html
+./lyrics/panjabimc/ghallagurian.html
+./lyrics/panjabimc/goodmorning.html
+./lyrics/panjabimc/jatthogiyasharabee.html
+./lyrics/panjabimc/jogi.html
+./lyrics/panjabimc/jugni.html
+./lyrics/panjabimc/mirzapart2.html
+./lyrics/panjabimc/mundiantobachke.html
+./lyrics/panjabimc/sweeter.html

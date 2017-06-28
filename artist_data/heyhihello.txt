@@ -1,0 +1,11 @@
+./lyrics/heyhihello/intro.html
+./lyrics/heyhihello/brighterlights.html
+./lyrics/heyhihello/dontquitnotquite.html
+./lyrics/heyhihello/goodnightmoon.html
+./lyrics/heyhihello/incolour.html
+./lyrics/heyhihello/leapbeforeyoulook.html
+./lyrics/heyhihello/righthere.html
+./lyrics/heyhihello/moviesong.html
+./lyrics/heyhihello/goodnightmoon.html
+./lyrics/heyhihello/louderthanwords.html
+./lyrics/heyhihello/togethertilltheend.html

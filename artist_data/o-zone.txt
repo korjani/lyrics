@@ -1,0 +1,12 @@
+./lyrics/ozone/fiestadelanoche.html
+./lyrics/ozone/deceplangchitarele.html
+./lyrics/ozone/dragosteadintei.html
+./lyrics/ozone/printrenori.html
+./lyrics/ozone/oriundeaifi.html
+./lyrics/ozone/numaitu.html
+./lyrics/ozone/darundeesti.html
+./lyrics/ozone/despretine.html
+./lyrics/ozone/sarbatoareanoptilordevara.html
+./lyrics/ozone/numalasdelimbanoastra.html
+./lyrics/ozone/credema.html
+./lyrics/ozone/teamvisat.html

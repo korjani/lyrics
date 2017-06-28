@@ -1,0 +1,17 @@
+./lyrics/sirsly/whereimgoing.html
+./lyrics/sirsly/ghost.html
+./lyrics/sirsly/gold.html
+./lyrics/sirsly/youhauntme.html
+./lyrics/sirsly/foundyouout.html
+./lyrics/sirsly/nowherebloodlinespti.html
+./lyrics/sirsly/inferno.html
+./lyrics/sirsly/leaveyou.html
+./lyrics/sirsly/floods.html
+./lyrics/sirsly/toofargone.html
+./lyrics/sirsly/helplessbloodlinesptii.html
+./lyrics/sirsly/thefirststone.html
+./lyrics/sirsly/altar.html
+./lyrics/sirsly/easynow.html
+./lyrics/sirsly/expectations.html
+./lyrics/sirsly/high.html
+./lyrics/sirsly/miracle.html

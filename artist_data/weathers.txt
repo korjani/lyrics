@@ -1,0 +1,2 @@
+./lyrics/weathers/happypills.html
+./lyrics/weathers/idontwannaknow.html

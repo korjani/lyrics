@@ -1,0 +1,15 @@
+./lyrics/diplo/expressyourself.html
+./lyrics/diplo/barelystanding.html
+./lyrics/diplo/noproblem.html
+./lyrics/diplo/butterstheme.html
+./lyrics/diplo/setitoff.html
+./lyrics/diplo/biggiebounce.html
+./lyrics/diplo/revolution.html
+./lyrics/diplo/crown.html
+./lyrics/diplo/rocksteady.html
+./lyrics/diplo/aboutthatlife.html
+./lyrics/diplo/bankroll.html
+./lyrics/diplo/berightthere.html
+./lyrics/diplo/doctorpepper.html
+./lyrics/diplo/longwayhome.html
+./lyrics/diplo/waisttime.html

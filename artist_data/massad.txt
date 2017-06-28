@@ -1,0 +1,8 @@
+./lyrics/massad/forgetaboutme.html
+./lyrics/massad/girlnextdoor.html
+./lyrics/massad/holiday.html
+./lyrics/massad/iwishyouhadknown.html
+./lyrics/massad/myheartwontletyougo.html
+./lyrics/massad/shockwave.html
+./lyrics/massad/tearmyheartout.html
+./lyrics/massad/waiting.html

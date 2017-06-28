@@ -1,0 +1,16 @@
+./lyrics/heatwave/aintnohalfsteppin.html
+./lyrics/heatwave/alliam.html
+./lyrics/heatwave/allyoudoisdial.html
+./lyrics/heatwave/alwaysandforever.html
+./lyrics/heatwave/boogienights.html
+./lyrics/heatwave/burnininmyheart.html
+./lyrics/heatwave/dreaminyou.html
+./lyrics/heatwave/firstdayofsnow.html
+./lyrics/heatwave/gangstersofthegroove.html
+./lyrics/heatwave/lookafterlove.html
+./lyrics/heatwave/mindblowingdecisions.html
+./lyrics/heatwave/shonuffmustbeluv.html
+./lyrics/heatwave/thatsthewaywellalwayssaygoodnight.html
+./lyrics/heatwave/thegrooveline.html
+./lyrics/heatwave/thestarofastory.html
+./lyrics/heatwave/thisnightwefell.html

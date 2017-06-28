@@ -1,0 +1,5 @@
+./lyrics/emmawatson/belle.html
+./lyrics/emmawatson/bellereprise.html
+./lyrics/emmawatson/daysinthesun.html
+./lyrics/emmawatson/somethingthere.html
+./lyrics/emmawatson/howdoesamomentlastforevermontmartre.html

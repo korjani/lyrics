@@ -1,0 +1,5 @@
+./lyrics/newhopeclub/fixed.html
+./lyrics/newhopeclub/water.html
+./lyrics/newhopeclub/friendofafriend.html
+./lyrics/newhopeclub/perfume.html
+./lyrics/newhopeclub/makeup.html

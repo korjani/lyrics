@@ -1,0 +1,6 @@
+./lyrics/sigala/easylove.html
+./lyrics/sigala/givemeyourlove.html
+./lyrics/sigala/onlyone.html
+./lyrics/sigala/sayyoudo.html
+./lyrics/sigala/showyoulove.html
+./lyrics/sigala/sweetlovin.html

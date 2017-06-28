@@ -1,0 +1,2 @@
+./lyrics/royalty/browneyedgirl.html
+./lyrics/royalty/girlgirl.html

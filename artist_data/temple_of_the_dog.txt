@@ -1,0 +1,10 @@
+./lyrics/templeofthedog/sayhello2heaven.html
+./lyrics/templeofthedog/reachdown.html
+./lyrics/templeofthedog/hungerstrike.html
+./lyrics/templeofthedog/pushinforwardback.html
+./lyrics/templeofthedog/callmeadog.html
+./lyrics/templeofthedog/timesoftrouble.html
+./lyrics/templeofthedog/woodenjesus.html
+./lyrics/templeofthedog/yoursaviour.html
+./lyrics/templeofthedog/fourwalledworld.html
+./lyrics/templeofthedog/allnightthing.html

@@ -1,0 +1,14 @@
+./lyrics/mapei/dontwait.html
+./lyrics/mapei/change.html
+./lyrics/mapei/blameitonme.html
+./lyrics/mapei/comeonbaby.html
+./lyrics/mapei/thingsyouknownothingabout.html
+./lyrics/mapei/as1.html
+./lyrics/mapei/secondtonone.html
+./lyrics/mapei/believe.html
+./lyrics/mapei/stepup.html
+./lyrics/mapei/keepitcool.html
+./lyrics/mapei/whatsinnit4me.html
+./lyrics/mapei/babyitsyou.html
+./lyrics/mapei/dontwaitremix.html
+./lyrics/mapei/millionwaystolive.html

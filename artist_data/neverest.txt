@@ -1,0 +1,10 @@
+./lyrics/neverest/aboutus.html
+./lyrics/neverest/everything.html
+./lyrics/neverest/hateit.html
+./lyrics/neverest/thechase.html
+./lyrics/neverest/blameme.html
+./lyrics/neverest/hellogoodbye.html
+./lyrics/neverest/lovesick.html
+./lyrics/neverest/rewind.html
+./lyrics/neverest/someday.html
+./lyrics/neverest/starlight.html

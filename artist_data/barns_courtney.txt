@@ -1,0 +1,6 @@
+./lyrics/barnscourtney/fire.html
+./lyrics/barnscourtney/glittergold.html
+./lyrics/barnscourtney/littleboy.html
+./lyrics/barnscourtney/hellfire.html
+./lyrics/barnscourtney/hands.html
+./lyrics/barnscourtney/goodbyejohnsmith.html

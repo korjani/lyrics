@@ -1,0 +1,4 @@
+./lyrics/ellavos/downinflames.html
+./lyrics/ellavos/littlebrother.html
+./lyrics/ellavos/whitenoise.html
+./lyrics/ellavos/youdontknowaboutme.html

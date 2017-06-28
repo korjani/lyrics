@@ -1,0 +1,14 @@
+./lyrics/avener/fadeoutlines.html
+./lyrics/avener/celestialbluestheavenerrework.html
+./lyrics/avener/castleinthesnow.html
+./lyrics/avener/toletmyselfgo.html
+./lyrics/avener/lonelyboy.html
+./lyrics/avener/itservesyourighttosuffertheavenerrework.html
+./lyrics/avener/hatestreetdialogue.html
+./lyrics/avener/yourloverocks.html
+./lyrics/avener/waitinroundtodie.html
+./lyrics/avener/wegohome.html
+./lyrics/avener/waitinghere.html
+./lyrics/avener/fadeintoyoutheavenerrework.html
+./lyrics/avener/ineedagoodone.html
+./lyrics/avener/youbelong.html

@@ -1,0 +1,2 @@
+./lyrics/joeladams/dieforyou.html
+./lyrics/joeladams/pleasedontgo.html

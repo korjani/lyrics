@@ -1,0 +1,12 @@
+./lyrics/daniandlizzy/detox.html
+./lyrics/daniandlizzy/keepherlove.html
+./lyrics/daniandlizzy/happyinmyskin.html
+./lyrics/daniandlizzy/muse.html
+./lyrics/daniandlizzy/loveagain.html
+./lyrics/daniandlizzy/problems.html
+./lyrics/daniandlizzy/dancinginthesky.html
+./lyrics/daniandlizzy/backtolife.html
+./lyrics/daniandlizzy/doitagain.html
+./lyrics/daniandlizzy/divein.html
+./lyrics/daniandlizzy/rope.html
+./lyrics/daniandlizzy/bangbang.html

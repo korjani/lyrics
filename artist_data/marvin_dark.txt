@@ -1,0 +1,2 @@
+./lyrics/marvindark/picturethis.html
+./lyrics/marvindark/understandme.html

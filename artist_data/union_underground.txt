@@ -1,0 +1,11 @@
+./lyrics/unionunderground/drivel.html
+./lyrics/unionunderground/southtexasdeathride.html
+./lyrics/unionunderground/turnmeonmrdeadman.html
+./lyrics/unionunderground/untilyoucrack.html
+./lyrics/unionunderground/killingthefly.html
+./lyrics/unionunderground/naturalhigh.html
+./lyrics/unionunderground/revolutionman.html
+./lyrics/unionunderground/tripwithjesus.html
+./lyrics/unionunderground/bitter.html
+./lyrics/unionunderground/thefriendsong.html
+./lyrics/unionunderground/acrossthenation.html

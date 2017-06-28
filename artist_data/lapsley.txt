@@ -1,0 +1,17 @@
+./lyrics/lapsley/fallingshort.html
+./lyrics/lapsley/brownlow.html
+./lyrics/lapsley/8896.html
+./lyrics/lapsley/dancing.html
+./lyrics/lapsley/heartless.html
+./lyrics/lapsley/hurtme.html
+./lyrics/lapsley/fallingshort.html
+./lyrics/lapsley/cliff.html
+./lyrics/lapsley/operatorhedoesntcallme.html
+./lyrics/lapsley/painter.html
+./lyrics/lapsley/tellmethetruth.html
+./lyrics/lapsley/station.html
+./lyrics/lapsley/loveisblind.html
+./lyrics/lapsley/silverlake.html
+./lyrics/lapsley/leap.html
+./lyrics/lapsley/sevenmonths.html
+./lyrics/lapsley/burn.html

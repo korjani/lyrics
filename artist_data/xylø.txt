@@ -1,0 +1,11 @@
+./lyrics/xylo/bangbang.html
+./lyrics/xylo/afterlife.html
+./lyrics/xylo/america.html
+./lyrics/xylo/blkcld.html
+./lyrics/xylo/betweenthedevilandthedeepbluesea.html
+./lyrics/xylo/lalovesong.html
+./lyrics/xylo/deadendlove.html
+./lyrics/xylo/foolsparadise.html
+./lyrics/xylo/getcloser.html
+./lyrics/xylo/gossip.html
+./lyrics/xylo/istillwaitforyou.html

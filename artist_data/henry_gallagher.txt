@@ -1,0 +1,2 @@
+./lyrics/henrygallagher/lightning.html
+./lyrics/henrygallagher/onecallaway.html

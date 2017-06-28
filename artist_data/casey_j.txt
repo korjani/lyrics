@@ -1,0 +1,9 @@
+./lyrics/caseyj/letitbeknown.html
+./lyrics/caseyj/thetruth.html
+./lyrics/caseyj/imyours.html
+./lyrics/caseyj/haveyourway.html
+./lyrics/caseyj/ohyoubring.html
+./lyrics/caseyj/yourheart.html
+./lyrics/caseyj/fillmeup.html
+./lyrics/caseyj/neverrundry.html
+./lyrics/caseyj/journal.html

@@ -1,0 +1,6 @@
+./lyrics/rachelcrow/meangirls.html
+./lyrics/rachelcrow/rockwithyou.html
+./lyrics/rachelcrow/lemonade.html
+./lyrics/rachelcrow/mykindofwonderful.html
+./lyrics/rachelcrow/whatasongcando.html
+./lyrics/rachelcrow/dime.html

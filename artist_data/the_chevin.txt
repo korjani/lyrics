@@ -1,0 +1,13 @@
+./lyrics/chevin/champion.html
+./lyrics/chevin/drive.html
+./lyrics/chevin/blueeyes.html
+./lyrics/chevin/dirtylittlesecret.html
+./lyrics/chevin/loveisjustagame.html
+./lyrics/chevin/borderland.html
+./lyrics/chevin/beautifulworld.html
+./lyrics/chevin/gospel.html
+./lyrics/chevin/colours.html
+./lyrics/chevin/solongsummer.html
+./lyrics/chevin/songsforthesun.html
+./lyrics/chevin/menwithhill.html
+./lyrics/chevin/whenthepartysover.html

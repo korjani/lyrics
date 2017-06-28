@@ -1,0 +1,14 @@
+./lyrics/cheatcodes/adventure.html
+./lyrics/cheatcodes/cantfightit.html
+./lyrics/cheatcodes/dontsayno.html
+./lyrics/cheatcodes/fedup.html
+./lyrics/cheatcodes/followyou.html
+./lyrics/cheatcodes/letmeholdyouturnmeon.html
+./lyrics/cheatcodes/nopromises.html
+./lyrics/cheatcodes/pleasedontgocheatcodesedit.html
+./lyrics/cheatcodes/queenelizabeth.html
+./lyrics/cheatcodes/saygoodbye.html
+./lyrics/cheatcodes/senses.html
+./lyrics/cheatcodes/sex.html
+./lyrics/cheatcodes/staywithyou.html
+./lyrics/cheatcodes/visions.html

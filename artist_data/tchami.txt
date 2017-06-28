@@ -1,0 +1,3 @@
+./lyrics/tchami/adieu.html
+./lyrics/tchami/afterlife.html
+./lyrics/tchami/promesses.html

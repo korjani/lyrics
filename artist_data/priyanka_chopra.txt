@@ -1,0 +1,5 @@
+./lyrics/priyankachopra/erase.html
+./lyrics/priyankachopra/exotic.html
+./lyrics/priyankachopra/icantmakeyouloveme.html
+./lyrics/priyankachopra/inmycity.html
+./lyrics/priyankachopra/ishanissong.html

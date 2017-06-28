@@ -1,0 +1,17 @@
+./lyrics/sevenlions/dontleave.html
+./lyrics/sevenlions/worldsapart.html
+./lyrics/sevenlions/strangers.html
+./lyrics/sevenlions/keepitclose.html
+./lyrics/sevenlions/theend.html
+./lyrics/sevenlions/losemyself.html
+./lyrics/sevenlions/december.html
+./lyrics/sevenlions/awaytosaygoodbye.html
+./lyrics/sevenlions/creation.html
+./lyrics/sevenlions/cominghome.html
+./lyrics/sevenlions/fallingawayfestivalmixradioedit.html
+./lyrics/sevenlions/coldskin.html
+./lyrics/sevenlions/daystocome.html
+./lyrics/sevenlions/fallingaway.html
+./lyrics/sevenlions/freesol.html
+./lyrics/sevenlions/higherlove.html
+./lyrics/sevenlions/rushoverme.html

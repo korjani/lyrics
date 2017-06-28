@@ -1,0 +1,17 @@
+./lyrics/knocturnal/theknoc.html
+./lyrics/knocturnal/muzik.html
+./lyrics/knocturnal/str8westcoastremix.html
+./lyrics/knocturnal/letsallroll.html
+./lyrics/knocturnal/lanitenday.html
+./lyrics/knocturnal/intro.html
+./lyrics/knocturnal/war.html
+./lyrics/knocturnal/lovela.html
+./lyrics/knocturnal/thewayiam.html
+./lyrics/knocturnal/watchout.html
+./lyrics/knocturnal/peepintom.html
+./lyrics/knocturnal/loveslave.html
+./lyrics/knocturnal/whatwedo.html
+./lyrics/knocturnal/untilthedaysouljahstory.html
+./lyrics/knocturnal/havefun.html
+./lyrics/knocturnal/sorryileftyou.html
+./lyrics/knocturnal/thewayiamoriginalversion.html

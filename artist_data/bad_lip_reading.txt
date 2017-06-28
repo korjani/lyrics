@@ -1,0 +1,13 @@
+./lyrics/badlipreading/beardwithglue.html
+./lyrics/badlipreading/bouncyball.html
+./lyrics/badlipreading/bushesoflove.html
+./lyrics/badlipreading/carlpoppa.html
+./lyrics/badlipreading/choochoogo.html
+./lyrics/badlipreading/dontstareatthesun.html
+./lyrics/badlipreading/kickedyourmonkey.html
+./lyrics/badlipreading/magicman.html
+./lyrics/badlipreading/morningdew.html
+./lyrics/badlipreading/notthefuture.html
+./lyrics/badlipreading/onewittleweeweemedley.html
+./lyrics/badlipreading/russianunicorn.html
+./lyrics/badlipreading/seagullsstopitnow.html

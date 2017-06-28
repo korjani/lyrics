@@ -1,0 +1,12 @@
+./lyrics/catsontrees/burn.html
+./lyrics/catsontrees/sirenscall.html
+./lyrics/catsontrees/jimmy.html
+./lyrics/catsontrees/fullcolours.html
+./lyrics/catsontrees/tikiboy.html
+./lyrics/catsontrees/whoyouare.html
+./lyrics/catsontrees/youwin.html
+./lyrics/catsontrees/toomuch.html
+./lyrics/catsontrees/walkingontheline.html
+./lyrics/catsontrees/wichita.html
+./lyrics/catsontrees/flowers.html
+./lyrics/catsontrees/jimmyenduoaveccalogero.html

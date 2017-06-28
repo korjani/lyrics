@@ -1,0 +1,6 @@
+./lyrics/dewaynewoods/letgo.html
+./lyrics/dewaynewoods/youshallreap.html
+./lyrics/dewaynewoods/iliftmyhands.html
+./lyrics/dewaynewoods/livingonthetop.html
+./lyrics/dewaynewoods/friendofmine.html
+./lyrics/dewaynewoods/neverbethesame.html

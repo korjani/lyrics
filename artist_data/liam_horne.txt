@@ -1,0 +1,4 @@
+./lyrics/liamhorne/1000voices.html
+./lyrics/liamhorne/blackandwhite.html
+./lyrics/liamhorne/thetruthis.html
+./lyrics/liamhorne/tragedy.html

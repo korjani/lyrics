@@ -1,0 +1,2 @@
+./lyrics/karenharding/openmyeyes.html
+./lyrics/karenharding/saysomething.html

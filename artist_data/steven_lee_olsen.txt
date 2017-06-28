@@ -1,0 +1,3 @@
+./lyrics/stevenleeolsen/makehaywhilethesunshines.html
+./lyrics/stevenleeolsen/neverdoneitlikethis.html
+./lyrics/stevenleeolsen/raisedbyagoodtime.html

@@ -1,0 +1,15 @@
+./lyrics/shopboyz/partylikearockstar.html
+./lyrics/shopboyz/bowenhomes.html
+./lyrics/shopboyz/babygirl.html
+./lyrics/shopboyz/theylikeme.html
+./lyrics/shopboyz/nexttome.html
+./lyrics/shopboyz/rollin.html
+./lyrics/shopboyz/rockstarmentality.html
+./lyrics/shopboyz/flexin.html
+./lyrics/shopboyz/totallydude.html
+./lyrics/shopboyz/worldonfire.html
+./lyrics/shopboyz/partylikearockstarremix.html
+./lyrics/shopboyz/immaball.html
+./lyrics/shopboyz/partylikearockstarrremix.html
+./lyrics/shopboyz/upthruthere.html
+./lyrics/shopboyz/wouldyoulike.html

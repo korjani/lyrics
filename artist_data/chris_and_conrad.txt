@@ -1,0 +1,11 @@
+./lyrics/chrisandconrad/youretheone.html
+./lyrics/chrisandconrad/rescue.html
+./lyrics/chrisandconrad/leadmetothecross.html
+./lyrics/chrisandconrad/alwaysthere.html
+./lyrics/chrisandconrad/buriedalive.html
+./lyrics/chrisandconrad/loverevolution.html
+./lyrics/chrisandconrad/singhallelujah.html
+./lyrics/chrisandconrad/breatheyourlife.html
+./lyrics/chrisandconrad/letitout.html
+./lyrics/chrisandconrad/whoireallyam.html
+./lyrics/chrisandconrad/imathome.html

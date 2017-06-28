@@ -1,0 +1,10 @@
+./lyrics/orleans/dancewithme.html
+./lyrics/orleans/endingofasong.html
+./lyrics/orleans/ifidonthaveyou.html
+./lyrics/orleans/lettherebemusic.html
+./lyrics/orleans/lovetakestime.html
+./lyrics/orleans/sails.html
+./lyrics/orleans/stilltheone.html
+./lyrics/orleans/themoment.html
+./lyrics/orleans/timepasseson.html
+./lyrics/orleans/tonguetied.html

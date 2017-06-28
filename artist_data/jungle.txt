@@ -1,0 +1,11 @@
+./lyrics/jungle/theheat.html
+./lyrics/jungle/accelerate.html
+./lyrics/jungle/busyearnin.html
+./lyrics/jungle/platoon.html
+./lyrics/jungle/drops.html
+./lyrics/jungle/time.html
+./lyrics/jungle/julia.html
+./lyrics/jungle/crumbler.html
+./lyrics/jungle/sonofagun.html
+./lyrics/jungle/luckyigotwhatiwant.html
+./lyrics/jungle/lemonadelake.html

@@ -1,0 +1,16 @@
+./lyrics/chaseatlantic/anchortattoo.html
+./lyrics/chaseatlantic/gravity.html
+./lyrics/chaseatlantic/holdyourbreath.html
+./lyrics/chaseatlantic/runaway.html
+./lyrics/chaseatlantic/roxanne.html
+./lyrics/chaseatlantic/vibes.html
+./lyrics/chaseatlantic/meddleabout.html
+./lyrics/chaseatlantic/talkslow.html
+./lyrics/chaseatlantic/friends.html
+./lyrics/chaseatlantic/righthere.html
+./lyrics/chaseatlantic/intoit.html
+./lyrics/chaseatlantic/church.html
+./lyrics/chaseatlantic/triggered.html
+./lyrics/chaseatlantic/cassie.html
+./lyrics/chaseatlantic/whystopnow.html
+./lyrics/chaseatlantic/obsessive.html

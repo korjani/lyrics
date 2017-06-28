@@ -1,0 +1,6 @@
+./lyrics/ottoknows/backwhereibelong.html
+./lyrics/ottoknows/dyingforyou.html
+./lyrics/ottoknows/nexttome.html
+./lyrics/ottoknows/notalone.html
+./lyrics/ottoknows/parachute.html
+./lyrics/ottoknows/withyou.html

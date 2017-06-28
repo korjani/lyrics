@@ -1,0 +1,7 @@
+./lyrics/transviolet/girlsyourage.html
+./lyrics/transviolet/bloodstream.html
+./lyrics/transviolet/newbohemia.html
+./lyrics/transviolet/nightvision.html
+./lyrics/transviolet/close.html
+./lyrics/transviolet/future.html
+./lyrics/transviolet/lalove.html

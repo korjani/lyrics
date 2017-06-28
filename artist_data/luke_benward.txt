@@ -1,0 +1,7 @@
+./lyrics/lukebenward/cloud9.html
+./lyrics/lukebenward/getup.html
+./lyrics/lukebenward/letyourloveout.html
+./lyrics/lukebenward/everydayhero.html
+./lyrics/lukebenward/higherlove.html
+./lyrics/lukebenward/shine.html
+./lyrics/lukebenward/hadmehello.html

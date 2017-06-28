@@ -1,0 +1,13 @@
+./lyrics/sannanielsen/devotion.html
+./lyrics/sannanielsen/emptyroom.html
+./lyrics/sannanielsen/heartofme.html
+./lyrics/sannanielsen/helavrldenfrmig.html
+./lyrics/sannanielsen/icancatchthemoon.html
+./lyrics/sannanielsen/igridag.html
+./lyrics/sannanielsen/iminlove.html
+./lyrics/sannanielsen/inteok.html
+./lyrics/sannanielsen/nobodywithoutyou.html
+./lyrics/sannanielsen/tillenfgel.html
+./lyrics/sannanielsen/undo.html
+./lyrics/sannanielsen/vgarduvgarjag.html
+./lyrics/sannanielsen/viskarmtmittnamn.html

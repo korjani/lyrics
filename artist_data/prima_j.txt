@@ -1,0 +1,15 @@
+./lyrics/primaj/corazonyourenotalone.html
+./lyrics/primaj/leftovers.html
+./lyrics/primaj/tame.html
+./lyrics/primaj/flipthescript.html
+./lyrics/primaj/homework.html
+./lyrics/primaj/girlfriend.html
+./lyrics/primaj/insideout.html
+./lyrics/primaj/boom.html
+./lyrics/primaj/chilosa.html
+./lyrics/primaj/nadienoone.html
+./lyrics/primaj/infatuated.html
+./lyrics/primaj/gohard.html
+./lyrics/primaj/rockstar.html
+./lyrics/primaj/itsmyparty.html
+./lyrics/primaj/ladies.html

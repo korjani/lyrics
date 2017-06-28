@@ -1,0 +1,10 @@
+./lyrics/noname/yesterday.html
+./lyrics/noname/sunnyduet.html
+./lyrics/noname/diddybop.html
+./lyrics/noname/allineed.html
+./lyrics/noname/realitycheck.html
+./lyrics/noname/freedominterlude.html
+./lyrics/noname/casketpretty.html
+./lyrics/noname/forever.html
+./lyrics/noname/byebyebaby.html
+./lyrics/noname/shadowman.html

@@ -1,0 +1,12 @@
+./lyrics/fiveboltmain/thegift.html
+./lyrics/fiveboltmain/pathetic.html
+./lyrics/fiveboltmain/waitinline.html
+./lyrics/fiveboltmain/brokencompass.html
+./lyrics/fiveboltmain/whatyouare.html
+./lyrics/fiveboltmain/slip.html
+./lyrics/fiveboltmain/breathing.html
+./lyrics/fiveboltmain/seemtobefine.html
+./lyrics/fiveboltmain/lifeofmine.html
+./lyrics/fiveboltmain/descending.html
+./lyrics/fiveboltmain/madelikethis.html
+./lyrics/fiveboltmain/bidfarewell.html

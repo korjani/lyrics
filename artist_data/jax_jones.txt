@@ -1,0 +1,4 @@
+./lyrics/jaxjones/housework.html
+./lyrics/jaxjones/luvlikethis.html
+./lyrics/jaxjones/yeahyeahyeahradioedit.html
+./lyrics/jaxjones/youdontknowme.html

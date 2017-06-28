@@ -1,0 +1,3 @@
+./lyrics/sebastianingrosso/callinglosemymind.html
+./lyrics/sebastianingrosso/reload.html
+./lyrics/sebastianingrosso/rideit.html

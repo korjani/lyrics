@@ -1,0 +1,15 @@
+./lyrics/ryx/berlin.html
+./lyrics/ryx/shortline.html
+./lyrics/ryx/vampires.html
+./lyrics/ryx/shortline.html
+./lyrics/ryx/salt.html
+./lyrics/ryx/howling.html
+./lyrics/ryx/only.html
+./lyrics/ryx/berlin.html
+./lyrics/ryx/beacon.html
+./lyrics/ryx/deliverance.html
+./lyrics/ryx/haste.html
+./lyrics/ryx/holdmelove.html
+./lyrics/ryx/sweat.html
+./lyrics/ryx/lean.html
+./lyrics/ryx/alwaysrememberme.html

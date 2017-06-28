@@ -1,0 +1,16 @@
+./lyrics/lilpump/boss.html
+./lyrics/lilpump/brokemywrist.html
+./lyrics/lilpump/drose.html
+./lyrics/lilpump/drumtick.html
+./lyrics/lilpump/elementary.html
+./lyrics/lilpump/flexlikeouu.html
+./lyrics/lilpump/gangshit.html
+./lyrics/lilpump/get.html
+./lyrics/lilpump/ignorant.html
+./lyrics/lilpump/lilpump.html
+./lyrics/lilpump/lilpumphad.html
+./lyrics/lilpump/movin.html
+./lyrics/lilpump/obama.html
+./lyrics/lilpump/onlarry.html
+./lyrics/lilpump/take.html
+./lyrics/lilpump/water.html

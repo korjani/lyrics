@@ -1,0 +1,5 @@
+./lyrics/oxideneutrino/bound4dareload.html
+./lyrics/oxideneutrino/devilsnightmare.html
+./lyrics/oxideneutrino/nogood4me.html
+./lyrics/oxideneutrino/rapdis.html
+./lyrics/oxideneutrino/upmiddlefinger.html

@@ -1,0 +1,14 @@
+./lyrics/juliannehough/thatsonginmyhead.html
+./lyrics/juliannehough/youyouyou.html
+./lyrics/juliannehough/hideyourmatches.html
+./lyrics/juliannehough/myhallelujahsong.html
+./lyrics/juliannehough/jimmyraemcgee.html
+./lyrics/juliannehough/dreamingunderthesamemoon.html
+./lyrics/juliannehough/aboutlife.html
+./lyrics/juliannehough/hello.html
+./lyrics/juliannehough/helpmehelpyou.html
+./lyrics/juliannehough/loveyourself.html
+./lyrics/juliannehough/idjustbewithyou.html
+./lyrics/juliannehough/isthatsowrong.html
+./lyrics/juliannehough/unraveling.html
+./lyrics/juliannehough/willyoudancewithme.html

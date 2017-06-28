@@ -1,0 +1,12 @@
+./lyrics/phlake/angelzoo.html
+./lyrics/phlake/likeyou.html
+./lyrics/phlake/maybe.html
+./lyrics/phlake/pregnant.html
+./lyrics/phlake/moldavia.html
+./lyrics/phlake/stallin.html
+./lyrics/phlake/somethingbetter.html
+./lyrics/phlake/breakupbusiness.html
+./lyrics/phlake/sofaded.html
+./lyrics/phlake/newslow.html
+./lyrics/phlake/dressoff.html
+./lyrics/phlake/chunks.html

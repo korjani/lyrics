@@ -1,0 +1,7 @@
+./lyrics/kavinsky/prlude.html
+./lyrics/kavinsky/oddlook.html
+./lyrics/kavinsky/suburbia.html
+./lyrics/kavinsky/nightcall.html
+./lyrics/kavinsky/firstblood.html
+./lyrics/kavinsky/endless.html
+./lyrics/kavinsky/oddlookremix.html

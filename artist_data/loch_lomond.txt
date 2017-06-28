@@ -1,0 +1,17 @@
+./lyrics/lochlomond/carlsagan.html
+./lyrics/lochlomond/afieldreport.html
+./lyrics/lochlomond/northernkneestreesandlights.html
+./lyrics/lochlomond/witchy.html
+./lyrics/lochlomond/scabsonthisyear.html
+./lyrics/lochlomond/stripeii.html
+./lyrics/lochlomond/songin34.html
+./lyrics/lochlomond/allyourfriendsaresmiling.html
+./lyrics/lochlomond/birdandabear.html
+./lyrics/lochlomond/blueleadfences.html
+./lyrics/lochlomond/delfuego.html
+./lyrics/lochlomond/elephantsandlittlegirls.html
+./lyrics/lochlomond/kickingwithyourfeet.html
+./lyrics/lochlomond/littleboxes.html
+./lyrics/lochlomond/spine.html
+./lyrics/lochlomond/tic.html
+./lyrics/lochlomond/waxandwire.html

@@ -1,0 +1,12 @@
+./lyrics/collective/surrender.html
+./lyrics/collective/domino.html
+./lyrics/collective/footloose.html
+./lyrics/collective/yougotittherightstuffbilliejean.html
+./lyrics/collective/likeaprayer.html
+./lyrics/collective/legohouse.html
+./lyrics/collective/apologize.html
+./lyrics/collective/lastchristmas.html
+./lyrics/collective/anotherlife.html
+./lyrics/collective/burnthebrightlights.html
+./lyrics/collective/teardrop.html
+./lyrics/collective/thegoodlife.html

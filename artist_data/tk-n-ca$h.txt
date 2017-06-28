@@ -1,0 +1,6 @@
+./lyrics/tkncah/3timesinarow.html
+./lyrics/tkncah/4u.html
+./lyrics/tkncah/mindright.html
+./lyrics/tkncah/mindrightremix.html
+./lyrics/tkncah/slick.html
+./lyrics/tkncah/youdidit.html

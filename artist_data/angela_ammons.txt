@@ -1,0 +1,11 @@
+./lyrics/angelaammons/biggirl.html
+./lyrics/angelaammons/whenitdoesntmatter.html
+./lyrics/angelaammons/alwaysgettingoveryou.html
+./lyrics/angelaammons/somedaysoon.html
+./lyrics/angelaammons/youllbegone.html
+./lyrics/angelaammons/walkingbackwards.html
+./lyrics/angelaammons/pretend.html
+./lyrics/angelaammons/thisiswhoiam.html
+./lyrics/angelaammons/takemyhand.html
+./lyrics/angelaammons/echo.html
+./lyrics/angelaammons/broken.html

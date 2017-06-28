@@ -1,0 +1,10 @@
+./lyrics/heavenhell/atomandevil.html
+./lyrics/heavenhell/fear.html
+./lyrics/heavenhell/bibleblack.html
+./lyrics/heavenhell/doublethepain.html
+./lyrics/heavenhell/rockandrollangel.html
+./lyrics/heavenhell/theturnofthescrew.html
+./lyrics/heavenhell/eatingthecannibals.html
+./lyrics/heavenhell/followthetears.html
+./lyrics/heavenhell/neverwhere.html
+./lyrics/heavenhell/breakingintoheaven.html

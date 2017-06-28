@@ -1,0 +1,12 @@
+./lyrics/sarahbuxton/americandaughters.html
+./lyrics/sarahbuxton/outsidemywindow.html
+./lyrics/sarahbuxton/radiolove.html
+./lyrics/sarahbuxton/forreal.html
+./lyrics/sarahbuxton/wings.html
+./lyrics/sarahbuxton/lovelikeheaven.html
+./lyrics/sarahbuxton/space.html
+./lyrics/sarahbuxton/innocence.html
+./lyrics/sarahbuxton/thatkindofday.html
+./lyrics/sarahbuxton/stupidboy.html
+./lyrics/sarahbuxton/bigbluesky.html
+./lyrics/sarahbuxton/crazydream.html

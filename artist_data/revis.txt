@@ -1,0 +1,15 @@
+./lyrics/revis/caughtintherain.html
+./lyrics/revis/yourwall.html
+./lyrics/revis/spin.html
+./lyrics/revis/seven.html
+./lyrics/revis/straightjacketlabels.html
+./lyrics/revis/livingrooms.html
+./lyrics/revis/reuse.html
+./lyrics/revis/citybeneath.html
+./lyrics/revis/everythingafter.html
+./lyrics/revis/placesforbreathing.html
+./lyrics/revis/lookrightthroughme.html
+./lyrics/revis/abetterdayrelief.html
+./lyrics/revis/areyoutakingmehome.html
+./lyrics/revis/fireandice.html
+./lyrics/revis/saveoursouls.html

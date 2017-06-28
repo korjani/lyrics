@@ -1,0 +1,15 @@
+./lyrics/sweeplings/acrossthesea.html
+./lyrics/sweeplings/dropbydrop.html
+./lyrics/sweeplings/carrymehome.html
+./lyrics/sweeplings/myohmy.html
+./lyrics/sweeplings/underyourspell.html
+./lyrics/sweeplings/bebyourside.html
+./lyrics/sweeplings/longwayaround.html
+./lyrics/sweeplings/alwaysbeenyou.html
+./lyrics/sweeplings/whathavewebecome.html
+./lyrics/sweeplings/comerestyourhead.html
+./lyrics/sweeplings/goodbye.html
+./lyrics/sweeplings/onon.html
+./lyrics/sweeplings/holdme.html
+./lyrics/sweeplings/holdtight.html
+./lyrics/sweeplings/intoodeep.html

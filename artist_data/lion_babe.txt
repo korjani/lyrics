@@ -1,0 +1,15 @@
+./lyrics/lionbabe/whole.html
+./lyrics/lionbabe/jumphi.html
+./lyrics/lionbabe/wonderwoman.html
+./lyrics/lionbabe/impossible.html
+./lyrics/lionbabe/stressedout.html
+./lyrics/lionbabe/satisfymylove.html
+./lyrics/lionbabe/wheredowego.html
+./lyrics/lionbabe/ontherocks.html
+./lyrics/lionbabe/holdon.html
+./lyrics/lionbabe/junglelady.html
+./lyrics/lionbabe/gotbody.html
+./lyrics/lionbabe/everydaylife.html
+./lyrics/lionbabe/treatmelikefire.html
+./lyrics/lionbabe/littledreamer.html
+./lyrics/lionbabe/rockets.html

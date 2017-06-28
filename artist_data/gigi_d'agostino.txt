@@ -1,0 +1,12 @@
+./lyrics/gigidagostino/anotherway.html
+./lyrics/gigidagostino/blablabla.html
+./lyrics/gigidagostino/elisir.html
+./lyrics/gigidagostino/illflywithyou.html
+./lyrics/gigidagostino/lamourtoujoursillflywithyouradioversion.html
+./lyrics/gigidagostino/lapassion.html
+./lyrics/gigidagostino/lapassionalbumversion.html
+./lyrics/gigidagostino/margherita.html
+./lyrics/gigidagostino/silence.html
+./lyrics/gigidagostino/summerofenergy.html
+./lyrics/gigidagostino/superundeuxtrois.html
+./lyrics/gigidagostino/theriddle.html

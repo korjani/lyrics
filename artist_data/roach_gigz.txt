@@ -1,0 +1,14 @@
+./lyrics/roachgigz/fachorus.html
+./lyrics/roachgigz/drugs.html
+./lyrics/roachgigz/blacklight.html
+./lyrics/roachgigz/californianights.html
+./lyrics/roachgigz/canirap.html
+./lyrics/roachgigz/funlove.html
+./lyrics/roachgigz/hotblock.html
+./lyrics/roachgigz/igetit.html
+./lyrics/roachgigz/makeusay.html
+./lyrics/roachgigz/mygirllookbetter.html
+./lyrics/roachgigz/onaraythang.html
+./lyrics/roachgigz/popoff.html
+./lyrics/roachgigz/smack.html
+./lyrics/roachgigz/syrupthighs.html

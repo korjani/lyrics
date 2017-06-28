@@ -1,0 +1,13 @@
+./lyrics/elliecampbell/dontwantyouback.html
+./lyrics/elliecampbell/forgiveme.html
+./lyrics/elliecampbell/ilovehowifeel.html
+./lyrics/elliecampbell/jackie.html
+./lyrics/elliecampbell/justanotherrainyday.html
+./lyrics/elliecampbell/myheartwillfindnohome.html
+./lyrics/elliecampbell/nevergonnagiveuponlove.html
+./lyrics/elliecampbell/saywhatyoumean.html
+./lyrics/elliecampbell/somanyways.html
+./lyrics/elliecampbell/suspicion.html
+./lyrics/elliecampbell/sweetlies.html
+./lyrics/elliecampbell/thethingsyoudo.html
+./lyrics/elliecampbell/yourenogood.html

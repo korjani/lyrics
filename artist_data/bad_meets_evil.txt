@@ -1,0 +1,16 @@
+./lyrics/badmeetsevil/welcome2hell.html
+./lyrics/badmeetsevil/fastlane.html
+./lyrics/badmeetsevil/thereunion.html
+./lyrics/badmeetsevil/abovethelaw.html
+./lyrics/badmeetsevil/imoneverything.html
+./lyrics/badmeetsevil/akiss.html
+./lyrics/badmeetsevil/lighters.html
+./lyrics/badmeetsevil/takefromme.html
+./lyrics/badmeetsevil/loudnoises.html
+./lyrics/badmeetsevil/livingproof.html
+./lyrics/badmeetsevil/echo.html
+./lyrics/badmeetsevil/allithinkabout.html
+./lyrics/badmeetsevil/nuttintodo.html
+./lyrics/badmeetsevil/raw.html
+./lyrics/badmeetsevil/scarymovies.html
+./lyrics/badmeetsevil/vegas.html

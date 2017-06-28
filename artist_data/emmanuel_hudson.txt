@@ -1,0 +1,12 @@
+./lyrics/emmanuelhudson/cheatthewhispersong.html
+./lyrics/emmanuelhudson/churchfolks.html
+./lyrics/emmanuelhudson/firstdayback.html
+./lyrics/emmanuelhudson/getyokids.html
+./lyrics/emmanuelhudson/questions.html
+./lyrics/emmanuelhudson/questionspart2.html
+./lyrics/emmanuelhudson/questionspart3.html
+./lyrics/emmanuelhudson/ratchetgirlanthem.html
+./lyrics/emmanuelhudson/ratchetgirlanthemmusicvideoversion.html
+./lyrics/emmanuelhudson/sowrong.html
+./lyrics/emmanuelhudson/stillgettinwhoopins.html
+./lyrics/emmanuelhudson/thermakathirsty.html

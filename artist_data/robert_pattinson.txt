@@ -1,0 +1,7 @@
+./lyrics/robertpattinson/doinfine.html
+./lyrics/robertpattinson/illbeyourlovertoo.html
+./lyrics/robertpattinson/itsallonyou.html
+./lyrics/robertpattinson/letmesign.html
+./lyrics/robertpattinson/neverthink.html
+./lyrics/robertpattinson/straydog.html
+./lyrics/robertpattinson/toroam.html

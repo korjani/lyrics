@@ -1,0 +1,13 @@
+./lyrics/shifty/special.html
+./lyrics/shifty/ezcuzyourebeautiful.html
+./lyrics/shifty/slidealongside.html
+./lyrics/shifty/turningmeon.html
+./lyrics/shifty/lolita.html
+./lyrics/shifty/magical.html
+./lyrics/shifty/shortyrock.html
+./lyrics/shifty/starryeyedsurprise.html
+./lyrics/shifty/abetterplace.html
+./lyrics/shifty/whenwewereyoung.html
+./lyrics/shifty/takeawaythepain.html
+./lyrics/shifty/allalong.html
+./lyrics/shifty/saveme.html

@@ -1,0 +1,2 @@
+./lyrics/lazytown/theminesong.html
+./lyrics/lazytown/wearenumberone.html

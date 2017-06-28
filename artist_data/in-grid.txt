@@ -1,0 +1,4 @@
+./lyrics/ingrid/intango.html
+./lyrics/ingrid/tuesfoutu.html
+./lyrics/ingrid/tuesfoutuyoupromisedme.html
+./lyrics/ingrid/viveleswing.html

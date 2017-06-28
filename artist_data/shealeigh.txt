@@ -1,0 +1,3 @@
+./lyrics/shealeigh/spotlight.html
+./lyrics/shealeigh/strangelybeautiful.html
+./lyrics/shealeigh/whatcanisay.html

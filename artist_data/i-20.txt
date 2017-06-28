@@ -1,0 +1,12 @@
+./lyrics/i20/eyesopenintro.html
+./lyrics/i20/meetthedealer.html
+./lyrics/i20/fightinintheclub.html
+./lyrics/i20/therealist.html
+./lyrics/i20/backstage.html
+./lyrics/i20/breakbread.html
+./lyrics/i20/hennesseyhydro.html
+./lyrics/i20/sodecatur.html
+./lyrics/i20/oganthem.html
+./lyrics/i20/slowfuckin.html
+./lyrics/i20/certified.html
+./lyrics/i20/littleboy.html

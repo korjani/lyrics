@@ -1,0 +1,14 @@
+./lyrics/crashkings/mountainman.html
+./lyrics/crashkings/1985.html
+./lyrics/crashkings/itsonlywednesday.html
+./lyrics/crashkings/comeaway.html
+./lyrics/crashkings/nonbeliever.html
+./lyrics/crashkings/14arms.html
+./lyrics/crashkings/raincoat.html
+./lyrics/crashkings/yougotme.html
+./lyrics/crashkings/savinggrace.html
+./lyrics/crashkings/mylove.html
+./lyrics/crashkings/shakinglikeananimal.html
+./lyrics/crashkings/somecallitlove.html
+./lyrics/crashkings/halfaface.html
+./lyrics/crashkings/brightwhitelight.html

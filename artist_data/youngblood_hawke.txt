@@ -1,0 +1,16 @@
+./lyrics/youngbloodhawke/rootless.html
+./lyrics/youngbloodhawke/wecomerunning.html
+./lyrics/youngbloodhawke/dreams.html
+./lyrics/youngbloodhawke/dannyboy.html
+./lyrics/youngbloodhawke/starsholdon.html
+./lyrics/youngbloodhawke/glacier.html
+./lyrics/youngbloodhawke/sleeplessstreets.html
+./lyrics/youngbloodhawke/saysay.html
+./lyrics/youngbloodhawke/blackbeak.html
+./lyrics/youngbloodhawke/forever.html
+./lyrics/youngbloodhawke/livedie.html
+./lyrics/youngbloodhawke/lasttime.html
+./lyrics/youngbloodhawke/inourblood.html
+./lyrics/youngbloodhawke/survival.html
+./lyrics/youngbloodhawke/knockmedown.html
+./lyrics/youngbloodhawke/pressure.html

@@ -1,0 +1,2 @@
+./lyrics/newworldson/learningtobethelight.html
+./lyrics/newworldson/thereisaway.html

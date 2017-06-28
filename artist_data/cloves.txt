@@ -1,0 +1,5 @@
+./lyrics/cloves/fraillove.html
+./lyrics/cloves/dontyouwait.html
+./lyrics/cloves/everybodysson.html
+./lyrics/cloves/dontforgetaboutme.html
+./lyrics/cloves/betternow.html

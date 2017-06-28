@@ -1,0 +1,16 @@
+./lyrics/maren-morris/sugar.html
+./lyrics/maren-morris/rich.html
+./lyrics/maren-morris/mychurch.html
+./lyrics/maren-morris/icouldusealovesong.html
+./lyrics/maren-morris/80smercedes.html
+./lyrics/maren-morris/drunkgirlsdontcry.html
+./lyrics/maren-morris/howitsdone.html
+./lyrics/maren-morris/justanotherthing.html
+./lyrics/maren-morris/iwishiwas.html
+./lyrics/maren-morris/secondwind.html
+./lyrics/maren-morris/once.html
+./lyrics/maren-morris/bummincigarettes.html
+./lyrics/maren-morris/companyyoukeep.html
+./lyrics/maren-morris/space.html
+./lyrics/maren-morris/checkeredpast.html
+./lyrics/maren-morris/wildfrontier.html

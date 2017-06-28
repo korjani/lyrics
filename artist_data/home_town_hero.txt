@@ -1,0 +1,16 @@
+./lyrics/hometownhero/bleedsinblue.html
+./lyrics/hometownhero/questions.html
+./lyrics/hometownhero/perfectnight.html
+./lyrics/hometownhero/twelveounce.html
+./lyrics/hometownhero/whostosay.html
+./lyrics/hometownhero/everythingoutofwater.html
+./lyrics/hometownhero/runrightthrough.html
+./lyrics/hometownhero/eighteen.html
+./lyrics/hometownhero/sayido.html
+./lyrics/hometownhero/rileyjoe.html
+./lyrics/hometownhero/bedofdreams.html
+./lyrics/hometownhero/saturdaymorning.html
+./lyrics/hometownhero/robbers.html
+./lyrics/hometownhero/bones.html
+./lyrics/hometownhero/hellofaguy.html
+./lyrics/hometownhero/stagefright.html

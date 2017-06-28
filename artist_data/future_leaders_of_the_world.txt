@@ -1,0 +1,10 @@
+./lyrics/futureleadersoftheworld/spotlight.html
+./lyrics/futureleadersoftheworld/everyday.html
+./lyrics/futureleadersoftheworld/letmeout.html
+./lyrics/futureleadersoftheworld/killpop.html
+./lyrics/futureleadersoftheworld/unite.html
+./lyrics/futureleadersoftheworld/makeyoubelieve.html
+./lyrics/futureleadersoftheworld/sued.html
+./lyrics/futureleadersoftheworld/houseofchains.html
+./lyrics/futureleadersoftheworld/4sale.html
+./lyrics/futureleadersoftheworld/yourgovtlovesyou.html

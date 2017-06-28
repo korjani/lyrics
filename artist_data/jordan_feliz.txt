@@ -1,0 +1,17 @@
+./lyrics/jordanfeliz/theriver.html
+./lyrics/jordanfeliz/simple.html
+./lyrics/jordanfeliz/beloved.html
+./lyrics/jordanfeliz/dancingthroughthefire.html
+./lyrics/jordanfeliz/rejoice.html
+./lyrics/jordanfeliz/satisfied.html
+./lyrics/jordanfeliz/carryyourtroublesintro.html
+./lyrics/jordanfeliz/theriver.html
+./lyrics/jordanfeliz/nevertoofargone.html
+./lyrics/jordanfeliz/bestofme.html
+./lyrics/jordanfeliz/beloved.html
+./lyrics/jordanfeliz/simple.html
+./lyrics/jordanfeliz/cheeryouon.html
+./lyrics/jordanfeliz/yourgreathands.html
+./lyrics/jordanfeliz/liveitout.html
+./lyrics/jordanfeliz/howlong.html
+./lyrics/jordanfeliz/satisfied.html

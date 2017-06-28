@@ -1,0 +1,9 @@
+./lyrics/jeremyloops/sinner.html
+./lyrics/jeremyloops/power.html
+./lyrics/jeremyloops/downsouth.html
+./lyrics/jeremyloops/tripfox.html
+./lyrics/jeremyloops/missiontothesunhowlin.html
+./lyrics/jeremyloops/lonesomeblue.html
+./lyrics/jeremyloops/skinnyblues.html
+./lyrics/jeremyloops/higherstakes.html
+./lyrics/jeremyloops/myshoes.html

@@ -1,0 +1,16 @@
+./lyrics/littlesea/theluckyones.html
+./lyrics/littlesea/thankyou.html
+./lyrics/littlesea/thewaythatyoumove.html
+./lyrics/littlesea/kisskissbangbang.html
+./lyrics/littlesea/careless.html
+./lyrics/littlesea/backtoyou.html
+./lyrics/littlesea/friends.html
+./lyrics/littlesea/idontwannaleave.html
+./lyrics/littlesea/redlights.html
+./lyrics/littlesea/changeforlove.html
+./lyrics/littlesea/loop.html
+./lyrics/littlesea/cutitout.html
+./lyrics/littlesea/madness.html
+./lyrics/littlesea/livingmia.html
+./lyrics/littlesea/revolve.html
+./lyrics/littlesea/paperraincoatgirl.html

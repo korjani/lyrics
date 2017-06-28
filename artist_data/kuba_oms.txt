@@ -1,0 +1,7 @@
+./lyrics/kubaoms/nevermeanttohurtyou.html
+./lyrics/kubaoms/howmuchtime.html
+./lyrics/kubaoms/brotherman.html
+./lyrics/kubaoms/wonderful.html
+./lyrics/kubaoms/whatevertomorrowbrings.html
+./lyrics/kubaoms/mylove.html
+./lyrics/kubaoms/electrolove.html

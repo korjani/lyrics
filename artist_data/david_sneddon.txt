@@ -1,0 +1,13 @@
+./lyrics/davidsneddon/bestoforder.html
+./lyrics/davidsneddon/timetofalldown.html
+./lyrics/davidsneddon/stoplivingthelie.html
+./lyrics/davidsneddon/allmylife.html
+./lyrics/davidsneddon/followme.html
+./lyrics/davidsneddon/dontletgo.html
+./lyrics/davidsneddon/thebluebird.html
+./lyrics/davidsneddon/lazy.html
+./lyrics/davidsneddon/ok.html
+./lyrics/davidsneddon/withoutyou.html
+./lyrics/davidsneddon/neverland.html
+./lyrics/davidsneddon/longtimecoming.html
+./lyrics/davidsneddon/iloveyou.html

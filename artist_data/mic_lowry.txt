@@ -1,0 +1,7 @@
+./lyrics/miclowry/tuxedo.html
+./lyrics/miclowry/badintentions.html
+./lyrics/miclowry/thechase.html
+./lyrics/miclowry/heartofyours.html
+./lyrics/miclowry/ohlord.html
+./lyrics/miclowry/standdown.html
+./lyrics/miclowry/whiskeykisses.html

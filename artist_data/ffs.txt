@@ -1,0 +1,16 @@
+./lyrics/ffs/johnnydelusional.html
+./lyrics/ffs/callgirl.html
+./lyrics/ffs/dictatorsson.html
+./lyrics/ffs/littleguyfromthesuburbs.html
+./lyrics/ffs/policeencounters.html
+./lyrics/ffs/savemefrommyself.html
+./lyrics/ffs/sdesune.html
+./lyrics/ffs/themanwithoutatan.html
+./lyrics/ffs/thingsiwontget.html
+./lyrics/ffs/thepowercouple.html
+./lyrics/ffs/collaborationsdontwork.html
+./lyrics/ffs/pissoff.html
+./lyrics/ffs/somanybridges.html
+./lyrics/ffs/kingofthesong.html
+./lyrics/ffs/lookatme.html
+./lyrics/ffs/aviolentdeath.html

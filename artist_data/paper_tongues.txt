@@ -1,0 +1,10 @@
+./lyrics/papertongues/trinity.html
+./lyrics/papertongues/forthepeople.html
+./lyrics/papertongues/ridetocalifornia.html
+./lyrics/papertongues/gethigher.html
+./lyrics/papertongues/whatif.html
+./lyrics/papertongues/soul.html
+./lyrics/papertongues/everybody.html
+./lyrics/papertongues/strongestflame.html
+./lyrics/papertongues/richandpoor.html
+./lyrics/papertongues/lovelikeyou.html

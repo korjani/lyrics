@@ -1,0 +1,5 @@
+./lyrics/trentharmon/theresagirl.html
+./lyrics/trentharmon/drinkyouaway.html
+./lyrics/trentharmon/sharpdressedman.html
+./lyrics/trentharmon/chandelier.html
+./lyrics/trentharmon/falling.html

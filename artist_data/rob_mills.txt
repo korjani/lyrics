@@ -1,0 +1,13 @@
+./lyrics/robmills/msvanity.html
+./lyrics/robmills/thatsallyouare.html
+./lyrics/robmills/overrated.html
+./lyrics/robmills/iconfess.html
+./lyrics/robmills/goodbye.html
+./lyrics/robmills/dirtygirl.html
+./lyrics/robmills/inviting.html
+./lyrics/robmills/cantsleep.html
+./lyrics/robmills/everysingleday.html
+./lyrics/robmills/righthere.html
+./lyrics/robmills/control.html
+./lyrics/robmills/badtiming.html
+./lyrics/robmills/holdingon.html

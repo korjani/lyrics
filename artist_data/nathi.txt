@@ -1,0 +1,4 @@
+./lyrics/nathi/buyelekhaya.html
+./lyrics/nathi/imibuzo.html
+./lyrics/nathi/liziwe.html
+./lyrics/nathi/nomvula.html

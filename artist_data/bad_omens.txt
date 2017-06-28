@@ -1,0 +1,12 @@
+./lyrics/badomens/glasshouses.html
+./lyrics/badomens/exitwounds.html
+./lyrics/badomens/theworstinme.html
+./lyrics/badomens/feral.html
+./lyrics/badomens/enoughenoughnow.html
+./lyrics/badomens/malice.html
+./lyrics/badomens/hedonist.html
+./lyrics/badomens/brokenyouth.html
+./lyrics/badomens/crawl.html
+./lyrics/badomens/theletdown.html
+./lyrics/badomens/reprisethesoundoftheend.html
+./lyrics/badomens/thefountain.html

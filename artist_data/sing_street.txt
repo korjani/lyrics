@@ -1,0 +1,7 @@
+./lyrics/singstreet/theriddleofthemodel.html
+./lyrics/singstreet/up.html
+./lyrics/singstreet/tofindyou.html
+./lyrics/singstreet/abeautifulsea.html
+./lyrics/singstreet/driveitlikeyoustoleit.html
+./lyrics/singstreet/girls.html
+./lyrics/singstreet/brownshoes.html

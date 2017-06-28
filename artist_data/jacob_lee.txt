@@ -1,0 +1,8 @@
+./lyrics/jacoblee/ghost.html
+./lyrics/jacoblee/heartstrings.html
+./lyrics/jacoblee/chariot.html
+./lyrics/jacoblee/slip.html
+./lyrics/jacoblee/breadcrumbs.html
+./lyrics/jacoblee/ijustknow.html
+./lyrics/jacoblee/secrets.html
+./lyrics/jacoblee/sowrong.html

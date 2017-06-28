@@ -1,0 +1,13 @@
+./lyrics/frickina/drive.html
+./lyrics/frickina/justfriends.html
+./lyrics/frickina/trend.html
+./lyrics/frickina/jessiesgirl.html
+./lyrics/frickina/partylikearockstar.html
+./lyrics/frickina/dumpme.html
+./lyrics/frickina/nakedinmybed.html
+./lyrics/frickina/cutnumber7.html
+./lyrics/frickina/lastsummer.html
+./lyrics/frickina/onestepaway.html
+./lyrics/frickina/merrymerrymerryfrickinchristmas.html
+./lyrics/frickina/merrymerrymerryfrickinchristmasworldchampionredsoxanthem.html
+./lyrics/frickina/psychodad.html

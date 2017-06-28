@@ -1,0 +1,12 @@
+./lyrics/graffiti6/stoneinmyheart.html
+./lyrics/graffiti6/annieyousaveme.html
+./lyrics/graffiti6/stareintothesun.html
+./lyrics/graffiti6/thisman.html
+./lyrics/graffiti6/free.html
+./lyrics/graffiti6/calmthestorm.html
+./lyrics/graffiti6/colours.html
+./lyrics/graffiti6/goodbyegeoffreydrake.html
+./lyrics/graffiti6/neverlookback.html
+./lyrics/graffiti6/stopmary.html
+./lyrics/graffiti6/laymedown.html
+./lyrics/graffiti6/overyou.html

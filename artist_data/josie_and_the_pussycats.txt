@@ -1,0 +1,13 @@
+./lyrics/josieandthepussycats/comeon.html
+./lyrics/josieandthepussycats/dujouraroundtheworld.html
+./lyrics/josieandthepussycats/fearnothing.html
+./lyrics/josieandthepussycats/iwishyouwell.html
+./lyrics/josieandthepussycats/josieandthepussycats.html
+./lyrics/josieandthepussycats/moneythatswhatiwant.html
+./lyrics/josieandthepussycats/pretendtobenice.html
+./lyrics/josieandthepussycats/realwildchild.html
+./lyrics/josieandthepussycats/shapeshifter.html
+./lyrics/josieandthepussycats/spinaround.html
+./lyrics/josieandthepussycats/threesmallwords.html
+./lyrics/josieandthepussycats/youdontseeme.html
+./lyrics/josieandthepussycats/youreastar.html

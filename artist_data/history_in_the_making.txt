@@ -1,0 +1,6 @@
+./lyrics/historyinthemaking/aintshe.html
+./lyrics/historyinthemaking/anytime.html
+./lyrics/historyinthemaking/cruising.html
+./lyrics/historyinthemaking/morethanfriends.html
+./lyrics/historyinthemaking/tgif.html
+./lyrics/historyinthemaking/walkaway.html

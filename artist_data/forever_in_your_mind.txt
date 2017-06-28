@@ -1,0 +1,13 @@
+./lyrics/foreverinyourmind/hurricane.html
+./lyrics/foreverinyourmind/enoughaboutme.html
+./lyrics/foreverinyourmind/compass.html
+./lyrics/foreverinyourmind/whistle.html
+./lyrics/foreverinyourmind/celebrateitschristmas.html
+./lyrics/foreverinyourmind/dcclassicsmedley.html
+./lyrics/foreverinyourmind/missing.html
+./lyrics/foreverinyourmind/naughtylist.html
+./lyrics/foreverinyourmind/shakeyourbooty.html
+./lyrics/foreverinyourmind/smooth.html
+./lyrics/foreverinyourmind/sweetlittlesomething.html
+./lyrics/foreverinyourmind/whenever.html
+./lyrics/foreverinyourmind/wrappedupforchristmas.html

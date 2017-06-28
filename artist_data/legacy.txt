@@ -1,0 +1,11 @@
+./lyrics/legacy/tongueyadown.html
+./lyrics/legacy/prisoner.html
+./lyrics/legacy/makeyabody.html
+./lyrics/legacy/shawtygirl.html
+./lyrics/legacy/dontbreathe.html
+./lyrics/legacy/dontpickmeup.html
+./lyrics/legacy/coldheart.html
+./lyrics/legacy/awayfromyourheart.html
+./lyrics/legacy/thinkabouthim.html
+./lyrics/legacy/clotheson.html
+./lyrics/legacy/slidethrough.html

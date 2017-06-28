@@ -1,0 +1,4 @@
+./lyrics/dylandauzat/blueeyeddimewild.html
+./lyrics/dylandauzat/kickinit.html
+./lyrics/dylandauzat/minetonight.html
+./lyrics/dylandauzat/yougotthat.html

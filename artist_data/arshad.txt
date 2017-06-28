@@ -1,0 +1,11 @@
+./lyrics/arshad/someoneyoulove.html
+./lyrics/arshad/girloffire.html
+./lyrics/arshad/unbroken.html
+./lyrics/arshad/infinite.html
+./lyrics/arshad/ashes.html
+./lyrics/arshad/mutiny.html
+./lyrics/arshad/nightmare.html
+./lyrics/arshad/okay.html
+./lyrics/arshad/perhaps.html
+./lyrics/arshad/shatter.html
+./lyrics/arshad/spark.html

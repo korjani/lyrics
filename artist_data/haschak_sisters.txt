@@ -1,0 +1,8 @@
+./lyrics/haschaksisters/daddysaysno.html
+./lyrics/haschaksisters/getaway.html
+./lyrics/haschaksisters/girlsruletheworld.html
+./lyrics/haschaksisters/gossipgirl.html
+./lyrics/haschaksisters/hollabackgirl.html
+./lyrics/haschaksisters/metoo.html
+./lyrics/haschaksisters/prettygirl.html
+./lyrics/haschaksisters/slumberparty.html

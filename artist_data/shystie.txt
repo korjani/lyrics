@@ -1,0 +1,9 @@
+./lyrics/shystie/onewish.html
+./lyrics/shystie/gutter.html
+./lyrics/shystie/stepbac.html
+./lyrics/shystie/womansworldgurlzstandup.html
+./lyrics/shystie/questionsgameshow.html
+./lyrics/shystie/makeiteasy.html
+./lyrics/shystie/unfinishedbizzness.html
+./lyrics/shystie/getloose.html
+./lyrics/shystie/somedayz.html

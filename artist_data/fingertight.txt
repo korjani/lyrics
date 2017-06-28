@@ -1,0 +1,13 @@
+./lyrics/fingertight/fearinme.html
+./lyrics/fingertight/bellevue.html
+./lyrics/fingertight/guiltholddown.html
+./lyrics/fingertight/atwar.html
+./lyrics/fingertight/speakintongues.html
+./lyrics/fingertight/nathaniel.html
+./lyrics/fingertight/thingshavechanged.html
+./lyrics/fingertight/emothis.html
+./lyrics/fingertight/shutup.html
+./lyrics/fingertight/surface.html
+./lyrics/fingertight/resurface.html
+./lyrics/fingertight/blablaradio.html
+./lyrics/fingertight/magical.html

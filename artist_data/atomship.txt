@@ -1,0 +1,11 @@
+./lyrics/atomship/dayofdaze.html
+./lyrics/atomship/mothra.html
+./lyrics/atomship/dragonfly.html
+./lyrics/atomship/pencilfight.html
+./lyrics/atomship/withered.html
+./lyrics/atomship/agentorange.html
+./lyrics/atomship/timeforpeople.html
+./lyrics/atomship/aliens.html
+./lyrics/atomship/whitfield.html
+./lyrics/atomship/friends.html
+./lyrics/atomship/plasticpeople.html

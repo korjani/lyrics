@@ -1,0 +1,16 @@
+./lyrics/wildcub/shapeless.html
+./lyrics/wildcub/colour.html
+./lyrics/wildcub/thunderclatter.html
+./lyrics/wildcub/straightnoturns.html
+./lyrics/wildcub/wishingwell.html
+./lyrics/wildcub/thewater.html
+./lyrics/wildcub/drive.html
+./lyrics/wildcub/hiddeninthenight.html
+./lyrics/wildcub/jonti.html
+./lyrics/wildcub/wildlight.html
+./lyrics/wildcub/summerfireshiddenspells.html
+./lyrics/wildcub/streetlights.html
+./lyrics/wildcub/windows.html
+./lyrics/wildcub/blacktide.html
+./lyrics/wildcub/lies.html
+./lyrics/wildcub/somewhere.html

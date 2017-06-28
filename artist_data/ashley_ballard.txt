@@ -1,0 +1,12 @@
+./lyrics/ashleyballard/5x5.html
+./lyrics/ashleyballard/alliever.html
+./lyrics/ashleyballard/dontgetlostinthecrowd.html
+./lyrics/ashleyballard/girlslikeme.html
+./lyrics/ashleyballard/hilow.html
+./lyrics/ashleyballard/hottie.html
+./lyrics/ashleyballard/hypnotized.html
+./lyrics/ashleyballard/illbewaiting.html
+./lyrics/ashleyballard/itwasyou.html
+./lyrics/ashleyballard/loveisreal.html
+./lyrics/ashleyballard/nomoremissnice.html
+./lyrics/ashleyballard/why.html

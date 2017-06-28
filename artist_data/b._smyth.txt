@@ -1,0 +1,9 @@
+./lyrics/bsmyth/gettinthat.html
+./lyrics/bsmyth/snapback.html
+./lyrics/bsmyth/letter.html
+./lyrics/bsmyth/goochi.html
+./lyrics/bsmyth/winwin.html
+./lyrics/bsmyth/vibe.html
+./lyrics/bsmyth/leggo.html
+./lyrics/bsmyth/mightcuffu.html
+./lyrics/bsmyth/twerkaholic.html

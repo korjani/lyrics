@@ -1,0 +1,10 @@
+./lyrics/lazyboy/areyouqualified.html
+./lyrics/lazyboy/factsoflife.html
+./lyrics/lazyboy/inhalepositivity.html
+./lyrics/lazyboy/thisisthetruth.html
+./lyrics/lazyboy/underweargoesinsidethepants.html
+./lyrics/lazyboy/manwomanyinyang.html
+./lyrics/lazyboy/desiderata.html
+./lyrics/lazyboy/weonlyreadtheheadlines.html
+./lyrics/lazyboy/themanualchapter4.html
+./lyrics/lazyboy/itsallaboutlove.html

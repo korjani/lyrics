@@ -1,0 +1,7 @@
+./lyrics/kwesta/boomshakalaka.html
+./lyrics/kwesta/dayone.html
+./lyrics/kwesta/mayibabo.html
+./lyrics/kwesta/ngud.html
+./lyrics/kwesta/nomayini.html
+./lyrics/kwesta/prayhard.html
+./lyrics/kwesta/thefire.html

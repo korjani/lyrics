@@ -1,0 +1,3 @@
+./lyrics/americanos/blackout.html
+./lyrics/americanos/inmyforeign.html
+./lyrics/americanos/inmyforeignremix.html

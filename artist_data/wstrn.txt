@@ -1,0 +1,7 @@
+./lyrics/wstrn/alist.html
+./lyrics/wstrn/bestfriendremix.html
+./lyrics/wstrn/comedown.html
+./lyrics/wstrn/gotlove.html
+./lyrics/wstrn/in2.html
+./lyrics/wstrn/in2remix.html
+./lyrics/wstrn/social.html

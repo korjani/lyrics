@@ -1,0 +1,6 @@
+./lyrics/chasebryant/wayfarerweather.html
+./lyrics/chasebryant/littlebitofyou.html
+./lyrics/chasebryant/changeyourname.html
+./lyrics/chasebryant/jetblackpontiac.html
+./lyrics/chasebryant/takeitonback.html
+./lyrics/chasebryant/roomtobreathe.html

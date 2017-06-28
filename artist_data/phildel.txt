@@ -1,0 +1,17 @@
+./lyrics/phildel/thedisappearanceofthegirl.html
+./lyrics/phildel/stormsong.html
+./lyrics/phildel/mistakes.html
+./lyrics/phildel/moonsea.html
+./lyrics/phildel/besideyou.html
+./lyrics/phildel/unionstone.html
+./lyrics/phildel/afraidofthedark.html
+./lyrics/phildel/thewolf.html
+./lyrics/phildel/switchblade.html
+./lyrics/phildel/holesinyourcoffin.html
+./lyrics/phildel/dare.html
+./lyrics/phildel/funeralbell.html
+./lyrics/phildel/heavenanintroduction.html
+./lyrics/phildel/theglassghost.html
+./lyrics/phildel/comfortme.html
+./lyrics/phildel/celestial.html
+./lyrics/phildel/porcelain.html

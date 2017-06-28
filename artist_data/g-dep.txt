@@ -1,0 +1,15 @@
+./lyrics/gdep/everyday.html
+./lyrics/gdep/childoftheghetto.html
+./lyrics/gdep/specialdelivery.html
+./lyrics/gdep/keepitgangsta.html
+./lyrics/gdep/smashonthefirstnight.html
+./lyrics/gdep/theride.html
+./lyrics/gdep/dangerzone.html
+./lyrics/gdep/iam.html
+./lyrics/gdep/blastoff.html
+./lyrics/gdep/letsgetit.html
+./lyrics/gdep/itsallover.html
+./lyrics/gdep/oneway.html
+./lyrics/gdep/letsgetitremix.html
+./lyrics/gdep/shithappenseveryday.html
+./lyrics/gdep/specialdeliveryremix.html

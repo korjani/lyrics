@@ -1,0 +1,6 @@
+./lyrics/otilia/aventura.html
+./lyrics/otilia/bilionera.html
+./lyrics/otilia/onfire.html
+./lyrics/otilia/somebodytolove.html
+./lyrics/otilia/winemybodyextendedversion.html
+./lyrics/otilia/youyou.html

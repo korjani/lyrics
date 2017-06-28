@@ -1,0 +1,16 @@
+./lyrics/djsnake/introa86.html
+./lyrics/djsnake/middle.html
+./lyrics/djsnake/sober.html
+./lyrics/djsnake/talk.html
+./lyrics/djsnake/thehalf.html
+./lyrics/djsnake/ohmeohmy.html
+./lyrics/djsnake/4life.html
+./lyrics/djsnake/futurept2.html
+./lyrics/djsnake/letmeloveyou.html
+./lyrics/djsnake/herecomesthenight.html
+./lyrics/djsnake/letmeloveyoumarshmelloremix.html
+./lyrics/djsnake/letmeloveyourkellyremix.html
+./lyrics/djsnake/letmeloveyouseanpaulremix.html
+./lyrics/djsnake/letmeloveyouselenagomezremix.html
+./lyrics/djsnake/turndownforwhat.html
+./lyrics/djsnake/turndownforwhatremix.html

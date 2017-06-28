@@ -1,0 +1,13 @@
+./lyrics/baeza/allyourfault.html
+./lyrics/baeza/cantloveyou.html
+./lyrics/baeza/domeright.html
+./lyrics/baeza/farfromready.html
+./lyrics/baeza/hadadream.html
+./lyrics/baeza/heardaboutyou.html
+./lyrics/baeza/iknowbetter.html
+./lyrics/baeza/idwfwu.html
+./lyrics/baeza/ontonight.html
+./lyrics/baeza/reminisce.html
+./lyrics/baeza/slowdown.html
+./lyrics/baeza/thatgood.html
+./lyrics/baeza/ungrateful.html

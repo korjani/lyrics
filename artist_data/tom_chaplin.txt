@@ -1,0 +1,16 @@
+./lyrics/tomchaplin/stillwaiting.html
+./lyrics/tomchaplin/hardenedheart.html
+./lyrics/tomchaplin/theriver.html
+./lyrics/tomchaplin/worthlesswords.html
+./lyrics/tomchaplin/irememberyou.html
+./lyrics/tomchaplin/bringtherain.html
+./lyrics/tomchaplin/holdontoourlove.html
+./lyrics/tomchaplin/quicksand.html
+./lyrics/tomchaplin/solidgold.html
+./lyrics/tomchaplin/seeitsoclear.html
+./lyrics/tomchaplin/thewave.html
+./lyrics/tomchaplin/betterway.html
+./lyrics/tomchaplin/turningback.html
+./lyrics/tomchaplin/lovewins.html
+./lyrics/tomchaplin/cheatingdeath.html
+./lyrics/tomchaplin/boundtogether.html

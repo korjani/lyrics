@@ -1,0 +1,9 @@
+./lyrics/ryanoshaughnessy/noname.html
+./lyrics/ryanoshaughnessy/timestandsstill.html
+./lyrics/ryanoshaughnessy/sofabed.html
+./lyrics/ryanoshaughnessy/lostinyou.html
+./lyrics/ryanoshaughnessy/firstkiss.html
+./lyrics/ryanoshaughnessy/waiting.html
+./lyrics/ryanoshaughnessy/thenews.html
+./lyrics/ryanoshaughnessy/beforethesunsets.html
+./lyrics/ryanoshaughnessy/fingertips.html

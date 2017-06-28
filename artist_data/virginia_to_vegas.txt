@@ -1,0 +1,14 @@
+./lyrics/virginiatovegas/wearestars.html
+./lyrics/virginiatovegas/colourful.html
+./lyrics/virginiatovegas/dontfightthemusic.html
+./lyrics/virginiatovegas/beautiful.html
+./lyrics/virginiatovegas/findme.html
+./lyrics/virginiatovegas/wasted.html
+./lyrics/virginiatovegas/lightsout.html
+./lyrics/virginiatovegas/fuckmeup.html
+./lyrics/virginiatovegas/polaroid.html
+./lyrics/virginiatovegas/dontfightthemusic.html
+./lyrics/virginiatovegas/ourstory.html
+./lyrics/virginiatovegas/wearestars.html
+./lyrics/virginiatovegas/beautifulutopianversion.html
+./lyrics/virginiatovegas/selfish.html

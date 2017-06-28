@@ -1,0 +1,10 @@
+./lyrics/rebeccablack/foolish.html
+./lyrics/rebeccablack/friday.html
+./lyrics/rebeccablack/ifwewereasong.html
+./lyrics/rebeccablack/inyourwords.html
+./lyrics/rebeccablack/mymoment.html
+./lyrics/rebeccablack/personofinterest.html
+./lyrics/rebeccablack/saturday.html
+./lyrics/rebeccablack/singit.html
+./lyrics/rebeccablack/thegreatdivide.html
+./lyrics/rebeccablack/wecantstop.html

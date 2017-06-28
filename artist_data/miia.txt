@@ -1,0 +1,2 @@
+./lyrics/miia/candleintherain.html
+./lyrics/miia/dynasty.html

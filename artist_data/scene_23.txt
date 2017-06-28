@@ -1,0 +1,7 @@
+./lyrics/scene23/hesaidshesaid.html
+./lyrics/scene23/thegreatest.html
+./lyrics/scene23/allthislove.html
+./lyrics/scene23/whatshegot.html
+./lyrics/scene23/anothernight.html
+./lyrics/scene23/ireallydontthinkso.html
+./lyrics/scene23/respectme.html

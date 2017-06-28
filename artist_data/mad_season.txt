@@ -1,0 +1,13 @@
+./lyrics/madseason/wakeup.html
+./lyrics/madseason/xraymind.html
+./lyrics/madseason/riverofdeceit.html
+./lyrics/madseason/imabove.html
+./lyrics/madseason/artificialred.html
+./lyrics/madseason/lifelessdead.html
+./lyrics/madseason/idontknowanything.html
+./lyrics/madseason/longgoneday.html
+./lyrics/madseason/allalone.html
+./lyrics/madseason/locomotive.html
+./lyrics/madseason/blackbookoffear.html
+./lyrics/madseason/slipaway.html
+./lyrics/madseason/idontwannabeasoldier.html

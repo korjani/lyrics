@@ -1,0 +1,5 @@
+./lyrics/leahturner/takethekeys.html
+./lyrics/leahturner/pullmeback.html
+./lyrics/leahturner/blessmyheart.html
+./lyrics/leahturner/beatupbronco.html
+./lyrics/leahturner/myfinger.html

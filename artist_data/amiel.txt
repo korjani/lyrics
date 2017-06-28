@@ -1,0 +1,11 @@
+./lyrics/amiel/lovesong.html
+./lyrics/amiel/tonight.html
+./lyrics/amiel/clairdelune.html
+./lyrics/amiel/sidebyside.html
+./lyrics/amiel/missingthemusic.html
+./lyrics/amiel/allofme.html
+./lyrics/amiel/obsessioniloveyou.html
+./lyrics/amiel/gamesweplay.html
+./lyrics/amiel/themeforaonenightstand.html
+./lyrics/amiel/finalpiece.html
+./lyrics/amiel/nothingcanbreakme.html

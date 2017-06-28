@@ -1,0 +1,8 @@
+./lyrics/dumblonde/whitelightning.html
+./lyrics/dumblonde/eyesonhorizon.html
+./lyrics/dumblonde/loveblind.html
+./lyrics/dumblonde/tendergreenlife.html
+./lyrics/dumblonde/rememberme.html
+./lyrics/dumblonde/yougotme.html
+./lyrics/dumblonde/waitingonyou.html
+./lyrics/dumblonde/dreamsicle.html

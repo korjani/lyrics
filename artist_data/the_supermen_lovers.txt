@@ -1,0 +1,3 @@
+./lyrics/supermenlovers/diamondsforher.html
+./lyrics/supermenlovers/hardstuffgetyourticketforaride.html
+./lyrics/supermenlovers/starlight.html

@@ -1,0 +1,16 @@
+./lyrics/flyawayhero/westillplay.html
+./lyrics/flyawayhero/cityrun.html
+./lyrics/flyawayhero/highschooljungle.html
+./lyrics/flyawayhero/iwillnotbow.html
+./lyrics/flyawayhero/weddingchimes.html
+./lyrics/flyawayhero/youreyes.html
+./lyrics/flyawayhero/personalinsaneasylum.html
+./lyrics/flyawayhero/farewell.html
+./lyrics/flyawayhero/eyeliner.html
+./lyrics/flyawayhero/buildmeupbuttercup.html
+./lyrics/flyawayhero/hercules.html
+./lyrics/flyawayhero/stormonthesea.html
+./lyrics/flyawayhero/misunderstood.html
+./lyrics/flyawayhero/madisonsfavoritetoys.html
+./lyrics/flyawayhero/gasoline.html
+./lyrics/flyawayhero/trustnobody.html

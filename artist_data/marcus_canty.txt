@@ -1,0 +1,8 @@
+./lyrics/marcuscanty/inout.html
+./lyrics/marcuscanty/dontpassmeby.html
+./lyrics/marcuscanty/usedbyyou.html
+./lyrics/marcuscanty/tonight.html
+./lyrics/marcuscanty/threewords.html
+./lyrics/marcuscanty/notlooking.html
+./lyrics/marcuscanty/stayinlove.html
+./lyrics/marcuscanty/wontmakeafooloutofyou.html

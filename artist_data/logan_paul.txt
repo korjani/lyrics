@@ -1,0 +1,2 @@
+./lyrics/loganpaul/2016.html
+./lyrics/loganpaul/helpmehelpyou.html

@@ -1,0 +1,11 @@
+./lyrics/charityvance/itsalright.html
+./lyrics/charityvance/loveme.html
+./lyrics/charityvance/takemeback.html
+./lyrics/charityvance/pictureperfect.html
+./lyrics/charityvance/runaway.html
+./lyrics/charityvance/icing.html
+./lyrics/charityvance/runawaywithme.html
+./lyrics/charityvance/thedinersong.html
+./lyrics/charityvance/twobirds.html
+./lyrics/charityvance/walkinthepark.html
+./lyrics/charityvance/wheredoyouwanttobe.html

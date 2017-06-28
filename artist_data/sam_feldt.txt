@@ -1,0 +1,14 @@
+./lyrics/samfeldt/beenawhile.html
+./lyrics/samfeldt/feelslikehome.html
+./lyrics/samfeldt/allthekids.html
+./lyrics/samfeldt/wedontwalkwefly.html
+./lyrics/samfeldt/hungryeyes.html
+./lyrics/samfeldt/forgiveness.html
+./lyrics/samfeldt/driveyouhome.html
+./lyrics/samfeldt/midnighthearts.html
+./lyrics/samfeldt/openyoureyes.html
+./lyrics/samfeldt/runaways.html
+./lyrics/samfeldt/shadowsoflove.html
+./lyrics/samfeldt/showmelove.html
+./lyrics/samfeldt/summeronyou.html
+./lyrics/samfeldt/whataboutthelove.html

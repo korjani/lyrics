@@ -1,0 +1,4 @@
+./lyrics/obobrien/2onthotful.html
+./lyrics/obobrien/hazeltontrump.html
+./lyrics/obobrien/scheminup.html
+./lyrics/obobrien/stevenash.html

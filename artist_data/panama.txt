@@ -1,0 +1,13 @@
+./lyrics/panama/heartbeat.html
+./lyrics/panama/itsnotover.html
+./lyrics/panama/magic.html
+./lyrics/panama/onepiece.html
+./lyrics/panama/stopthefire.html
+./lyrics/panama/wehavelove.html
+./lyrics/panama/always.html
+./lyrics/panama/howwefeel.html
+./lyrics/panama/destroyer.html
+./lyrics/panama/strangefeeling.html
+./lyrics/panama/hopeforsomething.html
+./lyrics/panama/jungle.html
+./lyrics/panama/stayforever.html

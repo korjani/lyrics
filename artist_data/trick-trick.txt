@@ -1,0 +1,12 @@
+./lyrics/tricktrick/m1.html
+./lyrics/tricktrick/welcome2detroit.html
+./lyrics/tricktrick/mynameistricktrick.html
+./lyrics/tricktrick/bigmistake.html
+./lyrics/tricktrick/nomoretosay.html
+./lyrics/tricktrick/letsroll.html
+./lyrics/tricktrick/whowantit.html
+./lyrics/tricktrick/letitfly.html
+./lyrics/tricktrick/allaroundtheworld.html
+./lyrics/tricktrick/2getha4eva.html
+./lyrics/tricktrick/livinglegend.html
+./lyrics/tricktrick/twerkdatpopthat.html

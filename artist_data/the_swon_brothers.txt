@@ -1,0 +1,17 @@
+./lyrics/swonbrothers/whatimthinkingabout.html
+./lyrics/swonbrothers/lateron.html
+./lyrics/swonbrothers/chasingyouaround.html
+./lyrics/swonbrothers/songsthatsaiditall.html
+./lyrics/swonbrothers/prayforyou.html
+./lyrics/swonbrothers/breaking.html
+./lyrics/swonbrothers/95.html
+./lyrics/swonbrothers/prettybeautiful.html
+./lyrics/swonbrothers/colder.html
+./lyrics/swonbrothers/sameoldhighway.html
+./lyrics/swonbrothers/thissideofheaven.html
+./lyrics/swonbrothers/justanothergirl.html
+./lyrics/swonbrothers/nobody.html
+./lyrics/swonbrothers/throwback.html
+./lyrics/swonbrothers/timeless.html
+./lyrics/swonbrothers/killingme.html
+./lyrics/swonbrothers/yougotsomebody.html

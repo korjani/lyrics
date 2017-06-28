@@ -1,0 +1,12 @@
+./lyrics/velvetempire/frontinonme.html
+./lyrics/velvetempire/i.html
+./lyrics/velvetempire/whawhawhat.html
+./lyrics/velvetempire/madforyou.html
+./lyrics/velvetempire/tellme.html
+./lyrics/velvetempire/nowyoudont.html
+./lyrics/velvetempire/ride.html
+./lyrics/velvetempire/goodgirls.html
+./lyrics/velvetempire/aboutlastnight.html
+./lyrics/velvetempire/2am.html
+./lyrics/velvetempire/thatsright.html
+./lyrics/velvetempire/wildhorses.html

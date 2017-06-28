@@ -1,0 +1,5 @@
+./lyrics/amelialily/california.html
+./lyrics/amelialily/partyover.html
+./lyrics/amelialily/shutupandgivemewhateveryouvegot.html
+./lyrics/amelialily/truthordare.html
+./lyrics/amelialily/youbringmejoy.html

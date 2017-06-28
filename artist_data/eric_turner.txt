@@ -1,0 +1,4 @@
+./lyrics/ericturner/angelsstars.html
+./lyrics/ericturner/dancinginmyhead.html
+./lyrics/ericturner/dancinginmyheadbeencursedmix.html
+./lyrics/ericturner/stylechanger.html

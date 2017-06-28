@@ -1,0 +1,14 @@
+./lyrics/matthunter/allofme.html
+./lyrics/matthunter/angel.html
+./lyrics/matthunter/homefortheholidays.html
+./lyrics/matthunter/isityou.html
+./lyrics/matthunter/megustategusta.html
+./lyrics/matthunter/miamor.html
+./lyrics/matthunter/miamorfreestyle.html
+./lyrics/matthunter/miseorita.html
+./lyrics/matthunter/mitalismn.html
+./lyrics/matthunter/minhaminataloca.html
+./lyrics/matthunter/myfirstkiss.html
+./lyrics/matthunter/promise.html
+./lyrics/matthunter/righthererightnow.html
+./lyrics/matthunter/tevi.html

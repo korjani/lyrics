@@ -1,0 +1,10 @@
+./lyrics/lemonademouth/turnupthemusic.html
+./lyrics/lemonademouth/somebody.html
+./lyrics/lemonademouth/andthecrowdgoes.html
+./lyrics/lemonademouth/determinate.html
+./lyrics/lemonademouth/herewego.html
+./lyrics/lemonademouth/shessogone.html
+./lyrics/lemonademouth/morethanaband.html
+./lyrics/lemonademouth/dontyawishuwereus.html
+./lyrics/lemonademouth/breakthrough.html
+./lyrics/lemonademouth/livinonahighwire.html

@@ -1,0 +1,2 @@
+./lyrics/hermitude/eyesclosed.html
+./lyrics/hermitude/thebuzz.html

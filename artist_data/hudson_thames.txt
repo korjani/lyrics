@@ -1,0 +1,4 @@
+./lyrics/hudsonthames/oursong.html
+./lyrics/hudsonthames/keepondancing.html
+./lyrics/hudsonthames/howiwantya.html
+./lyrics/hudsonthames/fire.html

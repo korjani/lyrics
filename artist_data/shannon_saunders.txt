@@ -1,0 +1,9 @@
+./lyrics/shannonsaunders/lofi.html
+./lyrics/shannonsaunders/bodiesbeats.html
+./lyrics/shannonsaunders/electric.html
+./lyrics/shannonsaunders/sillylittlethings.html
+./lyrics/shannonsaunders/atlas.html
+./lyrics/shannonsaunders/creatures.html
+./lyrics/shannonsaunders/heartofblue.html
+./lyrics/shannonsaunders/sheets.html
+./lyrics/shannonsaunders/theglow.html

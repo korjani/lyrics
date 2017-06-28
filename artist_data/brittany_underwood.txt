@@ -1,0 +1,3 @@
+./lyrics/brittanyunderwood/flow.html
+./lyrics/brittanyunderwood/lovemenoworletmego.html
+./lyrics/brittanyunderwood/mars.html

@@ -1,0 +1,9 @@
+./lyrics/clairedelune/stay.html
+./lyrics/clairedelune/savetheday.html
+./lyrics/clairedelune/declaration.html
+./lyrics/clairedelune/thinkaboutit.html
+./lyrics/clairedelune/neverchange.html
+./lyrics/clairedelune/itsreal.html
+./lyrics/clairedelune/flames.html
+./lyrics/clairedelune/saveyourself.html
+./lyrics/clairedelune/skippingstones.html

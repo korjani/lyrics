@@ -1,0 +1,12 @@
+./lyrics/krystalharris/supergirl.html
+./lyrics/krystalharris/myreligion.html
+./lyrics/krystalharris/angelonmyshoulder.html
+./lyrics/krystalharris/yourethereason.html
+./lyrics/krystalharris/loveisabeautifulthing.html
+./lyrics/krystalharris/orsomeoneelsewill.html
+./lyrics/krystalharris/whenyouhurt.html
+./lyrics/krystalharris/12myheart.html
+./lyrics/krystalharris/goodbye.html
+./lyrics/krystalharris/leadme.html
+./lyrics/krystalharris/letmebeyourfriend.html
+./lyrics/krystalharris/memypiano.html

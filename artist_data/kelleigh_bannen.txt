@@ -1,0 +1,6 @@
+./lyrics/kelleighbannen/landlocked.html
+./lyrics/kelleighbannen/churchclothes.html
+./lyrics/kelleighbannen/famous.html
+./lyrics/kelleighbannen/smokewhenidrink.html
+./lyrics/kelleighbannen/sorryontherocks.html
+./lyrics/kelleighbannen/youarewhatyoulove.html

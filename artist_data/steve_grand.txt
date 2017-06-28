@@ -1,0 +1,13 @@
+./lyrics/stevegrand/sayyouloveme.html
+./lyrics/stevegrand/redwhiteandblue.html
+./lyrics/stevegrand/wearethenight.html
+./lyrics/stevegrand/allamericanboy.html
+./lyrics/stevegrand/soakinwet.html
+./lyrics/stevegrand/lovinagain.html
+./lyrics/stevegrand/whiskeycrime.html
+./lyrics/stevegrand/stay.html
+./lyrics/stevegrand/nexttome.html
+./lyrics/stevegrand/time.html
+./lyrics/stevegrand/betteroff.html
+./lyrics/stevegrand/run.html
+./lyrics/stevegrand/backtocalifornia.html

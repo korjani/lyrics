@@ -1,0 +1,6 @@
+./lyrics/mckenziesmall/control.html
+./lyrics/mckenziesmall/dynamite.html
+./lyrics/mckenziesmall/offtheearth.html
+./lyrics/mckenziesmall/caughtfeelings.html
+./lyrics/mckenziesmall/elevator.html
+./lyrics/mckenziesmall/eyesofthecamera.html

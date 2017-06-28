@@ -1,0 +1,4 @@
+./lyrics/sarahclose/callmeout.html
+./lyrics/sarahclose/caughtup.html
+./lyrics/sarahclose/perfectafterall.html
+./lyrics/sarahclose/maestro.html

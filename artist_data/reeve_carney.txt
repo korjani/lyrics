@@ -1,0 +1,6 @@
+./lyrics/reevecarney/bouncingoffthewalls.html
+./lyrics/reevecarney/boyfallsfromthesky.html
+./lyrics/reevecarney/diyworld.html
+./lyrics/reevecarney/newforyou.html
+./lyrics/reevecarney/riseabove1.html
+./lyrics/reevecarney/thinkofyou.html

@@ -1,0 +1,8 @@
+./lyrics/fan3/boom.html
+./lyrics/fan3/brokenhome.html
+./lyrics/fan3/digits.html
+./lyrics/fan3/geeklove.html
+./lyrics/fan3/heyboy.html
+./lyrics/fan3/ilovechristmas.html
+./lyrics/fan3/itsasmallworld.html
+./lyrics/fan3/whattheygonnathink.html

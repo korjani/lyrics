@@ -1,0 +1,16 @@
+./lyrics/natalietaylor/wontstay.html
+./lyrics/natalietaylor/runaway.html
+./lyrics/natalietaylor/itsok.html
+./lyrics/natalietaylor/cantnobody.html
+./lyrics/natalietaylor/carryme.html
+./lyrics/natalietaylor/control.html
+./lyrics/natalietaylor/nooneknows.html
+./lyrics/natalietaylor/wildfire.html
+./lyrics/natalietaylor/coverus.html
+./lyrics/natalietaylor/amen.html
+./lyrics/natalietaylor/differentanimal.html
+./lyrics/natalietaylor/iwantitall.html
+./lyrics/natalietaylor/latch.html
+./lyrics/natalietaylor/lovelife.html
+./lyrics/natalietaylor/startagain.html
+./lyrics/natalietaylor/surrender.html

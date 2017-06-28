@@ -1,0 +1,10 @@
+./lyrics/vanished/wakeup.html
+./lyrics/vanished/favoritescar.html
+./lyrics/vanished/latchkeyprincess.html
+./lyrics/vanished/theonlything.html
+./lyrics/vanished/anesthesiawinter.html
+./lyrics/vanished/annasleach.html
+./lyrics/vanished/soap.html
+./lyrics/vanished/gospelmachinegun.html
+./lyrics/vanished/kerosene.html
+./lyrics/vanished/theanatamonyofdesperation.html

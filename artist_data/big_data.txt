@@ -1,0 +1,14 @@
+./lyrics/bigdata/thestrokeofreturn.html
+./lyrics/bigdata/dangerous.html
+./lyrics/bigdata/bigdater.html
+./lyrics/bigdata/bombsoverbrooklyn.html
+./lyrics/bigdata/thebusinessofemotion.html
+./lyrics/bigdata/dangerous.html
+./lyrics/bigdata/clean.html
+./lyrics/bigdata/theglow.html
+./lyrics/bigdata/snowedin.html
+./lyrics/bigdata/bigdater.html
+./lyrics/bigdata/automatic.html
+./lyrics/bigdata/getsomefreedom.html
+./lyrics/bigdata/sickforme.html
+./lyrics/bigdata/perfectholiday.html

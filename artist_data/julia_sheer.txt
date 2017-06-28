@@ -1,0 +1,11 @@
+./lyrics/juliasheer/airliner.html
+./lyrics/juliasheer/youwillneverbe.html
+./lyrics/juliasheer/thephotograph.html
+./lyrics/juliasheer/thehardestthing.html
+./lyrics/juliasheer/wideawake.html
+./lyrics/juliasheer/faraway.html
+./lyrics/juliasheer/heavenknows.html
+./lyrics/juliasheer/lethimgo.html
+./lyrics/juliasheer/littletalks.html
+./lyrics/juliasheer/safeandsound.html
+./lyrics/juliasheer/shouldverun.html

@@ -1,0 +1,5 @@
+./lyrics/youngheartattack/starlite.html
+./lyrics/youngheartattack/takemebackmaryjane.html
+./lyrics/youngheartattack/sickofdoingtime.html
+./lyrics/youngheartattack/overandover.html
+./lyrics/youngheartattack/mistyrowe.html

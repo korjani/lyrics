@@ -1,0 +1,2 @@
+./lyrics/colonelloud/california.html
+./lyrics/colonelloud/shooters.html

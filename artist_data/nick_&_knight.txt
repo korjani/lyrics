@@ -1,0 +1,10 @@
+./lyrics/nickknight/onemoretime.html
+./lyrics/nickknight/nobodybetter.html
+./lyrics/nickknight/switch.html
+./lyrics/nickknight/drivemycar.html
+./lyrics/nickknight/takemehome.html
+./lyrics/nickknight/dejavu.html
+./lyrics/nickknight/ifyouwantit.html
+./lyrics/nickknight/paper.html
+./lyrics/nickknight/justthetwoofus.html
+./lyrics/nickknight/halfwaythere.html

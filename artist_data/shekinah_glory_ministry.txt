@@ -1,0 +1,17 @@
+./lyrics/shekinahgloryministry/ascendinghigher.html
+./lyrics/shekinahgloryministry/beforethethrone.html
+./lyrics/shekinahgloryministry/broken.html
+./lyrics/shekinahgloryministry/champion.html
+./lyrics/shekinahgloryministry/fallonme.html
+./lyrics/shekinahgloryministry/howdeeplyineedyou.html
+./lyrics/shekinahgloryministry/jesus.html
+./lyrics/shekinahgloryministry/justforme.html
+./lyrics/shekinahgloryministry/likeneverbefore.html
+./lyrics/shekinahgloryministry/praiseiswhatido.html
+./lyrics/shekinahgloryministry/raiseapraise.html
+./lyrics/shekinahgloryministry/trustme.html
+./lyrics/shekinahgloryministry/worshiphonorandlove.html
+./lyrics/shekinahgloryministry/worthy.html
+./lyrics/shekinahgloryministry/yes.html
+./lyrics/shekinahgloryministry/yourglory.html
+./lyrics/shekinahgloryministry/yourname.html

@@ -1,0 +1,5 @@
+./lyrics/meadows/theonlyboyawake.html
+./lyrics/meadows/dreamofyou.html
+./lyrics/meadows/moonlight.html
+./lyrics/meadows/itsus.html
+./lyrics/meadows/tohearyoutalk.html

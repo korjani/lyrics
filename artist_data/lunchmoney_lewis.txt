@@ -1,0 +1,7 @@
+./lyrics/lunchmoneylewis/bills.html
+./lyrics/lunchmoneylewis/mama.html
+./lyrics/lunchmoneylewis/lovemeback.html
+./lyrics/lunchmoneylewis/realthing.html
+./lyrics/lunchmoneylewis/ainttoocool.html
+./lyrics/lunchmoneylewis/hoeheavenonearth.html
+./lyrics/lunchmoneylewis/whipit.html

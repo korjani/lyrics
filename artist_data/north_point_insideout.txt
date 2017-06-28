@@ -1,0 +1,8 @@
+./lyrics/northpointinsideout/cantstopsinging.html
+./lyrics/northpointinsideout/godisforus.html
+./lyrics/northpointinsideout/noonehigher.html
+./lyrics/northpointinsideout/weareroyals.html
+./lyrics/northpointinsideout/deathwasarrested.html
+./lyrics/northpointinsideout/everybeat.html
+./lyrics/northpointinsideout/enoughforme.html
+./lyrics/northpointinsideout/lovecomedownremix.html

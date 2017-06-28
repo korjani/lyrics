@@ -1,0 +1,9 @@
+./lyrics/bmcboyz/essentialneed.html
+./lyrics/bmcboyz/fastorslow.html
+./lyrics/bmcboyz/iloveyou.html
+./lyrics/bmcboyz/sexgenie.html
+./lyrics/bmcboyz/shewantathug.html
+./lyrics/bmcboyz/sogood.html
+./lyrics/bmcboyz/trustme.html
+./lyrics/bmcboyz/ucantgetenough.html
+./lyrics/bmcboyz/upanddown.html

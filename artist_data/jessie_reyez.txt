@@ -1,0 +1,6 @@
+./lyrics/jessiereyez/fuckit.html
+./lyrics/jessiereyez/shutterisland.html
+./lyrics/jessiereyez/blueribbon.html
+./lyrics/jessiereyez/figures.html
+./lyrics/jessiereyez/gatekeeper.html
+./lyrics/jessiereyez/greatone.html

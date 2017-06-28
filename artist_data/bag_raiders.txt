@@ -1,0 +1,9 @@
+./lyrics/bagraiders/sunlight.html
+./lyrics/bagraiders/shootingstars.html
+./lyrics/bagraiders/sodemanding.html
+./lyrics/bagraiders/goneaway.html
+./lyrics/bagraiders/notover.html
+./lyrics/bagraiders/always.html
+./lyrics/bagraiders/waybackhome.html
+./lyrics/bagraiders/vaportrails.html
+./lyrics/bagraiders/waterfalls.html

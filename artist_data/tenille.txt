@@ -1,0 +1,3 @@
+./lyrics/tenille/dearheart.html
+./lyrics/tenille/milesapart.html
+./lyrics/tenille/picturesonacrookedwall.html

@@ -1,0 +1,2 @@
+./lyrics/samandthewomp/bombom.html
+./lyrics/samandthewomp/ravo.html

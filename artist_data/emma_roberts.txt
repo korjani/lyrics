@@ -1,0 +1,13 @@
+./lyrics/emmaroberts/iwannabe.html
+./lyrics/emmaroberts/punchrocker.html
+./lyrics/emmaroberts/saygoodbyetojrhigh.html
+./lyrics/emmaroberts/ihavearrived.html
+./lyrics/emmaroberts/94weeksmetalmouthfreak.html
+./lyrics/emmaroberts/thisisme.html
+./lyrics/emmaroberts/dummy.html
+./lyrics/emmaroberts/mexicanwrestler.html
+./lyrics/emmaroberts/wearegonnahappen.html
+./lyrics/emmaroberts/newshoes.html
+./lyrics/emmaroberts/mirror.html
+./lyrics/emmaroberts/ifihaditmyway.html
+./lyrics/emmaroberts/islandinthesun.html

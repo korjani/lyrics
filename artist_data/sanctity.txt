@@ -1,0 +1,12 @@
+./lyrics/sanctity/beneaththemachine.html
+./lyrics/sanctity/brotherhoodofdestruction.html
+./lyrics/sanctity/roadtoblooshed.html
+./lyrics/sanctity/lawsofreason.html
+./lyrics/sanctity/billyseals.html
+./lyrics/sanctity/zeppo.html
+./lyrics/sanctity/belovedkiller.html
+./lyrics/sanctity/theriftbetween.html
+./lyrics/sanctity/flatline.html
+./lyrics/sanctity/theshapeofthings.html
+./lyrics/sanctity/seconds.html
+./lyrics/sanctity/onceagain.html

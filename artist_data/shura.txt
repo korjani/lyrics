@@ -1,0 +1,13 @@
+./lyrics/shura/nothingsreal.html
+./lyrics/shura/whatsitgonnabe.html
+./lyrics/shura/touch.html
+./lyrics/shura/kidznstuff.html
+./lyrics/shura/indecision.html
+./lyrics/shura/whathappenedtous.html
+./lyrics/shura/tonguetied.html
+./lyrics/shura/makeitup.html
+./lyrics/shura/2shy.html
+./lyrics/shura/whitelight.html
+./lyrics/shura/311215.html
+./lyrics/shura/thespacetapes.html
+./lyrics/shura/justonce.html

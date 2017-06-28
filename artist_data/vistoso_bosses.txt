@@ -1,0 +1,2 @@
+./lyrics/vistosobosses/delirious.html
+./lyrics/vistosobosses/tatted.html

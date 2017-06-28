@@ -1,0 +1,3 @@
+./lyrics/bookoffears/ilostitall.html
+./lyrics/bookoffears/thefiresinthefields.html
+./lyrics/bookoffears/thewaterletsyouin.html

@@ -1,0 +1,4 @@
+./lyrics/maan/acrossthebridge.html
+./lyrics/maan/nightlife.html
+./lyrics/maan/perfectworld.html
+./lyrics/maan/rideit.html

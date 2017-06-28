@@ -1,0 +1,16 @@
+./lyrics/jkwon/intro.html
+./lyrics/jkwon/hoodhop.html
+./lyrics/jkwon/tipsy.html
+./lyrics/jkwon/icic.html
+./lyrics/jkwon/showyourass.html
+./lyrics/jkwon/theyaskme.html
+./lyrics/jkwon/underwear.html
+./lyrics/jkwon/welcometothahood.html
+./lyrics/jkwon/uaintgottalikeme.html
+./lyrics/jkwon/myenemies.html
+./lyrics/jkwon/parkinglot.html
+./lyrics/jkwon/youme.html
+./lyrics/jkwon/morninglight.html
+./lyrics/jkwon/getxxxd.html
+./lyrics/jkwon/tipsymurphyleeandchingyremix.html
+./lyrics/jkwon/tipsyyoungbuckremix.html

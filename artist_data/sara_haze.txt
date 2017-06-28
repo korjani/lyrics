@@ -1,0 +1,16 @@
+./lyrics/sarahaze/beautifulday.html
+./lyrics/sarahaze/meltintoyou.html
+./lyrics/sarahaze/myownhandstohold.html
+./lyrics/sarahaze/biglie.html
+./lyrics/sarahaze/everyheart.html
+./lyrics/sarahaze/coldincalifornia.html
+./lyrics/sarahaze/mama.html
+./lyrics/sarahaze/lovely.html
+./lyrics/sarahaze/counterfeithalo.html
+./lyrics/sarahaze/shine.html
+./lyrics/sarahaze/theborder.html
+./lyrics/sarahaze/mychurchofmemories.html
+./lyrics/sarahaze/holdmenow.html
+./lyrics/sarahaze/moonshine.html
+./lyrics/sarahaze/riot.html
+./lyrics/sarahaze/tothisday.html

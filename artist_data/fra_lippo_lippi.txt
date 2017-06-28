@@ -1,0 +1,16 @@
+./lyrics/fralippolippi/angel.html
+./lyrics/fralippolippi/beautyandmadness.html
+./lyrics/fralippolippi/crazywisdom.html
+./lyrics/fralippolippi/eventalltreesbend.html
+./lyrics/fralippolippi/everytimeiseeyou.html
+./lyrics/fralippolippi/freedom.html
+./lyrics/fralippolippi/later.html
+./lyrics/fralippolippi/lightandshade.html
+./lyrics/fralippolippi/loveisalonelyharbour.html
+./lyrics/fralippolippi/shouldnthavetobelikethat.html
+./lyrics/fralippolippi/somepeople.html
+./lyrics/fralippolippi/stitchesandburns.html
+./lyrics/fralippolippi/thedistancebetweenus.html
+./lyrics/fralippolippi/thetreasure.html
+./lyrics/fralippolippi/thiefinparadise.html
+./lyrics/fralippolippi/willirecognize.html

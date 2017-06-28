@@ -1,0 +1,7 @@
+./lyrics/alok/alliwant.html
+./lyrics/alok/byob.html
+./lyrics/alok/fuego.html
+./lyrics/alok/hearmenow.html
+./lyrics/alok/loveisatemple.html
+./lyrics/alok/meyou.html
+./lyrics/alok/neverletmego.html

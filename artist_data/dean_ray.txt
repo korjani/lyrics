@@ -1,0 +1,11 @@
+./lyrics/deanray/comingback.html
+./lyrics/deanray/yellow.html
+./lyrics/deanray/reckless.html
+./lyrics/deanray/budapest.html
+./lyrics/deanray/stolendance.html
+./lyrics/deanray/intomyarms.html
+./lyrics/deanray/crying.html
+./lyrics/deanray/hurt.html
+./lyrics/deanray/folsomprisonbluesthatsallrightmama.html
+./lyrics/deanray/bettedaviseyes.html
+./lyrics/deanray/iouaheartache.html

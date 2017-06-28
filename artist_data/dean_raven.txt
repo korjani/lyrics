@@ -1,0 +1,2 @@
+./lyrics/deanraven/babyitsyou.html
+./lyrics/deanraven/takeachanceonme.html

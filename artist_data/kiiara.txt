@@ -1,0 +1,9 @@
+./lyrics/kiiara/gold.html
+./lyrics/kiiara/feels.html
+./lyrics/kiiara/tennessee.html
+./lyrics/kiiara/intention.html
+./lyrics/kiiara/sayanymore.html
+./lyrics/kiiara/hangupthaphone.html
+./lyrics/kiiara/dopemang.html
+./lyrics/kiiara/goldremix.html
+./lyrics/kiiara/whippin.html

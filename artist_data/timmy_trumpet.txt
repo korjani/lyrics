@@ -1,0 +1,5 @@
+./lyrics/timmytrumpet/freaks.html
+./lyrics/timmytrumpet/hipsta.html
+./lyrics/timmytrumpet/satellitesradioedit.html
+./lyrics/timmytrumpet/takeyourcall.html
+./lyrics/timmytrumpet/thebuzz.html

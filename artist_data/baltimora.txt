@@ -1,0 +1,15 @@
+./lyrics/baltimora/tarzanboy.html
+./lyrics/baltimora/pullthewires.html
+./lyrics/baltimora/livinginthebackground.html
+./lyrics/baltimora/woodyboogie.html
+./lyrics/baltimora/chineserestaurant.html
+./lyrics/baltimora/runningforyourlove.html
+./lyrics/baltimora/keykeykarimba.html
+./lyrics/baltimora/globallove.html
+./lyrics/baltimora/jimmysguitar.html
+./lyrics/baltimora/comeonstrike.html
+./lyrics/baltimora/setmefree.html
+./lyrics/baltimora/survivorinlove.html
+./lyrics/baltimora/callmeintheheartofthenight.html
+./lyrics/baltimora/eyetoeye.html
+./lyrics/baltimora/jukeboxboy.html

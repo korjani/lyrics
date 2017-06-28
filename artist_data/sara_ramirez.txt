@@ -1,0 +1,6 @@
+./lyrics/sararamirez/breakmyheart.html
+./lyrics/sararamirez/waitin.html
+./lyrics/sararamirez/eyetoeye.html
+./lyrics/sararamirez/thestory.html
+./lyrics/sararamirez/coloursofthewind.html
+./lyrics/sararamirez/rollercoaster.html

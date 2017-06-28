@@ -1,0 +1,12 @@
+./lyrics/dobiegray/driftaway.html
+./lyrics/dobiegray/goodoldsong.html
+./lyrics/dobiegray/imonlyspeakingmyheart.html
+./lyrics/dobiegray/letgo.html
+./lyrics/dobiegray/lovingarms.html
+./lyrics/dobiegray/outonthefloor.html
+./lyrics/dobiegray/sweetlovinwoman.html
+./lyrics/dobiegray/thatsonetogrowon.html
+./lyrics/dobiegray/theincrowd.html
+./lyrics/dobiegray/theresahonkytonkangelwholltakemebackin.html
+./lyrics/dobiegray/whoslovinyou.html
+./lyrics/dobiegray/youcandoit.html

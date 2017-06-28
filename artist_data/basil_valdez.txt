@@ -1,0 +1,3 @@
+./lyrics/basilvaldez/liftupyourhands.html
+./lyrics/basilvaldez/saythatyouloveme.html
+./lyrics/basilvaldez/you.html

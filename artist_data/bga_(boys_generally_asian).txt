@@ -1,0 +1,2 @@
+./lyrics/bga/dongsayadae.html
+./lyrics/bga/whositgonnabe.html

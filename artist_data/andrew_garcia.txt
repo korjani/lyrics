@@ -1,0 +1,13 @@
+./lyrics/andrewgarcia/intro.html
+./lyrics/andrewgarcia/coldworld.html
+./lyrics/andrewgarcia/ghost.html
+./lyrics/andrewgarcia/baddude.html
+./lyrics/andrewgarcia/undone.html
+./lyrics/andrewgarcia/kidsofthenight.html
+./lyrics/andrewgarcia/hellback.html
+./lyrics/andrewgarcia/airplanesterminals.html
+./lyrics/andrewgarcia/crazy.html
+./lyrics/andrewgarcia/forever.html
+./lyrics/andrewgarcia/girlofmydreams.html
+./lyrics/andrewgarcia/onewayticket.html
+./lyrics/andrewgarcia/toofast.html

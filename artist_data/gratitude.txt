@@ -1,0 +1,12 @@
+./lyrics/gratitude/driveaway.html
+./lyrics/gratitude/last.html
+./lyrics/gratitude/allinarow.html
+./lyrics/gratitude/thegreatestwonder.html
+./lyrics/gratitude/thisisthepart.html
+./lyrics/gratitude/feelalright.html
+./lyrics/gratitude/sadie.html
+./lyrics/gratitude/someonetolove.html
+./lyrics/gratitude/anotherdivisionst.html
+./lyrics/gratitude/ifever.html
+./lyrics/gratitude/dreamagain.html
+./lyrics/gratitude/beginagain.html

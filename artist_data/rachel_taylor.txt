@@ -1,0 +1,6 @@
+./lyrics/racheltaylor/porcelain.html
+./lyrics/racheltaylor/silencelooksgoodonyou.html
+./lyrics/racheltaylor/dancewiththedevil.html
+./lyrics/racheltaylor/eternity.html
+./lyrics/racheltaylor/comealive.html
+./lyrics/racheltaylor/lightafire.html
