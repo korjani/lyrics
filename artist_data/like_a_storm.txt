@@ -28,4 +28,14 @@
 ./lyrics/likeastorm/gangstersparadise.html
 ./lyrics/likeastorm/ordinary.html
 ./lyrics/likeastorm/nothingremains.html
+./lyrics/likeastorm/thedevilinside.html
+./lyrics/likeastorm/outofcontrol.html
+./lyrics/likeastorm/catacombs.html
+./lyrics/likeastorm/complicatedstitchesscars.html
+./lyrics/likeastorm/solitary.html
+./lyrics/likeastorm/thebitterness.html
+./lyrics/likeastorm/untilthedayidie.html
+./lyrics/likeastorm/holeinmyheart.html
+./lyrics/likeastorm/bulletinthehead.html
+./lyrics/likeastorm/thesearethebridgesyouburndown.html
 ./lyrics/likeastorm/pureevil.html
